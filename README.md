@@ -5,7 +5,7 @@
 
 <div align="center">
     <article style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <p align="center"><img width="300" src="/static/img/logo.png" /></p>
+        <p align="center"><img width="300" src="/static/img/payroll-logo.png" /></p>
         <h1 style="width: 100%; text-align: center;">SQL Payroll Documentation</h1>
         <p>
             A repository which keeps documentations related to <text style="font-weight: bold">SQL Payroll</text> software
