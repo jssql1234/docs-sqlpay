@@ -5,7 +5,7 @@ slug: /
 
 # Introduction
 
-![logo](/img/logo.png)
+![payroll-logo](/img/payroll-logo.png)
 
 Learn more about [SQL Payroll](https://sql.com.my).
 

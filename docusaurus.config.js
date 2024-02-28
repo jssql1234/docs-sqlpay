@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "SQL Payroll Documentation",
   tagline: "SQL Payroll documentation",
-  favicon: "img/logo.png",
+  favicon: "img/payroll-logo.png",
   staticDirectories: ["static"],
 
   // Set the production url of your site here
@@ -51,7 +51,7 @@ const config = {
         title: "SQL Payroll Documentation",
         logo: {
           alt: "SQL Payroll",
-          src: "img/logo.png",
+          src: "img/payroll-logo.png",
         },
       },
       footer: {
