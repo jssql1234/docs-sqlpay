@@ -1,0 +1,8 @@
+{
+    "label": "Payroll",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "description": "General topics of SQL Payroll"
+    }
+}
