@@ -3,7 +3,7 @@ sidebar_position: 3
 id: payroll-user-guide
 title: SQL Payroll User Guide
 description: A guide to SQL Payroll User Guide in SQL Payroll
-slug: /payroll-user-guide
+slug: /getting-started/payroll-user-guide
 tags: ["SQL Payroll", "User Guide"]
 ---
 
@@ -39,53 +39,63 @@ tags: ["SQL Payroll", "User Guide"]
 - Customize EA form
 - Tax Benefit Info -->
 
-## How to Setup Company Profile :
+## How to Setup Company Profile
 
-Maintain Payroll Company Profile
+    1. Maintain Payroll Company Profile
 
-Step 1 : Look for File then Company Profile
+        1. Look for File then Company Profile
 
-    ![1](/img/getting-started/user-guide/1.png)
+            ![1](/img/getting-started/user-guide/1.png)
 
-Step 2 : Click-in the “ General “ Info to update your general company profile info.
+        2. Click-in the “ General “ Info to update your general company profile info.
 
-    ![2](/img/getting-started/user-guide/2.png)
+            ![2](/img/getting-started/user-guide/2.png)
 
-Step 3 : Click on the EPF Tab to update the info of Employer EPF.
+        3. Click on the EPF Tab to update the info of Employer EPF.
 
-    ![3](/img/getting-started/user-guide/3.png)
-    **_This is the result if you have key-in the info and will display at report :_**
-    ![4](/img/getting-started/user-guide/4.png)
+            ![3](/img/getting-started/user-guide/3.png)
 
-Step 4 : Click on the TAX tab to insert all the employer tax info.
+            **_This is the result if you have key-in the info and will display at report :_**
 
-    ![5](/img/getting-started/user-guide/5.png)
-    **_This is the result if you have key-in the info and will display at report :_**
-    ![6](/img/getting-started/user-guide/6.png)
+            ![4](/img/getting-started/user-guide/4.png)
 
-Step 5 : Click on the SOCSO tab to insert all the employer socso info.
+        4. Click on the TAX tab to insert all the employer tax info.
 
-    ![7](/img/getting-started/user-guide/7.png)
-    **_This is the result if you have key-in the info and will display at report :_**
-    ![8](/img/getting-started/user-guide/8.png)
+            ![5](/img/getting-started/user-guide/5.png)
 
-Step 6 : Click on the HRDF tab to insert employer’s HRDF contribution rate. (Human Resources Development Fund)
+            **_This is the result if you have key-in the info and will display at report :_**
 
-    ![9](/img/getting-started/user-guide/9.png)
+            ![6](/img/getting-started/user-guide/6.png)
 
-Step 7 : Click on the Zakat tab to insert all the employer zakat info.
+        5. Click on the SOCSO tab to insert all the employer socso info.
 
-    ![10](/img/getting-started/user-guide/10.png)
+            ![7](/img/getting-started/user-guide/7.png)
 
-Step 8 : Click on the Officer tab to insert all the employer info.
+            **_This is the result if you have key-in the info and will display at report :_**
 
-    ![11](/img/getting-started/user-guide/11.png)
-    ![12](/img/getting-started/user-guide/12.png)
+            ![8](/img/getting-started/user-guide/8.png)
 
-Step 9 : Click on the Dealer tab to insert all additional info like company dealer, just a remark purpose.
+        6. Click on the HRDF tab to insert employer’s HRDF contribution rate. (Human Resources Development Fund)
 
-    ![13](/img/getting-started/user-guide/13.png)
-    ![14](/img/getting-started/user-guide/14.png)
+            ![9](/img/getting-started/user-guide/9.png)
+
+        7. : Click on the Zakat tab to insert all the employer zakat info.
+
+            ![10](/img/getting-started/user-guide/10.png)
+
+        8. : Click on the Officer tab to insert all the employer info.
+
+            ![11](/img/getting-started/user-guide/11.png)
+
+            ![12](/img/getting-started/user-guide/12.png)
+
+        9. Click on the Dealer tab to insert all additional info like company dealer, just a remark purpose.
+
+            ![13](/img/getting-started/user-guide/13.png)
+
+            ![14](/img/getting-started/user-guide/14.png)
+
+:::info
 
 **SQL Payroll consists of the following Modules :**
 
@@ -112,162 +122,183 @@ Step 9 : Click on the Dealer tab to insert all additional info like company deal
 **9) Maintain Race** - Define the races, eg. Malay, Chinese, Indian, etc.
 
 **10) Maintain Country** - Define the countries code, eg. MY – Malaysia, SG – Singapore, etc.
+:::
 
 ## Maintain Employee
 
-Whenever a new staff/worker/person/crew enter the company, Maintain Employee is the place where user needs to key in the details
+    - Whenever a new staff/worker/person/crew enter the company, Maintain Employee is the place where user needs to key in the details
 
-    Step 1: Navigate yourself to the Maintain Employee panel
+    1. Navigate yourself to the Maintain Employee panel
+
         ![15](/img/getting-started/user-guide/15.png)
 
-    **OR Click on the home page "Maintain Employee"**
+        **OR Click on the home page "Maintain Employee"**
+
         ![16](/img/getting-started/user-guide/16.png)
 
-    Step 2: Click new to create new employee
+    2. Click new to create new employee
 
         ![17](/img/getting-started/user-guide/17.png)
 
-    Step 3 : Key in the employee’s personal detais
+    3. Key in the employee’s personal details
 
         ![18](/img/getting-started/user-guide/18.png)
 
-    | Symbol |  Description |
-    | --- | ---|
-    | 3.(a) | A unique code for the employee, it also act as a username for the employee to login. |
-    | 3.(b) | The name of the position the employee will hold. (eg: chairman, secretary, auditor) |
-    | 3.(c) | To be untick when an employee resigns. (if resign date is not set in payroll info.) |
-    | 3.(d) | The name of the employee. |
-    | 3.(e) | The gender/sex of the employee. |
-    | 3.(f) | The date of birth of the employee (recommended to set so that can capture the age) |
-    | 3.(g) | The housing address of the employee. |
-    | 3.(h) | The house number of the employee. |
-    | 3.(i) | The handphone number of the employee. |
-    | 3.(j) | The email of the employee. |
-    | 3.(k) | The Identification Card number of the employee. |
-    | 3.(l) | The OLD Identification Card number of the employee. (only some very senior people will have) |
-    | 3.(m) | The password for the employee to login his account. (need to set/change once in order to work) |
-    | 3.(n) | The passport number of the employee (usually only recorded for foreign worker) |
-    | 3.(o) | The immigration number of the employee |
+        | Symbol |  Description |
+        | --- | ---|
+        | 3.(a) | A unique code for the employee, it also act as a username for the employee to login. |
+        | 3.(b) | The name of the position the employee will hold. (eg: chairman, secretary, auditor) |
+        | 3.(c) | To be untick when an employee resigns. (if resign date is not set in payroll info.) |
+        | 3.(d) | The name of the employee. |
+        | 3.(e) | The gender/sex of the employee. |
+        | 3.(f) | The date of birth of the employee (recommended to set so that can capture the age) |
+        | 3.(g) | The housing address of the employee. |
+        | 3.(h) | The house number of the employee. |
+        | 3.(i) | The handphone number of the employee. |
+        | 3.(j) | The email of the employee. |
+        | 3.(k) | The Identification Card number of the employee. |
+        | 3.(l) | The OLD Identification Card number of the employee. (only some very senior people will have) |
+        | 3.(m) | The password for the employee to login his account. (need to set/change once in order to work) |
+        | 3.(n) | The passport number of the employee (usually only recorded for foreign worker) |
+        | 3.(o) | The immigration number of the employee |
 
-    Step 4 : Key in the employee’s grouping details
+    4. Key in the employee’s grouping details
 
         ![19](/img/getting-started/user-guide/19.png)
 
-    | Symbol | Description |
-    | --- | --- |
-    | 4.(a) | Key in the branch/department/category of the employee in the company. (if the company doesn’t have so much grouping, just remain everything as default “----“) |
-    | 4.(b) | Select the type of calendar for the employee. |
-    | 4.(c) | Select the leave group for the employee. (please visit Maintain Leave guide for more info)|
+        | Symbol | Description |
+        | --- | --- |
+        | 4.(a) | Key in the branch/department/category of the employee in the company. (if the company doesn’t have so much grouping, just remain everything as default “----“) |
+        | 4.(b) | Select the type of calendar for the employee. |
+        | 4.(c) | Select the leave group for the employee. (please visit Maintain Leave guide for more info)|
 
-:::tip
-The Purpose of Grouping setting is :
+        :::tip
 
-- For Reference purpose.
-- For Report representation method by Group.
-  :::
+        The Purpose of Grouping setting is :
 
-            Step 4.1: Create new Branch / HRGroup / Department/ Category / Country/ Race
+            - For Reference purpose.
+
+            - For Report representation method by Group.
+
+        :::
+
+            1. To Create new Branch / HRGroup / Department/ Category / Country/ Race
 
                 ![20](/img/getting-started/user-guide/20.png)
+
                 ![21](/img/getting-started/user-guide/21.png)
 
-  Step 5 : Key in the employee’s spouse details in FAMILY tab.
+    5. Key in the employee’s spouse details in FAMILY tab.
 
         ![22](/img/getting-started/user-guide/22.png)
 
-  Step 6 : Key in the employee’s payroll information
+    6. Key in the employee’s payroll information
 
         ![23](/img/getting-started/user-guide/23.png)
+
         ![24](/img/getting-started/user-guide/24.png)
 
-  Step 7 : Key in the employee’s monthly fix allowances/deduction
+    7. Key in the employee’s monthly fix allowances/deduction .
 
         ![25](/img/getting-started/user-guide/25.png)
         ![26](/img/getting-started/user-guide/26.png)
 
-  Step 7.1: How to create a new allowance/deduction
+        1. How to create a new allowance/deduction
 
-        ![27](/img/getting-started/user-guide/27.png)
-        ![28](/img/getting-started/user-guide/28.png)
+            ![27](/img/getting-started/user-guide/27.png)
 
-  Step 8 : Add notes/remark and photo for the employee
+            ![28](/img/getting-started/user-guide/28.png)
+
+    8. Add notes/remark and photo for the employee
 
         ![29](/img/getting-started/user-guide/29.png)
 
-  Step 9 : History report of the employee
+    9. History report of the employee
 
         ![30](/img/getting-started/user-guide/30.png)
 
-:::note
-Is Allow to manual update the History by click on ‘ **+** ‘ button to add a row & input accordingly.  
-OR  
-To click the ‘ **–** ‘ button to manually remove unnecessary history record.
-:::
+        :::note
 
-    Step 10 : Add the employee’s children information (will affect tax category)
+        Is Allow to manual update the History by click on ‘ **+** ‘ button to add a row & input accordingly.
+
+        **OR**
+
+        To click the ‘ **–** ‘ button to manually remove unnecessary history record.
+        :::
+
+    10. Add the employee’s children information (will affect tax category)
 
         ![31](/img/getting-started/user-guide/31.png)
 
-    Step 11 : Add any attachment related to the employee
+    11. Add any attachment related to the employee (eg: resume, curriculum vitae, contract agreement, receipt claims etc)
 
-    (eg: resume, curriculum vitae, contract agreement, receipt claims etc)
+        :::info
 
-:::info \* To avoid System with speed issue due on database size huge, system will only create shortcut link for the "attach" item instead of save it in the system.
+        \* To avoid System with speed issue due on database size huge, system will only create shortcut link for the "attach" item instead of save it in the system.
 
-\* If the file been removed from locally, then the shortcut link will not function anymore.
-:::
+        \* If the file been removed from locally, then the shortcut link will not function anymore.
 
-    ![32](/img/getting-started/user-guide/32.png)
+        :::
 
-**SQL Payroll**
+        ![32](/img/getting-started/user-guide/32.png)
+
+<!-- **SQL Payroll**
 
     1) KWSP - EPF
     2) LHDN – PCB
     3) PERKESO - SOCSO
-    4) EIS (Employment insurance Scheme)
+    4) EIS (Employment insurance Scheme) -->
+
+## About EPF
 
 ### WHAT IS EPF KWSP?
 
-- A portion of an employee’s salary and employer’s contribution on behalf of every
-  worker.
-- Every company is required to contribute EPF to their staff
-- Contribution has to be made to KWSP before the 15th day of every month.
+    - A portion of an employee’s salary and employer’s contribution on behalf of every worker.
+
+    - Every company is required to contribute EPF to their staff
+
+    - Contribution has to be made to KWSP before the 15th day of every month.
 
 ### What Payments Are Subjected to EPF (KWSP)?
 
     ![33](/img/getting-started/user-guide/33.png)
 
-### EPF Contribution Rate:
+### EPF Contribution Rate
 
     ![34](/img/getting-started/user-guide/34.png)
 
     ![35](/img/getting-started/user-guide/35.png)
 
-### How Does SQL Payroll manage EPF contributions? :
+### How Does SQL Payroll manage EPF contributions?
 
     - SQL Payroll automatically assigns the correct percentage of EPF contributions based on the employees’ salary and other contributing factors.
+
     - In SQL Payroll, you can also set your own EPF contribution rate based on your company’s policy.
+
     - Eg. you can set the EPF rate at 19% for employees In the management level. The employers’ contribution is tax deductible up to 19% , which is not tax allowable expenses.
 
-1. Does bonus affect Employer EPF rate?
+    **1. Does bonus affect Employer EPF rate?**
 
-   - If an employee’s monthly wages is **less than RM5,000** the Employer’s EPF rate will be **13%**.
-   - But if the employee receives a bonus that causes their wages for that particular month to exceed RM5000, the employer **contribution rate will still remain at 13%**.
-   - **Why**? This is because the contribution calculation is based on total renumeration. Ed. Wages, overtime, and allowance. It **DOES NOT include bonus and director fees**.
+    - If an employee’s monthly wages is **less than RM5,000** the Employer’s EPF rate will be **13%**.
 
-2. My employee turns 60 years old this year, what should their EPF contribution rate be?
+    - But if the employee receives a bonus that causes their wages for that particular month to exceed RM5000, the employer **contribution rate will still remain at 13%**.
 
-   - If employee is above 60 years old, the employee’s EPF contribution rate will be 0% while the employer’s contribution will be 4%
+    - **Why**? This is because the contribution calculation is based on total renumeration. Ed. Wages, overtime, and allowance. It **DOES NOT include bonus and director fees**.
 
-![36](/img/getting-started/user-guide/36.png)  
-3. Are employees above the age of 75 required to contribute for EPF?
+    **2. My employee turns 60 years old this year, what should their EPF contribution rate be?**
 
-    - No. No contributions are required from both parties.
+    - If employee is above 60 years old, the employee’s EPF contribution rate will be 0% while the employer’s contribution will be 4%
+
+    ![36](/img/getting-started/user-guide/36.png)
+
+    **3. Are employees above the age of 75 required to contribute for EPF?**
+
+        - No. No contributions are required from both parties.
 
 ### What is PCB?
 
-    - PCB = Potongan Cukai Bulanan is an income tax deduction from employee’s current
-    monthly renumeration.
+    - PCB = Potongan Cukai Bulanan is an income tax deduction from employee’s current monthly renumeration.
+
     - The deduction follows the schedule of PCB or other methods approved by the Malaysian government.
 
 ### What is Subjected to PCB?
@@ -281,1052 +312,1199 @@ To click the ‘ **–** ‘ button to manually remove unnecessary history recor
 ### What is SOCSO?
 
     - SOCSO is a social security organization that is also known as PERKESO (Pertubuhan Keselamatan Social).
+
     - SOCSO provides medical and financial assistance to employees that have had their abilities impaired due to accidents or diseases.
+
     - SOCSO also provides assistance to the family of the employees if death were to occur.
 
     ![39](/img/getting-started/user-guide/39.png)
 
-### SOCSO First Category and Second Category:
+### SOCSO First Category and Second Category
 
     ![40](/img/getting-started/user-guide/40.png)
 
 ### What is EIS?
 
-EIS is **a financial scheme** aimed at helping employees who have lost their jobs. It is managed by SOCSO. EIS is meant to enable retrenched workers to gain monetary funds for the first 6 months after being retrenched.
-![41](/img/getting-started/user-guide/41.png)
+    - EIS is **a financial scheme** aimed at helping employees who have lost their jobs. It is managed by SOCSO. EIS is meant to enable retrenched workers to gain monetary funds for the first 6 months after being retrenched.
 
-### EIS rate:
+    ![41](/img/getting-started/user-guide/41.png)
 
-The contribution rate for Employment Insurance System (EIS) is 0.2% for the employer and 0.2% for employee based on the employee’s monthly salary.
-![42](/img/getting-started/user-guide/42.png)
+### EIS rate
+
+    - The contribution rate for Employment Insurance System (EIS) is 0.2% for the employer and 0.2% for employee based on the employee’s monthly salary.
+
+    ![42](/img/getting-started/user-guide/42.png)
 
 ### Who is subject to EIS (Employment Insurance System)?
 
-✓ All employers in the private sector are required to pay monthly contributions for each of their employees. (Government employees, domestic workers and the self-employed are exempted).
+    - All employers in the private sector are required to pay monthly contributions for each of their employees. (Government employees, domestic workers and the self-employed are exempted).
 
-✓ An employee is defined as a person who is employed for wages under a contract of service or apprenticeship with an employer. The contract of service or apprenticeship may be expressed or implied and may be oral or in writing.
+    - An employee is defined as a person who is employed for wages under a contract of service or apprenticeship with an employer. The contract of service or apprenticeship may be expressed or implied and may be oral or in writing.
 
-✓ All employees aged 18 to 60 are required to contribute. However, employees aged 57 and above who have no prior contributions before the age of 57 are exempted.
+    - All employees aged 18 to 60 are required to contribute. However, employees aged 57 and above who have no prior contributions before the age of 57 are exempted.
 
-✓ Contribution rates are capped at insured salary of RM4000.00.
+    - Contribution rates are capped at insured salary of RM4000.00.
 
 ### Who is eligible for EIS?
 
-i. Malaysian citizens / permanent resident
+    1. Malaysian citizens / permanent resident
 
-ii. Aged 18-60\*
+    2. Aged 18-60\*
 
-iii. Working in the private sector\*\*
+    3. Working in the private sector\*\*
 
-iv. Employed based on a contract of service
+    4. Employed based on a contract of service
 
-\* Important exception: Workers aged 57 and above who have never paid contributions before that age are NOT covered by Act 800 and are NOT required to contribute.
+        :::note
 
-\*\* Act 800 does NOT cover domestic workers, the self-employed, civil servants and workers in local authorities and statutory bodies.
+        \* Important exception: Workers aged 57 and above who have never paid contributions before that age are NOT covered by Act 800 and are NOT required to contribute.
 
-**SQL Payroll**
+        \*\* Act 800 does NOT cover domestic workers, the self-employed, civil servants and workers in local authorities and statutory bodies.
 
-_Payroll this module use to process the payroll and printing the necessary reports._
+        :::
 
-_It consists of 3 sections :_
+## SQL Payroll
 
-    a) Maintenance
-    b) Process Salary
-    c) Reports.
+    - _Payroll module is used to process the payroll and printing the necessary reports._
 
-## A) Payroll Maintenance :
+    <!-- _It consists of 3 sections :_
 
-**1) Maintain Wages**
+        a) Maintenance
+        b) Process Salary
+        c) Reports. -->
 
-- Enable to set different contribution on Wages, such EPF, SOCSO, EIS, PCB, OT,EA and HRDF.
+    <!-- ### 1. Payroll Maintenance -->
 
-**2) Maintain Frequency**
+:::info
 
-- Enable to set different frequency, eg. weekly, half month.
+    **1) Maintain Wages**
 
-**3) Maintain Contribution**
+        - Enable to set different contribution on Wages, such EPF, SOCSO, EIS, PCB, OT,EA and HRDF.
 
-- Enable to set different other contribution for Bonus, Director Fee, Pay Leave and Unpaid Leave.
-- Maintain the Employee & Employer EPF Rate.
-- Maintain the working hour and day per month.
-- Enable the Overtime Calculation base on Maintain Employee Setting. It will calculate the OT based on Wages amount in Maintain Employee.
+    **2) Maintain Frequency**
 
-**4) Maintain Allowance**
+        - Enable to set different frequency, eg. weekly, half month.
 
-- Define the allowance type, rate and contribution.
+    **3) Maintain Contribution**
 
-**5) Maintain Deduction**
+        - Enable to set different other contribution for Bonus, Director Fee, Pay Leave and Unpaid Leave.
 
-- Define the deduction type, rate and contribution.
+        - Maintain the Employee & Employer EPF Rate.
 
-**6 ) Maintain Overtime**
+        - Maintain the working hour and day per month.
 
-- Define the overtime type, rate , unit type, and contribution.
+        - Enable the Overtime Calculation base on Maintain Employee Setting. It will calculate the OT based on Wages amount in Maintain Employee.
 
-**7) Maintain Claims**
+    **4) Maintain Allowance**
 
-- Define the claims type and amount.
+        - Define the allowance type, rate and contribution.
 
-**8) Maintain Commission**
+    **5) Maintain Deduction**
 
-- Define the commission type, rate and contribution.
+        - Define the deduction type, rate and contribution.
 
-**9) Maintain Payment Method**
+    **6 ) Maintain Overtime**
 
-- Define the bank information.
+        - Define the overtime type, rate , unit type, and contribution.
 
-### Maintain Wages :
+    **7) Maintain Claims**
 
-    - Setting up maintain wages helps you to categorize the type of wages
-    an employee received.
-    - This would affect the types of contribution that they need to provide
-    (EPF/SOCSO/EIS/PCB & etc)
+        - Define the claims type and amount.
+
+    **8) Maintain Commission**
+
+        - Define the commission type, rate and contribution.
+
+    **9) Maintain Payment Method**
+
+        - Define the bank information.
+
+:::
+
+### Maintain Wages
+
+    - Setting up maintain wages helps you to categorize the type of wages an employee received.
+
+    - This would affect the types of contribution that they need to provide (EPF/SOCSO/EIS/PCB & etc)
+
     - This is especially useful if you have different types of worker such as permanent worker, contract worker, foreign worker & etc
 
-**Step 1: Navigate yourself to the maintain wages panel**
+    **1. Step to maintain wages**
 
-    ![43](/img/getting-started/user-guide/43.png)
+        1. Navigate yourself to the maintain wages panel
 
-**Step 2: Click new to create new wages type**
+            ![43](/img/getting-started/user-guide/43.png)
 
-    ![44](/img/getting-started/user-guide/44.png)
+        2. Click new to create new wages type
 
-**Step 3: Key in the info and tick the contribution needed**
+            ![44](/img/getting-started/user-guide/44.png)
 
-    ![45](/img/getting-started/user-guide/45.png)
+        3. Key in the info and tick the contribution needed
 
-Refer here for MORE info on **Maintain Wages** setting : -
-![46](/img/getting-started/user-guide/46.png)
+            ![45](/img/getting-started/user-guide/45.png)
 
-**Usual wages that are used by our users**
+            Refer here for MORE info on **Maintain Wages** setting :
 
-**Local Permanent workers**
+                ![46](/img/getting-started/user-guide/46.png)
 
-    ![47](/img/getting-started/user-guide/47.png)
+    **2. Usual wages that are used by our users**
 
-**Foreign Worker**
+        1. Local Permanent workers
 
-    ![48](/img/getting-started/user-guide/48.png)
+            ![47](/img/getting-started/user-guide/47.png)
 
-### Maintain Frequency :
+        2. Foreign Worker
 
-- Where one company will pay salary twice or more times in a Month
-  (Partial salary that paid in the same month)
+            ![48](/img/getting-started/user-guide/48.png)
 
-**Step 1 : Click on Payroll and click in to Maintenance then look for Maintain Frequency.**
+### Maintain Frequency
 
-    ![49](/img/getting-started/user-guide/49.png)
+    - Where one company will pay salary twice or more times in a Month (Partial salary that paid in the same month)
 
-**Step 2 : Click on New to preset your contribution, if your contribution is base on Half Month Payroll then you may refer to below :**
+    **1. Step to maintain frequency**
 
-    ![50](/img/getting-started/user-guide/50.png)
+        1. Click on Payroll and click in to Maintenance then look for Maintain Frequency.
 
-**Step 3 : After set for the maintain frequency setting, have to assign which employee is under this frequency setting. Click on maintain employee then look the for employee that you want to edit, then click on Payroll Info and look for Frequency assign accordingly.**
+            ![49](/img/getting-started/user-guide/49.png)
 
-    ![51](/img/getting-started/user-guide/51.png)
-    ![52](/img/getting-started/user-guide/52.png)
+        2. Click on New to preset your contribution, if your contribution is base on Half Month Payroll then you may refer to below :
 
-Check out this employee have the fixed allowance.
+            ![50](/img/getting-started/user-guide/50.png)
 
-The Employee (Nicole) has an Fixed Allowance of RM 230.
+        3. After set for the maintain frequency setting, have to assign which employee is under this frequency setting. Click on maintain employee then look the for employee that you want to edit, then click on Payroll Info and look for Frequency assign accordingly.
 
-    ![53](/img/getting-started/user-guide/53.png)
+            ![51](/img/getting-started/user-guide/51.png)
 
-**Step 4 : After Assign then when process Payroll, you have to do click on Payroll, then look for new payroll and click on frequency.**
+            ![52](/img/getting-started/user-guide/52.png)
 
-    ![54](/img/getting-started/user-guide/54.png)
-    1. ~ Select the Frequency as you Set in Maintenance Frequency (EG: Half).
-    2. ~ The Employee/s that u have set as the Frequency type in Maintain Employee will show in this
-    column
-    3. ~ Tick the Sequence that u wan to process.
-    4. ~ Click PROCESS.
+            Check out this employee have the fixed allowance.
 
-The following result below will show in the **HALF MONTH FREQUENCY PAYROLL**.
+            The Employee (Nicole) has an Fixed Allowance of RM 230.
 
-    ![55](/img/getting-started/user-guide/55.png)
+            ![53](/img/getting-started/user-guide/53.png)
 
-**Step 5 : When there is the time for month end, click on Payroll then look for New Payroll and click on Final Month End then process.**
+        4. After Assign then when process Payroll, you have to do click on Payroll, then look for new payroll and click on frequency.
 
-    ![56](/img/getting-started/user-guide/56.png)
+            ![54](/img/getting-started/user-guide/54.png)
 
-The following result below will show in the **MONTH END**.
-![57](/img/getting-started/user-guide/57.png)
+            1. Select the Frequency as you Set in Maintenance Frequency (EG: Half).
 
-### Maintain Contribution :
+            2. The Employee/s that u have set as the Frequency type in Maintain Employee will show in this column
 
-    - Setting up maintain contribution helps you to categorize the type of contribution an em-
-    ployee received.
+            3. Tick the Sequence that u wan to process.
+
+            4. Click PROCESS.
+
+            The following result below will show in the **HALF MONTH FREQUENCY PAYROLL**.
+
+            ![55](/img/getting-started/user-guide/55.png)
+
+        5. When there is the time for month end, click on Payroll then look for New Payroll and click on Final Month End then process.
+
+            ![56](/img/getting-started/user-guide/56.png)
+
+            The following result below will show in the **MONTH END**.
+
+            ![57](/img/getting-started/user-guide/57.png)
+
+### Maintain Contribution
+
+    - Setting up maintain contribution helps you to categorize the type of contribution an employee received.
+
     - This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
-    - This is especially useful if you have different types of worker such as
-    permanent worker, contract worker, foreign worker & etc
+
+    - This is especially useful if you have different types of worker such as permanent worker, contract worker, foreign worker & etc
+
     - **At here you can set the Employee/Employer EPF rate, OT calculation and Tax calculation**
 
-**Step 1: Click on Payroll then look for the maintenance and click on Maintain Contribution.**
+    **1. Step to maintain contribution**
 
-    ![58](/img/getting-started/user-guide/58.png)
+        1. Click on Payroll then look for the maintenance and click on Maintain Contribution.
 
-**Step 2: Click new to create new contribution**
+            ![58](/img/getting-started/user-guide/58.png)
 
-    ![59](/img/getting-started/user-guide/59.png)
+        2. Click new to create new contribution
 
-**Step 3: Key in the info and tick the contribution needed**
+            ![59](/img/getting-started/user-guide/59.png)
 
-    ![60](/img/getting-started/user-guide/60.png)
-    ![61](/img/getting-started/user-guide/61.png)
+        3. Key in the info and tick the contribution needed
 
-**Usual contribution that are used by our users**
+            ![60](/img/getting-started/user-guide/60.png)
 
-Local Permanent workers
-![62](/img/getting-started/user-guide/62.png)
+            ![61](/img/getting-started/user-guide/61.png)
 
-Foreign Worker
-![63](/img/getting-started/user-guide/63.png)
+        2. Usual contribution that are used by our users
 
-**Explanation of terms in Maintain Contribution panel**
+            1. Local Permanent workers
 
-    ![64](/img/getting-started/user-guide/64.png)
-    ![65](/img/getting-started/user-guide/65.png)
-    ![66](/img/getting-started/user-guide/66.png)
+                ![62](/img/getting-started/user-guide/62.png)
 
-### Maintain Allowance :
+            2. Foreign Worker
 
-    - Setting up maintain allowance helps you to categorize the type of allowance that employee
-    entitle.
+                ![63](/img/getting-started/user-guide/63.png)
+
+        3. Explanation of terms in Maintain Contribution panel
+
+            ![64](/img/getting-started/user-guide/64.png)
+
+            ![65](/img/getting-started/user-guide/65.png)
+
+            ![66](/img/getting-started/user-guide/66.png)
+
+### Maintain Allowance
+
+    - Setting up maintain allowance helps you to categorize the type of allowance that employee entitle.
+
     - This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
-    - This is especially useful if you have different types of allowance like Petrol, Handphone,
-    Meal Allowance base on different company different entitlement.
 
-**Step 1: Click on Payroll then look for the maintenance and click on Maintain Allowance.**
+    - This is especially useful if you have different types of allowance like Petrol, Handphone, Meal Allowance base on different company different entitlement.
 
-    ![67](/img/getting-started/user-guide/67.png)
+    **1. Step to maintain allowance**
 
-**Step 2 : Click New to generate a New Allowance.**
+        1. Click on Payroll then look for the maintenance and click on Maintain Allowance.
 
-    ![68](/img/getting-started/user-guide/68.png)
+            ![67](/img/getting-started/user-guide/67.png)
 
-**Step 3 : Insert the info that you want to set in maintain allowance.**
+        2. Click New to generate a New Allowance.
 
-    ![69](/img/getting-started/user-guide/69.png)
-    Step 1 – Insert the Code of the Allowance that you want to generate.
-    Step 2 – Insert the Description of the allowance.
-    Step 3 – Insert the fixed amount for the allowance, eg: Handphone allowance is fixed RM 300 for every employee then you can insert the rate of RM 300 but if there is not then you can left it blank.
-    Step 4 – If the allowance is tax exempted then you may insert the tax exempted code.
-    Step 5 – Tick or un-tick the contribution of the allowance.
+            ![68](/img/getting-started/user-guide/68.png)
 
-**Step 4 : After create the master file of Allowance, then you can add the fixed allowance for certain employee which have the allowance monthly.**
+        3. Insert the info that you want to set in maintain allowance.
 
-    ![70](/img/getting-started/user-guide/70.png)
+            ![69](/img/getting-started/user-guide/69.png)
 
-**OR else you can insert the allowance after process month end as below :**
+            1. Insert the Code of the Allowance that you want to generate.
 
-    ![71](/img/getting-started/user-guide/71.png)
-    Step 1: Click on the "**Overtime**"
-    Step 2: CLick on the " **+** " to add the employee then fill in the overtime
+            2. Insert the Description of the allowance.
 
-**Allowance feature is same with deduction feature, all the allowance is not compulsory just depend on company policy.**
+            3. Insert the fixed amount for the allowance, eg: Handphone allowance is fixed RM 300 for every employee then you can insert the rate of RM 300 but if there is not then you can left it blank.
 
-### Maintain Overtime :
+            4. If the allowance is tax exempted then you may insert the tax exempted code.
+
+            5. Tick or un-tick the contribution of the allowance.
+
+        4. After create the master file of Allowance, then you can add the fixed allowance for certain employee which have the allowance monthly.
+
+            ![70](/img/getting-started/user-guide/70.png)
+
+            **OR else you can insert the allowance after process month end as below :**
+
+            ![71](/img/getting-started/user-guide/71.png)
+
+            1. Click on the "**Overtime**"
+
+            2. CLick on the " **+** " to add the employee then fill in the overtime
+
+        2. Allowance feature is same with deduction feature, all the allowance is not compulsory just depend on company policy.
+
+### Maintain Overtime
 
     - Setting up maintain overtime helps you to categorize the type of overtime that company have.
+
     - This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
+
     - This setting will bring impact of the calculation of overtime.
 
-**Step 1 : Click on Payroll then look for maintenance then click on Maintain Overtime.**
+    **1. Step to maintain overtime**
 
-    ![72](/img/getting-started/user-guide/72.png)
+        1. Click on Payroll then look for maintenance then click on Maintain Overtime.
 
-**Step 2 : By default we have been build in certain overtime according to the default but you can click on New to generate your own company overtime.**
+            ![72](/img/getting-started/user-guide/72.png)
 
-    ![73](/img/getting-started/user-guide/73.png)
+        2. By default we have been build in certain overtime according to the default but you can click on New to generate your own company overtime.
 
-**Step 3 : Key-in Overtime as below**
+            ![73](/img/getting-started/user-guide/73.png)
 
-    ![74](/img/getting-started/user-guide/74.png)
-    Step 1 – Insert the Code and Description of the overtime that you want to generate.
-    Step 2 – Insert the rate of the overtime, eg : the overtime rate is 1.5 as per overtime amount or double, triple of the overtime amount.
-    Step 3 – Unit Type is to set the overtime calculation by hourly or by daily.
-    Step 4 - Set the contribution of overtime with EPF,SOCSO,PCB,EIS etc.
+        3. Key-in Overtime as below
 
-**Step 4 : Process the overtime with Month End first :**
+            ![74](/img/getting-started/user-guide/74.png)
 
-    ![75](/img/getting-started/user-guide/75.png)
-    ![76](/img/getting-started/user-guide/76.png)
-    ![77](/img/getting-started/user-guide/77.png)
-        - Click on the "**Overtime**"
-    ![78](/img/getting-started/user-guide/78.png)
-        - Click on the "**+**" to add the info you want
-    ![79](/img/getting-started/user-guide/79.png)
-        - Click on the "**Code**"to choose the overtime type
-    ![80](/img/getting-started/user-guide/80.png)
+            1. Insert the Code and Description of the overtime that you want to generate.
 
-    **Key in the work unit as overtime hour, for example that day Lee Chong Wai overtime for 2 hours, just key in numbering as 2 will do**
+            2. Insert the rate of the overtime, eg : the overtime rate is 1.5 as per overtime amount or double, triple of the overtime amount.
 
-        ![81](/img/getting-started/user-guide/81.png)
+            3. Unit Type is to set the overtime calculation by hourly or by daily.
 
-    **Or, you also can click on the button beside Trans Date, and tick the column name Work Unit As Time**
+            4. Set the contribution of overtime with EPF,SOCSO,PCB,EIS etc.
 
-        ![82](/img/getting-started/user-guide/82.png)
+        4. Process the overtime with Month End first :
 
-    **After call out the column of Work Unit As Time, you may key in the overtime minutes also, eg: 2 hours and 09 mins as below :**
+            ![75](/img/getting-started/user-guide/75.png)
 
-        ![83](/img/getting-started/user-guide/83.png)
+            ![76](/img/getting-started/user-guide/76.png)
 
-### Maintain Payment Method :
+            ![77](/img/getting-started/user-guide/77.png)
+
+                - Click on the "**Overtime**"
+
+            ![78](/img/getting-started/user-guide/78.png)
+
+                - Click on the "**+**" to add the info you want
+
+            ![79](/img/getting-started/user-guide/79.png)
+
+                - Click on the "**Code**"to choose the overtime type
+
+            ![80](/img/getting-started/user-guide/80.png)
+
+                - Key in the work unit as overtime hour, for example that day Lee Chong Wai overtime for 2 hours, just key in numbering as 2 will do
+
+            ![81](/img/getting-started/user-guide/81.png)
+
+            Or, you also can click on the button beside Trans Date, and tick the column name Work Unit As Time
+
+            ![82](/img/getting-started/user-guide/82.png)
+
+                - After call out the column of Work Unit As Time, you may key in the overtime minutes also, eg: 2 hours and 09 mins as below :
+
+                    ![83](/img/getting-started/user-guide/83.png)
+
+### Maintain Payment Method
 
     - Maintain Payment Method helps you to categorise how you want to pay your employee
-    - This is useful when you have different type of banks (MBB, HLB & etc)
-    and method of paying (Cash, Cheque, Transfer)
+
+    - This is useful when you have different type of banks (MBB, HLB & etc) and method of paying (Cash, Cheque, Transfer)
+
     - At here, we can also set the **auto rounding** so that all payout is round to the nearest 5 cent
-    eg: Employee total pay = RM1234.**56**
-    After auto rounding, it will become RM1234.**55**
+        - eg: Employee total pay = RM1234.**56**
 
-**Step 1: Navigate yourself to the maintain payment method panel**
+        - After auto rounding, it will become RM1234.**55**
 
-    ![84](/img/getting-started/user-guide/84.png)
+    **1. Step to maintain frequency**
 
-**Step 2: Click new to create new payment method**
+        1. Navigate yourself to the maintain payment method panel
 
-    ![85](/img/getting-started/user-guide/85.png)
+            ![84](/img/getting-started/user-guide/84.png)
 
-**Step 3: Key in the information needed**
+        2. Click new to create new payment method
 
-    ![86](/img/getting-started/user-guide/86.png)
-    ![87](/img/getting-started/user-guide/87.png)
+            ![85](/img/getting-started/user-guide/85.png)
 
-**Explanation of auto rounding**
+        3. Key in the information needed
 
-**A) Without auto rounding**
-![88](/img/getting-started/user-guide/88.png)
+            ![86](/img/getting-started/user-guide/86.png)
 
-**After month end will show no adjustment.**
+            ![87](/img/getting-started/user-guide/87.png)
 
-However, adjustment can be manually change by clicking the up/down arrow beside the adjustment.
+    2. Explanation of auto rounding
 
-    ![89](/img/getting-started/user-guide/89.png)
+        1. Without auto rounding
+            ![88](/img/getting-started/user-guide/88.png)
 
-**B) With auto rounding**
-![90](/img/getting-started/user-guide/90.png)
+            **After month end will show no adjustment.**
 
-**After month end will have auto adjustment to nearest 5 cents.**
+            However, adjustment can be manually change by clicking the up/down arrow beside the adjustment.
 
-    ![91](/img/getting-started/user-guide/91.png)
-    ![92](/img/getting-started/user-guide/92.png)
+            ![89](/img/getting-started/user-guide/89.png)
 
-### B) Process Salary :
+        2. With auto rounding
 
-You can choose the different options as below:
+            ![90](/img/getting-started/user-guide/90.png)
 
-    **1) New Payroll**
-    - You able to process payroll either Final, Frequency or Ad Hoc basis.
+            **After month end will have auto adjustment to nearest 5 cents.**
 
-    **2) Open Payroll**
-    - You can re-open payroll processed to check or edit.
+            ![91](/img/getting-started/user-guide/91.png)
 
-    **3) Open Pending Payroll**
-    - This pending payroll allowed to input the pending amount before final payroll process.
-    - You may input the following type of pending amount:
-        a) Wages
-        b) Allowance
-        c) Paid leave
-        d) Overtime
-        e) Claims
-        f) Director Fees
-        g) Commission
-        h) Bonus
-        i) Loan
-        j) Deduction
-        k) Unpaid leave
-        l) Advance
-        m) CP38
+            ![92](/img/getting-started/user-guide/92.png)
 
-### Month End Payroll :
+    3. Process Salary
 
-**Step 1: Click into payroll then look for new payroll.**
+        1. You can choose the different options as below:
 
-    ![93](/img/getting-started/user-guide/93.png)
-    Step 1.1 – Certain company their payroll cut off date will not in the month end, some of the company will according to the 26th of the month, so you can preset your own company payroll cut off date through the “ ...” button.
-    Step 1.2 – Click on the “ Process “ option.
+            **1. New Payroll**
 
-### Open Payroll :
+                - You able to process payroll either Final, Frequency or Ad Hoc basis.
 
-    - Once you have proceed the payroll and you wish to view whatever you have
-    did, then you can make some amendment.
+            **2. Open Payroll**
 
-**Step 1: Click into payroll then look for Open Payroll or from the home page.**
+                - You can re-open payroll processed to check or edit.
 
-    ![94](/img/getting-started/user-guide/94.png)
-    ![95](/img/getting-started/user-guide/95.png)
-    You can double click your employee name to check on its individual’s amount
+            **3. Open Pending Payroll**
 
-\*You can process 2 month end in the same day also. When the 1st process, you can choose to tick those
-batch 1’s employee, and when process another time, it will appear those batch 2 name. Example as below.
+                - This pending payroll allowed to input the pending amount before final payroll process.
 
-**BATCH 1**
-![96](/img/getting-started/user-guide/96.png)
-![97](/img/getting-started/user-guide/97.png)
+                - You may input the following type of pending amount:
+                    1. Wages
+                    2. Allowance
+                    3. Paid leave
+                    4. Overtime
+                    5. Claims
+                    6. Director Fees
+                    7. Commission
+                    8. Bonus
+                    9. Loan
+                    10. Deduction
+                    11. Unpaid leave
+                    12. Advance
+                    13. CP38
 
-**BATCH 2**
-![98](/img/getting-started/user-guide/98.png)
-![99](/img/getting-started/user-guide/99.png)
+### Month End Payroll
 
-### Open Pending Payroll :
+    1. Click into payroll then look for new payroll.
+
+        ![93](/img/getting-started/user-guide/93.png)
+
+        1. Certain company their payroll cut off date will not in the month end, some of the company will according to the 26th of the month, so you can preset your own company payroll cut off date through the “ ...” button.
+
+        2. Click on the “ Process “ option.
+
+### Open Payroll
+
+    - Once you have proceed the payroll and you wish to view whatever you have did, then you can make some amendment.
+
+    1. Click into payroll then look for Open Payroll or from the home page.
+
+        ![94](/img/getting-started/user-guide/94.png)
+
+        ![95](/img/getting-started/user-guide/95.png)
+
+        You can double click your employee name to check on its individual’s amount
+
+        :::info
+        \*You can process 2 month end in the same day also. When the 1st process, you can choose to tick those
+        batch 1’s employee, and when process another time, it will appear those batch 2 name. Example as below.
+
+        **BATCH 1**
+
+        ![96](/img/getting-started/user-guide/96.png)
+
+        ![97](/img/getting-started/user-guide/97.png)
+
+        **BATCH 2**
+
+        ![98](/img/getting-started/user-guide/98.png)
+
+        ![99](/img/getting-started/user-guide/99.png)
+        :::
+
+### Open Pending Payroll
 
     - Before you process the month end, you can use open pending payroll to key-in all others add hoc info like extra allowance, overtime, claim etc.
 
-**Step 1: Click into payroll then look for Open Pending Payroll.**
+    1. Click into payroll then look for Open Pending Payroll.
 
-    ![100](/img/getting-started/user-guide/100.png)
+        ![100](/img/getting-started/user-guide/100.png)
 
-**Step 2: Double Click on the info that you want to input, eg: Overtime.**
+    2. Double Click on the info that you want to input, eg: Overtime.
 
-    ![101](/img/getting-started/user-guide/101.png)
+        ![101](/img/getting-started/user-guide/101.png)
 
-**Step 3: Insert the info accordingly :**  
- Step 3.1 : Press on the "**+**" button to insert the info.
-![102](/img/getting-started/user-guide/102.png)
-Step 3.2 : Insert the info accordingly like employee, overtime code, work unit etc
-![103](/img/getting-started/user-guide/103.png)
-Step 3.4 : Once update accordingly then save.
-![104](/img/getting-started/user-guide/104.png)
+    3. Insert the info accordingly
 
-**Step 4: Once update you may process the month end and see the result.**
+        1. Press on the "**+**" button to insert the info.
 
-    ![105](/img/getting-started/user-guide/105.png)
+            ![102](/img/getting-started/user-guide/102.png)
 
-### C) Payroll Report :
+        2. Insert the info accordingly like employee, overtime code, work unit etc
 
-You able to generate the below reports :
+            ![103](/img/getting-started/user-guide/103.png)
 
-    **1) Print Pay Slip**
-    - Enable to generate the pay slip for the employees selected.
+        3. Once update accordingly then save.
 
-    **2) Print Payroll Summary**
-    - Help you to analyse the payroll for a month like wages, claims, unpaid leave, allowance, etc.
+            ![104](/img/getting-started/user-guide/104.png)
 
-    **3) Print Coinage Report**
-    - Help you to count the number of money papers/coins required for the pay amount.
+    4. Once update you may process the month end and see the result.
 
-    **4) Print Cheque Listing Report**
-    - Help you to generate the individual pay amount for banker.
+        ![105](/img/getting-started/user-guide/105.png)
 
-    **5) Print Credit Bank Report**
-    - Help you to generate the individual pay amount via Direct Transfer service.
+### Payroll Report
 
-    **6) Statutory Reports**
-    - You able to generate the government reports, such as EPF Borang A, Income Tax EA, Sosco Borang 8A, etc.
+    1. You able to generate the below reports :
 
-    **7) Print Yearly Payroll Report**
-    - Generate 12 months payroll for individual employees.
+        **1. Print Pay Slip**
 
-    **8) Print Yearly Individual Report**
-    - You able to choose the employee to view the detail 12 months payroll.
+            - Enable to generate the pay slip for the employees selected.
 
-### SQL Payroll Leave :
+        **2. Print Payroll Summary**
 
-Leave this module use to monitor the employee leaves, company calendar and printing the attendance reports. It consists of 4 sections:
+            - Help you to analyse the payroll for a month like wages, claims, unpaid leave, allowance, etc.
 
-    **a) Maintenance**
+        **3. Print Coinage Report**
 
-    **b) Leave Entitlement Processor**
+            - Help you to count the number of money papers/coins required for the pay amount.
 
-    **c) Leave Application**
+        **4. Print Cheque Listing Report**
 
-    **d) Reports.**
+            - Help you to generate the individual pay amount for banker.
 
-### D) Maintenance Leave
+        **5. Print Credit Bank Report**
 
-**1) Maintain Calendar**
+            - Help you to generate the individual pay amount via Direct Transfer service.
 
-- Allow to set company calendar for a year, such set the company rest day, public holiday, etc.
+        **6. Statutory Reports**
 
-**2) Maintain Leave Type**
+            - You able to generate the government reports, such as EPF Borang A, Income Tax EA, Sosco Borang 8A, etc.
 
-- Enable to define the leave type, like annual leave, medical leave, maternity, unpaid leave, etc.
-- You also can define the leave type setting whether  
-  a) Is Entitle  
-  b) Is Unpaid  
-  c) B.Forward
+        **7. Print Yearly Payroll Report**
 
-**3) Maintain Leave Group**
+            - Generate 12 months payroll for individual employees.
 
-- Allow to customise your leave policies for different level of people in company.
-- You can customise the scripts (under Tools → Maintain Script...) and set in the leave group.
+        **8. Print Yearly Individual Report**
 
-### Maintain Leave Type :
+            - You able to choose the employee to view the detail 12 months payroll.
 
-    - Before assigning leave group to your employee, you need to make sure that you have leave
-    type and leave group maintained beforehand. “ **Leave Type** ” simply means the nature of the
-    leave, while “ **Leave Group** ” is the grouping method of employee according to their leave
-    entitlement.
+### SQL Payroll Leave
 
-**Step 1 : Point to “Leave” tab and select “Maintain Leave Type”**
+    - Leave module is used to monitor the employee leaves, company calendar and printing the attendance reports. It consists of 4 sections:
 
-    ![106](/img/getting-started/user-guide/106.png)
+        **1. Maintenance**
 
-**Step 2 : Click on “New” button on the upper right corner to create new leave type**
+        **2. Leave Entitlement Processor**
 
-    ![107](/img/getting-started/user-guide/107.png)
+        **3. Leave Application**
 
-**Step 3 : Insert the info such as code, description, caption, Is Entitle or not then SAVE.**
+        **4. Reports.**
 
-    ![108](/img/getting-started/user-guide/108.png)
-    ![109](/img/getting-started/user-guide/109.png)
+### Maintenance Leave
 
-### Maintain Leave Group :
+    1. Maintain Calendar
 
-**Step 1: Firstly, point to “Leave” tab and select “Maintain Leave Group”**
+        - Allow to set company calendar for a year, such set the company rest day, public holiday, etc.
 
-    ![110](/img/getting-started/user-guide/110.png)
+    2. Maintain Leave Type
 
-**Step 2: Click on “New” button on the upper right corner to create new leave group.**
+        - Enable to define the leave type, like annual leave, medical leave, maternity, unpaid leave, etc.
 
-    ![111](/img/getting-started/user-guide/111.png)
+        - You also can define the leave type setting whether
 
-**Step 3: Assign code for your new leave group.**
+            1. Is Entitle
+            2. Is Unpaid
+            3. B.Forward
 
-    eg: FW for “Foreign Worker”;
-    Click on the “+” button to select the entitled leave type for this parrcular leave group.
-    ![112](/img/getting-started/user-guide/112.png)
+    3. Maintain Leave Group
 
-**Step 4: Taking “Annual Leave (AL)” as an example.**
+        - Allow to customise your leave policies for different level of people in company.
 
-By default, the calculation for “Annual Leave” is as such:
+        - You can customise the scripts (under Tools → Maintain Script...) and set in the leave group.
 
-| Year of Service (Years) | Day of Leave Entitled (Days) |
-| ----------------------- | ---------------------------- |
-| 1 to 2                  | 8                            |
-| 3 to 4                  | 12                           |
-| > 4                     | 16                           |
+### Maintain Leave Type
 
-![113](/img/getting-started/user-guide/113.png)
+    - Before assigning leave group to your employee, you need to make sure that you have leave type and leave group maintained beforehand. “ **Leave Type** ” simply means the nature of the leave, while “ **Leave Group** ” is the grouping method of employee according to their leave entitlement.
 
-**Step 5 : If your company does not follow the default annual leave setting, you can always customise your own calculation by click on the "Edit" then on the entitle column, it will appear 3 dots button, just click on 3 dots button as shown on below.**
+    1. Point to “Leave” tab and select “Maintain Leave Type”
 
-    ![114](/img/getting-started/user-guide/114.png)
+        ![106](/img/getting-started/user-guide/106.png)
 
-    1. For example, your company complies to the calculation as below.
+    2. Click on “New” button on the upper right corner to create new leave type
 
-    | Year of Service (Years) | Day of Leave Entitled (Days) |
-    | --- | --- |
-    | 1 to 2 | 8 |
-    | 3 to 5 | 12 |
-    | > 5 | 18 |
+        ![107](/img/getting-started/user-guide/107.png)
 
-    Thus, you need to key in the table as such:
+    3. Insert the info such as code, description, caption, Is Entitle or not then SAVE.
 
-    | Year From | Year To | Days |
-    | --- | --- | --- |
-    | 1 | 2 | 8 |
-    | 3 | 4 | 12 |
-    | 5 | 99 | 18 |
+        ![108](/img/getting-started/user-guide/108.png)
 
-    ![115](/img/getting-started/user-guide/115.png)
-    Click “ **OK** ” then you will come to this.
+        ![109](/img/getting-started/user-guide/109.png)
 
-**a) Employee Leave Group Assignment**
+### Maintain Leave Group
 
-    1. point to “ **Human Resource** ” tab and select “ **Maintain employee** ”
-    ![116](/img/getting-started/user-guide/116.png)
+    1. Firstly, point to “Leave” tab and select “Maintain Leave Group”
 
-    2. Select relevant employee. eg: Nicole. Click “Edit”
-    ![117](/img/getting-started/user-guide/117.png)
+        ![110](/img/getting-started/user-guide/110.png)
 
-    3. Click on “ **Grouping** ” tab, and you will see “ **Leave Group** ”.
-    ![118](/img/getting-started/user-guide/118.png)
+    2. Click on “New” button on the upper right corner to create new leave group.
 
-    4. Assign relevant leave group.
-    eg: Foreign Worker (FW)
-    Then, Click “ Save ”
-    ![119](/img/getting-started/user-guide/119.png)
+        ![111](/img/getting-started/user-guide/111.png)
 
-### Leave Application:
+    3. Assign code for your new leave group.
 
-**Recording the leave apply by each employee. You can input any type of leaves you defined in Maintain Leave Type.**
+        - eg: FW for “Foreign Worker”;
 
-**You can set the calendar set into individual employee in Maintain Employee. It will loaded the employee leave application.**
+        - Click on the “+” button to select the entitled leave type for this parrcular leave group.
 
-It able to monitor the leave apply based on the up-to-date number of leaves entitlement.
+            ![112](/img/getting-started/user-guide/112.png)
 
-    For example,
-        **_Annual Leave Entitlement = 12 days_**
-        **_Average Annual Leave Entitlement = 1 day per month_**
-        **_Annual Leave applied for a month;_**
-            **_January = 0 day_**
-            **_February = 1 day_**
-            **_March = 0 day_**
+    4. Taking “Annual Leave (AL)” as an example.
 
-From the above scenario, total annual leaves entitled up to month of April are 4 days (including month of April).
+        By default, the calculation for “Annual Leave” is as such:
 
-It means number of annual leaves remaining are (4 – 1 ) = 3 days.
+        | Year of Service (Years) | Day of Leave Entitled (Days) |
+        | ----------------------- | ---------------------------- |
+        | 1 to 2                  | 8                            |
+        | 3 to 4                  | 12                           |
+        | > 4                     | 16                           |
 
-If the employee apply 4 days leave in month of April, the system will prompt the below warning. “You’ve taken 5.0 days of Annual Leave, but Annual Leave limit for April is 4.0 days.”
+        ![113](/img/getting-started/user-guide/113.png)
 
-So, you can choose to Allow, Not Allow or Unpaid Leave.
+    5. If your company does not follow the default annual leave setting, you can always customise your own calculation by click on the "Edit" then on the entitle column, it will appear 3 dots button, just click on 3 dots button as shown on below.
 
-1. First, point to “ **Leave** ” and click on “ **Leave Application** ”
+        ![114](/img/getting-started/user-guide/114.png)
 
-   ![120](/img/getting-started/user-guide/120.png)
+        1. For example, your company complies to the calculation as below.
 
-2. Select the year. eg: Year 2024
+            | Year of Service (Years) | Day of Leave Entitled (Days) |
+            | --- | --- |
+            | 1 to 2 | 8 |
+            | 3 to 5 | 12 |
+            | > 5 | 18 |
 
-   ![121](/img/getting-started/user-guide/121.png)
+        2. Thus, you need to key in the table as such:
 
-3. Point to the name of employee and click into it. eg: Lee Chong Wai
+            | Year From | Year To | Days |
+            | --- | --- | --- |
+            | 1 | 2 | 8 |
+            | 3 | 4 | 12 |
+            | 5 | 99 | 18 |
 
-   ![122](/img/getting-started/user-guide/122.png)
+            ![115](/img/getting-started/user-guide/115.png)
 
-4. Click on the “+” button. A row will appear in the display box where you can select the date, type of leave and number of day as how your employee applied. Click “Save” once the application is done.
+            Click “ **OK** ” then you will come to this.
 
-   ![123](/img/getting-started/user-guide/123.png)
-   ![124](/img/getting-started/user-guide/124.png)
+    6. Employee Leave Group Assignment
 
-5. If your employee applies for half day leave or leave calculated in hours, call out “Time In Minutes” column. 1 working day has 8 working hours.
+        1. point to “ **Human Resource** ” tab and select “ **Maintain employee** ”
 
-   ![125](/img/getting-started/user-guide/125.png)
+            ![116](/img/getting-started/user-guide/116.png)
 
-6. Select the duration of the leave. eg: 3 hours. Then system will automatically calculate the number of day as 0.38 day.
+        2. Select relevant employee. eg: Nicole. Click “Edit”
 
-   ![126](/img/getting-started/user-guide/126.png)
+            ![117](/img/getting-started/user-guide/117.png)
+
+        3. Click on “ **Grouping** ” tab, and you will see “ **Leave Group** ”.
+
+            ![118](/img/getting-started/user-guide/118.png)
+
+        4. Assign relevant leave group.
+
+            eg: Foreign Worker (FW)
+
+            Then, Click “ Save ”
+
+            ![119](/img/getting-started/user-guide/119.png)
+
+### Leave Application
+
+    - **Recording the leave apply by each employee. You can input any type of leaves you defined in Maintain Leave Type.**
+
+    - **You can set the calendar into individual employee in Maintain Employee. It will loaded the employee leave aplication.**
+
+    - It able to monitor the leave apply based on the up-to-date number of leaves entitlement.
+
+        For example,
+
+            1. **_Annual Leave Entitlement = 12 days_**
+
+            2. **_Average Annual Leave Entitlement = 1 day per month_**
+
+            3. **_Annual Leave applied for a month;_**
+
+                1. **_January = 0 day_**
+
+                2. **_February = 1 day_**
+
+                3. **_March = 0 day_**
+
+        From the above scenario, total annual leaves entitled up to month of April are 4 days (including month of April).
+
+        It means number of annual leaves remaining are (4 – 1 ) = 3 days.
+
+        If the employee apply 4 days leave in month of April, the system will prompt the below warning. “You’ve taken 5.0 days of Annual Leave, but Annual Leave limit for April is 4.0 days.”
+
+        So, you can choose to Allow, Not Allow or Unpaid Leave.
+
+    1. Step to maintain leave
+
+        1. First, point to “ **Leave** ” and click on “ **Leave Application** ”
+
+            ![120](/img/getting-started/user-guide/120.png)
+
+        2. Select the year. eg: Year 2024
+
+            ![121](/img/getting-started/user-guide/121.png)
+
+        3. Point to the name of employee and click into it. eg: Lee Chong Wai
+
+            ![122](/img/getting-started/user-guide/122.png)
+
+        4. Click on the “+” button. A row will appear in the display box where you can select the date, type of leave and number of day as how your employee applied. Click “Save” once the application is done.
+
+            ![123](/img/getting-started/user-guide/123.png)
+
+            ![124](/img/getting-started/user-guide/124.png)
+
+        5. If your employee applies for half day leave or leave calculated in hours, call out “Time In Minutes” column. 1 working day has 8 working hours.
+
+            ![125](/img/getting-started/user-guide/125.png)
+
+        6. Select the duration of the leave. eg: 3 hours. Then system will automatically calculate the number of day as 0.38 day.
+
+            ![126](/img/getting-started/user-guide/126.png)
 
 ### Leave Entitlement Processor
 
     - **It allows to process the annual leave entitlement for each employees based on the leave group.**
 
-1. Leave entitlement process can be done once a year. First, point to “Leave” and click on “Leave Entitlement Processor”.
+    1. Leave entitlement process can be done once a year. First, point to “Leave” and click on “Leave Entitlement Processor”.
 
-   ![127](/img/getting-started/user-guide/127.png)
+        ![127](/img/getting-started/user-guide/127.png)
 
-2. Select the Transaction Posting Year. eg: 2024. And click “Process”
+    2. Select the Transaction Posting Year. eg: 2024. And click “Process”
 
-   ![128](/img/getting-started/user-guide/128.png)
+        ![128](/img/getting-started/user-guide/128.png)
 
-3. You will see a table clearly stating the number of leave each and every employee entitled in the year 2024.
+    3. You will see a table clearly stating the number of leave each and every employee entitled in the year 2024.
 
-   ![129](/img/getting-started/user-guide/129.png)
+        ![129](/img/getting-started/user-guide/129.png)
 
-4. System allows you to edit the number of day. Click “ **Save** ” when the setting is done.
+    4. System allows you to edit the number of day. Click “ **Save** ” when the setting is done.
 
-   ![130](/img/getting-started/user-guide/130.png)
+        ![130](/img/getting-started/user-guide/130.png)
 
-### Leave Report :
+### Leave Report
 
-1. Print Leave Application Report
+    1. Print Leave Application Report
 
-   - Enable to generate detail leaves taken by each employees for a year.
+        - Enable to generate detail leaves taken by each employees for a year.
 
-2. Print Attendance Report
+    2. Print Attendance Report
 
-   - Enable to generate the attendance performance in %.
+        - Enable to generate the attendance performance in %.
 
-3. Print Leave Balance Report
+    3. Print Leave Balance Report
 
-   - Analyse the number of days taken for annual leaves, medical leaves,etc.
+        - Analyse the number of days taken for annual leaves, medical leaves,etc.
 
-4. Print Yearly Leave Report
-   - Generate 12 months total leaves taken for a leave type like annual leave, unpaid leave, medical leave, etc.
+    4. Print Yearly Leave Report
 
-### E ) Setting :
+        - Generate 12 months total leaves taken for a leave type like annual leave, unpaid leave, medical leave, etc.
 
-1. How to Perform Leave Brought Forward?
+### Setting
 
-   - How to set company annual leave brought forward to next year.
+    1. How to Perform Leave Brought Forward?
 
-2. Where to key-in PCB Receipt?
+        - How to set company annual leave brought forward to next year.
 
-   - Once submit PCB, where to key-in the PCB receipt info in the system?
+    2. Where to key-in PCB Receipt?
 
-3. How to key-in opening balance for employee?
+        - Once submit PCB, where to key-in the PCB receipt info in the system?
 
-   - Some of the employee might be join from middle of the year, so to calculate the correct PCB info, need to key-in the opening balance for employee.
+    3. How to key-in opening balance for employee?
 
-4. Where to print out Increment Letter?
+        - Some of the employee might be join from middle of the year, so to calculate the correct PCB info, need to key-in the opening balance for employee.
 
-   - SQL have built-in the increment letter, you can print out directly for employee.
+    4. Where to print out Increment Letter?
 
-5. How to import from Excel?
+        - SQL have built-in the increment letter, you can print out directly for employee.
 
-   - If you have a lot of employee and you don’t want to key-in one by one, you can choose import from Excel as long as follow our template.
+    5. How to import from Excel?
 
-6. SQL View.
+        - If you have a lot of employee and you don’t want to key-in one by one, you can choose import from Excel as long as follow our template.
 
-   - If you have different user to login at the same time and you wish to block certain user to view different department employee’s info, then you can block from view.
+    6. SQL View.
 
-7. How to give Bonus in SQL Payroll?
+        - If you have different user to login at the same time and you wish to block certain user to view different department employee’s info, then you can block from view.
 
-   - Different company might have different way to given out the Bonus of employee, like some of the company will given out bonus middle of the month then only process salary, some of the company might combine the bonus then process together with month end.
+    7. How to give Bonus in SQL Payroll?
 
-8. How to setup daily Pay Method for employee?
+        - Different company might have different way to given out the Bonus of employee, like some of the company will given out bonus middle of the month then only process salary, some of the company might combine the bonus then process together with month end.
 
-   - Different company might have different way to given out the Bonus of employee, like some of the company will given out bonus middle of the month then only process salary, some of the company might combine the bonus then process together with month end.
+    8. How to setup daily Pay Method for employee?
 
-9. How to customize EA form?
+        - Different company might have different way to given out the Bonus of employee, like some of the company will given out bonus middle of the month then only process salary, some of the company might combine the bonus then process together with month end.
 
-   - Some of the info might not appear in EA form like car info so you can customize the EA form to insert the information.
+    9. How to customize EA form?
 
-10. Where to key-in tax benefit info?
-    - Some of the employee you might need to update the tax benefit info to display at EA form.
+        - Some of the info might not appear in EA form like car info so you can customize the EA form to insert the information.
+
+    10. Where to key-in tax benefit info?
+        - Some of the employee you might need to update the tax benefit info to display at EA form.
 
 ### Leave Brought Forward
 
-HOW TO PERFORM LEAVE BROUGHT FORWARD
+    How To Perfrom Leave Brought Forward
 
-1. Make sure in Leave Type brought forward (BF) is ticked.
-   ![106](/img/getting-started/user-guide/106.png)
-   ![131](/img/getting-started/user-guide/131.png)
+    1. Make sure in Leave Type brought forward (BF) is ticked.
 
-2. Make sure there is calculation for amount of leave brought forward (BF).
-   ![110](/img/getting-started/user-guide/110.png)
+        ![106](/img/getting-started/user-guide/106.png)
 
-3. Key in leave entitlement (may refer leave setting guide)
-   ![127](/img/getting-started/user-guide/127.png)
-   ![132](/img/getting-started/user-guide/132.png)
-   ![133](/img/getting-started/user-guide/133.png)
+        ![131](/img/getting-started/user-guide/131.png)
 
-4. Apply leave for employees.(may refer leave setting for more details.)
+    2. Make sure there is calculation for amount of leave brought forward (BF).
 
-   - Leave/Leave Application/Double click Current Leave
-     ![134](/img/getting-started/user-guide/134.png)
-     ![135](/img/getting-started/user-guide/135.png)
-     ![136](/img/getting-started/user-guide/136.png)
+        ![110](/img/getting-started/user-guide/110.png)
 
-5. Preview Leave Balance Report
+    3. Key in leave entitlement (may refer leave setting guide)
 
-   - Leave/Print Leave Balance Report
-     ![137](/img/getting-started/user-guide/137.png)
+        ![127](/img/getting-started/user-guide/127.png)
 
-6. Open Leave Entitlement for 2016(Repeat step 2)
+        ![132](/img/getting-started/user-guide/132.png)
 
-   ![138](/img/getting-started/user-guide/138.png)
+        ![133](/img/getting-started/user-guide/133.png)
+
+    4. Apply leave for employees.(may refer leave setting for more details.)
+
+        - Leave/Leave Application/Double click Current Leave
+
+            ![134](/img/getting-started/user-guide/134.png)
+
+            ![135](/img/getting-started/user-guide/135.png)
+
+            ![136](/img/getting-started/user-guide/136.png)
+
+    5. Preview Leave Balance Report
+
+        - Leave/Print Leave Balance Report
+            ![137](/img/getting-started/user-guide/137.png)
+
+    6. Open Leave Entitlement for 2016(Repeat step 2)
+
+        ![138](/img/getting-started/user-guide/138.png)
 
 ### Where to key-in PCB Receipt?
 
-Entering PCB & CP38 Receipt Number & Date
+    1. Entering PCB & CP38 Receipt Number & Date
 
-For an example with this Month (June) with **PCB amount** of **RM1444.90**.
+    2. For an example with this Month (June) with **PCB amount** of **RM1444.90**.
 
-    ![139](/img/getting-started/user-guide/139.png)
+        ![139](/img/getting-started/user-guide/139.png)
 
-Right click on the particular Month End process and click Tax Receipt...
+    3. Right click on the particular Month End process and click Tax Receipt...
 
-    ![140](/img/getting-started/user-guide/140.png)
+        ![140](/img/getting-started/user-guide/140.png)
 
-The Following screen will be seen,
+    4. The Following screen will be seen,
 
-    ![141](/img/getting-started/user-guide/141.png)
+        ![141](/img/getting-started/user-guide/141.png)
 
-    1 ~ Enter the Receipt Date.
+        1. Enter the Receipt Date.
 
-    2 ~ Enter the Receipt No.
+        2. Enter the Receipt No.
 
-    3 ~ Press calculate amount to show the total amount of PCB u paid that month.
+        3. Press calculate amount to show the total amount of PCB u paid that month.
 
-    ![142](/img/getting-started/user-guide/142.png)
+            ![142](/img/getting-started/user-guide/142.png)
 
-The **TOTAL** PCB Normal amount of the employees which is **RM 1444.90**.
+    5. The **TOTAL** PCB Normal amount of the employees which is **RM 1444.90**.
 
-Next, go to Payroll → Ad Hoc Reports → Print Income Tax PCB 2(II)...
+    6. Next, go to Payroll → Ad Hoc Reports → Print Income Tax PCB 2(II)...
 
-    ![143](/img/getting-started/user-guide/143.png)
+        ![143](/img/getting-started/user-guide/143.png)
 
-Preview the employees Tax PCB 2(II). The following result will show in the report.
+    7. Preview the employees Tax PCB 2(II). The following result will show in the report.
 
-    ![144](/img/getting-started/user-guide/144.png)
+        ![144](/img/getting-started/user-guide/144.png)
 
-### Opening Balance for Employee:
+### Opening Balance for Employee
 
-Maintain employee’s opening balance is done when the respective employee enter the company in a
-month **later than January**.
-The previous PCB amount is **needed to key in so that the system can correctly calculate** the
-PCB amount that’s needed to pay every month.
+    Maintain employee’s opening balance is done when the respective employee enter the company in a month **later than January**.
 
-Chinese translation: 1 月后进公司的员工都要打 ‘opening’, 这样系统才能真确地算出员工的 PCB
+    The previous PCB amount is **needed to key in so that the system can correctly calculate** the PCB amount that’s needed to pay every month.
 
-Step 1: Navigate yourself to the open payroll
-![94](/img/getting-started/user-guide/94.png)
+    1. Step to perfrom openeing
 
-**Step 2: Double click the year in open payroll**
+        1. Navigate yourself to the open payroll
 
-    ![145](/img/getting-started/user-guide/145.png)
+            ![94](/img/getting-started/user-guide/94.png)
 
-**Step 3: Double click the transaction under ‘Opening’**
+        2. Double click the year in open payroll
 
-    ![146](/img/getting-started/user-guide/146.png)
+            ![145](/img/getting-started/user-guide/145.png)
 
-**Step 4: Select the employee by double clicking on its name**
+        3. Double click the transaction under ‘Opening’
 
-    ![147](/img/getting-started/user-guide/147.png)
+            ![146](/img/getting-started/user-guide/146.png)
 
-**Step 5: Key in all the employee’s opening balance information**
+        4. Select the employee by double clicking on its name
 
-    ![148](/img/getting-started/user-guide/148.png)
+            ![147](/img/getting-started/user-guide/147.png)
 
-:::info
-For the General part can enter information accordign to the EA form
-这里的资料可以根据 EA form 来输入
+        5. Key in all the employee’s opening balance information
 
----
+            ![148](/img/getting-started/user-guide/148.png)
 
-for others part Employee need to know whether they have any of it in previous employment
-员工本身需要知道是否在之前的工作曾经输入过这些资料  
-:::
+            :::info
+            For the General part can enter information accordign to the EA form
 
-**Mapping of SQL ‘opening’ to EA form (SQL** ‘ **Opening** ’与 **EA form** 的对比 **)**
+            ---
+            For others part Employee need to know whether they have any of it in previous employment
+            :::
 
-    ![149](/img/getting-started/user-guide/149.png)
+    2. Mapping of SQL ‘opening’ to EA form
 
-**Special note for additional EPF and additional PCB**
+        ![149](/img/getting-started/user-guide/149.png)
 
-- Additional EPF and additional PCB are used when additional remuneration (bonus, commission, paid leave) is given.
-- In the EA form, normal EPF and additional EPF is group into one.
-- However, SQL recommend users to split the amount for a more detail input.  
-  额外收入（如: 花红，佣金，带薪休假）都会分类在 Additional EPF 和 additional PCB
-  虽然在 EA form 里，普通 EPF 和 additional EPF 是组合起来了，但是，SQL 建议各位用户把普通 EPF 和 additional EPF 分出来比较好。
+    3. Special note for additional EPF and additional PCB
 
-  ![150](/img/getting-started/user-guide/150.png)
+        - Additional EPF and additional PCB are used when additional remuneration (bonus, commission, paid leave) is given.
+
+        - In the EA form, normal EPF and additional EPF is group into one.
+
+        - However, SQL recommend users to split the amount for a more detail input.
+
+        ![150](/img/getting-started/user-guide/150.png)
 
 ## Increment Letter
 
-**Print Appointment/Confirmation/Increment letter**
+    1. Print Appointment/Confirmation/Increment letter
 
-Step 1: Navigate yourself to the Maintain Employee panel
+        1. Navigate yourself to the Maintain Employee panel
 
-    ![15](/img/getting-started/user-guide/15.png)
+            ![15](/img/getting-started/user-guide/15.png)
 
-    **OR Click on the home page "Maintain Employee"**
-        ![16](/img/getting-started/user-guide/16.png)
+            **OR Click on the home page "Maintain Employee"**
 
-Step 2 : Select the employee
+                ![16](/img/getting-started/user-guide/16.png)
 
-    ![151](/img/getting-started/user-guide/151.png)
+        2. Select the employee
 
-:::tip
-To learn how to key in new employee, please view the Maintain Employee guide.
-:::
+            ![151](/img/getting-started/user-guide/151.png)
 
-Step 3 : Click preview reports
+            :::tip
+            To learn how to key in new employee, please view the Maintain Employee guide.
+            :::
 
-    ![152](/img/getting-started/user-guide/152.png)
+        3. Click preview reports
 
-Step 4 : Select the report you want by double clicking it
+            ![152](/img/getting-started/user-guide/152.png)
 
-    ![153](/img/getting-started/user-guide/153.png)
-    ![154](/img/getting-started/user-guide/154.png)
-    ![155](/img/getting-started/user-guide/155.png)
-    ![156](/img/getting-started/user-guide/156.png)
+        4. Select the report you want by double clicking it
 
-**This is the example of the appointment letter**
+            ![153](/img/getting-started/user-guide/153.png)
 
-    ![157](/img/getting-started/user-guide/157.png)
+            ![154](/img/getting-started/user-guide/154.png)
 
-**Special note:**
+            ![155](/img/getting-started/user-guide/155.png)
 
-For increment letter, make sure increment is set in **history** in order for the report to work
+            ![156](/img/getting-started/user-guide/156.png)
 
-    ![158](/img/getting-started/user-guide/158.png)
+            1. **This is the example of the appointment letter**
+
+                ![157](/img/getting-started/user-guide/157.png)
+
+                **Special note:**
+
+                For increment letter, make sure increment is set in **history** in order for the report to work
+
+                    ![158](/img/getting-started/user-guide/158.png)
 
 ## Import from Excel
 
-How to import Excel overtime format into SQL Payroll, do a table as shown in Microsoft Excel.
+    1. How to import Excel overtime format into SQL Payroll, do a table as shown in Microsoft Excel.
 
-    ![159](/img/getting-started/user-guide/159.png)
+        ![159](/img/getting-started/user-guide/159.png)
 
-:::tip
-Date = Trans Date  
-Employee = Code of Employee  
-OT = Code of Overtime that created in Maintain Overtime  
-Unit = Work Unit (count 2.50 = 150 minutes/2 and a half hours)
-:::
+        :::tip
+        Date = Trans Date
 
-After done the table, go to file,
+        Employee = Code of Employee
 
-    ![160](/img/getting-started/user-guide/160.png)
+        OT = Code of Overtime that created in Maintain Overtime
 
-Click on Save as,
+        Unit = Work Unit (count 2.50 = 150 minutes/2 and a half hours)
+        :::
 
-    ![161](/img/getting-started/user-guide/161.png)
+    2. After done the table, go to file,
 
-Make sure select the CSV file Type,
+        ![160](/img/getting-started/user-guide/160.png)
 
-    ![162](/img/getting-started/user-guide/162.png)
-    ![163](/img/getting-started/user-guide/163.png)
-    ![100](/img/getting-started/user-guide/100.png)
+    3. Click on Save as,
 
-Double click on the overtime,
+        ![161](/img/getting-started/user-guide/161.png)
 
-    ![101](/img/getting-started/user-guide/101.png)
+    4. Make sure select the CSV file Type,
 
-Click on the import data icon,
+        ![162](/img/getting-started/user-guide/162.png)
 
-    ![164](/img/getting-started/user-guide/164.png)
+        ![163](/img/getting-started/user-guide/163.png)
 
-Click on the ... (3 dots button) to select your data source,
+        ![100](/img/getting-started/user-guide/100.png)
 
-    ![165](/img/getting-started/user-guide/165.png)
-    ![166](/img/getting-started/user-guide/166.png)
-    ![167](/img/getting-started/user-guide/167.png)
-    ![168](/img/getting-started/user-guide/168.png)
-    ![169](/img/getting-started/user-guide/169.png)
+    5. Double click on the overtime,
 
-Make sure you have select all the fields for the date, employee, code & workunit.
+        ![101](/img/getting-started/user-guide/101.png)
 
-    ![170](/img/getting-started/user-guide/170.png)
-    ![171](/img/getting-started/user-guide/171.png)
-    ![172](/img/getting-started/user-guide/172.png)
-    ![173](/img/getting-started/user-guide/173.png)
+    6. Click on the import data icon,
+
+        ![164](/img/getting-started/user-guide/164.png)
+
+    7. Click on the ... (3 dots button) to select your data source,
+
+        ![165](/img/getting-started/user-guide/165.png)
+
+        ![166](/img/getting-started/user-guide/166.png)
+
+        ![167](/img/getting-started/user-guide/167.png)
+
+        ![168](/img/getting-started/user-guide/168.png)
+
+        ![169](/img/getting-started/user-guide/169.png)
+
+    8. Make sure you have select all the fields for the date, employee, code & workunit.
+
+        ![170](/img/getting-started/user-guide/170.png)
+
+        ![171](/img/getting-started/user-guide/171.png)
+
+        ![172](/img/getting-started/user-guide/172.png)
+
+        ![173](/img/getting-started/user-guide/173.png)
 
 ## SQL View
 
-SQL view module is to lock certain user to view from all employees, in other word only allow handling a group of employee. For this sample, is allowing KL User to view/ edit only the employee in KL branch.
+    - SQL view module is to lock certain user to view from all employees, in other word only allow handling a group of employee. For this sample, is allowing KL User to view/ edit only the employee in KL branch.
 
-1. Tools | DIY | Maintain DIY
+    1. Tools -> DIY -> Maintain DIY
 
-   ![174](/img/getting-started/user-guide/174.png)
+        ![174](/img/getting-started/user-guide/174.png)
 
-   1.3 Press New
+    2. Click on the "New View Template" and fill in the condition
 
-   1.4
-   ![175](/img/getting-started/user-guide/175.png)
+        ![175](/img/getting-started/user-guide/175.png)
 
-   1.5
-   ![176](/img/getting-started/user-guide/176.png)
+    3.
 
-   1.6
-   ![177](/img/getting-started/user-guide/177.png)
+        ![176](/img/getting-started/user-guide/176.png)
 
-   1.7 Logon as KL User.
+    4.
 
-**Result :**
+        ![177](/img/getting-started/user-guide/177.png)
 
-**Before :**
-![178](/img/getting-started/user-guide/178.png)
+    5. Re-Logon as KL User.
 
-**After :**
-![179](/img/getting-started/user-guide/179.png)
+    6. Result :
 
-:::note
-**If you haven’t register, you may try by turn on SQL View module under File | Customize SQL Payroll Module. Thanks.**
-:::
+        1. **Before :**
+
+            ![178](/img/getting-started/user-guide/178.png)
+
+        2. **After :**
+
+            ![179](/img/getting-started/user-guide/179.png)
+
+        :::note
+        **If you haven’t register, you may try by turn on SQL View module under File | Customize SQL Payroll Module. Thanks.**
+        :::
 
 ## SQL Bonus in SQL Payroll
 
-a) Go to Payroll/ Open Pending Payroll
+    1. Go to Payroll/ Open Pending Payroll
 
-    ![100](/img/getting-started/user-guide/100.png)
+        ![100](/img/getting-started/user-guide/100.png)
 
-b) Click on Bonus
+    2. Click on Bonus
 
-    ![180](/img/getting-started/user-guide/180.png)
+        ![180](/img/getting-started/user-guide/180.png)
 
-c) 1. Click “Add”  
- 2. Select your employee  
- 3. Key in amount  
- 4. Save
+        1. Click “Add”
 
-    ![181](/img/getting-started/user-guide/181.png)
+        2. Select your employee
 
-d) Go to Payroll/ New Payroll/ Click on Ad Hoc
+        3. Key in amount
 
-    ![182](/img/getting-started/user-guide/182.png)
+        4. Save
 
-e) Tick EPF if you want to deduct EPF  
-Tick PCB if you want to deduct PCB
+        ![181](/img/getting-started/user-guide/181.png)
 
-    ![183](/img/getting-started/user-guide/183.png)
+    3. Go to Payroll/ New Payroll/ Click on Ad Hoc
 
-f) Tick Bonus/ Allowance (To input your amount)
+        ![182](/img/getting-started/user-guide/182.png)
 
-    ![184](/img/getting-started/user-guide/184.png)
+    4. Tick EPF if you want to deduct EPF
 
-g) 1. Change the Description \*Optional
+        Tick PCB if you want to deduct PCB
 
-2. Tick the employee you give the bonus
+        ![183](/img/getting-started/user-guide/183.png)
 
-   ![185](/img/getting-started/user-guide/185.png)
+    5. Tick Bonus/ Allowance (To input your amount)
 
-h) Complete/ Check the pay slip
+        ![184](/img/getting-started/user-guide/184.png)
 
-    ![186](/img/getting-started/user-guide/186.png)
+        1. Change the Description \*Optional
+
+        2. Tick the employee you give the bonus
+
+        ![185](/img/getting-started/user-guide/185.png)
+
+    6. Complete/ Check the pay slip
+
+        ![186](/img/getting-started/user-guide/186.png)
 
 ## Customize EA form
 
-**How to print EA Form**
+    1. **How to print EA Form**
 
-1. Preview EA form
+        1. Preview EA form
 
-   - Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form...
-     ![187](/img/report/1.png)
+            - Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form...
 
-2. Fill in the details in red box and click "**Apply**"
+                ![187](/img/report/1.png)
 
-   ![188](/img/report/2.png)
+        2. Fill in the details in red box and click "**Apply**"
 
-3. If you want to amend the figure in EA form:
+            ![188](/img/report/2.png)
 
-   - Click on Customise EA form
-     ![189](/img/report/3.png)
-   - Then select the employee to amend and click "**Customize**"
-     ![190](/img/report/4.png)
-   - Employee after amend will be in yellow colour.
-     ![191](/img/report/5.png)
+        3. If you want to amend the figure in EA form:
 
-4. Manually key in the figure u want to amend and save ( blue disket )
+            - Click on Customise EA form
 
-   ![192](/img/report/6.png)
+                ![189](/img/report/3.png)
+            - Then select the employee to amend and click "**Customize**"
+
+                ![190](/img/report/4.png)
+            - Employee after amend will be in yellow colour.
+
+                ![191](/img/report/5.png)
+
+        4. Manually key in the figure u want to amend and save ( blue disket )
+
+            ![192](/img/report/6.png)
 
 ## Tax Benefit Info
 
-1. Process Month End
+    1. Process Month End
 
-   ![1](/img/tax-benefit/1.png)
+        ![1](/img/tax-benefit/1.png)
 
-2. Select the employee
-   (eg : Lee Chong Wai )
+    2. Select the employee (eg : Lee Chong Wai )
 
-   ![2](/img/tax-benefit/2.png)
+        ![2](/img/tax-benefit/2.png)
 
-3. Right click on an empty space and click on “Show Tax Benefit”
+    3. Right click on an empty space and click on “Show Tax Benefit”
 
-   ![3](/img/tax-benefit/3.png)
+        ![3](/img/tax-benefit/3.png)
 
-4. Insert the tax benefit and also the amount.
+    4. Insert the tax benefit and also the amount.
 
-   ![4](/img/tax-benefit/4.png)
+        ![4](/img/tax-benefit/4.png)
 
-5. Click code to select the tax benefit.
+    5. Click code to select the tax benefit.
 
-   ![5](/img/tax-benefit/5.png)
-   | Code | EA Form (Section B) |
-   | --- | --- |
-   | Motorcar | 2(a.i) |
-   | Driver | 2(a.ii) |
-   | Furnishing | 2(c.iii – Perabot dan Kelengkapan) |
-   | Entertainment | 2(c.iii – Hiburan dan Rekreasi) |
-   | Gardener | 2(d) |
-   | Servant | 2(d) |
-   | Vacation | 2(e) |
-   | Membership | 2(c.iii – Hiburan dan Rekreasi) |
-   | Miscellaneous | 2(f) |
-   | VOLA | 3 |
+        ![5](/img/tax-benefit/5.png)
 
-6. For example, I key in RM100 for “Motorcar”:
+        | Code | EA Form (Section B) |
+        | --- | --- |
+        | Motorcar | 2(a.i) |
+        | Driver | 2(a.ii) |
+        | Furnishing | 2(c.iii – Perabot dan Kelengkapan) |
+        | Entertainment | 2(c.iii – Hiburan dan Rekreasi) |
+        | Gardener | 2(d) |
+        | Servant | 2(d) |
+        | Vacation | 2(e) |
+        | Membership | 2(c.iii – Hiburan dan Rekreasi) |
+        | Miscellaneous | 2(f) |
+        | VOLA | 3 |
 
-   - Select the tax benefit/ key in amount/ Click Save
-     ![6](/img/tax-benefit/6.png)
+    6. For example, I key in RM100 for “Motorcar”:
 
-7. Now, we go to preview EA Form to check the tax benefit amount:
+        - Select the tax benefit/ key in amount/ Click Save
 
-   - Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form...
-     ![7](/img/report/1.png)
+            ![6](/img/tax-benefit/6.png)
 
-8. Select the employee and click "**Apply**":
+    7. Now, we go to preview EA Form to check the tax benefit amount:
 
-   ![8](/img/tax-benefit/7.png)
+        - Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form...
 
-9. Click preview and select any format :
+            ![7](/img/report/1.png)
 
-   ![9](/img/tax-benefit/8.png)
+    8. Select the employee and click "**Apply**":
 
-10. Check the EA Form
+        ![8](/img/tax-benefit/7.png)
 
-    **\*\*Nilai Kereta dan petrol = RM100**
-    ![10](/img/tax-benefit/9.png)
+    9. Click preview and select any format :
+
+        ![9](/img/tax-benefit/8.png)
+
+    10. Check the EA Form
+
+        **\*\*Nilai Kereta dan petrol = RM100**
+
+        ![10](/img/tax-benefit/9.png)
