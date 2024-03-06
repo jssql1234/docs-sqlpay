@@ -3,12 +3,12 @@ sidebar_position: 4
 id: bonus
 title: Bonus
 description: A guide to process bonus in SQL Payroll
-slug: /bonus
+slug: /payroll/bonus
 tags: ["SQL Payroll", "Bonus"]
 ---
 
-# Bonus
-## How to process Adhoc Bonus in SQL?
+## Process Adhoc Bonus in SQL
+
 1. Payroll | Open Pending Payroll
 
     ![1](/img/payroll/bonus/1.png)

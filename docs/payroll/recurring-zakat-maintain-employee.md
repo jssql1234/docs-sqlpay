@@ -3,11 +3,11 @@ sidebar_position: 22
 id: recurring-zakat-maintain-employee
 title: Recurring Zakat in Maintain Employee
 description: A guide to process recurring zakat in Maintain Employee
-slug: /recurring-zakat-maintain-employee
+slug: /payroll/recurring-zakat-maintain-employee
 tags: ["SQL Payroll", "Recurring", "Zakat", "Maintain Employee"]
 ---
 
-# Recurring Zakat in Maintain Employee
+## Steps & Instructions
 
 1. Go to Maintain Employee:
 

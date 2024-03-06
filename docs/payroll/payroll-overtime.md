@@ -3,177 +3,207 @@ sidebar_position: 20
 id: payroll-overtime
 title: Process Payroll with Overtime
 description: A guide to process payroll with overtime
-slug: /payroll-overtime
+slug: /payroll/payroll-overtime
 tags: ["SQL Payroll", "Overtime"]
 ---
 
-# Process Payroll with Overtime
-Click on payroll > Maintenance > Maintain Overtime
+## Process Overtime After Month End
 
-![1](/img/payroll/payroll-overtime/1.png)
+1. Click on payroll > Maintenance > Maintain Overtime
 
-Click on New,
+    ![1](/img/payroll/payroll-overtime/1.png)
 
-![2](/img/payroll/payroll-overtime/2.png)
+2. Click on New
 
-For Example, we need to calculate the overtime of our staff on normal working days hourly, we just need to click on new, put your code and description, key in the overtime rate, and select the unit type for hourly, and tick or untick those contribution will do, after done all, just save will do.
+    ![2](/img/payroll/payroll-overtime/2.png)
 
-![3](/img/payroll/payroll-overtime/3.png)
+3. Enter the code and description, key in the overtime rate, and select the unit type for hourly, and tick or untick those contribution, save after all done
 
-![4](/img/payroll/payroll-overtime/4.png)
+    ![3](/img/payroll/payroll-overtime/3.png)
 
-Do the same steps for other overtime type will do.
+    ![4](/img/payroll/payroll-overtime/4.png)
 
-![5](/img/payroll/payroll-overtime/5.png)
+4. Repeat the same steps for other overtime type.
 
-After that, when we need to process the payroll at the month end, 
+    ![5](/img/payroll/payroll-overtime/5.png)
 
-![6](/img/payroll/payroll-overtime/6.png)
+5. After that, when we need to process the payroll at the month end,
 
-Click process,
+    ![6](/img/payroll/payroll-overtime/6.png)
 
-![7](/img/payroll/payroll-overtime/7.png)
+6. Click process.
 
-It will comes to this screen, **DOUBLE CLICK** on one of the employee
+    ![7](/img/payroll/payroll-overtime/7.png)
 
-![8](/img/payroll/payroll-overtime/8.png)
+7. **DOUBLE CLICK** on one of the employee
 
-There is **OVERTIME** with blue colour word, click on it
+    ![8](/img/payroll/payroll-overtime/8.png)
 
-![9](/img/payroll/payroll-overtime/9.png)
+8. Click on the blue **OVERTIME** word
 
-At the bottom of screen, it comes out a column with overtime,
+    ![9](/img/payroll/payroll-overtime/9.png)
 
-![10](/img/payroll/payroll-overtime/10.png)
-![11](/img/payroll/payroll-overtime/11.png)
+9. The details of the overtime info will de displayed at the bottom of the application
 
-Trans Date = the date of overtime, Post Date = the date of process or the posting date, make sure you select the right employee,
+    ![10](/img/payroll/payroll-overtime/10.png)
 
-![12](/img/payroll/payroll-overtime/12.png)
+    ![11](/img/payroll/payroll-overtime/11.png)
 
-Select the code that you created,
+    - Trans Date = the date of overtime
+    - Post Date = the date of process or the posting date
 
-![13](/img/payroll/payroll-overtime/13.png)
+    ![12](/img/payroll/payroll-overtime/12.png)
 
-Key in the work unit as overtime hour, for example that day Lee Chong Wai overtime for 2 hours, just key in numbering as 2 will do,
+10. Select the code that you created,
 
-![14](/img/payroll/payroll-overtime/14.png)
+    ![13](/img/payroll/payroll-overtime/13.png)
 
-Or, you also can click on the button beside Trans Date, and tick the column name Work Unit As Time,
+11. Enter the work unit as overtime hour, for example that day Lee Chong Wai overtime for 2 hours, enter 2 into the **Work Unit** column
 
-![15](/img/payroll/payroll-overtime/15.png)
+    ![14](/img/payroll/payroll-overtime/14.png)
 
-After call out the column of Work Unit As Time, you may key in the overtime minutes also
+12. Or, you also can click on the button beside Trans Date, and tick the column name Work Unit As Time,
 
-![16](/img/payroll/payroll-overtime/16.png)
+    ![15](/img/payroll/payroll-overtime/15.png)
 
-You may click on the append for second column, and do the same steps will do,
+13. After call out the column of Work Unit As Time, you may key in the overtime in minutes
 
-![17](/img/payroll/payroll-overtime/17.png)
+    ![16](/img/payroll/payroll-overtime/16.png)
 
-Then just click on save will do, you may do on the same steps for the others employee too.
+14. You may click on the append for second column, and repeat the same steps
 
-![18](/img/payroll/payroll-overtime/18.png)  
-Done.
+    ![17](/img/payroll/payroll-overtime/17.png)
 
-**We would like to show you how to do the overtime in SQL Payroll. 1<sup>st</sup>, click on payroll, open pending payroll.**
+15. Click on save, you may repeat the same steps for the other employees
 
-![19](/img/payroll/payroll-overtime/19.png)
+    ![18](/img/payroll/payroll-overtime/18.png)
 
-When it comes to this screen, Double Click on Overtime,
 
-![20](/img/payroll/payroll-overtime/20.png)
+## Process Overtime Before Month End
 
-![21](/img/payroll/payroll-overtime/21.png)
+1. Click on payroll, open pending payroll.
 
-![22](/img/payroll/payroll-overtime/22.png)
+    ![19](/img/payroll/payroll-overtime/19.png)
 
-![23](/img/payroll/payroll-overtime/23.png)
+2. Double Click on **Overtime**
 
-![24](/img/payroll/payroll-overtime/24.png)
+    ![20](/img/payroll/payroll-overtime/20.png)
 
-![25](/img/payroll/payroll-overtime/25.png)
+3. Click on Append icon
 
-Key in the time in the work unit for time,for example Lee Chong Wai overtime for 2hours and 30minutes,just key in as reference.
+    ![21](/img/payroll/payroll-overtime/21.png)
 
-![26](/img/payroll/payroll-overtime/26.png)
+    ![22](/img/payroll/payroll-overtime/22.png)
 
-Just follow the same steps as shown above, and save will do
+4. Select employee
 
-![27](/img/payroll/payroll-overtime/27.png)
+    ![23](/img/payroll/payroll-overtime/23.png)
 
-After save, just need to close and when want to process at the month end,
+5. Select **Overtime Code**
 
-![28](/img/payroll/payroll-overtime/28.png)
+    ![24](/img/payroll/payroll-overtime/24.png)
 
-![29](/img/payroll/payroll-overtime/29.png)
+6. Tick and enable the **Work Unit As Time**
 
-Double click on the employee’s name or code,
+    ![25](/img/payroll/payroll-overtime/25.png)
 
-![30](/img/payroll/payroll-overtime/30.png)
+7. Enter the time in the work unit as time, for example Lee Chong Wai worked overtime for 2hours and 30minutes, key in as shown below.
 
-It will comes to this screen, click on the **Overtime** with blue colour words
+    ![26](/img/payroll/payroll-overtime/26.png)
 
-![31](/img/payroll/payroll-overtime/31.png)
+8. Repeat the same steps as shown above for the other overtime records and save after all done
 
-It will show the records that already key in pending payroll.
+    ![27](/img/payroll/payroll-overtime/27.png)
 
-![32](/img/payroll/payroll-overtime/32.png)  
-Done.
+9. During month end,
 
-**How to import Excel overtime format into SQL Payroll, do a table as shown in Microsoft Excel.**
+    ![28](/img/payroll/payroll-overtime/28.png)
 
-![33](/img/payroll/payroll-overtime/33.png)  
-Date = Trans Date  
-Employee = Code of Employee  
-OT = Code of Overtime that created in Maintain Overtime  
-Unit = Work Unit (count 2.50 = 150 minutes/2 and a half hours)
+    ![29](/img/payroll/payroll-overtime/29.png)
 
-After done the table, go to file,
+10. Double click on the employee’s name or code,
 
-![34](/img/payroll/payroll-overtime/34.png)
+    ![30](/img/payroll/payroll-overtime/30.png)
 
-Click on Save as,
+11. Click on the blue **Overtime** words
 
-![35](/img/payroll/payroll-overtime/35.png)
+    ![31](/img/payroll/payroll-overtime/31.png)
 
-Make sure select the CSV file type,
+12. The overtime records entered in pending payroll will be shown.
 
-![36](/img/payroll/payroll-overtime/36.png)
+    ![32](/img/payroll/payroll-overtime/32.png)
 
-![37](/img/payroll/payroll-overtime/37.png)
+## Import Excel Overtime Format into SQL Payroll
 
-![38](/img/payroll/payroll-overtime/38.png)
+1. Prepare a table in Microsoft Excel as shown in the image below.
 
-Double click on the overtime,
+    ![33](/img/payroll/payroll-overtime/33.png)
 
-![39](/img/payroll/payroll-overtime/39.png)
+    - Date = Trans Date
+    - Employee = Code of Employee
+    - OT = Code of Overtime that created in Maintain Overtime
+    - Unit = Work Unit (count 2.50 = 150 minutes/2 and a half hours)
 
-Click on the import date icon,
+2. After done the table, go to file,
 
-![40](/img/payroll/payroll-overtime/40.png)
+    ![34](/img/payroll/payroll-overtime/34.png)
 
-Click on the … (3 dots button) to select your data source,
+3. Click on Save as,
 
-![41](/img/payroll/payroll-overtime/41.png)
+    ![35](/img/payroll/payroll-overtime/35.png)
 
-![42](/img/payroll/payroll-overtime/42.png)
+4. Select CSV file type,
 
-![43](/img/payroll/payroll-overtime/43.png)
+    ![36](/img/payroll/payroll-overtime/36.png)
 
-![44](/img/payroll/payroll-overtime/44.png)
+5. Click Save
 
-![45](/img/payroll/payroll-overtime/45.png)
+    ![37](/img/payroll/payroll-overtime/37.png)
 
-Make sure you have select all the fields for the date, employee, code & workunit.
+6. Go to SQL Payroll > Payroll > Open Pending Payment...
 
-![46](/img/payroll/payroll-overtime/46.png)
+    ![38](/img/payroll/payroll-overtime/38.png)
 
-![47](/img/payroll/payroll-overtime/47.png)
+7. Double click on the Overtime
 
-![48](/img/payroll/payroll-overtime/48.png)
+    ![39](/img/payroll/payroll-overtime/39.png)
 
-![49](/img/payroll/payroll-overtime/49.png)
+8. Click on the Import Data icon
 
-Done.
+    ![40](/img/payroll/payroll-overtime/40.png)
 
+9. Click on the … (3 dots button) to select your data source,
+
+    ![41](/img/payroll/payroll-overtime/41.png)
+
+10. Select the csv file to import
+
+    ![42](/img/payroll/payroll-overtime/42.png)
+
+11. Click on the Next button
+
+    ![43](/img/payroll/payroll-overtime/43.png)
+
+12. Import from row 1, select Comma, select * for the text delimiter
+
+    ![44](/img/payroll/payroll-overtime/44.png)
+
+13. Select the field for every column
+
+    ![45](/img/payroll/payroll-overtime/45.png)
+
+14. Make sure you have select all the fields for the date, employee, code & workunit.
+
+    ![46](/img/payroll/payroll-overtime/46.png)
+
+15. Change the Import from row to **2** and click the finish button
+
+    ![47](/img/payroll/payroll-overtime/47.png)
+
+16. Click on the Close button after done importing the data
+
+    ![48](/img/payroll/payroll-overtime/48.png)
+
+17. Click on the Save icon
+
+    ![49](/img/payroll/payroll-overtime/49.png)
