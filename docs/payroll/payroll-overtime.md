@@ -78,7 +78,6 @@ tags: ["SQL Payroll", "Overtime"]
 
     ![18](/img/payroll/payroll-overtime/18.png)
 
-
 ## Process Overtime Before Month End
 
 1. Click on payroll, open pending payroll.

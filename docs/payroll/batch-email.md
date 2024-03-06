@@ -153,8 +153,9 @@ You can [CLICK HERE](https://wiki.sql.com.my/wiki/Fast_Report_-_E-Mail_Client_(B
 - **Method 2 : How to send payslip by Export to E-Mail SMTP (Batch)**
 
     :::info[note]
-    Make Sure you had create App Password
-    - If you’re using Gmail , you can [CLICK HERE](https://support.google.com/accounts/answer/185833?hl=en) to create your App Password
+        Make Sure you had create App Password
+
+        - If you’re using Gmail , you can [CLICK HERE](https://support.google.com/accounts/answer/185833?hl=en) to create your App Password
     :::
 
   1. Go to File

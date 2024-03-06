@@ -3,7 +3,7 @@ sidebar_position: 9
 id: change-payment-after-payroll
 title: How to Change Payment Method After Payroll Has Been Processes?
 description: A guide to change payment method after payroll is processed
-slug: /change-payment-after-payroll
+slug: /payroll/change-payment-after-payroll
 tags: ["SQL Payroll", "Payment Method"]
 ---
 

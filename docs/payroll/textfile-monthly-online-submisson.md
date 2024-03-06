@@ -73,7 +73,6 @@ Process your month end before get started:
 
     ![15](/img/payroll/textfile-monthly-online-submisson/15.png)
 
-
 ## PCB (LHDN e-Data PCB)
 
 [*Menu: Payroll | Print Government Report | Print Income Tax CP39*]
