@@ -3,7 +3,7 @@ sidebar_position: 4
 id: leave-module
 title: Leave Module
 description: A guide leave module for SQL Payroll
-slug: /leave-module
+slug: /leave/leave-module
 tags: ["SQL Payroll", "Leave","Leave Application","Leave Module"]
 ---
 

@@ -3,7 +3,7 @@ sidebar_position: 4
 id: leave-application-time
 title: How to make leave application as hourly
 description: A guide to make leave application hourly for SQL Payroll
-slug: /leave-application-time
+slug: /leave/leave-application-time
 tags: ["SQL Payroll", "Leave","Leave Application","Setting"]
 ---
 

@@ -3,7 +3,7 @@ sidebar_position: 4
 id: brought-foward-leave
 title: Brought Foward Leave
 description: A guide to perform leave brought foward for SQL Payroll
-slug: /brought-foward-leave
+slug: /leave/brought-foward-leave
 tags: ["SQL Payroll", "Leave","Brought Foward Leave"]
 ---
 
