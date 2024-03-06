@@ -3,7 +3,7 @@ sidebar_position: 8
 id: payroll-bulk-email
 title: Payroll Bulk Email with Password
 description: A guide to payroll bulk email module for SQL Payroll
-slug: /payroll-bulk-email
+slug: /human-resource/payroll-bulk-email
 tags: ["SQL Payroll", "Bulk Email","Payroll"]
 ---
 

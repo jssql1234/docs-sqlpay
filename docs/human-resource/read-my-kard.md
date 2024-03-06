@@ -3,7 +3,7 @@ sidebar_position: 8
 id: read-my-kard
 title: Maintain Employee Using MyKard Reader
 description: A guide to maintain employee  using MyKard reader for SQL Payroll
-slug: /read-my-kard
+slug: /human-resource/read-my-kard
 tags: ["SQL Payroll", "Employee","Maintain Employee","MyKard"]
 ---
 

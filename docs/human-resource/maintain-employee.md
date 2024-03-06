@@ -3,7 +3,7 @@ sidebar_position: 8
 id: maintain-employee
 title: Maintain Employee
 description: A guide to maintain employee for SQL Payroll
-slug: /maintain-employee
+slug: /human-resource/maintain-employee
 tags: ["SQL Payroll", "Employee","Maintain Employee"]
 ---
 

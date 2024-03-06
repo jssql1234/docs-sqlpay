@@ -3,7 +3,7 @@ sidebar_position: 8
 id: print-letter
 title: Print Appointment /Confirmation /Increment letter
 description: A guide to print Appointment/Confirmation/Increment letter for SQL Payroll
-slug: /print-letter
+slug: /human-resource/print-letter
 tags: ["SQL Payroll", "Letter","Appointment Letter","Comfirmation Letter","Increment Letter"]
 ---
 
