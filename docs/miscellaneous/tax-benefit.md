@@ -7,7 +7,7 @@ slug: /miscellaneous/tax-benefit
 tags: ["SQL Payroll", "Tax"]
 ---
 
-## How to process Tax Benefit
+### How to process Tax Benefit
 
 1. Process Month End
 

@@ -7,7 +7,7 @@ slug: /miscellaneous/employee-login
 tags: ["SQL Payroll", "Login", "Personal Info"]
 ---
 
-## How to Login as Employee
+### How to Login as Employee
 
 1. In SQL Payroll, go to **Human Resource** -> **Maintain Employee**
 
