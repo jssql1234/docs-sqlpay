@@ -7,19 +7,21 @@ slug: /leave/leave-application-time
 tags: ["SQL Payroll", "Leave","Leave Application","Setting"]
 ---
 
-## 1. Go to Leave -> Leave Application -> New Leave Application
+## Steps and Instructions
+
+### 1. Go to Leave -> Leave Application -> New Leave Application
 
 ![1](/img/leave/leave-application-time/1.png)
 
-## 2. Select the Employee's name, then press Apply Leave
+### 2. Select the Employee's name, then press Apply Leave
 
 ![2](/img/leave/leave-application-time/2.png)
 
-## 3. Insert the “Day As Time” column
+### 3. Insert the “Day As Time” column
 
 ![3](/img/leave/leave-application-time/3.png)
 
-## 4. Select the type of leave and the date of leave
+### 4. Select the type of leave and the date of leave
 
 - The Day column means that the leave is applied in number of days. Day As Time column means the hours of leave applied.
 :::tip For example:
@@ -29,7 +31,7 @@ tags: ["SQL Payroll", "Leave","Leave Application","Setting"]
 
 ![4](/img/leave/leave-application-time/4.png)
 
-## 5. Apply Hourly Leave
+### 5. Apply Hourly Leave
 
 - If a staff wants to apply 2 hours of Annual Leave, key in 02:00 in the Day as time columnandpress ENTER
 
@@ -37,10 +39,10 @@ tags: ["SQL Payroll", "Leave","Leave Application","Setting"]
 
 ![5](/img/leave/leave-application-time/5.png)
 
-## 6. Save
+### 6. Save
 
 - Press Save icon once you have keyed in the days/hours. Save is completed once the iconchanged to a grey colour
 
 ![6](/img/leave/leave-application-time/6.png)
 
-## 7. This method can be used for all leaves
+### 7. This method can be used for all leaves
