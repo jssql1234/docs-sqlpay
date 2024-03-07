@@ -7,7 +7,9 @@ slug: /payroll/zakat-tabung-haji
 tags: ["SQL Payroll", "Zakat", "Tabung Haji"]
 ---
 
-## Set Zakat & Tabung Haji
+## Steps & Instructions
+
+### Set Zakat & Tabung Haji
 
 1. Go to File -> Company Profile
 
@@ -49,7 +51,7 @@ tags: ["SQL Payroll", "Zakat", "Tabung Haji"]
 
     ![10](/img/payroll/zakat-tabung-haji/10.png)
 
-## Print Zakat Report
+### Print Zakat Report
 
 [*Menu: Payroll | Government Reports | Print Zakat..*]
 
@@ -67,7 +69,7 @@ tags: ["SQL Payroll", "Zakat", "Tabung Haji"]
 
     ![14](/img/payroll/zakat-tabung-haji/14.png)
 
-## Print Tabung Haji Report
+### Print Tabung Haji Report
 
 [*Menu: Payroll | Government Reports | Print Tabung Haji..*]
 

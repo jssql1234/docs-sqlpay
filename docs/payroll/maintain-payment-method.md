@@ -16,21 +16,23 @@ and method of paying (Cash, Cheque, Transfer)
 eg: Employee total pay = RM1234.**56**
 After auto rounding, it will become RM1234.**55**
 
-## Step 1: Navigate to the maintain payment method panel
+## Steps & Instructions
+
+### Step 1: Navigate to the maintain payment method panel
 
 ![1](/img/payroll/maintain-payment-method/1.png)
 
-## Step 2: Click new to create new payment method
+### Step 2: Click new to create new payment method
 
 ![2](/img/payroll/maintain-payment-method/2.png)
 
-## Step 3: Key in the information needed
+### Step 3: Key in the information needed
 
 ![3](/img/payroll/maintain-payment-method/3.png)
 
 ![4](/img/payroll/maintain-payment-method/4.png)
 
-## Explanation of auto rounding
+### Explanation of auto rounding
 
 - Without auto rounding
 
@@ -43,4 +45,4 @@ After auto rounding, it will become RM1234.**55**
 
 - With auto rounding
 
-![7](/img/payroll/maintain-payment-method/7.png)
+    ![7](/img/payroll/maintain-payment-method/7.png)

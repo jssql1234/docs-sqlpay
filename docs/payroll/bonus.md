@@ -9,6 +9,8 @@ tags: ["SQL Payroll", "Bonus"]
 
 ## Process Adhoc Bonus in SQL
 
+### Steps & Instructions
+
 1. Payroll | Open Pending Payroll
 
     ![1](/img/payroll/bonus/1.png)

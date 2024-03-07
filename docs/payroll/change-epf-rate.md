@@ -7,7 +7,9 @@ slug: /payroll/change-epf-rate
 tags: ["SQL Payroll", "EPF"]
 ---
 
-## Employee EPF Rate
+## Steps & Instructions
+
+### Employee EPF Rate
 
 1. Once you have logged into your SQL PAYROLL, go to Payroll -> Maintenance -> Maintain Contribution
 
@@ -29,7 +31,7 @@ tags: ["SQL Payroll", "EPF"]
 
 6. Now your Employee Contribution Rate has been set to a fixed 11% rate.
 
-## Employer EPF Rate
+### Employer EPF Rate
 
 1. Step 1 & 2 same as Employee Rate. Then go to Employer EPF rate, Delete the "A" and type out the contribution rate that you want. eg. "12%". Once that is done. Press Save.
 

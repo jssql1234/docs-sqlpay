@@ -7,11 +7,13 @@ slug: /payroll/textfile-monthly-online-submisson
 tags: ["SQL Payroll", "Text File", "Monthly","Online", "Submission"]
 ---
 
+## Steps & Instructions
+
 Process your month end before get started:
 
 ![1](/img/payroll/textfile-monthly-online-submisson/1.png)
 
-## EPF (KWSP)
+### EPF (KWSP)
 
 1. After you processing your month end, click the following buttons :
 
@@ -45,7 +47,7 @@ Process your month end before get started:
 
 8. The text file is now read for you to submit online at KWSP’s website.
 
-## SOCSO (ASSIST PERKESO)
+### SOCSO (ASSIST PERKESO)
 
 [*Menu: Payroll | Government Reports | Print SOCSO Borang 8*]
 
@@ -73,7 +75,7 @@ Process your month end before get started:
 
     ![15](/img/payroll/textfile-monthly-online-submisson/15.png)
 
-## PCB (LHDN e-Data PCB)
+### PCB (LHDN e-Data PCB)
 
 [*Menu: Payroll | Print Government Report | Print Income Tax CP39*]
 
@@ -101,7 +103,7 @@ Process your month end before get started:
 
     ![21](/img/payroll/textfile-monthly-online-submisson/21.png)
 
-## EIS (ASSIST EIS)
+### EIS (ASSIST EIS)
 
 [*Menu: Payroll | Government Reports | Print EIS Lampiran 1*]
 

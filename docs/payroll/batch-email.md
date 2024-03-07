@@ -47,13 +47,13 @@ You can [CLICK HERE](https://wiki.sql.com.my/wiki/Fast_Report_-_E-Mail_Client_(B
 
 ## Setting PDF Password
 
-- **Scenario 1 : Setting Empoyee Name 2 as password**
+### Scenario 1 : Setting Empoyee Name 2 as password
 
-    :::info[note]
-    *Only available in Version 1.2021.2066.174 & above
-    :::
+:::info[note]
+Only available in Version 1.2021.2066.174 & above
+:::
 
-  1. At Note Tab :
+1. At Note Tab :
 
      1. [UseName2] Put 1= Enable
 
@@ -61,23 +61,23 @@ You can [CLICK HERE](https://wiki.sql.com.my/wiki/Fast_Report_-_E-Mail_Client_(B
 
         ![8](/img/payroll/batch-email/8.png)
 
-  2. Under Employee profile set the password at **Name 2**
+2. Under Employee profile set the password at **Name 2**
 
-        >For Example : ***testing*** is the PDF Password
+     >For Example : ***testing*** is the PDF Password
 
     ![9](/img/payroll/batch-email/9.png)
 
-  - **Scenario 2 :  Setting Global PDF Password by UseName and ICPass**
+### Scenario 2 :  Setting Global PDF Password by UseName and ICPass
 
-    >**_UseNameICPass** - This setting is to use Employee Name and IC set as PDF password
+>**_UseNameICPass** - This setting is to use Employee Name and IC set as PDF password
 
-    1. [UseName2] set 0 = Disable, [PrivatePassword] is empty
+1. [UseName2] set 0 = Disable, [PrivatePassword] is empty
 
-    2. The first character of Employee Name (In Uppercase)
+2. The first character of Employee Name (In Uppercase)
 
-    3. Second character is @
+3. Second character is @
 
-    4. The subsequent 6 characters is the last 6 digits of NRIC or Passport Number
+4. The subsequent 6 characters is the last 6 digits of NRIC or Passport Number
 
     For example :
     >Name : LEE CHONG WEI
@@ -88,45 +88,45 @@ You can [CLICK HERE](https://wiki.sql.com.my/wiki/Fast_Report_-_E-Mail_Client_(B
 
     ![10](/img/payroll/batch-email/10.png)
 
-  - **Scenario 3 : Setting Global PDF Password**
+### Scenario 3 : Setting Global PDF Password**
 
-    >**Global PDF Password** - Set **All Employees** with the same Password
+>**Global PDF Password** - Set **All Employees** with the same Password
 
-    1. **[UseName2] set as 0 = Disable** and **[PrivatePassword]** is empty
+1. **[UseName2] set as 0 = Disable** and **[PrivatePassword]** is empty
 
-    2. Under **[Global Password]** set the PDF Password
+2. Under **[Global Password]** set the PDF Password
 
     For example as below :
     >The PDF Password is ***‘BatchEmail’***
 
     ![11](/img/payroll/batch-email/11.png)
 
-  - **Scenario 4 : Setting Private/ Individual Password**
+### Scenario 4 : Setting Private/ Individual Password**
 
-    Private Password - Each Employees got their own PDF Password
+Private Password - Each Employees got their own PDF Password
 
-    :::info[note]
-    Must set for all Employees
-    :::
+:::info[note]
+Must set for all Employees
+:::
 
-    1. [UseName2] set 0 = Disable , [GlobalPassword] is empty
+1. [UseName2] set 0 = Disable , [GlobalPassword] is empty
 
-        >Format : EmployeeCode=Password
+    >Format : EmployeeCode=Password
 
-        For Example as below :
-        >001=LEE (‘LEE’ is the PDF Password)
-        >
-        >002=KOO (‘KOO’ is the PDF Password)
+    For Example as below :
+    >001=LEE (‘LEE’ is the PDF Password)
+    >
+    >002=KOO (‘KOO’ is the PDF Password)
 
     ![12](/img/payroll/batch-email/12.png)
 
 ## Send Payslip by Batch Email
 
-- **Method 1 : How to send payslip by Export to E-Mail Client (Batch)**
+### Method 1 : How to send payslip by Export to E-Mail Client (Batch)
 
-    :::info[note]
-    Make sure your pc had install window email (Ex : Outlook or Thunderbird)
-    :::
+:::info[note]
+Make sure your pc had install window email (Ex : Outlook or Thunderbird)
+:::
 
 1. Go to Payroll> Print Pay Slip ...
 
@@ -150,47 +150,47 @@ You can [CLICK HERE](https://wiki.sql.com.my/wiki/Fast_Report_-_E-Mail_Client_(B
 
     ![17](/img/payroll/batch-email/17.png)
 
-- **Method 2 : How to send payslip by Export to E-Mail SMTP (Batch)**
+### Method 2 : How to send payslip by Export to E-Mail SMTP (Batch)
 
-    :::info[note]
-        Make Sure you had create App Password
+:::info[note]
+    Make Sure you had create App Password
 
-        - If you’re using Gmail , you can [CLICK HERE](https://support.google.com/accounts/answer/185833?hl=en) to create your App Password
-    :::
+    - If you’re using Gmail , you can [CLICK HERE](https://support.google.com/accounts/answer/185833?hl=en) to create your App Password
+:::
 
-  1. Go to File
+1. Go to File
 
-  2. Company Profile
+2. Company Profile
 
-        ![18](/img/payroll/batch-email/18.png)
+    ![18](/img/payroll/batch-email/18.png)
 
-  3. Select Email Setting
+3. Select Email Setting
 
-  4. Fill in your email detail
-        >**Password : Is your App Password
+4. Fill in your email detail
+    >**Password : Is your App Password
 
-        ![19](/img/payroll/batch-email/19.png)
+    ![19](/img/payroll/batch-email/19.png)
 
-  5. Go to Payroll
+5. Go to Payroll
 
-  6. Click Print Pay Slip..
+6. Click Print Pay Slip..
 
-        ![20](/img/payroll/batch-email/20.png)
+    ![20](/img/payroll/batch-email/20.png)
 
-  7. Filter your process you wish to batch email > Apply
+7. Filter your process you wish to batch email > Apply
 
-        ![21](/img/payroll/batch-email/21.png)
+    ![21](/img/payroll/batch-email/21.png)
 
-  8. Click ![22](/img/payroll/batch-email/22.png) Beside Printer icon
+8. Click ![22](/img/payroll/batch-email/22.png) Beside Printer icon
 
-  9. Click on Export to E-Mail SMTP (Batch)
+9. Click on Export to E-Mail SMTP (Batch)
 
-        ![23](/img/payroll/batch-email/23.png)
+    ![23](/img/payroll/batch-email/23.png)
 
-  10. Select your payslip format > OK
+10. Select your payslip format > OK
 
-        ![24](/img/payroll/batch-email/24.png)
+    ![24](/img/payroll/batch-email/24.png)
 
-  11. After click ok will prompt window and show has been sent to recipient email, mean success send out
+11. After click ok will prompt window and show has been sent to recipient email, mean success send out
 
-        ![25](/img/payroll/batch-email/25.png)
+    ![25](/img/payroll/batch-email/25.png)
