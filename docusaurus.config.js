@@ -31,6 +31,7 @@ const config = {
 
   presets: [
     [
+
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
@@ -38,6 +39,9 @@ const config = {
           routeBasePath: "/",
           sidebarPath: "./sidebars.js",
         },
+        theme: {
+          customCss: [require.resolve('./static/css/custom.css')],
+        }
       }),
     ],
   ],
@@ -81,6 +85,7 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+
     }),
   themes: [
     [
