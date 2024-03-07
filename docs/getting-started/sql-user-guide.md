@@ -39,7 +39,7 @@ tags: ["SQL Payroll", "User Guide"]
 - Customize EA form
 - Tax Benefit Info -->
 
-## How to Setup Company Profile
+### How to Setup Company Profile
 
     1. Maintain Payroll Company Profile
 
@@ -124,7 +124,7 @@ tags: ["SQL Payroll", "User Guide"]
 **10) Maintain Country** - Define the countries code, eg. MY – Malaysia, SG – Singapore, etc.
 :::
 
-## Maintain Employee
+### Maintain Employee
 
     - Whenever a new staff/worker/person/crew enter the company, Maintain Employee is the place where user needs to key in the details
 
@@ -249,7 +249,7 @@ tags: ["SQL Payroll", "User Guide"]
     3) PERKESO - SOCSO
     4) EIS (Employment insurance Scheme) -->
 
-## About EPF
+### About EPF
 
 ### WHAT IS EPF KWSP?
 
@@ -363,7 +363,7 @@ tags: ["SQL Payroll", "User Guide"]
 
         :::
 
-## SQL Payroll
+### SQL Payroll
 
     - _Payroll module is used to process the payroll and printing the necessary reports._
 
@@ -1232,7 +1232,7 @@ tags: ["SQL Payroll", "User Guide"]
 
         ![150](/img/getting-started/user-guide/150.png)
 
-## Increment Letter
+### Increment Letter
 
     1. Print Appointment/Confirmation/Increment letter
 
@@ -1276,7 +1276,7 @@ tags: ["SQL Payroll", "User Guide"]
 
                     ![158](/img/getting-started/user-guide/158.png)
 
-## Import from Excel
+### Import from Excel
 
     1. How to import Excel overtime format into SQL Payroll, do a table as shown in Microsoft Excel.
 
@@ -1338,7 +1338,7 @@ tags: ["SQL Payroll", "User Guide"]
 
         ![173](/img/getting-started/user-guide/173.png)
 
-## SQL View
+### SQL View
 
     - SQL view module is to lock certain user to view from all employees, in other word only allow handling a group of employee. For this sample, is allowing KL User to view/ edit only the employee in KL branch.
 
@@ -1374,7 +1374,7 @@ tags: ["SQL Payroll", "User Guide"]
         **If you haven’t register, you may try by turn on SQL View module under File | Customize SQL Payroll Module. Thanks.**
         :::
 
-## SQL Bonus in SQL Payroll
+### SQL Bonus in SQL Payroll
 
     1. Go to Payroll/ Open Pending Payroll
 
@@ -1418,7 +1418,7 @@ tags: ["SQL Payroll", "User Guide"]
 
         ![186](/img/getting-started/user-guide/186.png)
 
-## Customize EA form
+### Customize EA form
 
     1. **How to print EA Form**
 
@@ -1448,7 +1448,7 @@ tags: ["SQL Payroll", "User Guide"]
 
             ![192](/img/report/6.png)
 
-## Tax Benefit Info
+### Tax Benefit Info
 
     1. Process Month End
 
