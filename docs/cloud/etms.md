@@ -89,9 +89,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Click on **Edit**
 
+   ![12](/img/cloud/etms-user-guide/12.png)
+
 3. Click on **P** | **Select date of the public holiday** | **Save**
 
-   ![12](/img/cloud/etms-user-guide/12.png)
+   ![13](/img/cloud/etms-user-guide/13.png)
 
 ### 1.4 Maintain Employee
 
@@ -99,11 +101,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Double click employee that you want to do setting | **Edit**
 
-   ![13](/img/cloud/etms-user-guide/13.png)
+   ![14](/img/cloud/etms-user-guide/14.png)
 
 3. Go to **Personal** tab | Key in employee email address
 
-   ![14](/img/cloud/etms-user-guide/14.png)
+   ![15](/img/cloud/etms-user-guide/15.png)
 
 4. Go to **Grouping** tab | Select Branch
 
@@ -121,7 +123,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    :::
 
-   ![15](/img/cloud/etms-user-guide/15.png)
+   ![16](/img/cloud/etms-user-guide/16.png)
 
    :::note
 
@@ -137,7 +139,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Click on **Edit**
 
-   ![16](/img/cloud/etms-user-guide/16.png)
+   ![17](/img/cloud/etms-user-guide/17.png)
 
 3. Key in time for **Work Start** (09:00 AM) and time for **Work End** (06:00 PM)
 
@@ -145,11 +147,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    **Early Out Buffer (min)** = How many minute(s) allow can be leave early
 
-   ![17](/img/cloud/etms-user-guide/17.png)
+   ![18](/img/cloud/etms-user-guide/18.png)
 
 4. Key in **Break Time**
 
-   ![18](/img/cloud/etms-user-guide/18.png)
+   ![19](/img/cloud/etms-user-guide/18b.png)
 
    |        | Start | End |   Description    |
    |--------|-------|-----|------------------|
@@ -165,7 +167,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    - GPS Monitoring (Work Hour) - User need to turn on location every time they Clock In / Clock Out.
 
-   - GPS monitoring is for background tracking after Clock In
+      - GPS monitoring is for background tracking after Clock In
 
    - Site Photo - must take photo before Clock In / Clock Out
 
@@ -505,6 +507,8 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
       ![58](/img/cloud/etms-user-guide/58.png)
 
+      ![58b](/img/cloud/etms-user-guide/58b.png)
+
 4. Leave
 
    1. **Cloud** | **Sync Cloud**
@@ -626,9 +630,9 @@ Minimum IOS version: **IOS 14 and above**
 
 ### 4.3 Login Application with Email
 
-![72](/img/cloud/etms-user-guide/72.png)
-
 1. **Login Application with Email** | **Next**
+
+   ![72](/img/cloud/etms-user-guide/72.png)
 
 2. Check Email will receive OTP for login SQL HRMS
 
@@ -638,9 +642,9 @@ Minimum IOS version: **IOS 14 and above**
 
    :::
 
-   ![73](/img/cloud/etms-user-guide/73.png)
-
 3. **Enter OTP Code** after received email | Click **Verify**
+
+   ![73](/img/cloud/etms-user-guide/73.png)
 
 :::note
 
@@ -700,17 +704,17 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    5. Choose **Allow all the time** & **Precise Location** make sure is **ON**
 
-      ![84](/img/cloud/etms-user-guide/84.png)
+      |1. Allow all the time  |2. On the Precise Location  |
+      |--|--|
+      |  ![84](/img/cloud/etms-user-guide/84.png)  |  ![84](/img/cloud/etms-user-guide/84b.png)  |
 
    6. Done
 
 ## 4.6 Clock In
 
-![85](/img/cloud/etms-user-guide/85.png)
-
 1. Click **Clock In**
 
-   ![86](/img/cloud/etms-user-guide/86.png)
+   ![85](/img/cloud/etms-user-guide/85.png)
 
 2. **Location matched** when you are in work location | **Take Photo** | Clock In
 
@@ -718,13 +722,13 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    - When location not match, will show message **Please Clock In At XXX (Location set)**
 
+   ![86](/img/cloud/etms-user-guide/86.png)
+
 ### 4.7 Clock Out
 
 1. **Click Clock Out**
 
    ![87](/img/cloud/etms-user-guide/87.png)
-
-   ![88](/img/cloud/etms-user-guide/88.png)
 
 2. **Location Matched** | **Take Photo** | **Clock Out**
 
@@ -732,15 +736,17 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    (Key In Total OT Break Time when you OT, system will deduct the break time when calculate OT)
 
-### 4.8 Attendance Log
+   ![88](/img/cloud/etms-user-guide/88.png)
 
-![89](/img/cloud/etms-user-guide/89.png)
+### 4.8 Attendance Log
 
 1. View the duration of work for this period working days
 
-   ![90](/img/cloud/etms-user-guide/90.png)
+   ![89](/img/cloud/etms-user-guide/89.png)
 
 2. Click **Location Updates** to view time and location of clock in & clock out
+
+   ![90](/img/cloud/etms-user-guide/90.png)
 
 3. **Details of clock in & clock out**
 
@@ -756,13 +762,15 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    - Attendance Log to view employee clock in & clock out status
 
-   ![92](/img/cloud/etms-user-guide/92.png)
-
 2. Click each Status can view details of that status
 
-   ![93](/img/cloud/etms-user-guide/93.png)
+   ![92](/img/cloud/etms-user-guide/92.png)
+
+   ![92b](/img/cloud/etms-user-guide/92b.png)
 
 3. Summary of all status (Employee name will be show)
+
+   ![93](/img/cloud/etms-user-guide/93.png)
 
 ### 4.10 OT Entitlement
 

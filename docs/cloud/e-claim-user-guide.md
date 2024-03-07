@@ -151,11 +151,11 @@ User can view the summary of his leave from the employee dashboard and he can vi
 
 ![14](/img/cloud/user-guide/14.png)
 
-- Filter button (**Section 1**) : This menu allows user to filter the leave details
+- Filter button (**Highlighted in Yellow**) : This menu allows user to **filter** the leave details
 
 ![15](/img/cloud/user-guide/15.png)
 
-- Sort button (**Section 1**) : This menu allows user to sort the leave details
+- Sort button (**Highlighted in Red**) : This menu allows user to **sort** the leave details
 
 ![16](/img/cloud/user-guide/16.png)
 
@@ -170,8 +170,9 @@ This button allows user to create a new leave application after filling in the d
 ### 4.5 Leave Balance
 
 This button allows user to view his leave balance details by year and filter menu on right top allows user to filter the details based on date and department
-
-![18](/img/cloud/user-guide/18.png)
+|View | Filter |
+|---|---|
+|![18](/img/cloud/user-guide/18.png) | ![18b](/img/cloud/user-guide/18b.png)
 
 ### 4.6 Leave details
 
@@ -213,7 +214,9 @@ User are allowed to create a new claim submission by clicking the ‘**Submit cl
 
 - User are allowed to upload images and attach it to the claim submission as reference
 
-![23](/img/cloud/user-guide/23.png)
+|Screenshot 1| Screenshot 2 |
+|---|---|
+|![23](/img/cloud/user-guide/23.png) | ![23b](/img/cloud/user-guide/23b.png) |
 
 :::note
 

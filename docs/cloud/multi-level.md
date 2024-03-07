@@ -76,3 +76,5 @@ With turn on Multi-Level Approval, the leave which applied by staff required mor
    ![12](/img/cloud/multi-level/12.png)
 
    ![13](/img/cloud/multi-level/13.png)
+
+   ![14](/img/cloud/multi-level/14.png)
