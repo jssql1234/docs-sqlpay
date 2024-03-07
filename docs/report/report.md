@@ -7,7 +7,7 @@ slug: /report/report-ea
 tags: ["SQL Payroll", "EA form"]
 ---
 
-## How to print EA Form
+### How to print EA Form
 
 1. Preview EA form
 
