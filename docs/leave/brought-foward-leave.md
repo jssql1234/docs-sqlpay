@@ -31,7 +31,7 @@ tags: ["SQL Payroll", "Leave","Brought Foward Leave"]
 
 ### 4. Apply leave for employees.(may refer leave setting for more details.)
 
-    - Leave/Leave Application/Double click Current Leave
+- Leave/Leave Application/Double click Current Leave
 
  ![8](/img/leave/brought-foward-leave/8.png)
 
