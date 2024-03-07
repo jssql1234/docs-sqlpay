@@ -7,19 +7,21 @@ slug: /human-resource/print-letter
 tags: ["SQL Payroll", "Letter","Appointment Letter","Comfirmation Letter","Increment Letter"]
 ---
 
-## 1. Navigate yourself to the Maintain Employee panel
+## Steps and Instructions
+
+### 1. Navigate yourself to the Maintain Employee panel
 
 ![1](/img/human-resource/print-letter/1.png)
 
-## 2. Select the employee
+### 2. Select the employee
 
 ![2](/img/human-resource/print-letter/2.png)
 
-## 3. Click preview reports
+### 3. Click preview reports
 
 ![3](/img/human-resource/print-letter/3.png)
 
-## 4. Select the report you want by double clicking it
+### 4. Select the report you want by double clicking it
 
 ![4](/img/human-resource/print-letter/4.png)
 

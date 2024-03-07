@@ -11,11 +11,13 @@ tags: ["SQL Payroll", "Bulk Email","Payroll"]
 In order to use this, user’s computer must configure with window email first ~
 :::
 
-## 1. Human Resource | Maintain Employee |
+## Steps and Instructions
+
+### 1. Human Resource | Maintain Employee |
 
 ![1](/img/human-resource/payroll-bulk-email/1.png)
 
-## 2. Payroll | Print Payslip | Choose the month End Payslip | Apply | Preview
+### 2. Payroll | Print Payslip | Choose the month End Payslip | Apply | Preview
 
 ![2](/img/human-resource/payroll-bulk-email/2.png)
 
@@ -31,18 +33,19 @@ Error Message :
 
 ## Easy Step To use IC as PDF Password
 
-1. Human Resource | Maintain Employee
+### 1. Human Resource | Maintain Employee
 
-    ![5](/img/human-resource/payroll-bulk-email/5.png)
+![5](/img/human-resource/payroll-bulk-email/5.png)
 
-    ![6](/img/human-resource/payroll-bulk-email/6.png)
+![6](/img/human-resource/payroll-bulk-email/6.png)
 
-2. Human Resource | Maintain Employee
-    - Here are easy step for user one short enter the password into employee name
+### 2. Human Resource | Maintain Employee
 
-    ![7](/img/human-resource/payroll-bulk-email/7.png)
+- Here are easy step for user one short enter the password into employee name
 
-    ![8](/img/human-resource/payroll-bulk-email/8.png)
+![7](/img/human-resource/payroll-bulk-email/7.png)
+
+![8](/img/human-resource/payroll-bulk-email/8.png)
 
 Note :
 
