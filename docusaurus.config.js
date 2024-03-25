@@ -38,6 +38,7 @@ const config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: "./sidebars.js",
+          editUrl: 'https://github.com/eStreamSoftware/docs-sqlpay/edit/master/',
         },
         theme: {
           customCss: [require.resolve('./static/css/custom.css')],
