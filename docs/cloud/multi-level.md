@@ -17,13 +17,13 @@ With turn on Multi-Level Approval, the leave which applied by staff required mor
 
    Ticked if want to have Multi-Level approval for the leave
 
-   ![1](/img/cloud/multi-level/1.png)
+   ![1](../../static/img/cloud/multi-level/1.png)
 
 2. **Maintain Employee** -> **Manager Tab**
 
-   ![2](/img/cloud/multi-level/2.png)
+   ![2](../../static/img/cloud/multi-level/2.png)
 
-   ![2a](/img/cloud/multi-level/2a.png)
+   ![2a](../../static/img/cloud/multi-level/2a.png)
 
 ## ELeave Apps
 
@@ -31,31 +31,31 @@ With turn on Multi-Level Approval, the leave which applied by staff required mor
 
    - Allows to Verify the leave by **Can Review Manager**
 
-      ![3](/img/cloud/multi-level/3.png)
+      ![3](../../static/img/cloud/multi-level/3.png)
 
 2. **Manager can Approve only**
 
    1. Unable to approve if haven’t verify(review) by manager
 
-      ![4](/img/cloud/multi-level/4.png)
+      ![4](../../static/img/cloud/multi-level/4.png)
 
    2. Once done Verify by Can Review Manager, allows to approve / reject the leave
 
-      ![5](/img/cloud/multi-level/5.png)
+      ![5](../../static/img/cloud/multi-level/5.png)
 
 3. **Manager allows Review and Approve**
 
    1. Allow to approve without verify.
 
-      ![6](/img/cloud/multi-level/6.png)
+      ![6](../../static/img/cloud/multi-level/6.png)
 
    2. Allow to unapproved the leave
 
-      ![7](/img/cloud/multi-level/7.png)
+      ![7](../../static/img/cloud/multi-level/7.png)
 
    3. Allow to Unrejected the leave
 
-      ![8](/img/cloud/multi-level/8.png)
+      ![8](../../static/img/cloud/multi-level/8.png)
 
 ## In SQL Payroll
 
@@ -63,18 +63,18 @@ With turn on Multi-Level Approval, the leave which applied by staff required mor
 
    1. Request = Leave is pending for Verify
 
-      ![9](/img/cloud/multi-level/9.png)
+      ![9](../../static/img/cloud/multi-level/9.png)
 
    2. Pending = Leave have done Verify by **Can review Manager**
 
-      ![10](/img/cloud/multi-level/10.png)
+      ![10](../../static/img/cloud/multi-level/10.png)
 
 ## Appendix
 
-   ![11](/img/cloud/multi-level/11.png)
+   ![11](../../static/img/cloud/multi-level/11.png)
 
-   ![12](/img/cloud/multi-level/12.png)
+   ![12](../../static/img/cloud/multi-level/12.png)
 
-   ![13](/img/cloud/multi-level/13.png)
+   ![13](../../static/img/cloud/multi-level/13.png)
 
-   ![14](/img/cloud/multi-level/14.png)
+   ![14](../../static/img/cloud/multi-level/14.png)

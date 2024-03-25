@@ -45,55 +45,55 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Look for File then Company Profile
 
-            ![1](/img/getting-started/user-guide/1.png)
+            ![1](../../static/img/getting-started/user-guide/1.png)
 
         2. Click-in the “ General “ Info to update your general company profile info.
 
-            ![2](/img/getting-started/user-guide/2.png)
+            ![2](../../static/img/getting-started/user-guide/2.png)
 
         3. Click on the EPF Tab to update the info of Employer EPF.
 
-            ![3](/img/getting-started/user-guide/3.png)
+            ![3](../../static/img/getting-started/user-guide/3.png)
 
             **_This is the result if you have key-in the info and will display at report :_**
 
-            ![4](/img/getting-started/user-guide/4.png)
+            ![4](../../static/img/getting-started/user-guide/4.png)
 
         4. Click on the TAX tab to insert all the employer tax info.
 
-            ![5](/img/getting-started/user-guide/5.png)
+            ![5](../../static/img/getting-started/user-guide/5.png)
 
             **_This is the result if you have key-in the info and will display at report :_**
 
-            ![6](/img/getting-started/user-guide/6.png)
+            ![6](../../static/img/getting-started/user-guide/6.png)
 
         5. Click on the SOCSO tab to insert all the employer socso info.
 
-            ![7](/img/getting-started/user-guide/7.png)
+            ![7](../../static/img/getting-started/user-guide/7.png)
 
             **_This is the result if you have key-in the info and will display at report :_**
 
-            ![8](/img/getting-started/user-guide/8.png)
+            ![8](../../static/img/getting-started/user-guide/8.png)
 
         6. Click on the HRDF tab to insert employer’s HRDF contribution rate. (Human Resources Development Fund)
 
-            ![9](/img/getting-started/user-guide/9.png)
+            ![9](../../static/img/getting-started/user-guide/9.png)
 
         7. : Click on the Zakat tab to insert all the employer zakat info.
 
-            ![10](/img/getting-started/user-guide/10.png)
+            ![10](../../static/img/getting-started/user-guide/10.png)
 
         8. : Click on the Officer tab to insert all the employer info.
 
-            ![11](/img/getting-started/user-guide/11.png)
+            ![11](../../static/img/getting-started/user-guide/11.png)
 
-            ![12](/img/getting-started/user-guide/12.png)
+            ![12](../../static/img/getting-started/user-guide/12.png)
 
         9. Click on the Dealer tab to insert all additional info like company dealer, just a remark purpose.
 
-            ![13](/img/getting-started/user-guide/13.png)
+            ![13](../../static/img/getting-started/user-guide/13.png)
 
-            ![14](/img/getting-started/user-guide/14.png)
+            ![14](../../static/img/getting-started/user-guide/14.png)
 
 :::info
 
@@ -130,19 +130,19 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Navigate yourself to the Maintain Employee panel
 
-        ![15](/img/getting-started/user-guide/15.png)
+        ![15](../../static/img/getting-started/user-guide/15.png)
 
         **OR Click on the home page "Maintain Employee"**
 
-        ![16](/img/getting-started/user-guide/16.png)
+        ![16](../../static/img/getting-started/user-guide/16.png)
 
     2. Click new to create new employee
 
-        ![17](/img/getting-started/user-guide/17.png)
+        ![17](../../static/img/getting-started/user-guide/17.png)
 
     3. Key in the employee’s personal details
 
-        ![18](/img/getting-started/user-guide/18.png)
+        ![18](../../static/img/getting-started/user-guide/18.png)
 
         | Symbol |  Description |
         | --- | ---|
@@ -164,7 +164,7 @@ tags: ["SQL Payroll", "User Guide"]
 
     4. Key in the employee’s grouping details
 
-        ![19](/img/getting-started/user-guide/19.png)
+        ![19](../../static/img/getting-started/user-guide/19.png)
 
         | Symbol | Description |
         | --- | --- |
@@ -184,38 +184,38 @@ tags: ["SQL Payroll", "User Guide"]
 
             1. To Create new Branch / HRGroup / Department/ Category / Country/ Race
 
-                ![20](/img/getting-started/user-guide/20.png)
+                ![20](../../static/img/getting-started/user-guide/20.png)
 
-                ![21](/img/getting-started/user-guide/21.png)
+                ![21](../../static/img/getting-started/user-guide/21.png)
 
     5. Key in the employee’s spouse details in FAMILY tab.
 
-        ![22](/img/getting-started/user-guide/22.png)
+        ![22](../../static/img/getting-started/user-guide/22.png)
 
     6. Key in the employee’s payroll information
 
-        ![23](/img/getting-started/user-guide/23.png)
+        ![23](../../static/img/getting-started/user-guide/23.png)
 
-        ![24](/img/getting-started/user-guide/24.png)
+        ![24](../../static/img/getting-started/user-guide/24.png)
 
     7. Key in the employee’s monthly fix allowances/deduction .
 
-        ![25](/img/getting-started/user-guide/25.png)
-        ![26](/img/getting-started/user-guide/26.png)
+        ![25](../../static/img/getting-started/user-guide/25.png)
+        ![26](../../static/img/getting-started/user-guide/26.png)
 
         1. How to create a new allowance/deduction
 
-            ![27](/img/getting-started/user-guide/27.png)
+            ![27](../../static/img/getting-started/user-guide/27.png)
 
-            ![28](/img/getting-started/user-guide/28.png)
+            ![28](../../static/img/getting-started/user-guide/28.png)
 
     8. Add notes/remark and photo for the employee
 
-        ![29](/img/getting-started/user-guide/29.png)
+        ![29](../../static/img/getting-started/user-guide/29.png)
 
     9. History report of the employee
 
-        ![30](/img/getting-started/user-guide/30.png)
+        ![30](../../static/img/getting-started/user-guide/30.png)
 
         :::note
 
@@ -228,7 +228,7 @@ tags: ["SQL Payroll", "User Guide"]
 
     10. Add the employee’s children information (will affect tax category)
 
-        ![31](/img/getting-started/user-guide/31.png)
+        ![31](../../static/img/getting-started/user-guide/31.png)
 
     11. Add any attachment related to the employee (eg: resume, curriculum vitae, contract agreement, receipt claims etc)
 
@@ -240,7 +240,7 @@ tags: ["SQL Payroll", "User Guide"]
 
         :::
 
-        ![32](/img/getting-started/user-guide/32.png)
+        ![32](../../static/img/getting-started/user-guide/32.png)
 
 <!-- **SQL Payroll**
 
@@ -261,13 +261,13 @@ tags: ["SQL Payroll", "User Guide"]
 
 ### What Payments Are Subjected to EPF (KWSP)?
 
-    ![33](/img/getting-started/user-guide/33.png)
+    ![33](../../static/img/getting-started/user-guide/33.png)
 
 ### EPF Contribution Rate
 
-    ![34](/img/getting-started/user-guide/34.png)
+    ![34](../../static/img/getting-started/user-guide/34.png)
 
-    ![35](/img/getting-started/user-guide/35.png)
+    ![35](../../static/img/getting-started/user-guide/35.png)
 
 ### How Does SQL Payroll manage EPF contributions?
 
@@ -289,7 +289,7 @@ tags: ["SQL Payroll", "User Guide"]
 
     - If employee is above 60 years old, the employee’s EPF contribution rate will be 0% while the employer’s contribution will be 4%
 
-    ![36](/img/getting-started/user-guide/36.png)
+    ![36](../../static/img/getting-started/user-guide/36.png)
 
     **3. Are employees above the age of 75 required to contribute for EPF?**
 
@@ -303,11 +303,11 @@ tags: ["SQL Payroll", "User Guide"]
 
 ### What is Subjected to PCB?
 
-    ![37](/img/getting-started/user-guide/37.png)
+    ![37](../../static/img/getting-started/user-guide/37.png)
 
 ### Fun Facts : PCB
 
-    ![38](/img/getting-started/user-guide/38.png)
+    ![38](../../static/img/getting-started/user-guide/38.png)
 
 ### What is SOCSO?
 
@@ -317,23 +317,23 @@ tags: ["SQL Payroll", "User Guide"]
 
     - SOCSO also provides assistance to the family of the employees if death were to occur.
 
-    ![39](/img/getting-started/user-guide/39.png)
+    ![39](../../static/img/getting-started/user-guide/39.png)
 
 ### SOCSO First Category and Second Category
 
-    ![40](/img/getting-started/user-guide/40.png)
+    ![40](../../static/img/getting-started/user-guide/40.png)
 
 ### What is EIS?
 
     - EIS is **a financial scheme** aimed at helping employees who have lost their jobs. It is managed by SOCSO. EIS is meant to enable retrenched workers to gain monetary funds for the first 6 months after being retrenched.
 
-    ![41](/img/getting-started/user-guide/41.png)
+    ![41](../../static/img/getting-started/user-guide/41.png)
 
 ### EIS rate
 
     - The contribution rate for Employment Insurance System (EIS) is 0.2% for the employer and 0.2% for employee based on the employee’s monthly salary.
 
-    ![42](/img/getting-started/user-guide/42.png)
+    ![42](../../static/img/getting-started/user-guide/42.png)
 
 ### Who is subject to EIS (Employment Insurance System)?
 
@@ -433,29 +433,29 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Navigate yourself to the maintain wages panel
 
-            ![43](/img/getting-started/user-guide/43.png)
+            ![43](../../static/img/getting-started/user-guide/43.png)
 
         2. Click new to create new wages type
 
-            ![44](/img/getting-started/user-guide/44.png)
+            ![44](../../static/img/getting-started/user-guide/44.png)
 
         3. Key in the info and tick the contribution needed
 
-            ![45](/img/getting-started/user-guide/45.png)
+            ![45](../../static/img/getting-started/user-guide/45.png)
 
             Refer here for MORE info on **Maintain Wages** setting :
 
-                ![46](/img/getting-started/user-guide/46.png)
+                ![46](../../static/img/getting-started/user-guide/46.png)
 
     **2. Usual wages that are used by our users**
 
         1. Local Permanent workers
 
-            ![47](/img/getting-started/user-guide/47.png)
+            ![47](../../static/img/getting-started/user-guide/47.png)
 
         2. Foreign Worker
 
-            ![48](/img/getting-started/user-guide/48.png)
+            ![48](../../static/img/getting-started/user-guide/48.png)
 
 ### Maintain Frequency
 
@@ -465,27 +465,27 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Click on Payroll and click in to Maintenance then look for Maintain Frequency.
 
-            ![49](/img/getting-started/user-guide/49.png)
+            ![49](../../static/img/getting-started/user-guide/49.png)
 
         2. Click on New to preset your contribution, if your contribution is base on Half Month Payroll then you may refer to below :
 
-            ![50](/img/getting-started/user-guide/50.png)
+            ![50](../../static/img/getting-started/user-guide/50.png)
 
         3. After set for the maintain frequency setting, have to assign which employee is under this frequency setting. Click on maintain employee then look the for employee that you want to edit, then click on Payroll Info and look for Frequency assign accordingly.
 
-            ![51](/img/getting-started/user-guide/51.png)
+            ![51](../../static/img/getting-started/user-guide/51.png)
 
-            ![52](/img/getting-started/user-guide/52.png)
+            ![52](../../static/img/getting-started/user-guide/52.png)
 
             Check out this employee have the fixed allowance.
 
             The Employee (Nicole) has an Fixed Allowance of RM 230.
 
-            ![53](/img/getting-started/user-guide/53.png)
+            ![53](../../static/img/getting-started/user-guide/53.png)
 
         4. After Assign then when process Payroll, you have to do click on Payroll, then look for new payroll and click on frequency.
 
-            ![54](/img/getting-started/user-guide/54.png)
+            ![54](../../static/img/getting-started/user-guide/54.png)
 
             1. Select the Frequency as you Set in Maintenance Frequency (EG: Half).
 
@@ -497,15 +497,15 @@ tags: ["SQL Payroll", "User Guide"]
 
             The following result below will show in the **HALF MONTH FREQUENCY PAYROLL**.
 
-            ![55](/img/getting-started/user-guide/55.png)
+            ![55](../../static/img/getting-started/user-guide/55.png)
 
         5. When there is the time for month end, click on Payroll then look for New Payroll and click on Final Month End then process.
 
-            ![56](/img/getting-started/user-guide/56.png)
+            ![56](../../static/img/getting-started/user-guide/56.png)
 
             The following result below will show in the **MONTH END**.
 
-            ![57](/img/getting-started/user-guide/57.png)
+            ![57](../../static/img/getting-started/user-guide/57.png)
 
 ### Maintain Contribution
 
@@ -521,35 +521,35 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Click on Payroll then look for the maintenance and click on Maintain Contribution.
 
-            ![58](/img/getting-started/user-guide/58.png)
+            ![58](../../static/img/getting-started/user-guide/58.png)
 
         2. Click new to create new contribution
 
-            ![59](/img/getting-started/user-guide/59.png)
+            ![59](../../static/img/getting-started/user-guide/59.png)
 
         3. Key in the info and tick the contribution needed
 
-            ![60](/img/getting-started/user-guide/60.png)
+            ![60](../../static/img/getting-started/user-guide/60.png)
 
-            ![61](/img/getting-started/user-guide/61.png)
+            ![61](../../static/img/getting-started/user-guide/61.png)
 
         2. Usual contribution that are used by our users
 
             1. Local Permanent workers
 
-                ![62](/img/getting-started/user-guide/62.png)
+                ![62](../../static/img/getting-started/user-guide/62.png)
 
             2. Foreign Worker
 
-                ![63](/img/getting-started/user-guide/63.png)
+                ![63](../../static/img/getting-started/user-guide/63.png)
 
         3. Explanation of terms in Maintain Contribution panel
 
-            ![64](/img/getting-started/user-guide/64.png)
+            ![64](../../static/img/getting-started/user-guide/64.png)
 
-            ![65](/img/getting-started/user-guide/65.png)
+            ![65](../../static/img/getting-started/user-guide/65.png)
 
-            ![66](/img/getting-started/user-guide/66.png)
+            ![66](../../static/img/getting-started/user-guide/66.png)
 
 ### Maintain Allowance
 
@@ -563,15 +563,15 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Click on Payroll then look for the maintenance and click on Maintain Allowance.
 
-            ![67](/img/getting-started/user-guide/67.png)
+            ![67](../../static/img/getting-started/user-guide/67.png)
 
         2. Click New to generate a New Allowance.
 
-            ![68](/img/getting-started/user-guide/68.png)
+            ![68](../../static/img/getting-started/user-guide/68.png)
 
         3. Insert the info that you want to set in maintain allowance.
 
-            ![69](/img/getting-started/user-guide/69.png)
+            ![69](../../static/img/getting-started/user-guide/69.png)
 
             1. Insert the Code of the Allowance that you want to generate.
 
@@ -585,11 +585,11 @@ tags: ["SQL Payroll", "User Guide"]
 
         4. After create the master file of Allowance, then you can add the fixed allowance for certain employee which have the allowance monthly.
 
-            ![70](/img/getting-started/user-guide/70.png)
+            ![70](../../static/img/getting-started/user-guide/70.png)
 
             **OR else you can insert the allowance after process month end as below :**
 
-            ![71](/img/getting-started/user-guide/71.png)
+            ![71](../../static/img/getting-started/user-guide/71.png)
 
             1. Click on the "**Overtime**"
 
@@ -609,15 +609,15 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Click on Payroll then look for maintenance then click on Maintain Overtime.
 
-            ![72](/img/getting-started/user-guide/72.png)
+            ![72](../../static/img/getting-started/user-guide/72.png)
 
         2. By default we have been build in certain overtime according to the default but you can click on New to generate your own company overtime.
 
-            ![73](/img/getting-started/user-guide/73.png)
+            ![73](../../static/img/getting-started/user-guide/73.png)
 
         3. Key-in Overtime as below
 
-            ![74](/img/getting-started/user-guide/74.png)
+            ![74](../../static/img/getting-started/user-guide/74.png)
 
             1. Insert the Code and Description of the overtime that you want to generate.
 
@@ -629,35 +629,35 @@ tags: ["SQL Payroll", "User Guide"]
 
         4. Process the overtime with Month End first :
 
-            ![75](/img/getting-started/user-guide/75.png)
+            ![75](../../static/img/getting-started/user-guide/75.png)
 
-            ![76](/img/getting-started/user-guide/76.png)
+            ![76](../../static/img/getting-started/user-guide/76.png)
 
-            ![77](/img/getting-started/user-guide/77.png)
+            ![77](../../static/img/getting-started/user-guide/77.png)
 
                 - Click on the "**Overtime**"
 
-            ![78](/img/getting-started/user-guide/78.png)
+            ![78](../../static/img/getting-started/user-guide/78.png)
 
                 - Click on the "**+**" to add the info you want
 
-            ![79](/img/getting-started/user-guide/79.png)
+            ![79](../../static/img/getting-started/user-guide/79.png)
 
                 - Click on the "**Code**"to choose the overtime type
 
-            ![80](/img/getting-started/user-guide/80.png)
+            ![80](../../static/img/getting-started/user-guide/80.png)
 
                 - Key in the work unit as overtime hour, for example that day Lee Chong Wai overtime for 2 hours, just key in numbering as 2 will do
 
-            ![81](/img/getting-started/user-guide/81.png)
+            ![81](../../static/img/getting-started/user-guide/81.png)
 
             Or, you also can click on the button beside Trans Date, and tick the column name Work Unit As Time
 
-            ![82](/img/getting-started/user-guide/82.png)
+            ![82](../../static/img/getting-started/user-guide/82.png)
 
                 - After call out the column of Work Unit As Time, you may key in the overtime minutes also, eg: 2 hours and 09 mins as below :
 
-                    ![83](/img/getting-started/user-guide/83.png)
+                    ![83](../../static/img/getting-started/user-guide/83.png)
 
 ### Maintain Payment Method
 
@@ -674,38 +674,38 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Navigate yourself to the maintain payment method panel
 
-            ![84](/img/getting-started/user-guide/84.png)
+            ![84](../../static/img/getting-started/user-guide/84.png)
 
         2. Click new to create new payment method
 
-            ![85](/img/getting-started/user-guide/85.png)
+            ![85](../../static/img/getting-started/user-guide/85.png)
 
         3. Key in the information needed
 
-            ![86](/img/getting-started/user-guide/86.png)
+            ![86](../../static/img/getting-started/user-guide/86.png)
 
-            ![87](/img/getting-started/user-guide/87.png)
+            ![87](../../static/img/getting-started/user-guide/87.png)
 
     2. Explanation of auto rounding
 
         1. Without auto rounding
-            ![88](/img/getting-started/user-guide/88.png)
+            ![88](../../static/img/getting-started/user-guide/88.png)
 
             **After month end will show no adjustment.**
 
             However, adjustment can be manually change by clicking the up/down arrow beside the adjustment.
 
-            ![89](/img/getting-started/user-guide/89.png)
+            ![89](../../static/img/getting-started/user-guide/89.png)
 
         2. With auto rounding
 
-            ![90](/img/getting-started/user-guide/90.png)
+            ![90](../../static/img/getting-started/user-guide/90.png)
 
             **After month end will have auto adjustment to nearest 5 cents.**
 
-            ![91](/img/getting-started/user-guide/91.png)
+            ![91](../../static/img/getting-started/user-guide/91.png)
 
-            ![92](/img/getting-started/user-guide/92.png)
+            ![92](../../static/img/getting-started/user-guide/92.png)
 
     3. Process Salary
 
@@ -742,7 +742,7 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Click into payroll then look for new payroll.
 
-        ![93](/img/getting-started/user-guide/93.png)
+        ![93](../../static/img/getting-started/user-guide/93.png)
 
         1. Certain company their payroll cut off date will not in the month end, some of the company will according to the 26th of the month, so you can preset your own company payroll cut off date through the “ ...” button.
 
@@ -754,9 +754,9 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Click into payroll then look for Open Payroll or from the home page.
 
-        ![94](/img/getting-started/user-guide/94.png)
+        ![94](../../static/img/getting-started/user-guide/94.png)
 
-        ![95](/img/getting-started/user-guide/95.png)
+        ![95](../../static/img/getting-started/user-guide/95.png)
 
         You can double click your employee name to check on its individual’s amount
 
@@ -766,15 +766,15 @@ tags: ["SQL Payroll", "User Guide"]
 
         **BATCH 1**
 
-        ![96](/img/getting-started/user-guide/96.png)
+        ![96](../../static/img/getting-started/user-guide/96.png)
 
-        ![97](/img/getting-started/user-guide/97.png)
+        ![97](../../static/img/getting-started/user-guide/97.png)
 
         **BATCH 2**
 
-        ![98](/img/getting-started/user-guide/98.png)
+        ![98](../../static/img/getting-started/user-guide/98.png)
 
-        ![99](/img/getting-started/user-guide/99.png)
+        ![99](../../static/img/getting-started/user-guide/99.png)
         :::
 
 ### Open Pending Payroll
@@ -783,29 +783,29 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Click into payroll then look for Open Pending Payroll.
 
-        ![100](/img/getting-started/user-guide/100.png)
+        ![100](../../static/img/getting-started/user-guide/100.png)
 
     2. Double Click on the info that you want to input, eg: Overtime.
 
-        ![101](/img/getting-started/user-guide/101.png)
+        ![101](../../static/img/getting-started/user-guide/101.png)
 
     3. Insert the info accordingly
 
         1. Press on the "**+**" button to insert the info.
 
-            ![102](/img/getting-started/user-guide/102.png)
+            ![102](../../static/img/getting-started/user-guide/102.png)
 
         2. Insert the info accordingly like employee, overtime code, work unit etc
 
-            ![103](/img/getting-started/user-guide/103.png)
+            ![103](../../static/img/getting-started/user-guide/103.png)
 
         3. Once update accordingly then save.
 
-            ![104](/img/getting-started/user-guide/104.png)
+            ![104](../../static/img/getting-started/user-guide/104.png)
 
     4. Once update you may process the month end and see the result.
 
-        ![105](/img/getting-started/user-guide/105.png)
+        ![105](../../static/img/getting-started/user-guide/105.png)
 
 ### Payroll Report
 
@@ -883,27 +883,27 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Point to “Leave” tab and select “Maintain Leave Type”
 
-        ![106](/img/getting-started/user-guide/106.png)
+        ![106](../../static/img/getting-started/user-guide/106.png)
 
     2. Click on “New” button on the upper right corner to create new leave type
 
-        ![107](/img/getting-started/user-guide/107.png)
+        ![107](../../static/img/getting-started/user-guide/107.png)
 
     3. Insert the info such as code, description, caption, Is Entitle or not then SAVE.
 
-        ![108](/img/getting-started/user-guide/108.png)
+        ![108](../../static/img/getting-started/user-guide/108.png)
 
-        ![109](/img/getting-started/user-guide/109.png)
+        ![109](../../static/img/getting-started/user-guide/109.png)
 
 ### Maintain Leave Group
 
     1. Firstly, point to “Leave” tab and select “Maintain Leave Group”
 
-        ![110](/img/getting-started/user-guide/110.png)
+        ![110](../../static/img/getting-started/user-guide/110.png)
 
     2. Click on “New” button on the upper right corner to create new leave group.
 
-        ![111](/img/getting-started/user-guide/111.png)
+        ![111](../../static/img/getting-started/user-guide/111.png)
 
     3. Assign code for your new leave group.
 
@@ -911,7 +911,7 @@ tags: ["SQL Payroll", "User Guide"]
 
         - Click on the “+” button to select the entitled leave type for this parrcular leave group.
 
-            ![112](/img/getting-started/user-guide/112.png)
+            ![112](../../static/img/getting-started/user-guide/112.png)
 
     4. Taking “Annual Leave (AL)” as an example.
 
@@ -923,11 +923,11 @@ tags: ["SQL Payroll", "User Guide"]
         | 3 to 4                  | 12                           |
         | > 4                     | 16                           |
 
-        ![113](/img/getting-started/user-guide/113.png)
+        ![113](../../static/img/getting-started/user-guide/113.png)
 
     5. If your company does not follow the default annual leave setting, you can always customise your own calculation by click on the "Edit" then on the entitle column, it will appear 3 dots button, just click on 3 dots button as shown on below.
 
-        ![114](/img/getting-started/user-guide/114.png)
+        ![114](../../static/img/getting-started/user-guide/114.png)
 
         1. For example, your company complies to the calculation as below.
 
@@ -945,7 +945,7 @@ tags: ["SQL Payroll", "User Guide"]
             | 3 | 4 | 12 |
             | 5 | 99 | 18 |
 
-            ![115](/img/getting-started/user-guide/115.png)
+            ![115](../../static/img/getting-started/user-guide/115.png)
 
             Click “ **OK** ” then you will come to this.
 
@@ -953,15 +953,15 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. point to “ **Human Resource** ” tab and select “ **Maintain employee** ”
 
-            ![116](/img/getting-started/user-guide/116.png)
+            ![116](../../static/img/getting-started/user-guide/116.png)
 
         2. Select relevant employee. eg: Nicole. Click “Edit”
 
-            ![117](/img/getting-started/user-guide/117.png)
+            ![117](../../static/img/getting-started/user-guide/117.png)
 
         3. Click on “ **Grouping** ” tab, and you will see “ **Leave Group** ”.
 
-            ![118](/img/getting-started/user-guide/118.png)
+            ![118](../../static/img/getting-started/user-guide/118.png)
 
         4. Assign relevant leave group.
 
@@ -969,7 +969,7 @@ tags: ["SQL Payroll", "User Guide"]
 
             Then, Click “ Save ”
 
-            ![119](/img/getting-started/user-guide/119.png)
+            ![119](../../static/img/getting-started/user-guide/119.png)
 
 ### Leave Application
 
@@ -1005,29 +1005,29 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. First, point to “ **Leave** ” and click on “ **Leave Application** ”
 
-            ![120](/img/getting-started/user-guide/120.png)
+            ![120](../../static/img/getting-started/user-guide/120.png)
 
         2. Select the year. eg: Year 2024
 
-            ![121](/img/getting-started/user-guide/121.png)
+            ![121](../../static/img/getting-started/user-guide/121.png)
 
         3. Point to the name of employee and click into it. eg: Lee Chong Wai
 
-            ![122](/img/getting-started/user-guide/122.png)
+            ![122](../../static/img/getting-started/user-guide/122.png)
 
         4. Click on the “+” button. A row will appear in the display box where you can select the date, type of leave and number of day as how your employee applied. Click “Save” once the application is done.
 
-            ![123](/img/getting-started/user-guide/123.png)
+            ![123](../../static/img/getting-started/user-guide/123.png)
 
-            ![124](/img/getting-started/user-guide/124.png)
+            ![124](../../static/img/getting-started/user-guide/124.png)
 
         5. If your employee applies for half day leave or leave calculated in hours, call out “Time In Minutes” column. 1 working day has 8 working hours.
 
-            ![125](/img/getting-started/user-guide/125.png)
+            ![125](../../static/img/getting-started/user-guide/125.png)
 
         6. Select the duration of the leave. eg: 3 hours. Then system will automatically calculate the number of day as 0.38 day.
 
-            ![126](/img/getting-started/user-guide/126.png)
+            ![126](../../static/img/getting-started/user-guide/126.png)
 
 ### Leave Entitlement Processor
 
@@ -1035,19 +1035,19 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Leave entitlement process can be done once a year. First, point to “Leave” and click on “Leave Entitlement Processor”.
 
-        ![127](/img/getting-started/user-guide/127.png)
+        ![127](../../static/img/getting-started/user-guide/127.png)
 
     2. Select the Transaction Posting Year. eg: 2024. And click “Process”
 
-        ![128](/img/getting-started/user-guide/128.png)
+        ![128](../../static/img/getting-started/user-guide/128.png)
 
     3. You will see a table clearly stating the number of leave each and every employee entitled in the year 2024.
 
-        ![129](/img/getting-started/user-guide/129.png)
+        ![129](../../static/img/getting-started/user-guide/129.png)
 
     4. System allows you to edit the number of day. Click “ **Save** ” when the setting is done.
 
-        ![130](/img/getting-started/user-guide/130.png)
+        ![130](../../static/img/getting-started/user-guide/130.png)
 
 ### Leave Report
 
@@ -1114,40 +1114,40 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Make sure in Leave Type brought forward (BF) is ticked.
 
-        ![106](/img/getting-started/user-guide/106.png)
+        ![106](../../static/img/getting-started/user-guide/106.png)
 
-        ![131](/img/getting-started/user-guide/131.png)
+        ![131](../../static/img/getting-started/user-guide/131.png)
 
     2. Make sure there is calculation for amount of leave brought forward (BF).
 
-        ![110](/img/getting-started/user-guide/110.png)
+        ![110](../../static/img/getting-started/user-guide/110.png)
 
     3. Key in leave entitlement (may refer leave setting guide)
 
-        ![127](/img/getting-started/user-guide/127.png)
+        ![127](../../static/img/getting-started/user-guide/127.png)
 
-        ![132](/img/getting-started/user-guide/132.png)
+        ![132](../../static/img/getting-started/user-guide/132.png)
 
-        ![133](/img/getting-started/user-guide/133.png)
+        ![133](../../static/img/getting-started/user-guide/133.png)
 
     4. Apply leave for employees.(may refer leave setting for more details.)
 
         - Leave/Leave Application/Double click Current Leave
 
-            ![134](/img/getting-started/user-guide/134.png)
+            ![134](../../static/img/getting-started/user-guide/134.png)
 
-            ![135](/img/getting-started/user-guide/135.png)
+            ![135](../../static/img/getting-started/user-guide/135.png)
 
-            ![136](/img/getting-started/user-guide/136.png)
+            ![136](../../static/img/getting-started/user-guide/136.png)
 
     5. Preview Leave Balance Report
 
         - Leave/Print Leave Balance Report
-            ![137](/img/getting-started/user-guide/137.png)
+            ![137](../../static/img/getting-started/user-guide/137.png)
 
     6. Open Leave Entitlement for 2016(Repeat step 2)
 
-        ![138](/img/getting-started/user-guide/138.png)
+        ![138](../../static/img/getting-started/user-guide/138.png)
 
 ### Where to key-in PCB Receipt?
 
@@ -1155,15 +1155,15 @@ tags: ["SQL Payroll", "User Guide"]
 
     2. For an example with this Month (June) with **PCB amount** of **RM1444.90**.
 
-        ![139](/img/getting-started/user-guide/139.png)
+        ![139](../../static/img/getting-started/user-guide/139.png)
 
     3. Right click on the particular Month End process and click Tax Receipt...
 
-        ![140](/img/getting-started/user-guide/140.png)
+        ![140](../../static/img/getting-started/user-guide/140.png)
 
     4. The Following screen will be seen,
 
-        ![141](/img/getting-started/user-guide/141.png)
+        ![141](../../static/img/getting-started/user-guide/141.png)
 
         1. Enter the Receipt Date.
 
@@ -1171,17 +1171,17 @@ tags: ["SQL Payroll", "User Guide"]
 
         3. Press calculate amount to show the total amount of PCB u paid that month.
 
-            ![142](/img/getting-started/user-guide/142.png)
+            ![142](../../static/img/getting-started/user-guide/142.png)
 
     5. The **TOTAL** PCB Normal amount of the employees which is **RM 1444.90**.
 
     6. Next, go to Payroll → Ad Hoc Reports → Print Income Tax PCB 2(II)...
 
-        ![143](/img/getting-started/user-guide/143.png)
+        ![143](../../static/img/getting-started/user-guide/143.png)
 
     7. Preview the employees Tax PCB 2(II). The following result will show in the report.
 
-        ![144](/img/getting-started/user-guide/144.png)
+        ![144](../../static/img/getting-started/user-guide/144.png)
 
 ### Opening Balance for Employee
 
@@ -1193,23 +1193,23 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Navigate yourself to the open payroll
 
-            ![94](/img/getting-started/user-guide/94.png)
+            ![94](../../static/img/getting-started/user-guide/94.png)
 
         2. Double click the year in open payroll
 
-            ![145](/img/getting-started/user-guide/145.png)
+            ![145](../../static/img/getting-started/user-guide/145.png)
 
         3. Double click the transaction under ‘Opening’
 
-            ![146](/img/getting-started/user-guide/146.png)
+            ![146](../../static/img/getting-started/user-guide/146.png)
 
         4. Select the employee by double clicking on its name
 
-            ![147](/img/getting-started/user-guide/147.png)
+            ![147](../../static/img/getting-started/user-guide/147.png)
 
         5. Key in all the employee’s opening balance information
 
-            ![148](/img/getting-started/user-guide/148.png)
+            ![148](../../static/img/getting-started/user-guide/148.png)
 
             :::info
             For the General part can enter information accordign to the EA form
@@ -1220,7 +1220,7 @@ tags: ["SQL Payroll", "User Guide"]
 
     2. Mapping of SQL ‘opening’ to EA form
 
-        ![149](/img/getting-started/user-guide/149.png)
+        ![149](../../static/img/getting-started/user-guide/149.png)
 
     3. Special note for additional EPF and additional PCB
 
@@ -1230,7 +1230,7 @@ tags: ["SQL Payroll", "User Guide"]
 
         - However, SQL recommend users to split the amount for a more detail input.
 
-        ![150](/img/getting-started/user-guide/150.png)
+        ![150](../../static/img/getting-started/user-guide/150.png)
 
 ### Increment Letter
 
@@ -1238,15 +1238,15 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. Navigate yourself to the Maintain Employee panel
 
-            ![15](/img/getting-started/user-guide/15.png)
+            ![15](../../static/img/getting-started/user-guide/15.png)
 
             **OR Click on the home page "Maintain Employee"**
 
-                ![16](/img/getting-started/user-guide/16.png)
+                ![16](../../static/img/getting-started/user-guide/16.png)
 
         2. Select the employee
 
-            ![151](/img/getting-started/user-guide/151.png)
+            ![151](../../static/img/getting-started/user-guide/151.png)
 
             :::tip
             To learn how to key in new employee, please view the Maintain Employee guide.
@@ -1254,33 +1254,33 @@ tags: ["SQL Payroll", "User Guide"]
 
         3. Click preview reports
 
-            ![152](/img/getting-started/user-guide/152.png)
+            ![152](../../static/img/getting-started/user-guide/152.png)
 
         4. Select the report you want by double clicking it
 
-            ![153](/img/getting-started/user-guide/153.png)
+            ![153](../../static/img/getting-started/user-guide/153.png)
 
-            ![154](/img/getting-started/user-guide/154.png)
+            ![154](../../static/img/getting-started/user-guide/154.png)
 
-            ![155](/img/getting-started/user-guide/155.png)
+            ![155](../../static/img/getting-started/user-guide/155.png)
 
-            ![156](/img/getting-started/user-guide/156.png)
+            ![156](../../static/img/getting-started/user-guide/156.png)
 
             1. **This is the example of the appointment letter**
 
-                ![157](/img/getting-started/user-guide/157.png)
+                ![157](../../static/img/getting-started/user-guide/157.png)
 
                 **Special note:**
 
                 For increment letter, make sure increment is set in **history** in order for the report to work
 
-                    ![158](/img/getting-started/user-guide/158.png)
+                    ![158](../../static/img/getting-started/user-guide/158.png)
 
 ### Import from Excel
 
     1. How to import Excel overtime format into SQL Payroll, do a table as shown in Microsoft Excel.
 
-        ![159](/img/getting-started/user-guide/159.png)
+        ![159](../../static/img/getting-started/user-guide/159.png)
 
         :::tip
         Date = Trans Date
@@ -1294,49 +1294,49 @@ tags: ["SQL Payroll", "User Guide"]
 
     2. After done the table, go to file,
 
-        ![160](/img/getting-started/user-guide/160.png)
+        ![160](../../static/img/getting-started/user-guide/160.png)
 
     3. Click on Save as,
 
-        ![161](/img/getting-started/user-guide/161.png)
+        ![161](../../static/img/getting-started/user-guide/161.png)
 
     4. Make sure select the CSV file Type,
 
-        ![162](/img/getting-started/user-guide/162.png)
+        ![162](../../static/img/getting-started/user-guide/162.png)
 
-        ![163](/img/getting-started/user-guide/163.png)
+        ![163](../../static/img/getting-started/user-guide/163.png)
 
-        ![100](/img/getting-started/user-guide/100.png)
+        ![100](../../static/img/getting-started/user-guide/100.png)
 
     5. Double click on the overtime,
 
-        ![101](/img/getting-started/user-guide/101.png)
+        ![101](../../static/img/getting-started/user-guide/101.png)
 
     6. Click on the import data icon,
 
-        ![164](/img/getting-started/user-guide/164.png)
+        ![164](../../static/img/getting-started/user-guide/164.png)
 
     7. Click on the ... (3 dots button) to select your data source,
 
-        ![165](/img/getting-started/user-guide/165.png)
+        ![165](../../static/img/getting-started/user-guide/165.png)
 
-        ![166](/img/getting-started/user-guide/166.png)
+        ![166](../../static/img/getting-started/user-guide/166.png)
 
-        ![167](/img/getting-started/user-guide/167.png)
+        ![167](../../static/img/getting-started/user-guide/167.png)
 
-        ![168](/img/getting-started/user-guide/168.png)
+        ![168](../../static/img/getting-started/user-guide/168.png)
 
-        ![169](/img/getting-started/user-guide/169.png)
+        ![169](../../static/img/getting-started/user-guide/169.png)
 
     8. Make sure you have select all the fields for the date, employee, code & workunit.
 
-        ![170](/img/getting-started/user-guide/170.png)
+        ![170](../../static/img/getting-started/user-guide/170.png)
 
-        ![171](/img/getting-started/user-guide/171.png)
+        ![171](../../static/img/getting-started/user-guide/171.png)
 
-        ![172](/img/getting-started/user-guide/172.png)
+        ![172](../../static/img/getting-started/user-guide/172.png)
 
-        ![173](/img/getting-started/user-guide/173.png)
+        ![173](../../static/img/getting-started/user-guide/173.png)
 
 ### SQL View
 
@@ -1344,19 +1344,19 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Tools -> DIY -> Maintain DIY
 
-        ![174](/img/getting-started/user-guide/174.png)
+        ![174](../../static/img/getting-started/user-guide/174.png)
 
     2. Click on the "New View Template" and fill in the condition
 
-        ![175](/img/getting-started/user-guide/175.png)
+        ![175](../../static/img/getting-started/user-guide/175.png)
 
     3.
 
-        ![176](/img/getting-started/user-guide/176.png)
+        ![176](../../static/img/getting-started/user-guide/176.png)
 
     4.
 
-        ![177](/img/getting-started/user-guide/177.png)
+        ![177](../../static/img/getting-started/user-guide/177.png)
 
     5. Re-Logon as KL User.
 
@@ -1364,11 +1364,11 @@ tags: ["SQL Payroll", "User Guide"]
 
         1. **Before :**
 
-            ![178](/img/getting-started/user-guide/178.png)
+            ![178](../../static/img/getting-started/user-guide/178.png)
 
         2. **After :**
 
-            ![179](/img/getting-started/user-guide/179.png)
+            ![179](../../static/img/getting-started/user-guide/179.png)
 
         :::note
         **If you haven’t register, you may try by turn on SQL View module under File | Customize SQL Payroll Module. Thanks.**
@@ -1378,11 +1378,11 @@ tags: ["SQL Payroll", "User Guide"]
 
     1. Go to Payroll/ Open Pending Payroll
 
-        ![100](/img/getting-started/user-guide/100.png)
+        ![100](../../static/img/getting-started/user-guide/100.png)
 
     2. Click on Bonus
 
-        ![180](/img/getting-started/user-guide/180.png)
+        ![180](../../static/img/getting-started/user-guide/180.png)
 
         1. Click “Add”
 
@@ -1392,31 +1392,31 @@ tags: ["SQL Payroll", "User Guide"]
 
         4. Save
 
-        ![181](/img/getting-started/user-guide/181.png)
+        ![181](../../static/img/getting-started/user-guide/181.png)
 
     3. Go to Payroll/ New Payroll/ Click on Ad Hoc
 
-        ![182](/img/getting-started/user-guide/182.png)
+        ![182](../../static/img/getting-started/user-guide/182.png)
 
     4. Tick EPF if you want to deduct EPF
 
         Tick PCB if you want to deduct PCB
 
-        ![183](/img/getting-started/user-guide/183.png)
+        ![183](../../static/img/getting-started/user-guide/183.png)
 
     5. Tick Bonus/ Allowance (To input your amount)
 
-        ![184](/img/getting-started/user-guide/184.png)
+        ![184](../../static/img/getting-started/user-guide/184.png)
 
         1. Change the Description \*Optional
 
         2. Tick the employee you give the bonus
 
-        ![185](/img/getting-started/user-guide/185.png)
+        ![185](../../static/img/getting-started/user-guide/185.png)
 
     6. Complete/ Check the pay slip
 
-        ![186](/img/getting-started/user-guide/186.png)
+        ![186](../../static/img/getting-started/user-guide/186.png)
 
 ### Customize EA form
 
@@ -1426,49 +1426,49 @@ tags: ["SQL Payroll", "User Guide"]
 
             - Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form...
 
-                ![187](/img/report/1.png)
+                ![187](../../static/img/report/1.png)
 
         2. Fill in the details in red box and click "**Apply**"
 
-            ![188](/img/report/2.png)
+            ![188](../../static/img/report/2.png)
 
         3. If you want to amend the figure in EA form:
 
             - Click on Customise EA form
 
-                ![189](/img/report/3.png)
+                ![189](../../static/img/report/3.png)
             - Then select the employee to amend and click "**Customize**"
 
-                ![190](/img/report/4.png)
+                ![190](../../static/img/report/4.png)
             - Employee after amend will be in yellow colour.
 
-                ![191](/img/report/5.png)
+                ![191](../../static/img/report/5.png)
 
         4. Manually key in the figure u want to amend and save ( blue disket )
 
-            ![192](/img/report/6.png)
+            ![192](../../static/img/report/6.png)
 
 ### Tax Benefit Info
 
     1. Process Month End
 
-        ![1](/img/tax-benefit/1.png)
+        ![1](../../static/img/tax-benefit/1.png)
 
     2. Select the employee (eg : Lee Chong Wai )
 
-        ![2](/img/tax-benefit/2.png)
+        ![2](../../static/img/tax-benefit/2.png)
 
     3. Right click on an empty space and click on “Show Tax Benefit”
 
-        ![3](/img/tax-benefit/3.png)
+        ![3](../../static/img/tax-benefit/3.png)
 
     4. Insert the tax benefit and also the amount.
 
-        ![4](/img/tax-benefit/4.png)
+        ![4](../../static/img/tax-benefit/4.png)
 
     5. Click code to select the tax benefit.
 
-        ![5](/img/tax-benefit/5.png)
+        ![5](../../static/img/tax-benefit/5.png)
 
         | Code | EA Form (Section B) |
         | --- | --- |
@@ -1487,24 +1487,24 @@ tags: ["SQL Payroll", "User Guide"]
 
         - Select the tax benefit/ key in amount/ Click Save
 
-            ![6](/img/tax-benefit/6.png)
+            ![6](../../static/img/tax-benefit/6.png)
 
     7. Now, we go to preview EA Form to check the tax benefit amount:
 
         - Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form...
 
-            ![7](/img/report/1.png)
+            ![7](../../static/img/report/1.png)
 
     8. Select the employee and click "**Apply**":
 
-        ![8](/img/tax-benefit/7.png)
+        ![8](../../static/img/tax-benefit/7.png)
 
     9. Click preview and select any format :
 
-        ![9](/img/tax-benefit/8.png)
+        ![9](../../static/img/tax-benefit/8.png)
 
     10. Check the EA Form
 
         **\*\*Nilai Kereta dan petrol = RM100**
 
-        ![10](/img/tax-benefit/9.png)
+        ![10](../../static/img/tax-benefit/9.png)

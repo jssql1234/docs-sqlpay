@@ -23,7 +23,7 @@ For example,
     1. Working Day Per Month = 1
     2. Working Hour Per Day = 8
 
-    ![1](/img/payroll/daily-pay-method/1.png)
+    ![1](../../static/img/payroll/daily-pay-method/1.png)
 
 ### STEP 2 : INPUT THE DAILY RATE IN MAINTAIN EMPLOYEE
 
@@ -32,7 +32,7 @@ For example,
 1. Input the daily rate (RM16.00 per day) in the Wages field.
 2. Set the contribution to “DAILY”.
 
-    ![2](/img/payroll/daily-pay-method/2.png)
+    ![2](../../static/img/payroll/daily-pay-method/2.png)
 
 ### STEP 3 : OPEN PENDING PAYROLL – WAGES
 
@@ -43,7 +43,7 @@ For example,
     1. Work unit = 1 day
     2. Rate = RM16.00 per day
 
-    ![3](/img/payroll/daily-pay-method/3.png)
+    ![3](../../static/img/payroll/daily-pay-method/3.png)
 
 ### STEP 4 : OPEN PENDING PAYROLL – OVERTIME
 
@@ -55,20 +55,20 @@ For example,
     2. Work Unit = No.of hours (OT)
     3. Rate = 1.5 rate per hour (OT)
 
-    ![4](/img/payroll/daily-pay-method/4.png)
+    ![4](../../static/img/payroll/daily-pay-method/4.png)
 
 ### STEP 5 : FINAL PAYROLL PROCESS
 
 [Path: Payroll | New Payroll…]
 
 1. Click on Final followed by Process button.
-    ![5](/img/payroll/daily-pay-method/5.png)
+    ![5](../../static/img/payroll/daily-pay-method/5.png)
 
 ### STEP 6 : CHECK TO THE WAGES RECORDS
 
 1. Click on the Wages to retrieve the detailed wages records.
 2. You will see the records are posted from wages pending for the month.
-    ![6](/img/payroll/daily-pay-method/6.png)
+    ![6](../../static/img/payroll/daily-pay-method/6.png)
 
 ### STEP 7 : CHECK TO THE OVERTIME RECORDS
 
@@ -89,4 +89,4 @@ Therefore, the overtime calculation is
 |HW15|4hrs|1.5|2.00|RM2.00 x 1.5 = RM3.00|RM3.00 x 4 hrs = RM12.00|
 |HW15|4hrs|1.5|2.00|RM2.00 x 1.5 = RM3.00|RM3.00 x 3 hrs = RM9.00|
 
-![7](/img/payroll/daily-pay-method/7.png)
+![7](../../static/img/payroll/daily-pay-method/7.png)

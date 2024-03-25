@@ -20,29 +20,29 @@ After auto rounding, it will become RM1234.**55**
 
 ### Step 1: Navigate to the maintain payment method panel
 
-![1](/img/payroll/maintain-payment-method/1.png)
+![1](../../static/img/payroll/maintain-payment-method/1.png)
 
 ### Step 2: Click new to create new payment method
 
-![2](/img/payroll/maintain-payment-method/2.png)
+![2](../../static/img/payroll/maintain-payment-method/2.png)
 
 ### Step 3: Key in the information needed
 
-![3](/img/payroll/maintain-payment-method/3.png)
+![3](../../static/img/payroll/maintain-payment-method/3.png)
 
-![4](/img/payroll/maintain-payment-method/4.png)
+![4](../../static/img/payroll/maintain-payment-method/4.png)
 
 ### Explanation of auto rounding
 
 - Without auto rounding
 
-    ![5](/img/payroll/maintain-payment-method/5.png)
+    ![5](../../static/img/payroll/maintain-payment-method/5.png)
 
     After month end will show no adjustment.
     However, adjustment can be manually change by clicking the up/down arrow beside it
 
-    ![6](/img/payroll/maintain-payment-method/6.png)
+    ![6](../../static/img/payroll/maintain-payment-method/6.png)
 
 - With auto rounding
 
-    ![7](/img/payroll/maintain-payment-method/7.png)
+    ![7](../../static/img/payroll/maintain-payment-method/7.png)

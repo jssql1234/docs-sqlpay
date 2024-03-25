@@ -15,15 +15,15 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Turn **ON** drive
 
-   ![1](/img/cloud/etms-user-guide/1.png)
+   ![1](../../static/img/cloud/etms-user-guide/1.png)
 
 3. Click on **Log in**
 
-   ![2](/img/cloud/etms-user-guide/2.png)
+   ![2](../../static/img/cloud/etms-user-guide/2.png)
 
 4. Click on **Log in with Google**
 
-   ![3](/img/cloud/etms-user-guide/3.png)
+   ![3](../../static/img/cloud/etms-user-guide/3.png)
 
 5. Enter **Email Address** | **Next**
 
@@ -33,15 +33,15 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    :::
 
-   ![4](/img/cloud/etms-user-guide/4.png)
+   ![4](../../static/img/cloud/etms-user-guide/4.png)
 
 6. Enter **password** | **Next**
 
-   ![5](/img/cloud/etms-user-guide/5.png)
+   ![5](../../static/img/cloud/etms-user-guide/5.png)
 
 7. Click on **Grant access**
 
-   ![6](/img/cloud/etms-user-guide/6.png)
+   ![6](../../static/img/cloud/etms-user-guide/6.png)
 
 8. Click on Save
 
@@ -51,7 +51,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    :::
 
-   ![7](/img/cloud/etms-user-guide/7.png)
+   ![7](../../static/img/cloud/etms-user-guide/7.png)
 
 ### 1.2 Maintain Location
 
@@ -59,15 +59,15 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Click on **Edit**
 
-   ![8](/img/cloud/etms-user-guide/8.png)
+   ![8](../../static/img/cloud/etms-user-guide/8.png)
 
 3. Click on **Map**
 
-   ![9](/img/cloud/etms-user-guide/9.png)
+   ![9](../../static/img/cloud/etms-user-guide/9.png)
 
 4. Enter **company Address** | **Search** | **Confirm**
 
-   ![10](/img/cloud/etms-user-guide/10.png)
+   ![10](../../static/img/cloud/etms-user-guide/10.png)
 
 5. Key in **Radius** | **Save**
 
@@ -77,7 +77,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    :::
 
-   ![11](/img/cloud/etms-user-guide/11.png)
+   ![11](../../static/img/cloud/etms-user-guide/11.png)
 
    You can also create new branch if more than one branch
 
@@ -89,11 +89,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Click on **Edit**
 
-   ![12](/img/cloud/etms-user-guide/12.png)
+   ![12](../../static/img/cloud/etms-user-guide/12.png)
 
 3. Click on **P** | **Select date of the public holiday** | **Save**
 
-   ![13](/img/cloud/etms-user-guide/13.png)
+   ![13](../../static/img/cloud/etms-user-guide/13.png)
 
 ### 1.4 Maintain Employee
 
@@ -101,11 +101,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Double click employee that you want to do setting | **Edit**
 
-   ![14](/img/cloud/etms-user-guide/14.png)
+   ![14](../../static/img/cloud/etms-user-guide/14.png)
 
 3. Go to **Personal** tab | Key in employee email address
 
-   ![15](/img/cloud/etms-user-guide/15.png)
+   ![15](../../static/img/cloud/etms-user-guide/15.png)
 
 4. Go to **Grouping** tab | Select Branch
 
@@ -123,7 +123,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    :::
 
-   ![16](/img/cloud/etms-user-guide/16.png)
+   ![16](../../static/img/cloud/etms-user-guide/16.png)
 
    :::note
 
@@ -139,7 +139,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Click on **Edit**
 
-   ![17](/img/cloud/etms-user-guide/17.png)
+   ![17](../../static/img/cloud/etms-user-guide/17.png)
 
 3. Key in time for **Work Start** (09:00 AM) and time for **Work End** (06:00 PM)
 
@@ -147,11 +147,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    **Early Out Buffer (min)** = How many minute(s) allow can be leave early
 
-   ![18](/img/cloud/etms-user-guide/18.png)
+   ![18](../../static/img/cloud/etms-user-guide/18.png)
 
 4. Key in **Break Time**
 
-   ![19](/img/cloud/etms-user-guide/18b.png)
+   ![19](../../static/img/cloud/etms-user-guide/18b.png)
 
    |        | Start | End |   Description    |
    |--------|-------|-----|------------------|
@@ -161,7 +161,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 5. Select **Rules**
 
-   ![19](/img/cloud/etms-user-guide/19.png)
+   ![19](../../static/img/cloud/etms-user-guide/19.png)
 
    - Clock In / Clock Out – User need to Clock In / Clock Out
 
@@ -179,9 +179,9 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 6. Leave Rules
 
-   ![20](/img/cloud/etms-user-guide/20.png)
+   ![20](../../static/img/cloud/etms-user-guide/20.png)
 
-   ![20a](/img/cloud/etms-user-guide/20a.png)
+   ![20a](../../static/img/cloud/etms-user-guide/20a.png)
 
    :::note
 
@@ -193,7 +193,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 7. Click on **Save** once done all setting
 
-   ![21](/img/cloud/etms-user-guide/21.png)
+   ![21](../../static/img/cloud/etms-user-guide/21.png)
 
 ### 2.2 Maintain Work OT
 
@@ -201,11 +201,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 2. Select Work OT | **Edit**
 
-   ![22](/img/cloud/etms-user-guide/22.png)
+   ![22](../../static/img/cloud/etms-user-guide/22.png)
 
 3. Key in **Data Type** | **OT Period** | **Work Session** | **OT Rule**
 
-   ![23](/img/cloud/etms-user-guide/23.png)
+   ![23](../../static/img/cloud/etms-user-guide/23.png)
 
    OT Rule – Refer step 4
 
@@ -230,7 +230,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    1. Type 1 : Clock Time
 
-      ![24](/img/cloud/etms-user-guide/24.png)
+      ![24](../../static/img/cloud/etms-user-guide/24.png)
 
       **Min OT** - Allow to claim OT at least 15 minutes
 
@@ -238,7 +238,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
       **Allow AdHoc OT** - Between 6:00 PM – 7:00 PM (Allow to start OT immediately)
 
-      ![25](/img/cloud/etms-user-guide/25.png)
+      ![25](../../static/img/cloud/etms-user-guide/25.png)
 
       | Period | OT Start | OT   | Description                             |
       |:------:|:------:|:------:|--------------------------------------|
@@ -253,7 +253,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. Type 2: Tier
 
-      ![26](/img/cloud/etms-user-guide/26.png)
+      ![26](../../static/img/cloud/etms-user-guide/26.png)
 
       **OT Start** - Time allow to start OT
 
@@ -261,7 +261,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
       **Allow AdHoc OT** - Between 6:00 PM – 7:00 PM (Allow to start OT immediately)
 
-      ![27](/img/cloud/etms-user-guide/27.png)
+      ![27](../../static/img/cloud/etms-user-guide/27.png)
 
       | Tier | Max OT | OT | Description                                           |
       |:----:|:------:|:----:|----------------------------------------------------|
@@ -273,7 +273,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
 6. Click on **Save** once done all setting
 
-   ![28](/img/cloud/etms-user-guide/28.png)
+   ![28](../../static/img/cloud/etms-user-guide/28.png)
 
 ### 2.3 Maintain Calendar
 
@@ -283,17 +283,17 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. **Tick** employee want to wizard calendar | **Wizard**
 
-      ![29](/img/cloud/etms-user-guide/29.png)
+      ![29](../../static/img/cloud/etms-user-guide/29.png)
 
    3. Click on **Rest Day** | Tick every **which day** as **Rest Day or Rest Day (Special Rate)**
 
    4. Click on **Next**
 
-      ![30](/img/cloud/etms-user-guide/30.png)
+      ![30](../../static/img/cloud/etms-user-guide/30.png)
 
    5. Select **Session** and select **Schedule**
 
-      ![31](/img/cloud/etms-user-guide/31.png)
+      ![31](../../static/img/cloud/etms-user-guide/31.png)
 
       | Schedule | Description |
       |---------|------------|
@@ -312,7 +312,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. Click on **View Schedule** | Show all the **calendar and day type**
 
-      ![32](/img/cloud/etms-user-guide/32.png)
+      ![32](../../static/img/cloud/etms-user-guide/32.png)
 
 3. Copy Calendar from Employee
 
@@ -320,11 +320,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. **Tick** employee want to replicate calendar | ↓ | **Copy From**
 
-      ![33](/img/cloud/etms-user-guide/33.png)
+      ![33](../../static/img/cloud/etms-user-guide/33.png)
 
    3. Select the **Date Range** | Select **Copy From** which employee | **OK**
 
-      ![34](/img/cloud/etms-user-guide/34.png)
+      ![34](../../static/img/cloud/etms-user-guide/34.png)
 
 4. Clear Calendar
 
@@ -332,15 +332,15 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. **Tick** employee want to clear all calendar | ↓ | **Clear All**
 
-      ![35](/img/cloud/etms-user-guide/35.png)
+      ![35](../../static/img/cloud/etms-user-guide/35.png)
 
    3. Select the **date range** to clear all calendar | **OK**
 
-      ![36](/img/cloud/etms-user-guide/36.png)
+      ![36](../../static/img/cloud/etms-user-guide/36.png)
 
    4. Click on **View Schedule** | All the **Rest Day** have been clear
 
-      ![37](/img/cloud/etms-user-guide/37.png)
+      ![37](../../static/img/cloud/etms-user-guide/37.png)
 
       :::note
 
@@ -356,11 +356,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. **Tick** employee want to wizard location | **Wizard**
 
-      ![38](/img/cloud/etms-user-guide/38.png)
+      ![38](../../static/img/cloud/etms-user-guide/38.png)
 
    3. Select the option
 
-      ![39](/img/cloud/etms-user-guide/39.png)
+      ![39](../../static/img/cloud/etms-user-guide/39.png)
 
       | Schedule | Description   |
       |--------|-------|
@@ -371,21 +371,21 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    4. Select Months, Weeks, and Days | **+** | **Map**
 
-      ![40](/img/cloud/etms-user-guide/40.png)
+      ![40](../../static/img/cloud/etms-user-guide/40.png)
 
    5. Select **GPS Type** | **Branch** (Select Branch to Clock In/ Clock Out for traveler) | **Confirm**
 
       1. GPS Type 1: Branch (Just select branch that have created earlier)
 
-         ![41](/img/cloud/etms-user-guide/41.png)
+         ![41](../../static/img/cloud/etms-user-guide/41.png)
 
       2. GPS Type 2: **Custom** | Key in new **Address** | **Search** | **Confirm**
 
-         ![42](/img/cloud/etms-user-guide/42.png)
+         ![42](../../static/img/cloud/etms-user-guide/42.png)
 
    6. Done choose **Coordinate** | **Process**
 
-      ![43](/img/cloud/etms-user-guide/43.png)
+      ![43](../../static/img/cloud/etms-user-guide/43.png)
 
       :::note
 
@@ -393,7 +393,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
       :::
 
-      ![44](/img/cloud/etms-user-guide/44.png)
+      ![44](../../static/img/cloud/etms-user-guide/44.png)
 
       Repeat Step 1 if traveler Clock In / Clock Out more than one location in different day
 
@@ -403,7 +403,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. Click on **View Location** | Show all the **Location to Clock In / Clock Out**
 
-   ![45](/img/cloud/etms-user-guide/45.png)
+   ![45](../../static/img/cloud/etms-user-guide/45.png)
 
 3. Copy Location from Traveler Employee
 
@@ -411,11 +411,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. **Tick** employee want to replicate location | ↓ | **Copy From**
 
-      ![46](/img/cloud/etms-user-guide/46.png)
+      ![46](../../static/img/cloud/etms-user-guide/46.png)
 
    3. Select the **Date Range** | Select **Copy From** which employee | **OK**
 
-      ![47](/img/cloud/etms-user-guide/47.png)
+      ![47](../../static/img/cloud/etms-user-guide/47.png)
 
 4. Clear Location
 
@@ -423,15 +423,15 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. **Tick** employee want to clear all location | ↓ | **Clear All**
 
-      ![48](/img/cloud/etms-user-guide/48.png)
+      ![48](../../static/img/cloud/etms-user-guide/48.png)
 
    3. Select the **date range** to clear all calendar | **OK**
 
-      ![49](/img/cloud/etms-user-guide/49.png)
+      ![49](../../static/img/cloud/etms-user-guide/49.png)
 
    4. Click on **View Location** | All the **Location** have been clear
 
-      ![50](/img/cloud/etms-user-guide/50.png)
+      ![50](../../static/img/cloud/etms-user-guide/50.png)
 
       :::note
 
@@ -451,11 +451,11 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    3. **Time Attendance**
 
-      ![51](/img/cloud/etms-user-guide/51.png)
+      ![51](../../static/img/cloud/etms-user-guide/51.png)
 
    4. **Sync Complete**
 
-      ![52](/img/cloud/etms-user-guide/52.png)
+      ![52](../../static/img/cloud/etms-user-guide/52.png)
 
 2. Log
 
@@ -465,7 +465,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    3. **Log**
 
-      ![53](/img/cloud/etms-user-guide/53.png)
+      ![53](../../static/img/cloud/etms-user-guide/53.png)
 
       To show employee Clock Status
 
@@ -475,7 +475,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    2. **Time Attendance** | **OT** | **Action**
 
-      ![54](/img/cloud/etms-user-guide/54.png)
+      ![54](../../static/img/cloud/etms-user-guide/54.png)
 
       | Actions | Description |
       |---------|-------------|
@@ -485,9 +485,9 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
       Once assign action to Overtime and appear highlighted green, it will be posted to Pending OT
 
-      ![55](/img/cloud/etms-user-guide/55.png)
+      ![55](../../static/img/cloud/etms-user-guide/55.png)
 
-      ![56](/img/cloud/etms-user-guide/56.png)
+      ![56](../../static/img/cloud/etms-user-guide/56.png)
 
       :::info NOTE
 
@@ -499,15 +499,15 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
       Choose **OT Code** | **Save**
 
-      ![57](/img/cloud/etms-user-guide/57.png)
+      ![57](../../static/img/cloud/etms-user-guide/57.png)
 
    3. **Show Log**
 
       To Show Log for employee who OT
 
-      ![58](/img/cloud/etms-user-guide/58.png)
+      ![58](../../static/img/cloud/etms-user-guide/58.png)
 
-      ![58b](/img/cloud/etms-user-guide/58b.png)
+      ![58b](../../static/img/cloud/etms-user-guide/58b.png)
 
 4. Leave
 
@@ -519,7 +519,7 @@ tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
 
    4. **Leave Type**
 
-      ![59](/img/cloud/etms-user-guide/59.png)
+      ![59](../../static/img/cloud/etms-user-guide/59.png)
 
       | Actions | Leave Type | Description |
       |---------|------------|-------------|
@@ -542,11 +542,11 @@ Only will prompt out for employee who did not Clock Out, HR need assign Clock Ou
 
 3. Enter **Break Time** (optional)
 
-   ![60](/img/cloud/etms-user-guide/60.png)
+   ![60](../../static/img/cloud/etms-user-guide/60.png)
 
 4. **Save**
 
-   ![61](/img/cloud/etms-user-guide/61.png)
+   ![61](../../static/img/cloud/etms-user-guide/61.png)
 
 ### 3.3 Attendance Reward
 
@@ -554,23 +554,23 @@ Only will prompt out for employee who did not Clock Out, HR need assign Clock Ou
 
 2. Make sure **TICK ALL** under **Clock Status**
 
-   ![62](/img/cloud/etms-user-guide/62.png)
+   ![62](../../static/img/cloud/etms-user-guide/62.png)
 
 3. **Apply**
 
 4. **Attendance Reward**
 
-   ![63](/img/cloud/etms-user-guide/63.png)
+   ![63](../../static/img/cloud/etms-user-guide/63.png)
 
 5. **Save**
 
-   ![64](/img/cloud/etms-user-guide/64.png)
+   ![64](../../static/img/cloud/etms-user-guide/64.png)
 
 6. After save, the reward will appear under open pending payroll
 
    **Payroll** | **Open Pending Payroll** | **Allowance**
 
-   ![65](/img/cloud/etms-user-guide/65.png)
+   ![65](../../static/img/cloud/etms-user-guide/65.png)
 
    :::info
 
@@ -584,19 +584,19 @@ Only will prompt out for employee who did not Clock Out, HR need assign Clock Ou
 
 1. Click on App Store
 
-   ![66](/img/cloud/etms-user-guide/66.png)
+   ![66](../../static/img/cloud/etms-user-guide/66.png)
 
 2. Click on **Search** (bottom right hand side)
 
-   ![67](/img/cloud/etms-user-guide/67.png)
+   ![67](../../static/img/cloud/etms-user-guide/67.png)
 
 3. Key in “**SQL HRMS**” in search bar
 
-   ![68](/img/cloud/etms-user-guide/68.png)
+   ![68](../../static/img/cloud/etms-user-guide/68.png)
 
 4. Click on **GET**
 
-   ![69](/img/cloud/etms-user-guide/69.png)
+   ![69](../../static/img/cloud/etms-user-guide/69.png)
 
 5. Done
 
@@ -610,13 +610,13 @@ Minimum IOS version: **IOS 14 and above**
 
 1. Click on App Store
 
-   ![70](/img/cloud/etms-user-guide/70.png)
+   ![70](../../static/img/cloud/etms-user-guide/70.png)
 
 2. Key in “**SQL HRMS**” in search bar | Enter
 
 3. Click on **Install**
 
-   ![71](/img/cloud/etms-user-guide/71.png)
+   ![71](../../static/img/cloud/etms-user-guide/71.png)
 
 4. Done
 
@@ -632,7 +632,7 @@ Minimum IOS version: **IOS 14 and above**
 
 1. **Login Application with Email** | **Next**
 
-   ![72](/img/cloud/etms-user-guide/72.png)
+   ![72](../../static/img/cloud/etms-user-guide/72.png)
 
 2. Check Email will receive OTP for login SQL HRMS
 
@@ -644,7 +644,7 @@ Minimum IOS version: **IOS 14 and above**
 
 3. **Enter OTP Code** after received email | Click **Verify**
 
-   ![73](/img/cloud/etms-user-guide/73.png)
+   ![73](../../static/img/cloud/etms-user-guide/73.png)
 
 :::note
 
@@ -658,27 +658,27 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    1. Click on **Setting**
 
-      ![74](/img/cloud/etms-user-guide/74.png)
+      ![74](../../static/img/cloud/etms-user-guide/74.png)
 
    2. Click on **Privacy & Security**
 
-      ![75](/img/cloud/etms-user-guide/75.png)
+      ![75](../../static/img/cloud/etms-user-guide/75.png)
 
    3. Click on **Location Services**
 
-      ![76](/img/cloud/etms-user-guide/76.png)
+      ![76](../../static/img/cloud/etms-user-guide/76.png)
 
    4. Turn on **Location Services** (Make sure is green color)
 
-      ![77](/img/cloud/etms-user-guide/77.png)
+      ![77](../../static/img/cloud/etms-user-guide/77.png)
 
    5. Scroll down and choose **SQL HRMS**
 
-      ![78](/img/cloud/etms-user-guide/78.png)
+      ![78](../../static/img/cloud/etms-user-guide/78.png)
 
    6. Choose **Always** & **Precise Location** make sure is **ON**
 
-      ![79](/img/cloud/etms-user-guide/79.png)
+      ![79](../../static/img/cloud/etms-user-guide/79.png)
 
    7. Done
 
@@ -688,25 +688,25 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    1. Click on Setting
 
-      ![80](/img/cloud/etms-user-guide/80.png)
+      ![80](../../static/img/cloud/etms-user-guide/80.png)
 
    2. Click on **Location**
 
-      ![81](/img/cloud/etms-user-guide/81.png)
+      ![81](../../static/img/cloud/etms-user-guide/81.png)
 
    3. Turn on **Use Location**
 
-      ![82](/img/cloud/etms-user-guide/82.png)
+      ![82](../../static/img/cloud/etms-user-guide/82.png)
 
    4. Click on **SQL HRMS**
 
-      ![83](/img/cloud/etms-user-guide/83.png)
+      ![83](../../static/img/cloud/etms-user-guide/83.png)
 
    5. Choose **Allow all the time** & **Precise Location** make sure is **ON**
 
       |1. Allow all the time  |2. On the Precise Location  |
       |--|--|
-      |  ![84](/img/cloud/etms-user-guide/84.png)  |  ![84](/img/cloud/etms-user-guide/84b.png)  |
+      |  ![84](../../static/img/cloud/etms-user-guide/84.png)  |  ![84](../../static/img/cloud/etms-user-guide/84b.png)  |
 
    6. Done
 
@@ -714,7 +714,7 @@ If no receive email, click **Resend** to request resend OTP to your email
 
 1. Click **Clock In**
 
-   ![85](/img/cloud/etms-user-guide/85.png)
+   ![85](../../static/img/cloud/etms-user-guide/85.png)
 
 2. **Location matched** when you are in work location | **Take Photo** | Clock In
 
@@ -722,13 +722,13 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    - When location not match, will show message **Please Clock In At XXX (Location set)**
 
-   ![86](/img/cloud/etms-user-guide/86.png)
+   ![86](../../static/img/cloud/etms-user-guide/86.png)
 
 ### 4.7 Clock Out
 
 1. **Click Clock Out**
 
-   ![87](/img/cloud/etms-user-guide/87.png)
+   ![87](../../static/img/cloud/etms-user-guide/87.png)
 
 2. **Location Matched** | **Take Photo** | **Clock Out**
 
@@ -736,17 +736,17 @@ If no receive email, click **Resend** to request resend OTP to your email
 
    (Key In Total OT Break Time when you OT, system will deduct the break time when calculate OT)
 
-   ![88](/img/cloud/etms-user-guide/88.png)
+   ![88](../../static/img/cloud/etms-user-guide/88.png)
 
 ### 4.8 Attendance Log
 
 1. View the duration of work for this period working days
 
-   ![89](/img/cloud/etms-user-guide/89.png)
+   ![89](../../static/img/cloud/etms-user-guide/89.png)
 
 2. Click **Location Updates** to view time and location of clock in & clock out
 
-   ![90](/img/cloud/etms-user-guide/90.png)
+   ![90](../../static/img/cloud/etms-user-guide/90.png)
 
 3. **Details of clock in & clock out**
 
@@ -754,7 +754,7 @@ If no receive email, click **Resend** to request resend OTP to your email
 
 ### 4.9 Team Attendance
 
-   ![91](/img/cloud/etms-user-guide/91.png)
+   ![91](../../static/img/cloud/etms-user-guide/91.png)
 
 1. Status will show all staff attendance status
 
@@ -764,17 +764,17 @@ If no receive email, click **Resend** to request resend OTP to your email
 
 2. Click each Status can view details of that status
 
-   ![92](/img/cloud/etms-user-guide/92.png)
+   ![92](../../static/img/cloud/etms-user-guide/92.png)
 
-   ![92b](/img/cloud/etms-user-guide/92b.png)
+   ![92b](../../static/img/cloud/etms-user-guide/92b.png)
 
 3. Summary of all status (Employee name will be show)
 
-   ![93](/img/cloud/etms-user-guide/93.png)
+   ![93](../../static/img/cloud/etms-user-guide/93.png)
 
 ### 4.10 OT Entitlement
 
-![94](/img/cloud/etms-user-guide/94.png)
+![94](../../static/img/cloud/etms-user-guide/94.png)
 
 :::info
 
@@ -784,7 +784,7 @@ Can view the OT Entitlement set by company
 
 ### 4.11 My Calendar
 
-![95](/img/cloud/etms-user-guide/95.png)
+![95](../../static/img/cloud/etms-user-guide/95.png)
 
 - View Work Session using Calendar
 

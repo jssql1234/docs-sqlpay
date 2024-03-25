@@ -11,26 +11,26 @@ tags: ["SQL Payroll", "Letter","Appointment Letter","Comfirmation Letter","Incre
 
 ### 1. Navigate yourself to the Maintain Employee panel
 
-![1](/img/human-resource/print-letter/1.png)
+![1](../../static/img/human-resource/print-letter/1.png)
 
 ### 2. Select the employee
 
-![2](/img/human-resource/print-letter/2.png)
+![2](../../static/img/human-resource/print-letter/2.png)
 
 ### 3. Click preview reports
 
-![3](/img/human-resource/print-letter/3.png)
+![3](../../static/img/human-resource/print-letter/3.png)
 
 ### 4. Select the report you want by double clicking it
 
-![4](/img/human-resource/print-letter/4.png)
+![4](../../static/img/human-resource/print-letter/4.png)
 
 This is the example of the appointment letter
 
-![5](/img/human-resource/print-letter/5.png)
+![5](../../static/img/human-resource/print-letter/5.png)
 
 Special note:
 
     For increment letter, make sure increment is set in **history** in order for the report to work
 
-![6](/img/human-resource/print-letter/6.png)
+![6](../../static/img/human-resource/print-letter/6.png)

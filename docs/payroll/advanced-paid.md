@@ -17,7 +17,7 @@ tags: ["SQL Payroll", "Advance Paid"]
 
 2. **Select Advance Paid**
 
-    ![1](/img/payroll/advanced-paid/1.png)
+    ![1](../../static/img/payroll/advanced-paid/1.png)
 
 3. **Key in accordingly**
 
@@ -27,7 +27,7 @@ tags: ["SQL Payroll", "Advance Paid"]
     >
     >***Amount*** = amount advance paid
 
-    ![2](/img/payroll/advanced-paid/2.png)
+    ![2](../../static/img/payroll/advanced-paid/2.png)
 
 4. Payroll | New Payroll
 
@@ -39,12 +39,12 @@ tags: ["SQL Payroll", "Advance Paid"]
 
 8. Tick "Adcanced Paid"
 
-    ![3](/img/payroll/advanced-paid/3.png)
+    ![3](../../static/img/payroll/advanced-paid/3.png)
 
 9. Process
 
-    ![4](/img/payroll/advanced-paid/4.png)
+    ![4](../../static/img/payroll/advanced-paid/4.png)
 
 10. Process Month end Payroll as usual, you will found there is advance deduct at the month end.
 
-    ![5](/img/payroll/advanced-paid/5.png)
+    ![5](../../static/img/payroll/advanced-paid/5.png)

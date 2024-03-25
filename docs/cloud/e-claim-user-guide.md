@@ -19,7 +19,7 @@ Google/Microsoft SMTP server in under **Appendix 1**.
 2. **File** | **Company Profile**
 
 3. Under ‘**General**’ tab, enter the email user used to generate app password
-   ![1](/img/cloud/user-guide/1.png)
+   ![1](../../static/img/cloud/user-guide/1.png)
 
 4. Under ‘**Email Settings**’ tab, fill in the details and press the ‘**Send Test Email**’ at right bottom
 
@@ -39,7 +39,7 @@ Google/Microsoft SMTP server in under **Appendix 1**.
 
    **Sender Name** : Name of the sender
 
-      ![2](/img/cloud/user-guide/2.png)
+      ![2](../../static/img/cloud/user-guide/2.png)
 
    :::note
 
@@ -49,9 +49,9 @@ Google/Microsoft SMTP server in under **Appendix 1**.
 
 5. (Sync to Cloud)**: **Cloud** Icon on the menu bar | ‘**Sync Cloud...**’ | Open ‘**Leave App**’ tab | click on ‘**Sync Now**’ button
 
-   ![3a](/img/cloud/user-guide/3a.png)
+   ![3a](../../static/img/cloud/user-guide/3a.png)
 
-   ![3b](/img/cloud/user-guide/3b.png)
+   ![3b](../../static/img/cloud/user-guide/3b.png)
 
    :::note
 
@@ -69,13 +69,13 @@ Purpose: To allow user to view the attached images or documents attached with th
 
 3. Go to ‘**General**’ tab and click on the ‘**+**’ button
 
-   ![4](/img/cloud/user-guide/4.png)
+   ![4](../../static/img/cloud/user-guide/4.png)
 
 4. (Sync to Cloud)**: **Cloud** Icon on the menu bar | ‘**Sync Cloud...**’ | Open ‘**PendingClaim**’ tab | click on ‘**Sync Now**’ button
 
-   ![5a](/img/cloud/user-guide/3a.png)
+   ![5a](../../static/img/cloud/user-guide/3a.png)
 
-   ![5b](/img/cloud/user-guide/5.png)
+   ![5b](../../static/img/cloud/user-guide/5.png)
 
    :::note
 
@@ -93,15 +93,15 @@ Purpose: To allow user to view the attached images or documents attached with th
 
 1. Enter user company email address
 
-   ![6](/img/cloud/user-guide/6.png)
+   ![6](../../static/img/cloud/user-guide/6.png)
 
 2. Wait to receive an email that include an One-Time Password (OTP)
 
-   ![7](/img/cloud/user-guide/7.png)
+   ![7](../../static/img/cloud/user-guide/7.png)
 
 3. Enter the OTP
 
-   ![8](/img/cloud/user-guide/8.png)
+   ![8](../../static/img/cloud/user-guide/8.png)
 
 4. Ready to use the application after verification
 
@@ -109,11 +109,11 @@ Purpose: To allow user to view the attached images or documents attached with th
 
 The Main Page display the company that the employee is enrolled in.
 
-![9](/img/cloud/user-guide/9.png)
+![9](../../static/img/cloud/user-guide/9.png)
 
 ### 3.1 Header Section
 
-![10](/img/cloud/user-guide/10.png)
+![10](../../static/img/cloud/user-guide/10.png)
 
 ### 3.2 Content Section
 
@@ -125,9 +125,9 @@ The Main Page display the company that the employee is enrolled in.
 
 ## 4. Employee Dashboard (Leave Info)
 
-![11](/img/cloud/user-guide/11.png)
+![11](../../static/img/cloud/user-guide/11.png)
 
-![12](/img/cloud/user-guide/12.png)
+![12](../../static/img/cloud/user-guide/12.png)
 
 ### 4.1 Back Button
 
@@ -141,7 +141,7 @@ This button allows you to back to the Main Page
 
    - Note: User are **not allowed** to **edit** or **modify** the details from the mobile application
 
-   ![13](/img/cloud/user-guide/13.png)
+   ![13](../../static/img/cloud/user-guide/13.png)
 
 ### 4.3 Leave Info
 
@@ -149,15 +149,15 @@ User can view the summary of his leave from the employee dashboard and he can vi
 
 - User can view the approved, rejected and pending leave details from this page
 
-![14](/img/cloud/user-guide/14.png)
+![14](../../static/img/cloud/user-guide/14.png)
 
 - Filter button (**Highlighted in Yellow**) : This menu allows user to **filter** the leave details
 
-![15](/img/cloud/user-guide/15.png)
+![15](../../static/img/cloud/user-guide/15.png)
 
 - Sort button (**Highlighted in Red**) : This menu allows user to **sort** the leave details
 
-![16](/img/cloud/user-guide/16.png)
+![16](../../static/img/cloud/user-guide/16.png)
 
 ### 4.4 Take Leave
 
@@ -165,14 +165,14 @@ This button allows user to create a new leave application after filling in the d
 
 - User can choose set the date time, leave type and add on description when applying the leave
 
-![17](/img/cloud/user-guide/17.png)
+![17](../../static/img/cloud/user-guide/17.png)
 
 ### 4.5 Leave Balance
 
 This button allows user to view his leave balance details by year and filter menu on right top allows user to filter the details based on date and department
 |View | Filter |
 |---|---|
-|![18](/img/cloud/user-guide/18.png) | ![18b](/img/cloud/user-guide/18b.png)
+|![18](../../static/img/cloud/user-guide/18.png) | ![18b](../../static/img/cloud/user-guide/18b.png)
 
 ### 4.6 Leave details
 
@@ -192,21 +192,21 @@ Users are allowed to view his EA Form
 
 ## 5. Employee Dashboard (Claim Info)
 
-![19](/img/cloud/user-guide/19.png)
+![19](../../static/img/cloud/user-guide/19.png)
 
 ### 5.1 Claim Info
 
 User can view all the approved, pending and rejected claim when clicked on the claim info dashboard
 
-![20](/img/cloud/user-guide/20.png)
+![20](../../static/img/cloud/user-guide/20.png)
 
 - Filter button (**Section 1**) : User can filter the leave details by date, expenses type and the claim status
 
-![21](/img/cloud/user-guide/21.png)
+![21](../../static/img/cloud/user-guide/21.png)
 
 - Sort button (**Section 1**) : User are allowed to sort the leave details
 
-![22](/img/cloud/user-guide/22.png)
+![22](../../static/img/cloud/user-guide/22.png)
 
 ### 5.2 Submit Claim
 
@@ -216,7 +216,7 @@ User are allowed to create a new claim submission by clicking the ‘**Submit cl
 
 |Screenshot 1| Screenshot 2 |
 |---|---|
-|![23](/img/cloud/user-guide/23.png) | ![23b](/img/cloud/user-guide/23b.png) |
+|![23](../../static/img/cloud/user-guide/23.png) | ![23b](../../static/img/cloud/user-guide/23b.png) |
 
 :::note
 
@@ -228,7 +228,7 @@ Users are required to setup E Claim Share in SQL Payroll in order to allow their
 
 User can view the details of expenses used by month and by year
 
-![24](/img/cloud/user-guide/24.png)
+![24](../../static/img/cloud/user-guide/24.png)
 
 ### 5.4 Claim Application
 
@@ -242,19 +242,19 @@ User can view the summary and total amount of the claim in the form of pie chart
 
 2. Turn on two- step verification
 
-   ![25](/img/cloud/user-guide/25.png)
+   ![25](../../static/img/cloud/user-guide/25.png)
 
 3. Setup ‘App passwords’
 
-   ![26](/img/cloud/user-guide/26.png)
+   ![26](../../static/img/cloud/user-guide/26.png)
 
 4. Choose ‘**Select App**’ to choose the app user are using and ‘**Select device**’ to choose the device you are using and click the ‘**Generate**’ button on right bottom
 
-   ![27](/img/cloud/user-guide/27.png)
+   ![27](../../static/img/cloud/user-guide/27.png)
 
 5. A 16-character password will be generated and follow the instructions under the ‘**How to use it**’ section in the image below
 
-   ![28](/img/cloud/user-guide/28.png)
+   ![28](../../static/img/cloud/user-guide/28.png)
 
 **Microsoft Account Setup:**
 
@@ -262,6 +262,6 @@ User can view the summary and total amount of the claim in the form of pie chart
 
 2. Direct to ‘**Security**’ tab and turn on the ‘**Two-step verification**’
 
-   ![29](/img/cloud/user-guide/29.png)
+   ![29](../../static/img/cloud/user-guide/29.png)
 
 3. A 16-character password is generated

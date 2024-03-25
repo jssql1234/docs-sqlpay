@@ -15,15 +15,15 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
 
 ### 1. Navigate yourself to the Maintain Employee panel
 
-![1](/img/human-resource/maintain-employee/1.png)
+![1](../../static/img/human-resource/maintain-employee/1.png)
 
 ### 2. Click new to create new employee
 
-![2](/img/human-resource/maintain-employee/2.png)
+![2](../../static/img/human-resource/maintain-employee/2.png)
 
 ### 3. Key in the employee’s personal details
 
-![3](/img/human-resource/maintain-employee/3.png)
+![3](../../static/img/human-resource/maintain-employee/3.png)
 
 |Symbol|Description                                                                                   |
 |------|----------------------------------------------------------------------------------------------|
@@ -45,44 +45,44 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
 
 ### 4. Key in the employee’s grouping details
 
-![4](/img/human-resource/maintain-employee/4.png)
+![4](../../static/img/human-resource/maintain-employee/4.png)
 
 - Create new Branch/HR Group/Department/Category/Country/Race
 
-    ![5](/img/human-resource/maintain-employee/5.png)
+    ![5](../../static/img/human-resource/maintain-employee/5.png)
 
 ### 5. Key in the employee’s family details
 
-![6](/img/human-resource/maintain-employee/6.png)
+![6](../../static/img/human-resource/maintain-employee/6.png)
 
 ### 6. Key in the employee’s payroll information
 
-![7](/img/human-resource/maintain-employee/7.png)
+![7](../../static/img/human-resource/maintain-employee/7.png)
 
-![8](/img/human-resource/maintain-employee/8.png)
+![8](../../static/img/human-resource/maintain-employee/8.png)
 
 ### 7. Key in the employee’s monthly fix allowances/deductions
 
-![9](/img/human-resource/maintain-employee/9.png)
+![9](../../static/img/human-resource/maintain-employee/9.png)
 
 - Create a new allowance/deduction
 
-    ![10](/img/human-resource/maintain-employee/10.png)
+    ![10](../../static/img/human-resource/maintain-employee/10.png)
 
 ### 8. Add notes/remark and photo for the employee
 
-![11](/img/human-resource/maintain-employee/11.png)
+![11](../../static/img/human-resource/maintain-employee/11.png)
 
 ### 9. History report of the employee
 
-![12](/img/human-resource/maintain-employee/12.png)
+![12](../../static/img/human-resource/maintain-employee/12.png)
 
 ### 10. Add the employee’s children information (will affect tax category)
 
-![13](/img/human-resource/maintain-employee/13.png)
+![13](../../static/img/human-resource/maintain-employee/13.png)
 
 ### 11. Add any attachment related to the employee
 
     *(eg: resume, curriculum vitae, contract agreement, receipt claims etc)*
 
-![14](/img/human-resource/maintain-employee/14.png)
+![14](../../static/img/human-resource/maintain-employee/14.png)

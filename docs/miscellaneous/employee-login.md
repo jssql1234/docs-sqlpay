@@ -13,16 +13,16 @@ tags: ["SQL Payroll", "Login", "Personal Info"]
 
 2. Click on **Change Password**
 
-   ![1](/img/employee-login/1.png)
+   ![1](../../static/img/employee-login/1.png)
 
 3. Enter a new password for the employee
 
-   ![2](/img/employee-login/2.png)
+   ![2](../../static/img/employee-login/2.png)
 
 4. Next, ask the employee to open SQL Payroll, login into it by using the **Employee Code** and **Password** configured previously. That's it! 🥳
 
-   ![3](/img/employee-login/3.png)
+   ![3](../../static/img/employee-login/3.png)
 
 5. Finally, here's an example of employee view
 
-   ![4](/img/employee-login/4.png)
+   ![4](../../static/img/employee-login/4.png)

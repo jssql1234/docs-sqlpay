@@ -13,28 +13,28 @@ tags: ["SQL Payroll", "Employee","Maintain Employee","MyKard"]
 
 ### 2. Reader will turn red light when you success link to your computer
 
-![1](/img/human-resource/read-my-kard/1.png)
+![1](../../static/img/human-resource/read-my-kard/1.png)
 
 ### 3. Put MyKard into reader
 
 ### 4. Reader will show blue light when success read your MyKad
 
-![2](/img/human-resource/read-my-kard/2.png)
+![2](../../static/img/human-resource/read-my-kard/2.png)
 
 ### 5. Open your SQL Payroll New Employee Profile > **Read MyKard**
 
-![3](/img/human-resource/read-my-kard/3.png)
+![3](../../static/img/human-resource/read-my-kard/3.png)
 
 ### 6. Select **Reader Devices** > **Click Read Card**
 
-![4](/img/human-resource/read-my-kard/4.png)
+![4](../../static/img/human-resource/read-my-kard/4.png)
 
 ### 7. Click **Read MyKad**
 
-![5](/img/human-resource/read-my-kard/5.png)
+![5](../../static/img/human-resource/read-my-kard/5.png)
 
 ### 8. Inside System will auto fill up MyKard Detail
 
 - **(NAME , ADDRESS , ID Number, D.O.B, GENDER)**
 
-![6](/img/human-resource/read-my-kard/6.png)
+![6](../../static/img/human-resource/read-my-kard/6.png)

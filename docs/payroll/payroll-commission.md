@@ -12,14 +12,14 @@ tags: ["SQL Payroll", "Commission"]
 - Payroll | Maintenance | Maintain Commission
 - Create new for a new commission rate
 
-    ![1](/img/payroll/payroll-commission/1.png)
+    ![1](../../static/img/payroll/payroll-commission/1.png)
 
 ## Step 2 : Open pending payroll for commission
 
 - Payroll/Open pending payroll/Commission
 - Insert the employee and amount
 
-    ![2](/img/payroll/payroll-commission/2.png)
+    ![2](../../static/img/payroll/payroll-commission/2.png)
 
 ## Step 3 : Process month end
 
@@ -27,22 +27,22 @@ tags: ["SQL Payroll", "Commission"]
 
     Payroll | New payroll | Process
 
-    ![3](/img/payroll/payroll-commission/3.png)
+    ![3](../../static/img/payroll/payroll-commission/3.png)
 
 - Method 2 : Process Adhoc
 
   1. Tick EPF & PCB & Monthly Fixed Allowance/Pending Payroll
 
-        ![4](/img/payroll/payroll-commission/4.png)
+        ![4](../../static/img/payroll/payroll-commission/4.png)
 
   2. Tick Commission
 
-        ![5](/img/payroll/payroll-commission/5.png)
+        ![5](../../static/img/payroll/payroll-commission/5.png)
 
 ## Step 4 : Double click the employee that you gave commission
 
-![6](/img/payroll/payroll-commission/6.png)
+![6](../../static/img/payroll/payroll-commission/6.png)
 
 ## Step 5 : Refer to commission column
 
-![7](/img/payroll/payroll-commission/7.png)
+![7](../../static/img/payroll/payroll-commission/7.png)

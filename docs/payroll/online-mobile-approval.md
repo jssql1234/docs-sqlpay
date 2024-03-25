@@ -13,15 +13,15 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
 
 1. Tools > Maintain User
 
-   ![1](/img/payroll/online-mobile-approval/1.png)
+   ![1](../../static/img/payroll/online-mobile-approval/1.png)
 
 ### Step 2 : Edit User
 
 1. Double click the user will be set for Approval > Edit
 
-   ![2](/img/payroll/online-mobile-approval/2.png)
+   ![2](../../static/img/payroll/online-mobile-approval/2.png)
 
-   ![3](/img/payroll/online-mobile-approval/3.png)
+   ![3](../../static/img/payroll/online-mobile-approval/3.png)
 
 ### Step 3 : Set Approval Person
 
@@ -37,7 +37,7 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
    If receive notification email and approve email is Gmail, do setting only at **3. OPEN ID (Google)** and leave **2.Email** column blank
    :::
 
-   ![4](/img/payroll/online-mobile-approval/4.png)
+   ![4](../../static/img/payroll/online-mobile-approval/4.png)
 
    For Example :
 
@@ -48,7 +48,7 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
      1. Open ID (Google) : `XXXXXX@gmail.com`
      2. Email : **Left as blank**
 
-      ![5](/img/payroll/online-mobile-approval/5.png)
+      ![5](../../static/img/payroll/online-mobile-approval/5.png)
 
    - **Senario 2 : Use Different email to received notification and give approval**
 
@@ -58,7 +58,7 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
      1. Open ID (Google) : Put your gmail address `XXXXXX@gmail.com`
      2. Email : `XXXXXX@estream.com`
 
-   ![6](/img/payroll/online-mobile-approval/6.png)
+   ![6](../../static/img/payroll/online-mobile-approval/6.png)
 
 ### Step 4 : Setting SMTP
 
@@ -90,7 +90,7 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
 
 9. After done setting click Save
 
-   ![7](/img/payroll/online-mobile-approval/7.png)
+   ![7](../../static/img/payroll/online-mobile-approval/7.png)
 
 ### How it works?
 
@@ -100,13 +100,13 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
 
 2. Click process > prompt a dialog box to override > click ***Online Approval***
 
-   ![8](/img/payroll/online-mobile-approval/8.png)
+   ![8](../../static/img/payroll/online-mobile-approval/8.png)
 
    1. Tick the ID that you choose to get approval
 
    2. You can choose to send by **Whatsapp**, **Send by Email** or **Send by Whatsapp & Email**
 
-      ![9](/img/payroll/online-mobile-approval/9.png)
+      ![9](../../static/img/payroll/online-mobile-approval/9.png)
 
 3. You will received a message at whatsapp or email send by system
 
@@ -114,13 +114,13 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
 
       >You will received a message > Click that link
 
-      ![10](/img/payroll/online-mobile-approval/10.png)
+      ![10](../../static/img/payroll/online-mobile-approval/10.png)
 
    - **Senario 2 : Send By Email**
 
       >You will received an email > Click ***‘CLICK HERE FOR MORE ACTIONS’***
 
-      ![11](/img/payroll/online-mobile-approval/11.png)
+      ![11](../../static/img/payroll/online-mobile-approval/11.png)
 
 4. Login **Gmail Address** that you setting in maintain user **Open ID (Google)**
 
@@ -131,15 +131,15 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
 
    :::
 
-   ![12](/img/payroll/online-mobile-approval/12.png)
+   ![12](../../static/img/payroll/online-mobile-approval/12.png)
 
 5. Enter your **Gmail Password**
 
-   ![13](/img/payroll/online-mobile-approval/13.png)
+   ![13](../../static/img/payroll/online-mobile-approval/13.png)
 
 6. After Login **Gmail** you will see this window
 
-   ![14](/img/payroll/online-mobile-approval/14.png)
+   ![14](../../static/img/payroll/online-mobile-approval/14.png)
 
 7. You can click on ***Doc Detail*** and ***ScreenShot*** to see the detail
 
@@ -149,7 +149,7 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
 
    3. **Reply** : You can left a message and click Approve or Reject
 
-      ![15](/img/payroll/online-mobile-approval/15.png)
+      ![15](../../static/img/payroll/online-mobile-approval/15.png)
 
    :::info[note]
    After Approve or Reject you can go back SQL Payroll, you will see below screen
@@ -163,7 +163,7 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
       >
       >c. Click **OK** to save that transaction
 
-      ![16](/img/payroll/online-mobile-approval/16.png)
+      ![16](../../static/img/payroll/online-mobile-approval/16.png)
 
    - **Senario 2 : Reject Override**
 
@@ -173,11 +173,11 @@ tags: ["SQL Payroll", "Online Mobile Approval"]
       >
       >c. The OK button is disabled after reject, click Cancel
 
-      ![17](/img/payroll/online-mobile-approval/17.png)
+      ![17](../../static/img/payroll/online-mobile-approval/17.png)
 
       After Click Cancel System will Prompt back to this dialog box
 
-      ![18](/img/payroll/online-mobile-approval/18.png)
+      ![18](../../static/img/payroll/online-mobile-approval/18.png)
 
 ### When to use?
 

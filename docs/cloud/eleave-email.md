@@ -13,29 +13,29 @@ tags: ["SQL Payroll", "Cloud", "ELeave", "ELeave Email"]
 
 ### 2. Click on **Setting**
 
-![1](/img/cloud/e-leave-email/1.png)
+![1](../../static/img/cloud/e-leave-email/1.png)
 
 ### 3. Select See all **Settings**
 
-![2](/img/cloud/e-leave-email/2.png)
+![2](../../static/img/cloud/e-leave-email/2.png)
 
 ### 4. Click on **Accounts and Import** | Select **Other Google Account Setting**
 
-![3](/img/cloud/e-leave-email/3.png)
+![3](../../static/img/cloud/e-leave-email/3.png)
 
 ### 5. Click on **Security**
 
-![4](/img/cloud/e-leave-email/4.png)
+![4](../../static/img/cloud/e-leave-email/4.png)
 
 ### 6. Turn on **2 Step Password** (May skip this step if you have turn on)
 
 1. Click on **2 Step verification**
 
-   ![5](/img/cloud/e-leave-email/5.png)
+   ![5](../../static/img/cloud/e-leave-email/5.png)
 
 2. Press on **GET STARTED**
 
-   ![6](/img/cloud/e-leave-email/6.png)
+   ![6](../../static/img/cloud/e-leave-email/6.png)
 
 3. Enter your **Gmail Password**
 
@@ -63,11 +63,11 @@ If you do not have this option, it might because of : (Skip if you have this opt
 
 1. Enter Gmail Password to continue
 
-   ![7](/img/cloud/e-leave-email/7.png)
+   ![7](../../static/img/cloud/e-leave-email/7.png)
 
 2. Copy **App Password** and press **DONE**
 
-   ![8](/img/cloud/e-leave-email/8.png)
+   ![8](../../static/img/cloud/e-leave-email/8.png)
 
    :::note
 
@@ -79,7 +79,7 @@ If you do not have this option, it might because of : (Skip if you have this opt
 
 ### 9. File -> Company Profile -> Click on **E Leave Tab**
 
-![9](/img/cloud/e-leave-email/9.png)
+![9](../../static/img/cloud/e-leave-email/9.png)
 
 - **General Tab** -> remember to fill in **EMAIL** for testing purpose
 

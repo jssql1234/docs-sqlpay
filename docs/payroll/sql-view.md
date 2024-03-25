@@ -19,21 +19,21 @@ In this sample, the goal is allowing KL User to view/ edit only the employee in 
 
     2. Right Click **Employee** > Select **New View Template**
 
-        ![1](/img/payroll/sql-view/1.png)
+        ![1](../../static/img/payroll/sql-view/1.png)
 
     3. Press New
 
     4. Enter description, enter condition and save
 
-        ![2](/img/payroll/sql-view/2.png)
+        ![2](../../static/img/payroll/sql-view/2.png)
 
     5. Right click the new created view template > select **User View**
 
-        ![3](/img/payroll/sql-view/3.png)
+        ![3](../../static/img/payroll/sql-view/3.png)
 
     6. Assign user view to this group of employee
 
-        ![4](/img/payroll/sql-view/4.png)
+        ![4](../../static/img/payroll/sql-view/4.png)
 
     7. Logon as KL User.
 
@@ -41,11 +41,11 @@ In this sample, the goal is allowing KL User to view/ edit only the employee in 
 
    - Before:
 
-        ![5](/img/payroll/sql-view/5.png)
+        ![5](../../static/img/payroll/sql-view/5.png)
 
    - After:
 
-        ![6](/img/payroll/sql-view/6.png)
+        ![6](../../static/img/payroll/sql-view/6.png)
 
 :::info[note]
 If you haven’t register, you may try by turn on SQL View module under :

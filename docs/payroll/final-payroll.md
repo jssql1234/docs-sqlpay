@@ -11,13 +11,13 @@ tags: ["SQL Payroll", "Final", "Payroll"]
 
 1. On top of your screen, look for human resource > maintain employee > double click any one of the employee and go into this screen
 
-    ![1](/img/payroll/final-payroll/1.png)
+    ![1](../../static/img/payroll/final-payroll/1.png)
 
     :::info[note]
     Make sure you have selected the correct wages type and key in the wages amount
     :::
 
-    ![2](/img/payroll/final-payroll/2.png)
+    ![2](../../static/img/payroll/final-payroll/2.png)
 
    - This screen is to set your employees monthly fixed allowance
    - Click on the ‘+’ button where the red arrow pointed, then select the type of allowance that you maintained in allowance maintenance
@@ -25,22 +25,22 @@ tags: ["SQL Payroll", "Final", "Payroll"]
 
 2. On top of your screen, look for human resource > maintain employee > double click any one of the employee and go into this screen
 
-    ![3](/img/payroll/final-payroll/3.png)
+    ![3](../../static/img/payroll/final-payroll/3.png)
 
    - Select the correct year and month , for those that are not cut off at month end you can click on the ‘…’ button at where the red arrow pointed to select the cut off day.
    - Description2, ref1 and ref2, you can key in as reference purpose.
 
    1. Click on the process to proceed, then you will see the screen below
 
-        ![4](/img/payroll/final-payroll/4.png)
+        ![4](../../static/img/payroll/final-payroll/4.png)
 
    2. Click on the print payslip to check on the amount that calculated from system
 
-        ![5](/img/payroll/final-payroll/5.png)
+        ![5](../../static/img/payroll/final-payroll/5.png)
 
         You can scroll to the right to check completely
 
-        ![6](/img/payroll/final-payroll/6.png)
+        ![6](../../static/img/payroll/final-payroll/6.png)
 
    3. Assume it is all correct amount, just click on the preview to check on how it will be printed out with 5 kinds of designs
 
@@ -48,17 +48,17 @@ tags: ["SQL Payroll", "Final", "Payroll"]
 
         - Refer image below to export to other documents, for printing jiust click on the printer icon at the most left
 
-            ![7](/img/payroll/final-payroll/7.png)
+            ![7](../../static/img/payroll/final-payroll/7.png)
 
         - The image below is a sample of pdf file after exported
 
-            ![8](/img/payroll/final-payroll/8.png)
+            ![8](../../static/img/payroll/final-payroll/8.png)
 
    5. Follow the steps below:
 
          1. Back to step **2.ii**
 
-            ![9](/img/payroll/final-payroll/9.png)
+            ![9](../../static/img/payroll/final-payroll/9.png)
 
             - This is print payroll summary (a quick summary to check on all those wages, allowance, gross pay, epf , socso etc… of all employees)
 
@@ -66,9 +66,9 @@ tags: ["SQL Payroll", "Final", "Payroll"]
 
          2. **Payment summary**
 
-            ![10](/img/payroll/final-payroll/10.png)
+            ![10](../../static/img/payroll/final-payroll/10.png)
 
-            ![11](/img/payroll/final-payroll/11.png)
+            ![11](../../static/img/payroll/final-payroll/11.png)
 
             Click on the Blue coirage report, then you will go to a screen that show you how the cash notes is being paid to the employees.
 
@@ -78,8 +78,8 @@ tags: ["SQL Payroll", "Final", "Payroll"]
 
             - It will display the employee epf, socso / employer epf, socso correspondingly.
 
-                ![12](/img/payroll/final-payroll/12.png)
+                ![12](../../static/img/payroll/final-payroll/12.png)
 
             - You can double click your employee name to check on its individual’s amount
 
-                ![13](/img/payroll/final-payroll/13.png)
+                ![13](../../static/img/payroll/final-payroll/13.png)

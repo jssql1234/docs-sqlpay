@@ -23,11 +23,11 @@ Please contact your SQL service agent to register for SQL Drive before setup.
 
 1. Login to SQL Payroll | **Payroll** | **Maintenance** | **Maintain Claim**
 
-   ![1](/img/cloud/e-claim/1.png)
+   ![1](../../static/img/cloud/e-claim/1.png)
 
 2. Create **New** | e.g. Petrol | **Save**
 
-   ![2](/img/cloud/e-claim/2.png)
+   ![2](../../static/img/cloud/e-claim/2.png)
 
 :::note
 
@@ -49,33 +49,33 @@ Please contact your SQL service agent to register for SQL Drive or you won't abl
 
    Go to the last tab (Cloud Icon), then turn on Drive as shown below
 
-   ![3](/img/cloud/e-claim/3.png)
+   ![3](../../static/img/cloud/e-claim/3.png)
 
 2. You will be prompted a new window (shown below) to login and Grant Access to your SQL Drive account. Just follow the instruction on screen and login with the Gmail account registered with your SQL service agent.
 
-   ![4](/img/cloud/e-claim/4.png)
+   ![4](../../static/img/cloud/e-claim/4.png)
 
 3. Once you granted access, the popup window should closed by itself. Click on **Save**.
 
-   ![5](/img/cloud/e-claim/5.png)
+   ![5](../../static/img/cloud/e-claim/5.png)
 
 ### 3. Setup employee access to SQL HRMS mobile app (Admin)
 
 1. In SQL Payroll | Maintain Employee | Employee profile | Make sure key in employee Email address.
 
-   ![6](/img/cloud/e-claim/6.png)
+   ![6](../../static/img/cloud/e-claim/6.png)
 
 2. After that, go to **Cloud** | **Sync Cloud**.
 
-   ![7](/img/cloud/e-claim/7.png)
+   ![7](../../static/img/cloud/e-claim/7.png)
 
 3. Click on **Sync Now**.
 
-   ![8](/img/cloud/e-claim/8.png)
+   ![8](../../static/img/cloud/e-claim/8.png)
 
 4. Wait the the sync status to show "**Sync completed**"
 
-   ![9](/img/cloud/e-claim/9.png)
+   ![9](../../static/img/cloud/e-claim/9.png)
 
 ### 4. SQL HRMS mobile app (Employee)
 
@@ -83,7 +83,7 @@ Please contact your SQL service agent to register for SQL Drive or you won't abl
 
    1. Go to Play Store (Android), App Store (iOS), and search for **SQL HRMS** by **eStream Software** .
 
-      ![10](/img/cloud/e-claim/10.png)
+      ![10](../../static/img/cloud/e-claim/10.png)
 
    2. Open the app, and proceed to login with the email address registered in Maintain Employee (refer to Step 3)
 
@@ -93,9 +93,9 @@ Please contact your SQL service agent to register for SQL Drive or you won't abl
 
    | 1. Go to **Employee View**  | 2. Swipe Left to show Claim section  |
    |----|----|
-   | ![11a](/img/cloud/e-claim/11a.png)  | ![11b](/img/cloud/e-claim/11b.png)  |
+   | ![11a](../../static/img/cloud/e-claim/11a.png)  | ![11b](../../static/img/cloud/e-claim/11b.png)  |
    | 3. Enter Claim Details and Upload Attachments | 4. Submit the claim |
-   | ![11c](/img/cloud/e-claim/11c.png) | ![11d](/img/cloud/e-claim/11d.png) |
+   | ![11c](../../static/img/cloud/e-claim/11c.png) | ![11d](../../static/img/cloud/e-claim/11d.png) |
 
 :::info
 
@@ -113,11 +113,11 @@ For more info, may refer to the video [Youtube](https://www.youtube.com/watch?v=
 
 1. Login to SQL Payroll | **Cloud** | **Sync Cloud**
 
-   ![12](/img/cloud/e-claim/12.png)
+   ![12](../../static/img/cloud/e-claim/12.png)
 
 2. Go to **Pending Claim**, then click **Sync All**.
 
-   ![13](/img/cloud/e-claim/13.png)
+   ![13](../../static/img/cloud/e-claim/13.png)
 
 3. Once synced successfully, you will a listing of pending claim to be approved or rejected.
 
@@ -125,7 +125,7 @@ For more info, may refer to the video [Youtube](https://www.youtube.com/watch?v=
 
 5. Click on the Attachment column to view attachments directly.
 
-   ![14](/img/cloud/e-claim/14.png)
+   ![14](../../static/img/cloud/e-claim/14.png)
 
 ---
 
@@ -133,7 +133,7 @@ For more info, may refer to the video [Youtube](https://www.youtube.com/watch?v=
 
    1. Click **Reject**
 
-      ![15](/img/cloud/e-claim/15.png)
+      ![15](../../static/img/cloud/e-claim/15.png)
 
       :::info
 
@@ -147,7 +147,7 @@ For more info, may refer to the video [Youtube](https://www.youtube.com/watch?v=
 
    1. Click Approve
 
-      ![16](/img/cloud/e-claim/16.png)
+      ![16](../../static/img/cloud/e-claim/16.png)
 
       :::note
 
@@ -159,15 +159,15 @@ For more info, may refer to the video [Youtube](https://www.youtube.com/watch?v=
 
    3. Now go to **Payroll** | **New Payroll** | Click *Process*
 
-      ![17](/img/cloud/e-claim/17.png)
+      ![17](../../static/img/cloud/e-claim/17.png)
 
    4. You will be prompted with the pending claim that will be included, click **OK** to proceed.
 
-      ![18](/img/cloud/e-claim/18.png)
+      ![18](../../static/img/cloud/e-claim/18.png)
 
    5. Double click on the employee on left sidebar to check payroll details. Can see that claim amount is included in the month end payroll.
 
-      ![19](/img/cloud/e-claim/19.png)
+      ![19](../../static/img/cloud/e-claim/19.png)
 
    6. Done
 
@@ -183,7 +183,7 @@ System do not force you to reject the claim, however you will be given two remin
 
    Employee Claim Amount: **RM200**
 
-   ![20](/img/cloud/e-claim/20.png)
+   ![20](../../static/img/cloud/e-claim/20.png)
 
    :::note
 
@@ -193,22 +193,22 @@ System do not force you to reject the claim, however you will be given two remin
 
 2. Click approve, system will calculate the extra amount which exceeded limit. (**First reminder**)
 
-   ![21](/img/cloud/e-claim/21.png)
+   ![21](../../static/img/cloud/e-claim/21.png)
 
 3. Click Sync Now.
 
 4. Go to **Payroll** | *New Payroll* | Click *Process* | Click *OK*
 
-   ![22](/img/cloud/e-claim/22.png)
+   ![22](../../static/img/cloud/e-claim/22.png)
 
 5. System will prompt a new window "Claims Exceed Limit" (**Second reminder**)
 
-   ![23](/img/cloud/e-claim/23.png)
+   ![23](../../static/img/cloud/e-claim/23.png)
 
 6. Click OK to approve and proceed with the claim.
 
-   ![24](/img/cloud/e-claim/24.png)
+   ![24](../../static/img/cloud/e-claim/24.png)
 
 If you do not wish to reject the claim, untick it and Click **OK**
 
-   ![25](/img/cloud/e-claim/25.png)
+   ![25](../../static/img/cloud/e-claim/25.png)
