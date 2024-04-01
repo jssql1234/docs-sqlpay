@@ -1,36 +1,48 @@
 ---
-sidebar_position: 8
-id: print-letter
-title: Print Appointment /Confirmation /Increment letter
-description: A guide to print Appointment/Confirmation/Increment letter for SQL Payroll
+title: Print Letter
+description: A guide to print Appointment/Confirmation/Increment letter
 slug: /human-resource/print-letter
 tags: ["SQL Payroll", "Letter","Appointment Letter","Comfirmation Letter","Increment Letter"]
 ---
 
-## Steps and Instructions
+## Introduction
 
-### 1. Navigate yourself to the Maintain Employee panel
+:::info
+This guide explains how to print Appointment, Confirmation, Increment letter
+:::
 
-![1](../../static/img/human-resource/print-letter/1.png)
+## Setup
 
-### 2. Select the employee
+1. Navigate to the **Maintain Employee** panel
 
-![2](../../static/img/human-resource/print-letter/2.png)
+    ![navigate](../../static/img/human-resource/print-letter/navigate.png)
 
-### 3. Click preview reports
+2. Select the employee
 
-![3](../../static/img/human-resource/print-letter/3.png)
+    ![select-employee](../../static/img/human-resource/print-letter/select-employee.png)
 
-### 4. Select the report you want by double clicking it
+3. Click preview reports
 
-![4](../../static/img/human-resource/print-letter/4.png)
+    ![preview-report](../../static/img/human-resource/print-letter/preview-report.png)
 
-This is the example of the appointment letter
+4. Select the report you want by double clicking it
 
-![5](../../static/img/human-resource/print-letter/5.png)
+    ![select-report](../../static/img/human-resource/print-letter/select-report.png)
 
-Special note:
+5. This is the example of the appointment letter
 
-    For increment letter, make sure increment is set in **history** in order for the report to work
+    ![letter-example](../../static/img/human-resource/print-letter/letter-example.png)
 
-![6](../../static/img/human-resource/print-letter/6.png)
+### Increment Letter
+
+:::note
+For increment letter, make sure increment is set in **history** in order for the report to work
+:::
+
+1. Go to the employee details, click on History from the tab view
+
+2. Click on the dropdown 🔽 of the item, select **Increment** as the code
+
+3. Save the employee details
+
+![increment-letter-setup](../../static/img/human-resource/print-letter/increment-letter-setup.png)
