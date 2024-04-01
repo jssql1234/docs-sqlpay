@@ -1,50 +1,48 @@
 ---
-sidebar_position: 3
-id: company-profile
-title: Maintain Payroll Company Profile
-description: A guide to Maintain Payroll Company Profile in SQL Payroll
+title: Maintain Company Profile
+description: A guide to Maintain Company Profile in SQL Payroll
 slug: /getting-started/company-profile
 tags: ["SQL Payroll", "Company Profile"]
 ---
 
-### Steps & Instructions
+## Setup
 
-    1. File -> Company Profile
+1. Navigate to File > Company Profile
 
-        ![1](../../static/img/getting-started/company-profile/1.png)
+   ![company-profile](../../static/img/getting-started/company-profile/company-profile.png)
 
-    2. Fill up “General” section
+2. Fill up "General" section
 
-        ![2](../../static/img/getting-started/company-profile/2.png)
+   ![general](../../static/img/getting-started/company-profile/general.png)
 
-    3. Fill up “EPF” Section
+3. Fill up "EPF" Section
 
-        ![3](../../static/img/getting-started/company-profile/3.png)
+   ![epf-1](../../static/img/getting-started/company-profile/epf-1.png)
 
-        ![4](../../static/img/getting-started/company-profile/4.png)
+   ![epf-2](../../static/img/getting-started/company-profile/epf-2.png)
 
-    4. Fill up “Tax” Section
+4. Fill up "Tax" Section
 
-        ![5](../../static/img/getting-started/company-profile/5.png)
+   ![tax-1](../../static/img/getting-started/company-profile/tax-1.png)
 
-        ![6](../../static/img/getting-started/company-profile/6.png)
+   ![tax-2](../../static/img/getting-started/company-profile/tax-2.png)
 
-    5. Fill up “SOCSO” Section
+5. Fill up "SOCSO" Section
 
-        ![7](../../static/img/getting-started/company-profile/7.png)
+   ![socso-1](../../static/img/getting-started/company-profile/socso-1.png)
 
-        ![8](../../static/img/getting-started/company-profile/8.png)
+   ![socso-2](../../static/img/getting-started/company-profile/socso-2.png)
 
-    6. Fill up “Zakat” Section
+6. Fill up "Zakat" Section
 
-        ![9](../../static/img/getting-started/company-profile/9.png)
+   ![zakat](../../static/img/getting-started/company-profile/zakat.png)
 
-    7. Fill up “ Officer” Section
+7. Fill up " Officer" Section
 
-        ![10](../../static/img/getting-started/company-profile/10.png)
+   ![officer-1](../../static/img/getting-started/company-profile/officer-2.png)
 
-        ![11](../../static/img/getting-started/company-profile/11.png)
+   ![officer-2](../../static/img/getting-started/company-profile/officer-2.png)
 
-    8. Fill up “Dealer” Section
+8. Fill up "Dealer" Section
 
-        ![12](../../static/img/getting-started/company-profile/12.png)
+      ![dealer](../../static/img/getting-started/company-profile/dealer.png)
