@@ -1,7 +1,7 @@
 ---
 title: Maintain Allowance
 description: A guide to process payroll with allowance
-slug: /usage/maintain-allowance
+slug: /usage/payroll/maintenance/maintain-allowance
 tags: ["SQL Payroll", "allowance"]
 ---
 
@@ -19,15 +19,15 @@ tags: ["SQL Payroll", "allowance"]
 
 1. Navigate to **Payroll** > **Maintenance** > **Maintain Allowance**
 
-   ![navigate](../../static/img/usage/maintain-allowance/navigate.png)
+   ![navigate](../../../../static/img/usage/payroll/maintenance/maintain-allowance/navigate.png)
 
 2. Click New to generate a New Allowance
 
-   ![new](../../static/img/usage/maintain-allowance/new.png)
+   ![new](../../../../static/img/usage/payroll/maintenance/maintain-allowance/new.png)
 
 3. Insert the info that you want to set in maintain allowance
 
-   ![insert](../../static/img/usage/maintain-allowance/insert.png)
+   ![insert](../../../../static/img/usage/payroll/maintenance/maintain-allowance/insert.png)
 
    1. Insert the Code of the Allowance that you want to generate.
    2. Insert the Description of the allowance.
@@ -37,11 +37,11 @@ tags: ["SQL Payroll", "allowance"]
 
 4. After create the master file of Allowance, then you can add the fixed allowance for certain employee which have the allowance monthly
 
-   ![add-fixed-allowance](../../static/img/usage/maintain-allowance/add-fixed-allowance.png)
+   ![add-fixed-allowance](../../../../static/img/usage/payroll/maintenance/maintain-allowance/add-fixed-allowance.png)
 
 5. Alternatively, you can insert the allowance after process month end.
 
-   ![process-month-end-add-allowance](../../static/img/usage/maintain-allowance/process-month-end-add-allowance.png)
+   ![process-month-end-add-allowance](../../../../static/img/usage/payroll/maintenance/maintain-allowance/process-month-end-add-allowance.png)
 
    1. Click on the "**Overtime**"
    2. CLick on the ➕ to add the employee then fill in the overtime

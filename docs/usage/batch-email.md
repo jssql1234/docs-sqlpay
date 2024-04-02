@@ -45,7 +45,7 @@ You can [CLICK HERE](<https://wiki.sql.com.my/wiki/Fast_Report_-_E-Mail_Client_(
 
 ## Setting PDF Password
 
-### Scenario 1 : Setting Empoyee Name 2 as password
+### Scenario 1 : Setting Employee Name 2 as password
 
 :::info[note]
 Only available in Version 1.2021.2066.174 & above

@@ -1,7 +1,7 @@
 ---
-title: Leave Module
-description: A guide of leave module for SQL Payroll
-slug: /usage/leave-module
+title: Leave
+description: A guide of leave for SQL Payroll
+slug: /usage/leave
 tags:
   [
     "SQL Payroll",

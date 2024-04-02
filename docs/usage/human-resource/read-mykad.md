@@ -1,7 +1,7 @@
 ---
 title: Maintain Employee with MyKad Reader
 description: A guide to maintain employee using MyKad reader
-slug: /human-resource/read-mykad
+slug: /usage/human-resource/read-mykad
 tags: ["SQL Payroll", "Employee", "Maintain Employee", "MyKad"]
 ---
 
@@ -11,28 +11,28 @@ tags: ["SQL Payroll", "Employee", "Maintain Employee", "MyKad"]
 
 2. Reader will turn red light when you success link to your computer
 
-   ![reader](../../static/img/human-resource/read-mykad/reader.png)
+   ![reader](../../../static/img/usage/human-resource/read-mykad/reader.png)
 
 3. Put MyKard into reader
 
 4. Reader will show blue light when success read your MyKad
 
-   ![plug-in-mykad](../../static/img/human-resource/read-mykad/plug-in-mykad.png)
+   ![plug-in-mykad](../../../static/img/usage/human-resource/read-mykad/plug-in-mykad.png)
 
 5. Open your SQL Payroll New Employee Profile > **Read MyKad**
 
-   ![read-mykad](../../static/img/human-resource/read-mykad/read-mykad.png)
+   ![read-mykad](../../../static/img/usage/human-resource/read-mykad/read-mykad.png)
 
 6. Select **Reader Devices** > **Click Read Card**
 
-   ![read-card](../../static/img/human-resource/read-mykad/read-card.png)
+   ![read-card](../../../static/img/usage/human-resource/read-mykad/read-card.png)
 
 7. Click **Read MyKad**
 
-   ![read-mykad-physical](../../static/img/human-resource/read-mykad/read-mykad-physical.png)
+   ![read-mykad-physical](../../../static/img/usage/human-resource/read-mykad/read-mykad-physical.png)
 
 8. Inside System will auto fill up MyKard Detail
 
    - **(NAME , ADDRESS , ID Number, D.O.B, GENDER)**
 
-   ![result](../../static/img/human-resource/read-mykad/result.png)
+   ![result](../../../static/img/usage/human-resource/read-mykad/result.png)

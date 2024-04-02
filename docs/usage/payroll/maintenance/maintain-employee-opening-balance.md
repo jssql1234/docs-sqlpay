@@ -1,7 +1,7 @@
 ---
 title: Maintain Employee Opening Balance
 description: A guide to maintain employee's opening balance
-slug: /usage/maintain-employee-opening-balance
+slug: /usage/payroll/maintenance/maintain-employee-opening-balance
 tags: ["SQL Payroll", "Employee", "Opening Balance"]
 ---
 
@@ -14,27 +14,27 @@ tags: ["SQL Payroll", "Employee", "Opening Balance"]
 
 1. Navigate to the **Open Payroll**
 
-   ![navigate](../../static/img/usage/maintain-employee-opening-balance/navigate.png)
+   ![navigate](../../../../static/img/usage/payroll/maintenance/maintain-employee-opening-balance/navigate.png)
 
 2. Double click the year in Open Payroll
 
-   ![open-payroll](../../static/img/usage/maintain-employee-opening-balance/open-payroll.png)
+   ![open-payroll](../../../../static/img/usage/payroll/maintenance/maintain-employee-opening-balance/open-payroll.png)
 
 3. Double click the transaction under ‘Opening’
 
-   ![open-txn](../../static/img/usage/maintain-employee-opening-balance/open-txn.png)
+   ![open-txn](../../../../static/img/usage/payroll/maintenance/maintain-employee-opening-balance/open-txn.png)
 
 4. Select the employee by double clicking on the name
 
-   ![select-employee](../../static/img/usage/maintain-employee-opening-balance/select-employee.png)
+   ![select-employee](../../../../static/img/usage/payroll/maintenance/maintain-employee-opening-balance/select-employee.png)
 
 5. Key in all the employee’s opening balance information
 
-   ![key-in-employee-details](../../static/img/usage/maintain-employee-opening-balance/key-in-employee-details.png)
+   ![key-in-employee-details](../../../../static/img/usage/payroll/maintenance/maintain-employee-opening-balance/key-in-employee-details.png)
 
 ## Mapping of SQL 'opening' to EA form
 
-![mapping](../../static/img/usage/maintain-employee-opening-balance/mapping.png)
+![mapping](../../../../static/img/usage/payroll/maintenance/maintain-employee-opening-balance/mapping.png)
 
 ## Special note for additional EPF and additional PCB
 
@@ -42,4 +42,4 @@ tags: ["SQL Payroll", "Employee", "Opening Balance"]
 - In the EA form, normal EPF and additional EPF is group into one.
 - However, SQL recommend users to split the amount for a more detail input.
 
-![notes](../../static/img/usage/maintain-employee-opening-balance/notes.png)
+![notes](../../../../static/img/usage/payroll/maintenance/maintain-employee-opening-balance/notes.png)

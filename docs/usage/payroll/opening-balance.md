@@ -1,7 +1,7 @@
 ---
 title: Opening Balance
 description: A guide to maintain opening balance of employees
-slug: /usage/opening-balance
+slug: /usage/payroll/opening-balance
 tags: ["SQL Payroll", "Opening Balance"]
 ---
 
@@ -15,23 +15,23 @@ The previous PCB amount is **needed to key in so that the system can correctly c
 
 1. Navigate to **Payroll** > **Open Payroll**
 
-   ![navigate](../../static/img/usage/opening-balance/navigate.png)
+   ![navigate](../../../static/img/usage/payroll/opening-balance/navigate.png)
 
 2. Double click on the payroll year to open it
 
-   ![open](../../static/img/usage/opening-balance/open.png)
+   ![open](../../../static/img/usage/payroll/opening-balance/open.png)
 
 3. Double click on the transaction section under "**Opening**"
 
-   ![open-transaction](../../static/img/usage/opening-balance/open-transaction.png)
+   ![open-transaction](../../../static/img/usage/payroll/opening-balance/open-transaction.png)
 
 4. Select the employee by double clicking on its name
 
-   ![select-employee](../../static/img/usage/opening-balance/select-employee.png)
+   ![select-employee](../../../static/img/usage/payroll/opening-balance/select-employee.png)
 
 5. Key in all the employee’s opening balance information
 
-   ![fill-in-employee-details](../../static/img/usage/opening-balance/fill-in-employee-details.png)
+   ![fill-in-employee-details](../../../static/img/usage/payroll/opening-balance/fill-in-employee-details.png)
 
    :::info
 
@@ -41,7 +41,7 @@ The previous PCB amount is **needed to key in so that the system can correctly c
 
 ## Mapping of SQL "opening" to EA form
 
-![mapping](../../static/img/usage/opening-balance/mapping.png)
+![mapping](../../../static/img/usage/payroll/opening-balance/mapping.png)
 
 ## Special note for additional EPF and PCB
 
@@ -49,4 +49,4 @@ The previous PCB amount is **needed to key in so that the system can correctly c
 - In the EA form, normal EPF and additional EPF is group into one.
 - However, SQL recommend users to split the amount for a more detail input.
 
-![additional-epf-pcb](../../static/img/usage/opening-balance/additional-epf-pcb.png)
+![additional-epf-pcb](../../../static/img/usage/payroll/opening-balance/additional-epf-pcb.png)

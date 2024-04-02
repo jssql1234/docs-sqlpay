@@ -1,7 +1,7 @@
 ---
 title: Maintain Payment Method
 description: A guide to maintain payment method
-slug: /usage/maintain-payment-method
+slug: /usage/payroll/maintenance/maintain-payment-method
 tags: ["SQL Payroll", "Payment Method"]
 ---
 
@@ -18,34 +18,34 @@ tags: ["SQL Payroll", "Payment Method"]
 
 1. Navigate to the maintain payment method panel
 
-   ![navigate](../../static/img/usage/maintain-payment-method/navigate.png)
+   ![navigate](../../../../static/img/usage/payroll/maintenance/maintain-payment-method/navigate.png)
 
 2. Click new to create new payment method
 
-   ![new](../../static/img/usage/maintain-payment-method/new.png)
+   ![new](../../../../static/img/usage/payroll/maintenance/maintain-payment-method/new.png)
 
 3. Key in the information needed (Click save after configured)
 
-   ![key-in-1](../../static/img/usage/maintain-payment-method/key-in-1.png)
+   ![key-in-1](../../../../static/img/usage/payroll/maintenance/maintain-payment-method/key-in-1.png)
 
-   ![key-in-2](../../static/img/usage/maintain-payment-method/key-in-2.png)
+   ![key-in-2](../../../../static/img/usage/payroll/maintenance/maintain-payment-method/key-in-2.png)
 
 ## Explanation of auto rounding
 
 ### Without auto rounding
 
-![5](../../static/img/usage/maintain-payment-method/5.png)
+![5](../../../../static/img/usage/payroll/maintenance/maintain-payment-method/5.png)
 
 - After month end will show **no adjustment**
 - However, adjustment can be manually change by clicking the up/down arrow beside it
 
-![6](../../static/img/usage/maintain-payment-method/6.png)
+![6](../../../../static/img/usage/payroll/maintenance/maintain-payment-method/6.png)
 
 ### With auto rounding
 
 - After month end will have **auto adjustment** to nearest 5 cents
 
-![7](../../static/img/usage/maintain-payment-method/7.png)
+![7](../../../../static/img/usage/payroll/maintenance/maintain-payment-method/7.png)
 
 ## Usage
 
