@@ -2,7 +2,7 @@
 title: SQL HRMS
 description: A brief guide on SQL HRMS mobile application
 slug: /hrms/sql-hrms
-tags: ["SQL Payroll", "SQL HRMS", "HRMS"]
+tags: ["SQL Payroll", "SQL HRMS", "HRMS", "ELeave", "E Claim"]
 ---
 
 :::info

@@ -2,7 +2,7 @@
 title: E Leave
 description: A brief guide on the E Leave feature
 slug: /hrms/e-leave
-tags: ["SQL Payroll", "Cloud", "E Leave", "Sync", "Multi Level Approval"]
+tags: ["SQL Payroll", "HRMS", "Cloud", "E Leave", "Sync", "Multi Level Approval"]
 ---
 
 ## Introduction

@@ -2,7 +2,7 @@
 title: E Claim
 description: A guide to explain the e claim functionality
 slug: /hrms/e-claim
-tags: ["SQL Payroll", "Cloud", "E Claim"]
+tags: ["SQL Payroll", "HRMS", "Cloud", "E Claim", "SQL Drive"]
 ---
 
 ## Introduction

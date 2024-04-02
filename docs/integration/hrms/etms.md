@@ -2,7 +2,7 @@
 title: ETMS
 description: A full guide on ETMS (Time Management System)
 slug: /hrms/etms
-tags: ["SQL Payroll", "Cloud", "ETMS", "User Guide"]
+tags: ["SQL Payroll", "HRMS", "Cloud", "ETMS", "User Guide", "SQL Drive"]
 ---
 
 ## Introduction

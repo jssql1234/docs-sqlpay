@@ -2,7 +2,7 @@
 title: How to Get The Text File for Monthly Online Submission (EPF, SOCSO, EIS, PCB)?
 description: A guide to get text file for monthly online submission (EPF, SOCSO, EIS, PCB)
 slug: /faq/textfile-monthly-online-submisson
-tags: ["SQL Payroll", "Text File", "Monthly", "Online", "Submission"]
+tags: ["SQL Payroll", "FAQ", "Text File", "Monthly", "Online", "Submission"]
 ---
 
 ## Prerequisites

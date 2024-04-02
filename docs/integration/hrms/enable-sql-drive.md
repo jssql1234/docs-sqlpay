@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Enable SQL Drive
 description: A SQL Drive setup guide in SQL Payroll
 slug: /hrms/enable-sql-drive
-tags: ["SQL Payroll", "Cloud", "E Claim", "User Guide"]
+tags: ["SQL Payroll", "HRMS", "Cloud", "E Claim", "User Guide", "SQL Drive"]
 ---
 
 :::note

@@ -2,7 +2,7 @@
 title: Where to Change The Employee and Employer EPF Rate?
 description: A guide to change EPF Rate
 slug: /faq/change-epf-rate
-tags: ["SQL Payroll", "EPF"]
+tags: ["SQL Payroll", "FAQ", "EPF"]
 ---
 
 ## Setup

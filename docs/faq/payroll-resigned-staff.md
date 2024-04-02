@@ -2,7 +2,7 @@
 title: How to Process Payroll for Resigned Staff After Resign Date?
 description: A guide to process pending claims, or commission for resigned staff afer resign date
 slug: /faq/payroll-resigned-staff
-tags: ["SQL Payroll", "Resigned"]
+tags: ["SQL Payroll", "FAQ", "Resigned"]
 ---
 
 ## Process pending claims, or commission for resigned staff after resign date
