@@ -28,7 +28,7 @@ Given an example with this Month (June) with **PCB amount** of **RM1444.90**.
     >
     >3 Press calculate amount to show the total amount of PCB u paid that month.
 
-    ![calculte](../../static/img/usage/pcb-cp38-receipt-no-date/calculte.png)
+    ![calculate](../../static/img/usage/pcb-cp38-receipt-no-date/calculate.png)
 
     The **TOTAL** PCB Normal amount of the employees which is **RM 1444.90**.
 

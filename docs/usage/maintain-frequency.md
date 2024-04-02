@@ -15,7 +15,7 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
 
     ![maintain-frequency](../../static/img/usage/maintain-frequency/maintain-frequency.png)
 
-2. Press New and set accordingly to what you prefer.
+2. Click on **New** to preset your contribution.
 
     ![new](../../static/img/usage/maintain-frequency/new.png)
 
@@ -23,9 +23,11 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
 
     ![set-freq-1](../../static/img/usage/maintain-frequency/set-freq-1.png)
 
+4. After save, you can check the allowance the employee is having. In this example, the employee Nicole has an Fixed Allowance of RM 230.
+
     ![set-freq-2](../../static/img/usage/maintain-frequency/set-freq-2.png)
 
-4. Go to **Payroll** > **New payroll** > **Frequency**
+5. Next, go to **Payroll** > **New payroll** > **Frequency**
 
     ![frequency](../../static/img/usage/maintain-frequency/frequency.png)
 
@@ -37,13 +39,15 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
 
     4 Click PROCESS
 
-5. The following result below will show in the HALF MONTH FREQUENCY PAYROLL.
+6. The following result below will show in the **HALF MONTH FREQUENCY PAYROLL**.
 
     ![result-1](../../static/img/usage/maintain-frequency/result-1.png)
 
+7. When it is time to do month end, click on Payroll, look for New Payroll and click on Final Month End to process.
+
     ![result-2](../../static/img/usage/maintain-frequency/result-2.png)
 
-6. Select the Employee ( Nicole ) that you’ve process Frequency. The following is the result of Employee that had process Frequency.
+8. Select the Employee ( Nicole ) that you’ve process Frequency. The following is an example result of the Employee that had process Frequency.
 
    - Wages - [2800 (Basic) – 1400 (Frequency) = 1400 ]
    - Allowance - [ 230 (Fixed) – 115 (Frequency) = 115 ]

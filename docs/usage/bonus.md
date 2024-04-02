@@ -1,5 +1,5 @@
 ---
-title: Adhoc Bonus
+title: Bonus
 description: A guide to process bonus in SQL Payroll
 slug: /usage/bonus
 tags: ["SQL Payroll", "Bonus"]
@@ -7,22 +7,39 @@ tags: ["SQL Payroll", "Bonus"]
 
 ## Setup
 
-1. Navigate to Payroll > Open Pending Payroll
+1. Navigate to **Payroll** > **Open Pending Payroll**
 
-    ![open-pending](../../static/img/usage/bonus/open-pending.png)
+   ![navigate](../../static/img/usage/bonus/navigate.png)
 
-2. Click On Bonus
+2. Click on Bonus
 
-    ![bonus](../../static/img/usage/bonus/bonus.png)
+   ![click-bonus](../../static/img/usage/bonus/click-bonus.png)
 
-3. Update the information accordingly
+3. Next, adjust the bonus of your employee
 
-    ![update](../../static/img/usage/bonus/update.png)
+   ![adjust-employee](../../static/img/usage/bonus/adjust-employee.png)
 
-4. Go to Payroll > new Payroll > Adhoc
+   1. Click “Add”
+   2. Select your employee
+   3. Key in amount
+   4. Save
 
-    ![adhoc](../../static/img/usage/bonus/adhoc.png)
+4. Go to **Payroll** > **New Payroll** and click on **Ad Hoc**
 
-5. Process it and you are done 🥳
+   ![adhoc](../../static/img/usage/bonus/adhoc.png)
 
-    ![process](../../static/img/usage/bonus/process.png)
+5. Tick **EPF** if you want to deduct **EPF**, Tick **PCB** if you want to deduct **PCB**
+
+   ![epf-pcb](../../static/img/usage/bonus/epf-pcb.png)
+
+6. Tick Bonus / Allowance (To input your amount)
+
+   ![tick-bonus](../../static/img/usage/bonus/tick-bonus.png)
+
+7. Change the Description (Optional) and tick the employee you rewarded with bonus
+
+   ![change-desc](../../static/img/usage/bonus/change-desc.png)
+
+8. Complete and check the payslip
+
+   ![result](../../static/img/usage/bonus/result.png)

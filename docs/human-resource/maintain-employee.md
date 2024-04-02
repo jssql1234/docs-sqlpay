@@ -13,7 +13,11 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
 
 1. Navigate yourself to the Maintain Employee panel
 
-   ![navigate](../../static/img/human-resource/maintain-employee/navigate.png)
+   ![navigate-1](../../static/img/human-resource/maintain-employee/navigate-1.png)
+
+   \*OR Click on the home page "Maintain Employee"\*\*
+
+   ![navigate-2](../../static/img/human-resource/maintain-employee/navigate-2.png)
 
 2. Click new to create new employee
 
@@ -45,9 +49,26 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
 
    ![key-in-grouping](../../static/img/human-resource/maintain-employee/key-in-grouping.png)
 
-   - Create new Branch/HR Group/Department/Category/Country/Race
+   | Symbol | Description                                                                                                                                                    |
+   | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+   | 4.(a)  | Key in the branch/department/category of the employee in the company. (if the company doesn’t have so much grouping, just remain everything as default “----“) |
+   | 4.(b)  | Select the type of calendar for the employee.                                                                                                                  |
+   | 4.(c)  | Select the leave group for the employee. (please visit Maintain Leave guide for more info)                                                                     |
 
-   ![create-new-branch](../../static/img/human-resource/maintain-employee/create-new-branch.png)
+   :::tip
+
+   The Purpose of Grouping setting is :
+
+   - For Reference purpose.
+
+   - For Report representation method by Group.
+
+   :::
+
+   1. To Create new Branch / HRGroup / Department/ Category / Country/ Race
+
+   ![create-new-branch-1](../../static/img/human-resource/maintain-employee/create-new-branch-1.png)
+   ![create-new-branch-2](../../static/img/human-resource/maintain-employee/create-new-branch-2.png)
 
 5. Key in the employee’s family details
 
@@ -75,6 +96,10 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
 
    ![history-report](../../static/img/human-resource/maintain-employee/history-report.png)
 
+   :::tip
+   You can manually update the history by clicking on ➕ button or click on ➖ button to remove unncessary history records
+   :::
+
 10. Add the employee’s children information (will affect tax category)
 
     ![add-children-info](../../static/img/human-resource/maintain-employee/add-children-info.png)
@@ -85,4 +110,10 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
     For Example: resume, curriculum vitae, contract agreement, receipt claims etc
     :::
 
-    ![add-attachment](../../static/img/human-resource/maintain-employee/add-attachment.png)
+   :::info
+   To avoid System with speed issue due on database size huge, system will only create shortcut link for the "attach" item instead of save it in the system.
+
+   If the file been removed from locally, then the shortcut link will not function anymore.
+   :::
+
+   ![add-attachment](../../static/img/human-resource/maintain-employee/add-attachment.png)
