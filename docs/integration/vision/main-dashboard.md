@@ -57,7 +57,7 @@ Details are **view-only** and **cannot be edited** or **modified** from the mobi
 
 ### 6.2 Company Configuration (Manager)
 - Allows managers to modify settings such as the closing period, estimated payout day and strategies. 
-- For more details about strategy, see [**Linking to SQL Account | Strategy**](./linking-to-account.md#20-strategy).
+- For more details about strategy, see [**Linking to SQL Account | Strategy**](./linking-to-account.md#strategy).
 
 ![Company Configuration](../../../static/img/integration/vision/account/predefined-strategy.png)
 :::warning NOTE

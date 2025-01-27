@@ -75,7 +75,7 @@ To set up a team target, create two identical missions: one with the **Individua
 
 ![target](../../../../static/img/integration/vision/mi_creation/t-2.2.png)
 
-**Strategy** refers to the formula that helps managers and the application determine which specific target a particular mission belongs to. This formula enables the application to accurately retrieve the target amount from the SQL Account. For more details, see [**Linking to SQL Account | Strategy**](../linking-to-account.md#20-strategy).
+**Strategy** refers to the formula that helps managers and the application determine which specific target a particular mission belongs to. This formula enables the application to accurately retrieve the target amount from the SQL Account. For more details, see [**Linking to SQL Account | Strategy**](../linking-to-account.md#strategy).
 
 :::tip Example Scenario
 
