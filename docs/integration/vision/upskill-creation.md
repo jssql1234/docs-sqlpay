@@ -115,7 +115,7 @@ sidebar_position: 7
 | **4.2 Filter**        | Filter and sort the employee list.                                             | By branch, department & HR group. |
 | **4.3 Select All**    | Select all employees as participants.                                                         | Can press again to deselect all employees. |
 | **4.4 Available Slots**        | The available slots left for this course (Number of selected participants / maximum pax).                                                           |As this is **private** course, so there is **no maximum pax**, hence the maximum pax is "-".|
-| **4.5 Selected Employees**     | All employees in the companies that **participate** in this course.                            |  Click to **remove** employee from course. |
+| **4.5 Selected Employees**     | All employees in the companies that **participate** in this course.                            |  Click to **remove** employee from course.<br/><br/>Selected participants cannot be removed when the course has started (ongoing). |
 | **4.6 Unselected Employees**        | All employees in the companies that **does not participate** in this course.                                                                        |Click to **add** employee to course.|
 | **4.7 Back**          | Navigate back to the previous page.                                                          | - |
 | **4.8 Create or Edit**        | Create or edit the course.                                                                            | - |

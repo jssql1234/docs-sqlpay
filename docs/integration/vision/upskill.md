@@ -339,7 +339,7 @@ To view finalized courses, open the filter and **tick** the **finalised** option
 :::info[Note]
 - A greyed-out reward means the participant did not entitle the reward.
 - However, as long as the course has not been finalised, any changes made by the manager to a participant’s attendance or bonus reward will be reflected in their profile.
-- The bonus request status is exactly the same as the course info page, [<u>click here</u>](#4-bonus-request-status) to know more.
+- The bonus request status is exactly the same as the course info page, [<u>click here</u>](#3-bonus-request-status) to know more.
 :::
 
 
@@ -362,11 +362,6 @@ To view finalized courses, open the filter and **tick** the **finalised** option
 | **3.8 Partially Achieve**  | Indicates that participants entitled partial amount of the original reward. | Tap on the indicator to view the amount of cash and coins earned.<br/>![Reward Summary Diagram](../../../static/img/integration/vision/upskill/mgr_rewardSummary_tapPartialIndicator.png) |
 
 
-:::info[Note]
-By default, finalized courses are hidden.  
-To view finalized courses, open the filter and **tick** the **finalised** option.
-:::
-
 :::tip
 - **Reward summary table** will only be shown after the course is **finalised**.
 - Manager can also click on the participants' name to access to their participant's profile
@@ -382,7 +377,7 @@ To view finalized courses, open the filter and **tick** the **finalised** option
 - There are two statuses for bonus requests:
     - **Pending**: The request has not been approved by the manager and is awaiting approval.. 
     - **Marked**: The request has been approved by the manager but can still be edited.
-- The total amount for pending requests is 0 because the request has not yet been approved.
+- The total amount for pending requests is 2 because the request has not yet been approved.
 - **Remark** is the comment entered by participants to detail what they achieved in order to meet the bonus criteria.
 - **Feedback** is the comments provided by the manager or tutor for the participants.
 
