@@ -221,7 +221,7 @@ Therefore the registered participants value will be displayed as "11/-".
 
 
 <br/>
-### 4. Bonus request status
+### 3. Bonus request status
 - Users must **attend at least one session** to request for bonus.
 
 ![User Bonus Request Status Diagram](../../../static/img/integration/vision/upskill/user_bonusReqStatus.png)
