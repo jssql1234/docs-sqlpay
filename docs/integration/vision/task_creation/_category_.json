@@ -1,6 +1,6 @@
 {
     "label": "Task Creation/Edit",
-    "position": 4,
+    "position": 3,
     "link": {
       "type": "generated-index",
       "description": "Guidance to create Assignment and Target mission in SQL Vision."

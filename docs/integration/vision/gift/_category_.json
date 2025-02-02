@@ -1,6 +1,6 @@
 {
     "label": "Gift",
-    "position": 10,
+    "position": 8,
     "link": {
       "type": "generated-index",
       "description": "Guidance to create Gift and redeem Gift in SQL Vision."
