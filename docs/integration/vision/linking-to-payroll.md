@@ -39,6 +39,6 @@ All rewards will be classified as **Commission** by default. You can change the 
 :::warning[Warning]
 
 - You are **allowed** to process the reward for specific employees if the expected payout month is **within or before** the payroll process month.  
-- If you **choose not to process** particular reward, update the expected payout date for the employee in SQL Vision through **[Wallet | Manage Payout](wallet.md#1---manage-payoutentitlement-page)**.
+- If you **choose not to process** particular reward, update the expected payout date for the employee in SQL Vision through **[Wallet | Manage Payout](wallet#manage-payoutentitlement-page)**.
 
 :::
