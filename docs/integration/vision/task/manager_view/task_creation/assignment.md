@@ -22,7 +22,7 @@ This feature is only available to **manager**.
 | **Title**                | The title of the mission.                                                          | Required |
 | **Description**          | A detailed description of the mission.                                             | Required |
 | **[Project/Job/Task](#projectjobtask)** | The category for the mission, indicating whether it relates to a project, job, or specific task. | - |
-| **Start Date**           | The date when the mission begins. The start date must be today or a future date.   | Required |
+| **Start Date**           | The date when the mission begins.                                                  | Required |
 | **End Date**             | The date when the mission ends. The end date must be later than the start date.    | Required |
 | **Clear**                | Clears all content on the current page.                                            | -        |
 | **Next**                 | Navigates to the next page.                                                        | -        |
