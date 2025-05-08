@@ -49,7 +49,7 @@ sidebar_position: 1
 ![Session Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step2_sessionInfo.png)
 | <div align="center">Properties</div> | <div align="center">Description</div> | <div align="center">Note</div> |
 |:-------------------------------------|:--------------------------------------| :----------------------------- |
-| **Date Range**             | Display the start date and end date of the course which is determined by first and last session's date.                                          - |
+| **Date Range**             | Display the start date and end date of the course which is determined by first and last session's date.                                           | -
 | **Rewards By Session / Completion**                           | Determine whether the reward is calculated **by session** or **by completion**.<br/><br/> **By Completion**<br/> - Rewards are issued when participants achieve full attendance across all sessions (100% attendance).<br/><br/>**By Session**<br/>- Rewards are issued once participants attend any session. | **On:**<br/>Rewards calculate by session.<br/><br/>**Off:**<br/>Rewards calculate by completion.<br/><br/>To know more about rewards type, [<u>click here</u>](../introduction#rewards-type)|
 | **Session (Dropdown)**| The details of each session of the course.                           | - |
 | **Add**           | Add more sessions to the course.                                                     | - |
@@ -114,37 +114,19 @@ sidebar_position: 1
 ![Participant Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step4_ParticipantInfo.png)
 | <div align="center">Properties</div> | <div align="center">Description</div> | <div align="center">Note</div> |
 |:-----------------------------|:-----------------------------------------------------------------------------------|:---------|
+| **Apply Group**     | Apply groups with preset roles for both admin and participant. | To know more about group, [<u>click here</u>](../../Group/#apply-group).
+| **Clear**     | Clears all admin and participants on the current page. | Uneditable participants will not be cleared.
+| **Creator**     | Creator of course will be the first admin and cannot be removed. | - |
+| **Add Admin**     | Lead you to the select admin page. | To know more about admin, [<u> click here</u>](../introduction#course-role).
+| **Remove Admin**     | Remove selected admin. | The first admin (creator) cannot be removed.
 | **Is Public**     | Determine whether this course is public or private. | **On:**<br/>Public course.<br/><br/>**Off:**<br/>Private course.<br/><br/>To know more about public and private course, [<u> click here</u>](../introduction#course-privacy).
-| **Filter Icon**   | Filter and sort the employee list.                  | By branch, department & HR group. |
-| **Group Icon**    | Apply group members.                                | To know more about group, [<u>click here</u>](../../group#apply-group).
-| **Select All**    | Select all employees as participants.               | Can press again to deselect all employees. |
-| **Available Slots**        | The available slots left for this course (Number of selected participants / maximum pax).                                                           |As this is **private** course, so there is **no maximum pax**, hence the maximum pax is "-".|
-| **Selected Employees** (With tick)     | All employees in the companies that **participate** in this course.                            |  Click to **remove** employee from course.<br/><br/>Selected participants cannot be removed when the course has started (ongoing). |
-| **Unselected Employees** (Without tick)        | All employees in the companies that **does not participate** in this course.                                                                        |Click to **add** employee to course.|
+| **Available Slots**        | The available slots left for this course (number of selected participants / maximum pax).                                                           |As this is **private** course, so there is **no maximum pax**, hence the maximum pax is "-".|
+| **Add Participants**     | Lead you to the select participants page. | To know more about participants, [<u> click here</u>](../introduction#course-role).
+| **Editable Employees**     | Currently selected employees that **participate** in this course.                            | - |
+| **Remove Participant**     | Remove selected participant. | - |
+| **Uneditable Employees**        | Previously selected participants that cannot be removed. | Only will have this section once the course has started (ongoing). <br/><br/>Once the course has started, only newly added employees will be editable.|
 | **Back**          | Navigate back to the previous page.                                                          | - |
-| **Save**        | Create or edit the course.                                                                            | - |
-
-<br/>
-#### Is Public
-
-**Public course**
-- A public course is visible to participants in specific branches, departments, or HR groups as set by the manager.  
-- It allows eligible **participants to register** on their own.  
-
-**Private course**
-- A private course is not open for general registration. 
-- Instead, participants are manually **added by the manager**.  
-- Only those who are added to the course can view it in the course tab.  
-
-:::info[Note]
-If the is public switch is on, the maximum pax, branch, department and HR group fields are required.
-:::
-
-:::tip
-If a course is public, the manager can manually add participants who do not belong to the specified branches, departments, or HR groups.
-:::
-
-![Public Switch Diagram](../../../../../static/img/integration/vision/upskillCreation/step4_IsPublic.png)
+| **Create or Edit**        | Create or edit the course.                                                                            | - |
 
 
 
