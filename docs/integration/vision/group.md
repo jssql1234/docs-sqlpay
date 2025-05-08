@@ -26,7 +26,8 @@ Manager can view all the created groups in **Main Dashboard | Manage Group**. In
 
 1. Tap **Add** to create a new group.
 2. Enter **Group Name**.
-3. Select **Group Members** and their **Roles**.
+3. Select **Group Members**.
+4. **Roles** ***(Admin and Leader)*** can be added by long press the employee.
 4. Tap **Save** to save the group.
 
 ### Edit Group
