@@ -37,6 +37,52 @@ To view finalized courses, open the filter and **tick** the **finalised** option
 ::: -->
 
 
+
+
+
+
+
+
+
+
+
+<br/>
+### Transfer Ownership
+- Only the creator will see the transfer ownership button in the app bar.
+- If ownership is transferred to someone who is not an admin, that person will automatically be promoted to admin.
+- Once ownership is transferred, the button will no longer be visible to you, as you are no longer the creator.
+- In the third diagram below, ownership has been transferred to Ah Foo, making him the new creator. Although he was not initially an admin, he was automatically promoted to admin upon receiving ownership.
+
+![Transfer Ownership Diagram](../../../../../static/img/integration/vision/upskill/mgr_transferOwnership.png)
+
+
+
+
+
+
+
+
+
+
+
+<br/>
+### Change Log
+- The change log button (history icon) is located in the app bar.
+- Only admins, managers, tutors, and assistants have access to view the change log.
+- The change log displays a record of course edits, including who made the changes and the details provided by the editor.
+
+![Transfer Ownership Diagram](../../../../../static/img/integration/vision/upskill/mgr_changeLog.png)
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 ### Participant List
 - The manager can view participant list by clicking on the **"Attendees"** button. 
@@ -47,6 +93,14 @@ To view finalized courses, open the filter and **tick** the **finalised** option
 :::
 
 ![ View Participant's Profile Tab Diagram](../../../../../static/img/integration/vision/upskill/mgr_participantList.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -66,6 +120,14 @@ To view finalized courses, open the filter and **tick** the **finalised** option
 - However, as long as the course has not been finalised, any changes made by the manager to a participant’s attendance or bonus reward will be reflected in their profile.
 - The bonus request status is exactly the same as the course info page, [<u>click here</u>](../user-view#bonus-request-status) to know more.
 :::
+
+
+
+
+
+
+
+
 
 
 
@@ -92,6 +154,14 @@ To view finalized courses, open the filter and **tick** the **finalised** option
 - Manager can also click on the participants' name to access to their participant's profile
 - To know more about participant's profile, [<u>click here</u>](#participants-profile).
 :::
+
+
+
+
+
+
+
+
 
 
 
@@ -138,6 +208,14 @@ The **amount** of bonus requested by participant may be **different** but will n
 
 
 
+
+
+
+
+
+
+
+
 <br/>
 ### Attendance 
 - The attendance must be marked manually.  
@@ -165,6 +243,14 @@ The **amount** of bonus requested by participant may be **different** but will n
 
 
 
+
+
+
+
+
+
+
+
 <br/>
 ### Complete Course
 - When all sessions of course has ended, the complete button will appear in the bottom bar of course info page for manager to manually complete the course.
@@ -180,6 +266,14 @@ Once the course is completed, the course details cannot be edited anymore.
 - To view more actions a manager can perform in "Completed" course, [<u>click here</u>](../introduction#manager-course-status)
 :::
 ![Manually Complete Diagram](../../../../../static/img/integration/vision/upskill/mgr_completeCourse.png)
+
+
+
+
+
+
+
+
 
 
 
