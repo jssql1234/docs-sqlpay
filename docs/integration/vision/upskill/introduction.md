@@ -9,7 +9,7 @@ sidebar_position: 1
 ### Rewards Type  
 
 #### **Rewards by Completion**
-  - Rewards are issued when participants achieve full attendance across all sessions (100% attendance).
+  - Rewards are issued when participants **achieve full attendance** across all sessions (100% attendance).
   - Participants can view their session reward only after the all sessions has ended, as the reward depends on their overall attendance.
 
   :::info[Note]
@@ -23,7 +23,7 @@ sidebar_position: 1
 <br/>
 
 #### **Rewards by Session**
-  - Rewards are issued once participants attend any session.
+  - Rewards are issued once participants **attend any session**.
   - Participants can view their updated reward immediately after each session ended.
 
   :::info[Note]
@@ -38,18 +38,73 @@ sidebar_position: 1
 
 
 
+
+
+
+
+
+
+### Course Role
+#### **Admin**
+  - The **course creator** is automatically assigned as the first admin and cannot be removed.
+  - Admin holds the **highest** level of **privileges** in the course.
+  - They can perform all actions including editing course details, managing participants, marking attendance, and approving bonus requests.
+
+#### **Tutor**
+  - The **lead instructor** of the course.
+  - Each course can have only **one** tutor.
+  - Tutors hold the second-highest level of privileges, after admins.
+  - **Except for reward-related details** — such as tutor and assistant assignments, step 3 reward settings, and admin roles, tutors can perform **same action as admin**.
+
+  :::info[Note]
+  Tutors cannot edit reward-related course details and admin assignments.
+  :::
+
+#### **Assistant**
+  - There can be **multiple** assistants in a course.
+  - Assistants hold the **same level of privileges as tutor**.
+  - Multiple assistant tiers can be created, each with different reward allocations.
+
+#### **Participant**
+  - Employees who have registered for the course.
+  - Participants can view their attendance records, request bonuses, and track rewards earned. 
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
-### Course visibility
-- The diagram below illustrates how course visibility is set for branches, departments, and HR groups.  
-![Visibility Diagram](../../../../static/img/integration/vision/upskill/concept_courseVisibility_setVisibility.png)
+### Course Visibility
+
+- The dashboard contains two buttons: upskill and manage upskill.    
+**Upskill**: Displays courses where the employee is a **participant, tutor, or assistant**.    
+**Manage Upskill**: Displays courses where the employee is assigned as **admin**.
+![Visibility Diagram](../../../../static/img/integration/vision/upskill/concept_courseVisibility.png)
+
+:::info[Note]
+- If an employee is **not a company manager**, they cannot **view other branch and department** and **create course**.
+
+![Visibility Diagram](../../../../static/img/integration/vision/upskill/concept_courseVisibility_manageUpskillTab.png)
+:::
+
 
 #### **User Visibility**
-- Participants can view courses open to their own branch, department, and HR group.
-- However, participants can join courses from other branches, departments, or HR groups if a manager manually adds them to the course.
+- Participants can view courses open to exactly their own branch, department, and HR group.
+- However, participants still can join courses from other branches, departments, or HR groups if a manager manually adds them to the course.
+- The diagram below illustrates how course visibility is set for branches, departments, and HR groups.  
+
+![Visibility Diagram](../../../../static/img/integration/vision/upskill/concept_courseVisibility_setVisibility.png)
 
 #### **Manager Visibility**
-- Managers can only **manage** courses involving the **branch and department that are under their management area** which is set in payroll. 
-- For **other branches and departments**, managers can only **view** the course information **without reward details**.  
+- Employees can only manage courses where they are assigned as admin. To understand more about admin, [<u>click here</u>](#course-role)
+- Courses where they are not admins will appear under the **other branches and departments view** where managers can only **view** the course information **without reward details**.
 
 ![Manage Course Diagram](../../../../static/img/integration/vision/upskill/concept_courseVisibility_mgrManage&ViewCourse.png)
 
@@ -57,9 +112,9 @@ sidebar_position: 1
 |:-----------------------------|:-----------------------------------------------------------------------------------|:---------|
 | **Attendees**             | To view **registered employees** of this course, categorized by department, branch, or HR group, with department set as the default filter.| Can click on employee to view their participant profile which includes summary of attendance and rewards earned in this course.<br/><br/>To know more about participant's profile, [<u>click here</u>](manager_view/upskill#participants-profile)
 | **Rewards**       | To view the **total cash and coins spent** on this course, distributed among the tutor, assistants, and participants, along with detailed rewards earned by each participant. |  To know more about rewards summary, [<u>click here</u>](manager_view/upskill#reward-summary) |
-| **Bonus**        | To view, approve and edit bonus requests. | To know more about bonus requests, [<u>click here</u>](manager_view/upskill#bonus-requests) |
+| **Bonus**        | To view, approve and edit bonus requests from participants. | To know more about bonus requests, [<u>click here</u>](manager_view/upskill#bonus-requests) |
 | **Attendance**            | To view and mark attendance. | To know more about attendance, [<u>click here</u>](manager_view/upskill#attendance)|
-| **Finalise/Edit**  | To edit, manually complete or finalise course. |  To know more about:<br/>- Edit course, [<u>click here</u>](manager_view/upskill-creation#edit-course)<br/>- Complete course, [<u>click here</u>](manager_view/upskill#complete-course)<br/>- Finalise course, [<u>click here</u>](manager_view/upskill#finalise-course)|
+| **Finalise/Edit**  | To edit, manually complete or finalise course (depending on course status). |  To know more about:<br/>- Edit course, [<u>click here</u>](manager_view/upskill-creation#edit-course)<br/>- Complete course, [<u>click here</u>](manager_view/upskill#complete-course)<br/>- Finalise course, [<u>click here</u>](manager_view/upskill#finalise-course)|
 
 
 
@@ -72,7 +127,7 @@ sidebar_position: 1
 
 
 <br/>
-### Course status
+### Course Status
 - There are **4 course status** in upskill module:
 
 | Status                               | Description                                | 
@@ -116,6 +171,18 @@ sidebar_position: 1
 | **Complete** - complete course                           |          | ✓       |           |           | Last session must be ended.         |
 | **Finalise** - finalise course                          |          |          | ✓         |           | All bonus requests must be marked. |
 
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 ### Course Privacy 
 
@@ -128,13 +195,9 @@ sidebar_position: 1
 - Instead, participants are manually added by the manager.  
 - Only those who are added to the course can view it in the course tab (registered or completed tab). 
 
+
+
 <br/>
 **Course card** of public and private course:
 ![Course Privacy Course Card Diagram](../../../../static/img/integration/vision/upskill/concept_coursePrivacy_courseCard.png)
 <br/>
-
-:::info[Note]
-When manager creates a **private course**, the course visibility will be the branch and department that manager belongs to.  
-The **visibility** of a private course will always be the same as the **creator's branch and department**, **regardless** of which manager **edits** the course.
-![Manager Create Private Course Diagram](../../../../static/img/integration/vision/upskill/concept_coursePrivacy_privateCourse.png)
-:::
