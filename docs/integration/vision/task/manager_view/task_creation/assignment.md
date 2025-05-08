@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Create Assignment
 
-Assignment is a qualitative mission (non-countable). E.g. Idea brainstorm, Clothes design.
+Assignment is a qualitative mission (non-countable). E.g. Marketing Strategy Planning, Company Logo design.
 
 :::info[Note]
 
@@ -33,7 +33,7 @@ Select a **Project**, **Job**, and **Task** from the dropdown. If you leave any 
 
 ![assignment](../../../../../../static/img/integration/vision/mi_creation/a-1.3.png)
 
-## Step 2 - Milestone and Rewards
+## Step 2 - Rewards Information
 
 ![assignment](../../../../../../static/img/integration/vision/mi_creation/a-2.png)
 
@@ -102,43 +102,56 @@ There are two types of payment methods:
 | **Add**       | Adds a new bonus along with its respective rewards.                                 |
 | **Delete**    | Adds a new bonus along with its respective rewards.                                 |
 
+## Step 3 - Participants Information
 
-## Step 3 - Add Members
+### Participant Role
 
-There are 4 combination of members that can be created in Assignment:
+#### Admin
+  - **Admin** is authorized to **manage and edit** the task. 
+  - Admin will not perform the task, therefore, admin **will not be entitled to any reward**.
+  - By default, creator will be added as Admin and no one can remove him/her. *(Employee with yellow crown as shown in above image is the creator.)* 
 
-1. **Normal member:**  
-  An employee who performs the mission without a specific management or advisory role.
+#### Participant
+  - **Participant** is the employee who performs the mission. 
+  - He/her is eligible to entitled the reward.
 
-2. **Admin:**  
-  An employee authorized to manage the task but does not complete the mission themselves. Admin shall not be entitled to any reward.
+#### Consultant
+  - **Consultant** provide **guidance or advice** on the mission. He/her will not perform the task.
+  - He/her will be set at **[Step 2 - Rewards Information, Consultant Rewards section](#consultant-rewards)**.
 
-3. **Consultant:**  
-  An employee who provides guidance on the mission without directly managing or completing it (e.g., an advisor).
+### Features
 
-4. **Consultant and Admin:**  
-  An employee who both guides the mission and manages the task but does not complete the mission themselves. This employee will be entitled to consultant's reward.
+![Participants](../../../../../../static/img/integration/vision/mi_creation/participant.png)
 
-The *Normal Member* and *Admin* can be created in **[Add Members](#step-3---add-members)** in Step 3, on the other hand the *Consultant* and *Consultant and Admin* combination can be created in **[Consultant Reward](#consultant-rewards)** in Step 2.
+| Properties              | Description                                                              | 
+|:------------------------|:-------------------------------------------------------------------------|
+| **Apply Group**         | Allow you to apply group. See more in [**group**](../../../group#apply-group).     | 
+| **Clear**               | Clears all content on the current page.                                  |
+| **Make Quest**          | Converts your mission into a Quest. See more in [**quest**](quest).      |
+| **Add Person Icon**     | Add employees as the participant type.                                   |
+| **Delete Icon**         | Delete the particular employee.                                          |
+| **Back**                | Navigates to the previous page.                                          |
+| **Create**              | Creates the mission.                                                     |
 
-![assignment](../../../../../../static/img/integration/vision/mi_creation/a-3.png)
+### Steps to add Participants
+
+![Steps to add Participants](../../../../../../static/img/integration/vision/mi_creation/participant-steps.png)
+
+1. Press on the **Add Person Icon** for the section of participant role you would like to add.
+2. Select participants.
+3. Press **Apply** to apply current selected employees as the participant role.
+4. Press **Cancel** to cancel current changes.
+
+#### Side functions
 
 | Properties              | Description                                                              | 
 |:------------------------|:-------------------------------------------------------------------------|
 | **Search**              | Allows you to search for employees by their names.                       | 
-| **[Filter](#filter)**   | Allow you to filter and sort the employee list.                          | 
-| **Group**               | Allow you to apply group. See more in [**group**](../../../group#apply-group).     | 
+| **[Filter](assignment#filter)**   | Allow you to filter and sort the employee list.                | 
 | **Select All**          | Allow you to select all employees at once.                               |
-| **Make Quest**          | Converts your mission into a Quest. See more in [**quest**](quest).      |
-| **Back**                | Navigates to the previous page.                                          |
-| **Create**              | Creates the mission.                                                     |
 
 #### Filter
 
+Filter is provided in the Employee List during select participants. The employee list can be filtered and sort by **Branch**, **Department** and **Hr Group** and shown in the image.
+
 ![assignment](../../../../../../static/img/integration/vision/mi_creation/a-3.2.png)
-
-The employee list can be filtered and sort by:
-
-- Branch
-- Department
-- HR Group

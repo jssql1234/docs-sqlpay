@@ -4,7 +4,7 @@ description: A brief guide on target
 sidebar_position: 3
 ---
 
-Managers can view the target detail that are created such as title, task creator, description, start date, end date, strategy, rewards, and employee's progress.
+Managers can view the target detail that are created such as title, task creator, description, start date, end date, strategy, admin, rewards, and employee's progress.
 
 | Individual                                                  | Team                                            | 
 |-------------------------------------------------------------|-------------------------------------------------|

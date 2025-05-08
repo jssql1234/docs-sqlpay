@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Create Target
 
-Target is a quantitative mission (countable data). E.g. Sales Target, Total new users.
+Target is a quantitative mission (countable data). E.g. Sales Target, Input Data.
 
 :::info[Note]
 
@@ -12,7 +12,7 @@ This feature is only available to **manager**.
 
 :::
 
-## Step 1 - Target Details
+## Step 1 - Target Information
 
 ![target](../../../../../../static/img/integration/vision/mi_creation/t-1.png)
 
@@ -25,7 +25,7 @@ This feature is only available to **manager**.
 | **Clear**                | Clears all content on the current page.                                            | -        |
 | **Next**                 | Navigates to the next page.                                                        | -        |
 
-## Step 2 - Target and Rewards
+## Step 2 - Rewards Information
 
 ![target](../../../../../../static/img/integration/vision/mi_creation/t-2.png)
 
@@ -48,12 +48,12 @@ This feature is only available to **manager**.
 There are two types of **Grouping Types**:
 
 1. **Individual:**
-   - Selecting Individual means that the targets and rewards apply to each normal member added or who joins this target mission.
-   - **Example:** if the target is 10,000 and the reward is 1%, all employees will have a target of 10,000 and a reward of 1%.
+   - Selecting Individual means that the targets and rewards **apply to each participants** added or who joins this target mission.
+   - **Example:** if the target is 10,000 and the reward is 1%, all participants will have a target of 10,000 and a reward of 1%.
 
 2. **Team:**
 
-   - Selecting Team means that the targets and rewards apply only to the team leader added to this target mission.
+   - Selecting Team means that the targets and rewards apply **only to the Team Leader** added to this target mission.
    - **Example:** if the target is RM 50,000 and the reward is 5%, the leader receives the reward only when the total target achieved by members exceeds RM 50,000.
 
 :::info[Note]
@@ -189,32 +189,59 @@ There are two types of payment methods:
    - **Inclusive Setting:** If inclusive with January and August, all rewards entitled from February to August will be paid in August, while rewards entitled from September to January will be paid in January.
    - **Exclusive Setting:** If exclusive with January and August, all rewards entitled from January to July will be paid in August, and rewards entitled from August to December will be paid in January.
 
-## Step 3 - Add Members
+## Step 3 - Participants Information
 
-There are 4 combination of members that can be created in Target:
+### Participant Role
+The participant role in **Team and Individual Target** are different and works differently:
 
-1. **Normal member:**  
-  An employee who performs the mission without a specific management or leadership role.
+#### Admin
+  - **Admin** is authorized to **manage and edit** the task. 
+  - Admin will not perform the task, therefore, admin **will not be entitled to any reward**.
+  - By default, creator will be added as Admin and no one can remove him/her. *(Employee with yellow crown as shown in above image is the creator.)* 
 
-2. **Admin:**  
-  An employee authorized to manage the task but does not complete the mission themselves. Admin shall not be entitled to any reward.
+#### Team Leader *(Team only)*
+  - The **Team Leader** is responsible for **leading the mission**. 
+  - A **leader is required** in a team target.
+  - The leader does not contribute to the target directly, but is **entitled to rewards based on the combined performance of the Team Members**, as defined in **[Step 2 - Rewards Information](#step-2---rewards-information)**. See **[Grouping Type](#grouping-type)** for more details.
 
-3. **Team Leader:**  
-  An employee who leads the mission. *This role is visible only when Grouping Type is set to **Team**.*
+#### Team Members *(Team only)*
+  - **Team Members** are the employees who **contribute their target hits** toward the team goal.
+  - Their **combined performance determines** whether the Team Leader qualifies for a reward.
+  - Rewards are **given and only to Team Leader** if the total hits meet the target set in **[Step 2 - Rewards Information](#step-2---rewards-information)**. See **[Grouping Type](#grouping-type)** for more details.
 
-4. **Team Leader and Admin:**  
-  An employee who both leads the mission and manages the task but does not complete the mission themselves. This employee will be entitled to team leader's reward. *This role is visible only when Grouping Type is set to **Team**.*
+#### Participant *(Individual only)*
+  - **Participant** is the employee who performs the mission. 
+  - He/her is eligible to entitled the reward.
 
-All 4 combinations can be created in **[Add Members](#step-3---add-members)** in Step 3.
+### Features
 
-![assignment](../../../../../../static/img/integration/vision/mi_creation/t-3.png)
+| Team Target | Individual Target |
+|:-----------:|:-----------------:|
+| ![Team Target](../../../../../../static/img/integration/vision/mi_creation/participant-team.png) | ![Individual Target](../../../../../../static/img/integration/vision/mi_creation/participant.png) |
+
+| Properties              | Description                                                              | 
+|:------------------------|:-------------------------------------------------------------------------|
+| **Apply Group**         | Allow you to apply group. See more in [**group**](../../../group#apply-group).     | 
+| **Clear**               | Clears all content on the current page.                                  |
+| **Make Quest**          | Converts your mission into a Quest. See more in [**quest**](quest).      |
+| **Add Person Icon**     | Add employees as the participant type.                                   |
+| **Delete Icon**         | Delete the particular employee.                                          |
+| **Back**                | Navigates to the previous page.                                          |
+| **Create**              | Creates the mission.                                                     |
+
+### Steps to add Participants
+
+![Steps to add Participants](../../../../../../static/img/integration/vision/mi_creation/participant-steps.png)
+
+1. Press on the **Add Person Icon** for the section of participant role you would like to add.
+2. Select participants.
+3. Press **Apply** to apply current selected employees as the participant role.
+4. Press **Cancel** to cancel current changes.
+
+#### Side functions
 
 | Properties              | Description                                                              | 
 |:------------------------|:-------------------------------------------------------------------------|
 | **Search**              | Allows you to search for employees by their names.                       | 
 | **[Filter](assignment#filter)**   | Allow you to filter and sort the employee list.                | 
-| **Group**               | Allow you to apply group. See more in [**group**](../../../group#apply-group).     | 
 | **Select All**          | Allow you to select all employees at once.                               |
-| **Make Quest**          | Converts your mission into a Quest. See more in [**quest**](quest).      |
-| **Back**                | Navigates to the previous page.                                          |
-| **Create**              | Creates the mission.                                                     |

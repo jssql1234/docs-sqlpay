@@ -4,7 +4,7 @@ description: A brief guide on assignment
 sidebar_position: 2
 ---
 
-Managers can view the assignment detail that are created such as title, description, start date, end date, consultant, rewards, and bonus criteria.
+Managers can view the assignment detail that are created such as title, description, start date, end date, admin, consultant, rewards, and bonus criteria.
 
 | Undue/Overdue                                                | Completed                                                | 
 |--------------------------------------------------------------|----------------------------------------------------------|
@@ -87,6 +87,14 @@ Manager can override the log file's progress percentage by clicking **Save** but
 :::
 
 ![Edit Bonus](../../../../../static/img/integration/vision/task/editBonus.png)
+
+### Transfer Ownership
+- Only the creator will see the transfer ownership button in the app bar.
+- If ownership is transferred to someone who is not an admin, that person will automatically be promoted to admin.
+- Once ownership is transferred, the button will no longer be visible to you, as you are no longer the creator.
+- In the third diagram below, ownership has been transferred to Tan Jun Wei, making him the new creator. Although he was not initially an admin, he was automatically promoted to admin upon receiving ownership.
+
+![Transfer Ownership Diagram](../../../../../static/img/integration/vision/task/mgr_transferOwnership.png)
 
 ### Change Log
 1. Press **History Icon** (highlighted in red)
