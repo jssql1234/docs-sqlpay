@@ -21,14 +21,17 @@ sidebar_position: 7
 | ![mobileDemo](../../../static/img/integration/vision/wallet/view-all.png) | ➜ |  ![mobileDemo](../../../static/img/integration/vision/wallet/leaderboard.png) |
 |:---:|---|:---:|
 
-### Payout (based on payment date)
+### Payout (based on expected payout date)
 ![mobileDemo](../../../static/img/integration/vision/wallet/payout-upcoming.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![mobileDemo](../../../static/img/integration/vision/wallet/payout-history.png)
 - filter data by upcoming or history by switching tabs
 - barchart to visualise earnings
-- grid showing payout per month, able to tap into it for details pop up\
+- grid showing payout per month, able to tap into it for details pop up
+- in history payout, an exclamation mark status will appear if any of the history payout are unpaid
 
  | ![mobileDemo](../../../static/img/integration/vision/wallet/payout-button.png) | ➜ | ![mobileDemo](../../../static/img/integration/vision/wallet/payout-details.png) |
- |:---:|---|:---:|
+ |:---:|---|:-------------------------------------------------------------------------------:|
+- if a payout have its payment officially made, it will show payment date instead of entitled date
+- paid and unpaid status for payouts past the expected payout date to indicate which are officially paid
 
 ### Entitlement (based on achieved date)
 - barchart to visualise earnings
@@ -61,11 +64,14 @@ both payout and entitlement view have similar layout and function
 
  - tapping the grid will now show a list of employee instead\
  ![mobileDemo](../../../static/img/integration/vision/wallet/manager-payout-details.png)
+ - - in history payout,a red exclamation mark status will appear beside employee's avatar if there are payout that are unpaid past the expected payout date
 
  - tapping on a name will show payout/entitlement details of that employee\
  (**this view will differ when you are in payout history/entitlement view compared to upcoming payout view**)
     - **a) payout history/entitlement** \
  ![mobileDemo](../../../static/img/integration/vision/wallet/manager-payout-emp-details.png)
+- if a payout have its payment officially made, it will show payment date instead of entitled date
+- paid and unpaid status for payouts past the expected payout date to indicate which are officially paid
 
     - **b) upcoming payout** \
       as upcoming payout are not yet paid out, their payout date can be editited, so \
