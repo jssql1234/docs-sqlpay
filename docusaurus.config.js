@@ -39,6 +39,15 @@ const config = {
           sidebarPath: "./sidebars.js",
           editUrl: "https://github.com/eStreamSoftware/docs-sqlpay/edit/master/",
         },
+        blog: {
+          path: "changelog",
+          routeBasePath: "changelog",
+          blogTitle: "Changelog",
+          blogDescription: "Release notes and updates.",
+          blogSidebarTitle: 'Changelog',
+          blogSidebarCount: 'ALL',
+          showReadingTime: false,
+        },
         theme: {
           customCss: [require.resolve("./static/css/custom.css")],
         },
@@ -57,6 +66,9 @@ const config = {
           alt: "SQL Payroll",
           src: "img/payroll-logo.png",
         },
+        items: [
+          {to: 'changelog', label: 'Changelog', position: 'left'},
+        ],
       },
       footer: {
         style: "dark",
