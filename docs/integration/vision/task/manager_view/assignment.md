@@ -6,19 +6,21 @@ sidebar_position: 2
 
 Managers can view the assignment detail that are created such as title, description, start date, end date, admin, consultant, rewards, and bonus criteria.
 
-| Undue/Overdue                                                | Completed                                                | 
-|--------------------------------------------------------------|----------------------------------------------------------|
-| ![Assignment](../../../../../static/img/integration/vision/task/mgrAssignmentDetail.png) | ![Assignment](../../../../../static/img/integration/vision/task/mgrCompleteAsgmt.png)|
+| Undue/Overdue                                                                            | Completed                                                                             |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![Assignment](../../../../../static/img/integration/vision/task/mgrAssignmentDetail.png) | ![Assignment](../../../../../static/img/integration/vision/task/mgrCompleteAsgmt.png) |
 
-## Undue & Overdue 
+## Undue & Overdue
 
 ### Edit Assignment Detail
+
 1. Press **Edit** in assignment detail
-    - For more information, please refer [**Edit Task**](task_creation/task-edit)
+   - For more information, please refer [**Edit Task**](task_creation/task-edit)
 
 ![Edit Asgmt](../../../../../static/img/integration/vision/task/editAsgmt.png)
 
 ### Employee Progress
+
 1. Navigate to: **Progress** > **Employee Progress Card** (highlighted in red)
 
 ![Manager Progress](../../../../../static/img/integration/vision/task/mgrProgress.png)
@@ -31,38 +33,40 @@ Managers can view the assignment detail that are created such as title, descript
 
 :::
 
-2. Display employee's assignment detail: 
-    - Total cash and coin(s) earned (**Highlighted in red**)
-    - Log file submitted 
-    - Rewards earned
-
+2. Display employee's assignment detail:
+   - Total cash and coin(s) earned (**Highlighted in red**)
+   - Log file submitted
+   - Rewards earned
 
 ![Manager View Emp Asgmt](../../../../../static/img/integration/vision/task/mgrViewEmpAsgmt.png)
 
-
 ### Log File Submission
+
 1. Navigate to: **Log File** > **Log File Card** (highlighted in red)
-    - Manager can view all unapproved log files submitted by the employees.
+   - Manager can view all unapproved log files submitted by the employees.
 
 ![Manager Log File Submission](../../../../../static/img/integration/vision/task/mgrLogFile.png)
 
-2. Manager can view the log file details as shown.
-    - Actions: 
-        - Override
-        - Approve
+2.  Manager can view the log file details as shown.
+
+- Actions:
+  - Override
+  - Approve
 
 ![Log File Approval](../../../../../static/img/integration/vision/task/logFileApproval.png)
 
 ### Log File Override
+
 Manager can override the log file's progress percentage by clicking **Save** button.
 
 :::info Info
-    Manager will not be able to override progress percentage that is **lower** than the previous progress percentage.
+Manager will not be able to override progress percentage that is **lower** than the previous progress percentage.
 :::
 
 ![Log File Override](../../../../../static/img/integration/vision/task/logFileOverride.png)
 
 ### Employee Bonus Review
+
 - After approving the log file, manager can view the bonus request submitted by the employee.
 
 :::note Note
@@ -74,10 +78,11 @@ Manager can override the log file's progress percentage by clicking **Save** but
 
 ![Bonus Review](../../../../../static/img/integration/vision/task/bonusReview.png)
 
-### Edit Employee Bonus 
+### Edit Employee Bonus
+
 1. Press **Edit** in bonus review page
-    - Manager can edit the employee's bonus request.
-    - Manager can choose the bonus criteria, and edit the amount.
+   - Manager can edit the employee's bonus request.
+   - Manager can choose the bonus criteria, and edit the amount.
 
 :::note Note
 
@@ -89,6 +94,7 @@ Manager can override the log file's progress percentage by clicking **Save** but
 ![Edit Bonus](../../../../../static/img/integration/vision/task/editBonus.png)
 
 ### Transfer Ownership
+
 - Only the creator will see the transfer ownership button in the app bar.
 - If ownership is transferred to someone who is not an admin, that person will automatically be promoted to admin.
 - Once ownership is transferred, the button will no longer be visible to you, as you are no longer the creator.
@@ -97,15 +103,17 @@ Manager can override the log file's progress percentage by clicking **Save** but
 ![Transfer Ownership Diagram](../../../../../static/img/integration/vision/task/mgr_transferOwnership.png)
 
 ### Change Log
+
 1. Press **History Icon** (highlighted in red)
-    - details of who made edits and what changes were made.
+   - details of who made edits and what changes were made.
 
 ![Change Log](../../../../../static/img/integration/vision/task/changeLog.png)
 
 ### Finalise Assignment
+
 1. Press **Finalise** in assignment detail page
-    - To finalise assignment, all log file must be **approved**.
-    - After finalising, consultant reward will be entitled.
+   - To finalise assignment, all log file must be **approved**.
+   - After finalising, consultant reward will be entitled.
 
 :::danger Warning
 
@@ -115,37 +123,39 @@ Finalising assignment is an **irreversible** action.
 
 ![Finalise Assignment](../../../../../static/img/integration/vision/task/finaliseAsgmt.png)
 
-## Completed 
+## Completed
 
 ### Reward Info
+
 1. Press **Info Icon** (highlighted in red)
 
 ![Reward Info Icon](../../../../../static/img/integration/vision/task/rwdInfoIcon.png)
 
-2. User can view the milestone and bonus rewards 
+2. User can view the milestone and bonus rewards
 
 ![Reward](../../../../../static/img/integration/vision/task/rewardDialog.png)
 
 :::info Info
-    The code will matches with the code in the summary table.
+The code will matches with the code in the summary table.
 :::
 
 ### Employee Progress
+
 1.  Press **Employee Name** (highlighted in red)
 
 ![Summary Table](../../../../../static/img/integration/vision/task/summaryTable-1.png)
 
 ![Employee Assignment](../../../../../static/img/integration/vision/task/mgrViewEmpCompleteAsmgt.png)
 
-
 ### Employee Log File
-1. Navigate to: **Employee Name** (in summary table) > **View Log File** 
+
+1. Navigate to: **Employee Name** (in summary table) > **View Log File**
 
 ![Log File](../../../../../static/img/integration/vision/task/logFile.png)
 
 ### Tooltip Reward
-1. Click **Total Cash Amount** / **Total Coin Amount** 
-    - can view the earned amounts for the corresponding employee in the tooltip.
+
+1. Click **Total Cash Amount** / **Total Coin Amount**
+   - can view the earned amounts for the corresponding employee in the tooltip.
 
 ![Tooltip](../../../../../static/img/integration/vision/task/tooltipAsgmt.png)
-
