@@ -22,6 +22,10 @@ Progress of the task will be calculated based on the target type.
 
 :::
 
-| Individual                                                | Team                                         | 
-|-----------------------------------------------------------|----------------------------------------------|
-| ![Individual](../../../../../static/img/integration/vision/task/individualTarget.png) | ![Team](../../../../../static/img/integration/vision/task/teamTarget.png)| 
+| Individual                                                                            | Team                                                                      |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ![Individual](../../../../../static/img/integration/vision/task/individualTarget.png) | ![Team](../../../../../static/img/integration/vision/task/teamTarget.png) |
+
+### Change Log
+
+Please refer [**Change Log**](../manager_view/assignment/#change-log)
