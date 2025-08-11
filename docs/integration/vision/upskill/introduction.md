@@ -20,7 +20,7 @@ By default, a course with only one session is considered "reward by completion."
 :::
 
 :::danger[Warning]
-Participants will not receive any reward if they miss any session in a completion-based course.
+Participants will not receive any session reward if they miss any session in a completion-based course.
 :::
 
 <br/>
@@ -52,7 +52,7 @@ Session-based course requires at least two sessions.
 - **Except for reward-related details** — such as tutor and assistant assignments, step 3 reward settings, and admin roles, tutors can perform **same action as admin**.
 
 :::info[Note]
-Tutors cannot edit reward-related course details and admin assignments.
+Tutors cannot edit reward-related course details and assignment of tutor, assistant tutors and admin.
 :::
 
 #### **Assistant**
@@ -102,7 +102,7 @@ Tutors cannot edit reward-related course details and admin assignments.
 | **Rewards**                          | To view the **total cash and coins spent** on this course, distributed among the tutor, assistants, and participants, along with detailed rewards earned by each participant. | To know more about rewards summary, [<u>click here</u>](manager_view/upskill#reward-summary)                                                                                                                                                                            |
 | **Bonus**                            | To view, approve and edit bonus requests from participants.                                                                                                                   | To know more about bonus requests, [<u>click here</u>](manager_view/upskill#bonus-requests)                                                                                                                                                                             |
 | **Attendance**                       | To view and mark attendance.                                                                                                                                                  | To know more about attendance, [<u>click here</u>](manager_view/upskill#attendance)                                                                                                                                                                                     |
-| **Finalise/Edit**                    | To edit, manually complete or finalise course (depending on course status).                                                                                                   | To know more about:<br/>- Edit course, [<u>click here</u>](manager_view/upskill-creation#edit-course)<br/>- Complete course, [<u>click here</u>](manager_view/upskill#complete-course)<br/>- Finalise course, [<u>click here</u>](manager_view/upskill#finalise-course) |
+| **Edit/Complete/Finalise Button**    | To edit, manually complete or finalise course (depending on course status).                                                                                                   | To know more about:<br/>- Edit course, [<u>click here</u>](manager_view/upskill-creation#edit-course)<br/>- Complete course, [<u>click here</u>](manager_view/upskill#complete-course)<br/>- Finalise course, [<u>click here</u>](manager_view/upskill#finalise-course) |
 
 <br/>
 ### Course Status
@@ -128,12 +128,12 @@ Tutors cannot edit reward-related course details and admin assignments.
 
 ![User Action Diagram](../../../../static/img/integration/vision/upskill/concept_courseStatus_userAction.png)
 
-| Actions            | Upcoming | Ongoing | Completed | Finalised | Cannot perform when                                       |
-| :----------------- | :------: | :-----: | :-------: | :-------: | :-------------------------------------------------------- |
-| **Register**       |    ✓     |    ✓    |           |           | Course is **full**.<br/>**Last** session has **ended**.   |
-| **Unregister**     |    ✓     |         |           |           | Course is **private** as participant is added by manager. |
-| **+ Request**      |          |         |     ✓     |           | **Absent** from **all** sessions.                         |
-| **Request status** |          |         |     ✓     |     ✓     | -                                                         |
+| Actions                       | Upcoming | Ongoing | Completed | Finalised | Cannot perform when                                       |
+| :---------------------------- | :------: | :-----: | :-------: | :-------: | :-------------------------------------------------------- |
+| **Register**                  |    ✓     |    ✓    |           |           | Course is **full**.<br/>**Last** session has **ended**.   |
+| **Unregister**                |    ✓     |         |           |           | Course is **private** as participant is added by manager. |
+| **Request Bonus (+ Request)** |          |         |     ✓     |           | **Absent** from **all** sessions.                         |
+| **View Request Status**       |          |         |     ✓     |     ✓     | -                                                         |
 
 <br/>
 #### **Manager Course Status**

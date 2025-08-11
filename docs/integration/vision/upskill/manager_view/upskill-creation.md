@@ -5,23 +5,26 @@ sidebar_position: 1
 ---
 
 # Upskill Creation
+
 ## Creation Steps
+
 ### Step 1 - Course Information
+
 ![Course Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step1_courseInfo.png)
 
-| <div align="center">Properties</div>          | <div align="center">Description</div>     | Required | <div align="center">Note</div> |
-|:----------------------------------------------|:------------------------------------------|:--------:|:----|
-| **Title**                                 | The title of the course.                  | ✓        | -   |
-| **Description**                           | A detailed description of the course.     | ✗        | -   |
-| **Tutor**                                 | The main tutor of the course.             | ✓        | -   |
-| **Assistant Tutor**                       | The assistant tutor for the course.       | ✗        | -   |
-| **Clear**                                 | Clears all course information on the current page.   | -        |        **Manager:**<br/>Clears all course information.<br/><br/>**Tutor Assistants:**<br/>Clears all excepts tutor and assistants information.|
-| **Next**                                  | Navigate to the next page.               | -        | -   |  
+| <div align="center">Properties</div> | <div align="center">Description</div>              | Required | <div align="center">Note</div>                                                                                                          |
+| :----------------------------------- | :------------------------------------------------- | :------: | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Title**                            | The title of the course.                           |    ✓     | -                                                                                                                                       |
+| **Description**                      | A detailed description of the course.              |    ✗     | -                                                                                                                                       |
+| **Tutor**                            | The main tutor of the course.                      |    ✓     | -                                                                                                                                       |
+| **Assistant Tutor**                  | The assistant tutor for the course.                |    ✗     | -                                                                                                                                       |
+| **Clear**                            | Clears all course information on the current page. |    -     | **Manager:**<br/>Clears all course information.<br/><br/>**Tutor Assistants:**<br/>Clears all excepts tutor and assistants information. |
+| **Next**                             | Navigate to the next page.                         |    -     | -                                                                                                                                       |
 
 <br/>
 #### Tutor
 - **Tutor** is the employee responsible for giving lessons and providing guidance throughout the learning process in the course. 
-- There will be only **one** lead tutor in every course. 
+- There will be only **one** lead tutor in every course.
 
 ![Add Tutor Diagram](../../../../../static/img/integration/vision/upskillCreation/step1_addTutor.png)
 ![Add Multiple Tutors Diagram](../../../../../static/img/integration/vision/upskillCreation/step1_addMultipleTutor.png)
@@ -29,20 +32,9 @@ sidebar_position: 1
 <br/>
 ####  Assistant Tutor
 - **Assistant Tutor** plays a role in supporting the lead tutor in completing the course smoothly. 
-- There can be **multiple** assistant tutors in every course. 
+- There can be **multiple** assistant tutors in every course.
 
 ![Add Assistant Tutors Diagram](../../../../../static/img/integration/vision/upskillCreation/step1_addAssistant.png)
-
-
-
-
-
-
-
-
-
-
-
 
 <br/>
 ### Step 2 - Sessions Information
@@ -68,46 +60,26 @@ sidebar_position: 1
 | **End Time**        | The end time of the session.          | ✓ | Cannot be earlier than start time |
 | **Venue**           | The venue of the session.             | ✗ | - |
 
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 ### Step 3 - Rewards Information
 
 ![Rewards Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step3_rewardInfo.png)
 
-| <div align="center">Properties</div> | <div align="center">Description</div>     | Required | <div align="center">Note</div> |
-|:-------------------------------------|:------------------------------------------|:--------:|:----|
-| **Session Rewards**              | **Completion-based course:** There is only **one** completion reward for the entire course.<br/><br/>**Session-based course:** There are **multiple** session rewards. Each session will have their respective session rewards. | ✗        | Default reward is "0".   |
-| **Payment by**                   | Type of payment method for this course.<br/>This payment method only applicable for cash only,  coins will be paid immediately upon entitlement.     | ✓        | Same concept as in task creation's payment by, [<u>click here</u>](../../task/manager_view/task_creation/assignment#payment-by)   |
-| **Bonus Rewards**                | Extra criterias that employee can achieve to earn more rewards.             | ✗        | Default reward is "0".<br/><br/>If a value is specified in cash or coins, the bonus criteria must be provided.<br/><br/>Same concept as in task creation's bonus, [<u>click here</u>](../../task/manager_view/task_creation/assignment#bonus)   |
-| **Clear**                        | Clears all rewards on the current page.   | -        |        **Manager:**<br/>Clears all rewards.<br/><br/>**Tutor Assistants:**<br/>No clear button as they cannot edit rewards.|
-| **Back**                         | Navigate to the previous page.           | -        | -   |  
-| **Next**                         | Navigate to the next page.               | -        | -   |  
+| <div align="center">Properties</div> | <div align="center">Description</div>                                                                                                                                                                                           | Required | <div align="center">Note</div>                                                                                                                                                                                                                |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Session Rewards**                  | **Completion-based course:** There is only **one** completion reward for the entire course.<br/><br/>**Session-based course:** There are **multiple** session rewards. Each session will have their respective session rewards. |    ✗     | Default reward is "0".                                                                                                                                                                                                                        |
+| **Payment by**                       | Type of payment method for this course.<br/>This payment method only applicable for cash only, coins will be paid immediately upon entitlement.                                                                                 |    ✓     | Same concept as in task creation's payment by, [<u>click here</u>](../../task/manager_view/task_creation/assignment#payment-by)                                                                                                               |
+| **Bonus Rewards**                    | Extra criterias that employee can achieve to earn more rewards.                                                                                                                                                                 |    ✗     | Default reward is "0".<br/><br/>If a value is specified in cash or coins, the bonus criteria must be provided.<br/><br/>Same concept as in task creation's bonus, [<u>click here</u>](../../task/manager_view/task_creation/assignment#bonus) |
+| **Clear**                            | Clears all rewards on the current page.                                                                                                                                                                                         |    -     | **Manager:**<br/>Clears all rewards.<br/><br/>**Tutor Assistants:**<br/>No clear button as they cannot edit rewards.                                                                                                                          |
+| **Back**                             | Navigate to the previous page.                                                                                                                                                                                                  |    -     | -                                                                                                                                                                                                                                             |
+| **Next**                             | Navigate to the next page.                                                                                                                                                                                                      |    -     | -                                                                                                                                                                                                                                             |
 
 <br/>
 #### Session rewards
 - **Completion-based course:** There is only **one** completion reward for the entire course.
-- **Session-based course:** There are **multiple** session rewards. Each session will have their respective session rewards. 
+- **Session-based course:** There are **multiple** session rewards. Each session will have their respective session rewards.
 
 ![Rewards Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step3_sessionReward.png)
-
-
-
-
-
-
-
-
-
 
 <br/>
 ### Step 4 - Participants Information
@@ -128,32 +100,19 @@ sidebar_position: 1
 | **Back**          | Navigate back to the previous page.                                                          | - |
 | **Create or Edit**        | Create or edit the course.                                                                            | - |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Edit Course
-- The diagram below illustrates the **manager's** and **tutor assistants'** edit permissions based on the different course statuses.
+
+- The diagram below illustrates the **admin's** and **tutor assistants'** edit permissions based on the different course statuses.
 - To know more about course status, [<u>click here</u>](../introduction#course-status).
 
 :::info[Note]
 Tutor and assistants cannot edit any rewards-related field.
 :::
 
-#### **Manager:**  
+#### **Manager:**
 
 ![Manager Edit Course Diagram](../../../../../static/img/integration/vision/upskillCreation/editCourse_mgr.png)
 
-#### **Tutor & Assistants:** 
+#### **Tutor & Assistants:**
 
 ![Tutor Assistant Edit Course Diagram](../../../../../static/img/integration/vision/upskillCreation/editCourse_tutorAsst.png)
-
