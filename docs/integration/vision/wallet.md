@@ -5,43 +5,46 @@ sidebar_position: 7
 # Wallet
 ## User View
 ### Wallet home page
-![mobileDemo](../../../static/img/integration/vision/wallet/wallet1.png)
 - contains a card showing the amount of upcoming payout
 - a leaderboard displaying the top earning employee
 - a quest list for employees to join
 - menu buttons contains 4 modules:\
  -- payout\
  -- entitlement\
- -- coin transactions\
- -- gifts
-#### swiping left will show similar UI to above, displaying information in relation to coins
+ -- coin transaction\
+ -- gifts\
+![mobileDemo](../../../static/img/integration/vision/wallet/wallet1.png)
+
+#### Swiping left will show similar UI to above, displaying information in relation to coins
 ![mobileDemo](../../../static/img/integration/vision/wallet/wallet-coin-view.png)
 
-#### tap on "view all" button to see full list of the leaderboard
+#### Tap on "view all" button to see full list of the leaderboard
 | ![mobileDemo](../../../static/img/integration/vision/wallet/view-all.png) | ➜ |  ![mobileDemo](../../../static/img/integration/vision/wallet/leaderboard.png) |
 |:---:|---|:---:|
 
 ### Payout (based on expected payout date)
-![mobileDemo](../../../static/img/integration/vision/wallet/payout-upcoming.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![mobileDemo](../../../static/img/integration/vision/wallet/payout-history.png)
 - filter data by upcoming or history by switching tabs
 - barchart to visualise earnings
 - grid showing payout per month, able to tap into it for details pop up
 - in history payout, an exclamation mark status will appear if any of the history payout are unpaid
 
- | ![mobileDemo](../../../static/img/integration/vision/wallet/payout-button.png) | ➜ | ![mobileDemo](../../../static/img/integration/vision/wallet/payout-details.png) |
- |:---:|---|:-------------------------------------------------------------------------------:|
+![mobileDemo](../../../static/img/integration/vision/wallet/payout-upcoming.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![mobileDemo](../../../static/img/integration/vision/wallet/payout-history.png)
+
+
 - if a payout have its payment officially made, it will show payment date instead of entitled date
 - paid and unpaid status for payouts past the expected payout date to indicate which are officially paid
+
+| ![mobileDemo](../../../static/img/integration/vision/wallet/payout-button.png) | ➜ | ![mobileDemo](../../../static/img/integration/vision/wallet/payout-details.png) |
+|:---:|---|:-------------------------------------------------------------------------------:|
 
 ### Entitlement (based on achieved date)
 - barchart to visualise earnings
 - grid showing entitlement per month, able to tap into it for details pop up
 
- | ![mobileDemo](../../../static/img/integration/vision/wallet/ent-button.png) | ➜ | ![mobileDemo](../../../static/img/integration/vision/wallet/ent-details.png) |
- |:---:|---|:---:|
+| ![mobileDemo](../../../static/img/integration/vision/wallet/ent-button.png) | ➜ | ![mobileDemo](../../../static/img/integration/vision/wallet/ent-details.png) |
+|:---:|---|:---:|
 
 ### Coin Transactions
-![mobileDemo](../../../static/img/integration/vision/wallet/coin-transactions.png)
 - graph to visualise coin earnings and spendings
 - list view to show logs of coin transactions
 - press on segmented buttons to filter data displayed
@@ -55,7 +58,7 @@ sidebar_position: 7
 
 ## Manager View
 ### Manage payout/entitlement page
-both payout and entitlement view have similar layout and function
+Both payout and entitlement view have similar layout and function
 
  - press on icon to go to manage payout, which shows the company total payout/entitlement
  
@@ -64,16 +67,16 @@ both payout and entitlement view have similar layout and function
 
  - tapping the grid will now show a list of employee instead\
  ![mobileDemo](../../../static/img/integration/vision/wallet/manager-payout-details.png)
- - - in history payout,a red exclamation mark status will appear beside employee's avatar if there are payout that are unpaid past the expected payout date
+ - in history payout,a red exclamation mark status will appear beside employee's avatar if there are payout that are unpaid past the expected payout date
 
  - tapping on a name will show payout/entitlement details of that employee\
- (**this view will differ when you are in payout history/entitlement view compared to upcoming payout view**)
-    - **a) payout history/entitlement** \
+ (**this view will differ when you are in payout history/entitlement view compared to upcoming payout view**)\
+    **A. payout history/entitlement** \
  ![mobileDemo](../../../static/img/integration/vision/wallet/manager-payout-emp-details.png)
 - if a payout have its payment officially made, it will show payment date instead of entitled date
 - paid and unpaid status for payouts past the expected payout date to indicate which are officially paid
 
-    - **b) upcoming payout** \
+    **B. upcoming payout** \
       as upcoming payout are not yet paid out, their payout date can be editited, so \
       there is an arrow button on the card which would open edit view
 
