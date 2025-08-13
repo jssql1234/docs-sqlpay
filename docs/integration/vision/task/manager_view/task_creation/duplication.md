@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Duplication
 
-Duplication allows managers to recreate a previously created task, including deleted missions, without needing to re-enter the mission details manually.
+Duplication allows managers to recreate a previously created task without needing to re-enter the mission details manually.
 
 :::info[Note]
 
@@ -24,10 +24,7 @@ The mission card displays key details of the mission, including the Title, Creat
 
 ## Filter
 
-The filter button allow you to filter your recent mission. The duplicated mission can be filtered by Status and Type:
-
-**Status:**
-- Show only deleted
+The filter button allow you to filter your recent mission. The duplicated mission can be filtered by Type:
 
 **Type:**
 - Assignment 
@@ -36,9 +33,3 @@ The filter button allow you to filter your recent mission. The duplicated missio
 - Quest Target  
 
 ![duplication filter](../../../../../../static/img/integration/vision/mi_creation/d-2.png)
-
-### Show only deleted mission
-
-By default, the duplication page in SQL Vision displays only missions that have not been deleted. If you need to search for deleted missions, you can do so by using the filter function. The filter function allows you to specifically display missions that have been marked as deleted.
-
-![duplication show only deleted](../../../../../../static/img/integration/vision/mi_creation/d-2.1.png)

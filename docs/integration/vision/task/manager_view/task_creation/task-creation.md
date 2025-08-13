@@ -15,7 +15,7 @@ To create a new mission, navigate to **Main Dashboard | Manage Task**. Click the
 
 ### Duplicate Existing
 
-In this section, you can view all previously created missions, including those that have been deleted.
+In this section, you can view all previously created missions.
 
 - [**Duplication**](duplication)
 
