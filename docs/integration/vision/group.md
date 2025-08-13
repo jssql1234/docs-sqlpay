@@ -22,7 +22,8 @@ Manager can view all the created groups in **Main Dashboard | Manage Group**. In
 
 ### Add Group
 
-![Manage Group - Add](../../../static/img/integration/vision/group/g-add.png)
+| ![Manage Group - Add](../../../static/img/integration/vision/group/g-add-1.jpg) | ➜ | ![mobileDemo](../../../static/img/integration/vision/group/g-add-2.jpg) |
+ |:---:|---|:---:|
 
 1. Tap **Add** to create a new group.
 2. Enter **Group Name**.
