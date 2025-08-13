@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Create Quest
 
-Quest is a mission that is visible and open for employees to join freely, based on their Branch, Department, and HR Group. To create quest, go to **Create New | Target/Assignment | Step 3 | Make Quest**.
+A Quest is a mission that is visible to employees and open for them to join freely, based on their Branch, Department, and HR Group.To create quest, go to **Create New | Target/Assignment | Step 3 | Make Quest**.
 
 :::info[Note]
 

@@ -21,9 +21,9 @@ There are certain conditions for editing a mission, as stated in the table below
 | Field                     | Affected Mission Type | Task Status | Description                                        |
 |:--------------------------|:---------------------:|:-----------:|:---------------------------------------------------|
 | **Start Date**            | Both                  | Ongoing     | Start Date cannot be changed.                      |
-| **Team Leader, Team Members, Participants** | Both  | Ongoing   | The stated roles added to the mission cannot be removed or have their roles changed. However, it is possible to add more of these roles, but these additions cannot be modified later once updated. |
-| **Milestone and Rewards** | Assignment            | Ongoing     | If any member achieves a particular milestone, that milestone cannot be changed. However, the following milestones can still be edited. |
-| **Bonus**                 | Assignment            | Ongoing     | If any member achieves 100% of the milestone, the bonus cannot be changed. However, it is possible to add a new bonus, but it will also be unchangeable once updated.  |
+| **Team Leader, Team Members, Participants** | Both  | Ongoing   | Roles that are initially assigned to a mission cannot be removed or changed. You can add more roles if needed, but once added, these new roles cannot be modified. |
+| **Milestone and Rewards** | Assignment            | Ongoing     | Milestones that have already been achieved by a member are locked and cannot be modified, while future milestones remain editable.|
+| **Bonus**                 | Assignment            | Ongoing     | Once a member achieves 100% of a milestone, the associated bonus cannot be changed. You can add a new bonus, but it will also become unchangeable once applied. |
 | **Grouping Type, Strategy and Condition**| Target                | Ongoing     | Grouping type, strategy and condition cannot be changed after mission is ongoing. |
 
 #### Non-editable Field

@@ -4,9 +4,9 @@ description: A brief guide on quest
 sidebar_position: 4
 ---
 
-Quest detail will be same as the assignment or target details based on whether it's a target or assignment quest.
+Quest details are the same as the Assignment or Target details, depending on whether the Quest is an *Assignment-type* or *Target-type* mission.
 
-For more information, can refer as below:
+For more information, refer below:
 - [**Target**](target.md)
 - [**Assignment**](assignment.md)
 
@@ -19,16 +19,16 @@ For more information, can refer as below:
 
 ![Manage Participant Icon](../../../../../static/img/integration/vision/task/manageParticipantIcon.png)
 
-2. Filter menu on right top allows the manager to filter the employee by branch, department, and HR group. 
+2. Filter menu on right top allows the manager to filter employees by Branch, Department, and HR group. 
 
 | View                                                                      | Filter                                                 | 
 |---------------------------------------------------------------------------|--------------------------------------------------------|
 | ![Manage Participant](../../../../../static/img/integration/vision/task/manageParticipant.png)        | ![Filter Employee](../../../../../static/img/integration/vision/task/filterEmp.png)| 
 
-### Delete Request Employee
+### Delete Employee Request
 1. Press **Delete** 
-    - allows manager to delete the request of employee for joining the quest
+    - Allows the manager to delete employee requests to join the Quest
 
-### Approve Request Employee
+### Approve Employee Request
 1. Press **Approve** 
-    - allows manager to approve the request of employee for joining the quest
+    - Allows the manager to approve employee requests to join the Quest.

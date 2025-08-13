@@ -4,7 +4,7 @@ description: A brief guide on assignment
 sidebar_position: 2
 ---
 
-Managers can view the assignment detail that are created such as title, description, start date, end date, admin, consultant, rewards, and bonus criteria.
+Managers can view the assignment details that are created such as *title, description, start date, end date, admin, consultant, rewards, and bonus criteria.*
 
 | Undue/Overdue                                                                            | Completed                                                                             |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -27,13 +27,13 @@ Managers can view the assignment detail that are created such as title, descript
 
 :::info Info
 
-**Progress** tab bar: Display the employee that are still havent reached **100%**.
+**Progress** tab: Shows employees who have not yet reached **100%** of the milestone.
 
-**Completed** tab bar: Display the employee that reached **100%**.
+**Completed** tab: Shows employees who have achieved **100%** of the milestone.
 
 :::
 
-2. Display employee's assignment detail:
+2. Display employee's assignment details:
    - Total cash and coin(s) earned (**Highlighted in red**)
    - Log file submitted
    - Rewards earned
@@ -47,11 +47,10 @@ Managers can view the assignment detail that are created such as title, descript
 
 ![Manager Log File Submission](../../../../../static/img/integration/vision/task/mgrLogFile.png)
 
-2.  Manager can view the log file details as shown.
-
-- Actions:
-  - Override
-  - Approve
+2.  Manager can view the log file details as shown below.
+      - **Actions:**
+         - Override
+         - Approve
 
 ![Log File Approval](../../../../../static/img/integration/vision/task/logFileApproval.png)
 
@@ -71,7 +70,7 @@ Manager will not be able to override progress percentage that is **lower** than 
 
 :::note Note
 
-- Bonus Review is only available when the log file submission is **100%**.
+- **Bonus Review** is only available when the log file submission is **100%**.
 - The colored bonus card represents the bonus requested by the employee. (**highlighted in red**)
 
 :::
@@ -105,15 +104,15 @@ Manager will not be able to override progress percentage that is **lower** than 
 ### Change Log
 
 1. Press **History Icon** (highlighted in red)
-   - details of who made edits and what changes were made.
+   - Displays details of who made edits and what changes were made.
 
 ![Change Log](../../../../../static/img/integration/vision/task/changeLog.png)
 
 ### Finalise Assignment
 
 1. Press **Finalise** in assignment detail page
-   - To finalise assignment, all log file must be **approved**.
-   - After finalising, consultant reward will be entitled.
+   - To finalise an assignment, all log files must be **approved**.
+   - After finalising, consultant rewards will be entitled.
 
 :::danger Warning
 
@@ -136,7 +135,7 @@ Finalising assignment is an **irreversible** action.
 ![Reward](../../../../../static/img/integration/vision/task/rewardDialog.png)
 
 :::info Info
-The code will matches with the code in the summary table.
+The code will match with the code in the summary table.
 :::
 
 ### Employee Progress
@@ -155,7 +154,7 @@ The code will matches with the code in the summary table.
 
 ### Tooltip Reward
 
-1. Click **Total Cash Amount** / **Total Coin Amount**
-   - can view the earned amounts for the corresponding employee in the tooltip.
+1. Press **Total Cash Amount** / **Total Coin Amount**
+   - Displays the earned amounts for the corresponding employee in the tooltip.
 
 ![Tooltip](../../../../../static/img/integration/vision/task/tooltipAsgmt.png)

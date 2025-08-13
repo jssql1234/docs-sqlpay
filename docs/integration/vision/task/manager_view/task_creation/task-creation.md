@@ -15,13 +15,13 @@ To create a new mission, navigate to **Main Dashboard | Manage Task**. Click the
 
 ### Duplicate Existing
 
-In this section, you can view all previously created missions.
+This section allows you to view and create a copy of an existing mission.
 
 - [**Duplication**](duplication)
 
 ### Create New
 
-In this section, you can create a new mission from scratch, choosing either Assignment or Target.
+This section allows you to create a new mission from scratch, choosing between Assignment and Target types.
 
 - [**Assignment**](assignment)
 - [**Target**](target)

@@ -14,7 +14,7 @@ This feature is only available to **manager**.
 
 ## Mission Card
 
-The mission card displays key details of the mission, including the Title, Created Date, Duration, and Members. Pressing the card allows you to create a new mission with the same details duplicated.
+The mission card displays key details of the mission, including the Title, Created Date, Duration, and Members. Tapping the card allows you to create a new mission with the same details duplicated.
 
 ![duplication mission card](../../../../../../static/img/integration/vision/mi_creation/d-3.png)
 
@@ -24,7 +24,7 @@ The mission card displays key details of the mission, including the Title, Creat
 
 ## Filter
 
-The filter button allow you to filter your recent mission. The duplicated mission can be filtered by Type:
+The Filter button allows you to filter your recent missions. Duplicated missions can be filtered by **Type**:
 
 **Type:**
 - Assignment 

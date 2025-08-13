@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Create Assignment
 
-Assignment is a qualitative mission (non-countable). E.g. Marketing Strategy Planning, Company Logo design.
+Assignment is a qualitative mission (uncountable). *E.g., Marketing Strategy Planning, Company Logo design*
 
 :::info[Note]
 
@@ -20,7 +20,7 @@ This feature is only available to **manager**.
 | Properties               | Description                                                                        | Note     |
 |:-------------------------|:-----------------------------------------------------------------------------------|:--------:|
 | **Title**                | The title of the mission.                                                          | Required |
-| **Description**          | A detailed description of the mission.                                             | Required |
+| **Description**          | A detailed description of the mission.                                             | - |
 | **[Project/Job/Task](#projectjobtask)** | The category for the mission, indicating whether it relates to a project, job, or specific task. | - |
 | **Start Date**           | The date when the mission begins.                                                  | Required |
 | **End Date**             | The date when the mission ends. The end date must be later than the start date.    | Required |
@@ -29,7 +29,7 @@ This feature is only available to **manager**.
 
 ### Project/Job/Task
 
-Select a **Project**, **Job**, and **Task** from the dropdown. If you leave any of these fields set to **(None)**, the Manager's Project, Job, and Task will be used in the SQL Payroll.
+Select a **Project**, **Job**, and **Task** from the dropdown menus. If any field is left as **(None)**, the **Manager's** corresponding Project, Job, and Task will be applied in SQL Payroll.
 
 ![assignment](../../../../../../static/img/integration/vision/mi_creation/a-1.3.png)
 
@@ -40,7 +40,7 @@ Select a **Project**, **Job**, and **Task** from the dropdown. If you leave any 
 | Properties                                          | Description                                                           | Note         |
 |:----------------------------------------------------|:----------------------------------------------------------------------|:------------:|
 | **[Milestone and Rewards](#milestone-and-rewards)** | Section for entering details about milestones and associated rewards. | At least one |
-| **[Consultant Rewards](#consultant-rewards)**| Section for selecting consultants and specifying their respective rewards.| Required     |
+| **[Consultant Rewards](#consultant-rewards)**| Section for selecting consultants and specifying their respective rewards.| -     |
 | **[Payment By](#payment-by)**                | Section for selecting the payment method and specifying the payout month. | Required     |
 | **[Bonus](#bonus)**                          | Section for entering additional bonus rewards.                            | -            |
 | **Clear**                                    | Clears all content on the current page.                                   | -            |
@@ -54,8 +54,8 @@ Select a **Project**, **Job**, and **Task** from the dropdown. If you leave any 
 
 | Properties          | Description                                                           |
 |---------------------|-----------------------------------------------------------------------|
-| **Milestone (%)**   | Text field to input the percentage of the milestone (e.g., 20%).      |
-| **Description**     | Text field to input the description of the milestone (e.g., the requirements to achieve the particular milestone). |
+| **Milestone (%)**   | Text field to input the percentage of the milestone *(e.g., 20%)*.      |
+| **Description**     | Text field to input the description of the milestone *(e.g., the requirements to achieve the particular milestone)*. |
 | **Rewards**         | Text field to enter the rewards available to the achievers of the particular milestone. There are 2 types of rewards: <br/> &nbsp;&nbsp; 1. **Cash (RM):** Commission or allowance provided through the SQL Account on the payout date. <br/> &nbsp;&nbsp; 2. **Coins:** Digital coins that can be used to redeem gifts in SQL Vision via [**Gift**](../../../gift/introduction.md). |
 | **Add**             | Adds a new milestone along with its respective rewards.               |
 | **Delete**          | Deletes a specific milestone and its associated rewards.              |
@@ -64,9 +64,9 @@ Select a **Project**, **Job**, and **Task** from the dropdown. If you leave any 
 
 ![assignment](../../../../../../static/img/integration/vision/mi_creation/a-2.2.png)
 
-**Consultants** are employees responsible for providing guidance on a particular mission. They do not complete the mission themselves.
+*Consultants* are employees who provide guidance on a mission but do not complete the mission themselves.
 
-To add a consultant click on ![add person](../../../../../../static/img/integration/vision/mi_creation/a-2.2-add.png) to navigates to the Select Consultant page. The selected consultants will be listed down in the Consultant Rewards section under the associated rewards.
+To add a consultant, click on ![add person](../../../../../../static/img/integration/vision/mi_creation/a-2.2-add.png) to navigate to the **Select Consultant** page. On the **Select Consultant** page, you can filter consultants by *Branch*, *Department*, or *HR Group*, and sort them by these criteria. After selecting the desired consultants, click *Apply*. The chosen consultants will appear in the **Consultant Rewards** section under the corresponding rewards.
 
 ![assignment](../../../../../../static/img/integration/vision/mi_creation/a-2.2.2.png)
 
@@ -74,7 +74,7 @@ To add a consultant click on ![add person](../../../../../../static/img/integrat
 
 :::info[Note]
 
-The payment method applies only to **Cash**. All coins will be paid immediately upon entitlement.
+This payment method is applicable only for **Cash**. All coins will be paid immediately upon entitlement.
 
 :::
 
@@ -83,13 +83,14 @@ The payment method applies only to **Cash**. All coins will be paid immediately 
 There are two types of payment methods:
 
 1. **Payment Terms:**
-   - The payout month, which will be X months after the entitled month.
-   - E.g., if set to 3 months, the reward will be paid after 3 months from when the employee achieved and became entitled to the reward.
+   - The payout month, which occurs X months after the entitled month.
+
+      *E.g., If set to 3 months, the reward will be paid 3 months after the employee becomes entitled to it.*
 
 2. **Settlement Month:**
-   - The entitled cash will be collected until a specific month for payment, either inclusive or exclusive of that month.
-   - **Inclusive Setting:** If inclusive with January and August, all rewards entitled from February to August will be paid in August, while rewards entitled from September to January will be paid in January.
-   - **Exclusive Setting:** If exclusive with January and August, all rewards entitled from January to July will be paid in August, and rewards entitled from August to December will be paid in January.
+   - Entitled cash will be accumulated until a specific month for payout, which can be either inclusive or exclusive of that month.
+   - **Inclusive Setting:** *If January and August are set as inclusive months, rewards entitled from February to August will be paid in August, while rewards entitled from September to January will be paid in January.*
+   - **Exclusive Setting:** *If January and August are set as exclusive months, rewards entitled from January to July will be paid in August, and rewards entitled from August to December will be paid in January.*
 
 ### Bonus
 
@@ -97,10 +98,10 @@ There are two types of payment methods:
 
 | Properties    | Description                                                                         |
 |---------------|-------------------------------------------------------------------------------------|
-| **Description** | Text field to input a description of the bonus (e.g., extra points that you hope the employee can achieve, though it is not mandatory). |
+| **Description** | Text field to enter a description for the bonus. *(e.g., extra points that you hope the employee can achieve, though it is not mandatory)* |
 | **Rewards**   | Text field to enter the rewards available to the achievers of the particular bonus. |
 | **Add**       | Adds a new bonus along with its respective rewards.                                 |
-| **Delete**    | Adds a new bonus along with its respective rewards.                                 |
+| **Delete**    | Deletes a new bonus along with its respective rewards.                                 |
 
 ## Step 3 - Participants Information
 
@@ -108,16 +109,16 @@ There are two types of payment methods:
 
 #### Admin
   - **Admin** is authorized to **manage and edit** the task. 
-  - Admin will not perform the task, therefore, admin **will not be entitled to any reward**.
-  - By default, creator will be added as Admin and no one can remove him/her. *(Employee with yellow crown as shown in above image is the creator.)* 
+  - Admin does not perform the task and therefore **is not entitled to any rewards**.
+  - By default, the creator will be added as Admin and cannot be removed by anyone. *(Employee with yellow crown, as shown in image below, is the creator.)* 
 
 #### Participant
-  - **Participant** is the employee who performs the mission. 
-  - He/her is eligible to entitled the reward.
+  - **Participant** is the employee responsible for performing the mission.
+  - They are eligible to receive the reward.
 
 #### Consultant
-  - **Consultant** provide **guidance or advice** on the mission. He/her will not perform the task.
-  - He/her will be set at **[Step 2 - Rewards Information, Consultant Rewards section](#consultant-rewards)**.
+  - **Consultant** provide **guidance or advice** on the mission but do not perform the task.
+  - They are assigned in **[Step 2 - Rewards Information, Consultant Rewards section](#consultant-rewards)**.
 
 ### Features
 
@@ -137,10 +138,10 @@ There are two types of payment methods:
 
 ![Steps to add Participants](../../../../../../static/img/integration/vision/mi_creation/participant-steps.png)
 
-1. Press on the **Add Person Icon** for the section of participant role you would like to add.
+1. Press on the **Add Person Icon** in the section for the participant role you want to add.
 2. Select participants.
-3. Press **Apply** to apply current selected employees as the participant role.
-4. Press **Cancel** to cancel current changes.
+3. Press **Apply** to assign the selected employees to the participant role.
+4. Press **Cancel** to discard current changes.
 
 #### Side functions
 
@@ -152,6 +153,6 @@ There are two types of payment methods:
 
 #### Filter
 
-Filter is provided in the Employee List during select participants. The employee list can be filtered and sort by **Branch**, **Department** and **Hr Group** and shown in the image.
+A filter is available in the Employee List when selecting participants. The list can be filtered and sorted by **Branch**, **Department**, and **HR Group**, as shown in the image below.
 
 ![assignment](../../../../../../static/img/integration/vision/mi_creation/a-3.2.png)
