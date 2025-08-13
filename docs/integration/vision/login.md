@@ -17,7 +17,8 @@ sidebar_position: 1
 
     ![OTP Email](../../../static/img/integration/vision/login/receiveOTP.png)
 
-3. **Resend OTP** allows user to request again an One-Time Password(OTP) 
+3. **Resend OTP** allows user to request again an One-Time Password(OTP)
+
 ![Resend OTP](../../../static/img/integration/vision/login/resendOTP.png)
 
 4. Verification

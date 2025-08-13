@@ -27,7 +27,7 @@ This feature is only available to **manager**.
 
 ## Step 2 - Rewards Information
 
-![target](../../../../../../static/img/integration/vision/mi_creation/t-2.png)
+![target](../../../../../../static/img/integration/vision/mi_creation/t-2.jpg)
 
 
 | Properties                          | Description                                                                              | Note         | 

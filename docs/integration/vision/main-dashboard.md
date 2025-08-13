@@ -57,7 +57,7 @@ sidebar_position: 2
 ### Personal Information
 - Displays the user's profile information in the company payroll system, organized into sections for general details, employment grouping and family information.
 
-![Personal Information](../../../static/img/integration/vision/main-dashboard/personalInformation.png)
+![Personal Information](../../../static/img/integration/vision/main-dashboard/personalInformation.jpg)
 :::info NOTE
 Details are **view-only** and **cannot be edited** or **modified** from the mobile application.
 :::

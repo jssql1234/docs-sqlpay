@@ -121,7 +121,7 @@ Finalising assignment is an **irreversible** action.
 
 :::
 
-![Finalise Assignment](../../../../../static/img/integration/vision/task/finaliseAsgmt.png)
+![Finalise Assignment](../../../../../static/img/integration/vision/task/finaliseAsgmt.jpg)
 
 ## Completed
 
