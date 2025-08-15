@@ -64,6 +64,9 @@ sidebar_position: 2
 
 - The top-right button allows managers to search employees and view their details, but cash and points earned are not shown.
 
+| ![Personal Information](../../../static/img/integration/vision/main-dashboard/searchEmployees.jpg) | ➜ | ![mobileDemo](../../../static/img/integration/vision/main-dashboard/employeeDetails.jpg) |
+ |:---:|---|:---:|
+
 :::info NOTE
 Details are **view-only** and **cannot be edited** or **modified** from the mobile application.
 :::

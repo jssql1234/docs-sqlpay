@@ -23,7 +23,7 @@ sidebar_position: 2
 - Manager is **not allowed to view the rewards** available for each course.
 - Manager is **unable to see private courses**, only public courses are accessible.
 - Manager can access the course detail by clicking on the course card, but the rewards will remain hidden.
-![Other Branch & Department Course Tab Diagram](../../../../../static/img/integration/vision/upskill/mgr_courseTab_otherBranch&Dept.png)
+![Other Branch & Department Course Tab Diagram](../../../../../static/img/integration/vision/upskill/mgr_courseTab_othersUpskill.jpg)
 
 :::info[Note]
 By default, finalized courses are hidden from the course list.\

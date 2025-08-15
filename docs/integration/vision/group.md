@@ -32,7 +32,8 @@ Manager can view all the created groups in **Main Dashboard | Manage Group**. In
 
 ### Edit Group
 
-![Manage Group - Edit](../../../static/img/integration/vision/group/g-edit.png)
+| ![Manage Group - Edit](../../../static/img/integration/vision/group/g-edit-1.jpg) | ➜ | ![mobileDemo](../../../static/img/integration/vision/group/g-edit-2.jpg) |
+ |:---:|---|:---:|
 
 1. Tap on the **group card** that you want to edit. You will see the previously saved *Group Name*, *Admin*, *Group Leader*, and *Group Members*.
 3. Edit by changing either the **Group Name**, **Admin**, **Group Leader** and **Group Members**.
