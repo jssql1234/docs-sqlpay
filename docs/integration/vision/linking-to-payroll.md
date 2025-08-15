@@ -6,7 +6,7 @@ sidebar_position: 11
 
 ## Introduction
 
-SQL Vision are linked with SQL Payroll to process all cash rewards earned by employees.
+SQL Vision is linked with SQL Payroll to process all cash rewards earned by employees.
 
 ## Requirement
 

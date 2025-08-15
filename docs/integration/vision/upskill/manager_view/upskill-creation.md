@@ -42,7 +42,7 @@ sidebar_position: 1
 | <div align="center">Properties</div> | <div align="center">Description</div> | <div align="center">Note</div> |
 |:-------------------------------------|:--------------------------------------| :----------------------------- |
 | **Date Range**             | Display the start date and end date of the course which is determined by first and last session's date.                                           | -
-| **Rewards By Session / Completion**                           | Determine whether the reward is calculated **by session** or **by completion**.<br/><br/> **By Completion**<br/> - Rewards are issued when participants achieve full attendance across all sessions (100% attendance).<br/><br/>**By Session**<br/>- Rewards are issued once participants attend any session. | **On:**<br/>Rewards calculate by session.<br/><br/>**Off:**<br/>Rewards calculate by completion.<br/><br/>To know more about rewards type, [<u>click here</u>](../introduction#rewards-type)|
+| **Rewards By Session / Completion**                           | Determine whether the reward is calculated **by session** or **by completion**.<br/><br/> **By Completion**<br/> - Rewards are issued when participants achieve full attendance across all sessions *(100% attendance)*.<br/><br/>**By Session**<br/>- Rewards are issued once participants attend any session. | **On:**<br/>Rewards calculate by session.<br/><br/>**Off:**<br/>Rewards calculate by completion.<br/><br/>To know more about rewards type, [<u>click here</u>](../introduction#rewards-type)|
 | **Session (Dropdown)**| The details of each session of the course.                           | - |
 | **Add**           | Add more sessions to the course.                                                     | - |
 | **Back**                | Navigate back to the previous page.                                                   | - |
@@ -92,11 +92,11 @@ sidebar_position: 1
 | **Add Admin**     | Lead you to the select admin page. | To know more about admin, [<u> click here</u>](../introduction#course-role).
 | **Remove Admin**     | Remove selected admin. | The first admin (creator) cannot be removed.
 | **Is Public**     | Determine whether this course is public or private. | **On:**<br/>Public course.<br/><br/>**Off:**<br/>Private course.<br/><br/>To know more about public and private course, [<u> click here</u>](../introduction#course-privacy).
-| **Available Slots**        | The available slots left for this course (number of selected participants / maximum pax).                                                           |As this is **private** course, so there is **no maximum pax**, hence the maximum pax is "-".|
+| **Available Slots**        | The available slots left for this course *(number of selected participants / maximum pax)*.                                                           |As this is **private** course, so there is **no maximum pax**, hence the maximum pax is "-".|
 | **Add Participants**     | Lead you to the select participants page. | To know more about participants, [<u> click here</u>](../introduction#course-role).
 | **Editable Employees**     | Currently selected employees that **participate** in this course.                            | - |
 | **Remove Participant**     | Remove selected participant. | - |
-| **Uneditable Employees**        | Previously selected participants that cannot be removed. | Only will have this section once the course has started (ongoing). <br/><br/>Once the course has started, only newly added employees will be editable.|
+| **Uneditable Employees**        | Previously selected participants that cannot be removed. | Only will have this section once the course has started (ongoing). <br/><br/>Once the course has started, only newly added employees is editable.|
 | **Back**          | Navigate back to the previous page.                                                          | - |
 | **Create or Edit**        | Create or edit the course.                                                                            | - |
 
