@@ -37,6 +37,7 @@ sidebar_position: 1
 ![Add Assistant Tutors Diagram](../../../../../static/img/integration/vision/upskillCreation/step1_addAssistant.png)
 
 <br/>
+
 ### Step 2 - Sessions Information
 ![Session Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step2_sessionInfo.png)
 | <div align="center">Properties</div> | <div align="center">Description</div> | <div align="center">Note</div> |
@@ -61,6 +62,7 @@ sidebar_position: 1
 | **Venue**           | The venue of the session.             | ✗ | - |
 
 <br/>
+
 ### Step 3 - Rewards Information
 
 ![Rewards Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step3_rewardInfo.png)
@@ -82,11 +84,12 @@ sidebar_position: 1
 ![Rewards Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step3_sessionReward.png)
 
 <br/>
+
 ### Step 4 - Participants Information
 ![Participant Info Diagram](../../../../../static/img/integration/vision/upskillCreation/step4_ParticipantInfo.png)
 | <div align="center">Properties</div> | <div align="center">Description</div> | <div align="center">Note</div> |
 |:-----------------------------|:-----------------------------------------------------------------------------------|:---------|
-| **Apply Group**     | Apply groups with preset roles for both admin and participant. | To know more about group, [<u>click here</u>](../../Group/#apply-group).
+| **Apply Group**     | Apply groups with preset roles for both admin and participant. | To know more about group, [<u>click here</u>](../../group/#apply-group).
 | **Clear**     | Clears all admin and participants on the current page. | Uneditable participants will not be cleared.
 | **Creator**     | Creator of course will be the first admin and cannot be removed. | - |
 | **Add Admin**     | Lead you to the select admin page. | To know more about admin, [<u> click here</u>](../introduction#course-role).

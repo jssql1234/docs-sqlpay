@@ -49,7 +49,7 @@ Manager can view all the created groups in **Main Dashboard | Manage Group**. In
 
 ## Apply Group
 
-Group can be applied when creating a [**Target**](task/manager_view/task_creation/target#step-3---add-members), [**Assignment (Step 3)**](task/manager_view/task_creation/assignment#step-3---add-members) or an [**Upskill (Step 4)**](upskill/manager_view/upskill-creation#step-4---participants-information).
+Group can be applied when creating a [**Target**](task/manager_view/task_creation/target#step-3---participants-information), [**Assignment (Step 3)**](task/manager_view/task_creation/assignment#step-3---participants-information) or an [**Upskill (Step 4)**](upskill/manager_view/upskill-creation#step-4---participants-information).
 
 ![Manage Group - Apply](../../../static/img/integration/vision/group/g-apply.png)
 
