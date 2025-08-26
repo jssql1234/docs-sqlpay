@@ -6,7 +6,7 @@ sidebar_position: 10
 
 ## Introduction
 
-SQL Vision are linked to SQL Account to get the amount of sales target achieved by employees.
+SQL Vision is linked to SQL Account to get the amount of sales target achieved by employees.
 
 ## Requirement
 
@@ -49,7 +49,7 @@ The SQL Accounting Software must be open and logged in during the connection pro
 
 6. Insert the company ID. 
 7. Click **Get OTP** .
-8. Insert the OTP Get from the step 7 into the OTP field. 
+8. Insert the OTP obtained from the Step 7 into the OTP field. 
 9. Click **Get Token**.
 10. Click **Next** to continue the following steps.
 
@@ -77,7 +77,7 @@ Suppose you’re managing a Sales Department and want to track Q1 sales targets:
 
 1. For the mission **"Achieve Q1 Sales Target"**, assign the **"Invoice Based Strategy"** strategy.
 
-2. With this setup, managers can update sales progress daily in SQL Vision by using SQL Vision Sync tool by mapping to the right Strategy ID. Managers can view the updated progress daily in SQL Vision.
+2. With this setup, managers can update sales progress daily in SQL Vision using SQL Vision Sync tool by mapping it to the correct Strategy ID. Managers can then view the updated progress daily in SQL Vision.
 
 :::
 
@@ -87,7 +87,7 @@ By default, SQL Vision automatically adds two pre-defined strategies to a newly 
 
 ![Predefined Strategy](../../../static/img/integration/vision/account/predefined-strategy.png)
 
-If the system encounters an error and fails to create the pre-defined strategies, you can manually add them by navigating to the Company Configuration section. When this issue occurs, the application will display a dialog box prompting you to add the default strategies manually, as shown in the image below:
+If the system encounters an error and fails to create the pre-defined strategies, you can manually add them by navigating to the **Company Configuration** section. When this issue occurs, the application will display a dialog box prompting you to add the default strategies manually, as shown in the image below:
 
 ![Predefined Strategy-Add](../../../static/img/integration/vision/account/predefined-strategy-add.png)
 
@@ -100,7 +100,7 @@ To add a new strategy, follow these steps:
 1. Click the **add icon** to create a new strategy.
 2. Enter the strategy name.
 3. Click the **Add** button.
-4. Strategy added can be preview. Click **X** to remove it.
+4. Strategy added can be previewed. Click **X** to remove it.
 5. Click **Save** to apply changes.
 6. Click **Cancel** to discard the changes.
 
@@ -110,7 +110,7 @@ To edit an existing strategy, follow these steps:
 
 ![Edit Strategy](../../../static/img/integration/vision/account/strategy-edit.png)
 
-1. Click on the strategy you want like to edit.
+1. Click on the strategy you would like to edit.
 2. Edit the strategy name.
 3. Click the **Edit** button.
 4. Click **Save** to apply changes.

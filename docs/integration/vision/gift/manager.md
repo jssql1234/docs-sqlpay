@@ -32,7 +32,7 @@ After manager creates a gift, users will receive notification regarding the new 
 | **Redemption Validity Start Date** | The first date when the gift can be redeemed.                            | Required |
 | **Redemption Validity End Date** | The last date when the gift can be redeemed.                                | Required |
 | **Clear** | Clears all content on the current page.                                                            |    -     |
-| **Next** |  Navigates to the previous page.                                                             |    -     |
+| **Next** |  Navigates to the next page.                                                             |    -     |
 
 3. Gift Redemption Criteria
 
@@ -41,8 +41,8 @@ After manager creates a gift, users will receive notification regarding the new 
 | Properties                   | Description                                                                        | Note     |
 |:-----------------------------|:-----------------------------------------------------------------------------------|:--------:|
 | **Redeem Coins** | To specify the amount of coins required to redeem the gift.                                | Required |
-| **Category** | To select a category to classify the gift, such as Uncategorised, Food & Beverages, Shopping, Service, Entertainment, Digital Goods, or Travel Accommodation.                                                                                            | Required |
-| **Available Quantity** | To specify the total number of units of the gift that are available for redemption.             | Required |
+| **Category** | To classify the gift, such as Uncategorised, Food & Beverages, Shopping, Service, Entertainment, Digital Goods, or Travel Accommodation.                                                                                            | Required |
+| **Available Quantity** | To specify the total number of gift units available for redemption.           | Required |
 | **Max Allowable Redemption Per Employee** | To specify the maximum number of times a user can redeem the gift.| Required |
 | **Attactment** | To upload an image associated with the gift, such as a product photo or promotional graphic, through the mobile's camera or gallery.                                                | - |
 | **Clear** | Clears all content on the current page.                                                            |    -     |
@@ -51,7 +51,7 @@ After manager creates a gift, users will receive notification regarding the new 
 
 ## Gift Update
 
-1. Choose Gift - To update a gift, the manager can go to **More icon > Manage Gift** and select the gift want to be update.
+1. To update a gift, the manager can go to **More icon > Manage Gift** and select the gift to be updated.
 
 |![gift](../../../../static/img/integration/vision/gift/gotoManageGift.png)|![gift](../../../../static/img/integration/vision/gift/chooseEditGift.png)                 |
 |:------------------------------------|:-----------------------------------------------------|
@@ -85,20 +85,19 @@ After clicking **Issue**, select **Confirm** to complete issuing the gift.
 
 ### Check Issuance
 
-To check completed issuances, **toggle on Issued Gift**s to display the latest issued gift.
+To check completed issuances, **toggle on Issued Gifts** to display the latest issued gift.
 
 |![gift](../../../../static/img/integration/vision/gift/gotoIssuedPage.png)|![gift](../../../../static/img/integration/vision/gift/checkIssuance.png)                  |
 |:------------------------------------|:-----------------------------------------------------|
 
 ## Manage Gift
-
 ### Gift Status
 
 |Active Gifts|Inactive Gifts |
 |:--------------------------------|:---------------------------------|
 |![gift](../../../../static/img/integration/vision/gift/activeGift.png)|![gift](../../../../static/img/integration/vision/gift/inactiveGift.png)|
 
-|Propertise|Description|
+|Properties|Description|
 |:--------------------------------|:--------------------------------|
 |**Inactive Gifts Switch - Toggle Off**|Displays all active gifts.|
 |**Deactivate**|Deactivate all currently selected active gifts|
