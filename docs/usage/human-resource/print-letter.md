@@ -62,3 +62,23 @@ For increment letter, make sure increment is set in **history** in order for the
 #### Increment letter setup in history
 
 ![increment-letter-setup](../../../static/img/usage/human-resource/print-letter/increment-letter-setup.png)
+
+### Appointment Letter
+
+1. Go to Human Resource | Maintain Employee..., you can found the following common use employee letters:
+
+    1. Acceptance of Resignation Letter
+    2. Appointment Letter
+    3. Confirmation Letter
+    4. Employment Application Form
+    5. Increment Letter
+    6. Interview Aseessment Form
+    7. and more...
+
+2. Highlight the employee.
+
+3. Click preview.
+
+4. Select the HR.Employee Appointment Report.
+
+![yc1](../../../static/img/usage/human-resource/print-letter/yc1-appointment-letter.jpg)
