@@ -18,3 +18,34 @@ Deductions may affect net pay, tax calculations, and the inclusion or exclusion 
 :::
 
 ## Setup
+
+1. Navigate to **Payroll** > **Maintenance** > **Maintain Deduction**
+
+   ![1](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj1.png)
+
+2. Click New to generate a New Deduction
+
+   ![2](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj2.png)
+
+3. Insert the info that you want to set in maintain deduction
+
+   ![3](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj3.png)
+
+   1. Insert the Code of the Deduction that you want to generate.
+   2. Insert the Description of the deduction.
+   3. Insert the fixed amount for the deduction, eg: Loan deduction is fixed RM 100 for every employee then you can insert the rate of RM 100 but if there is not then you can left it blank.
+   4. Select the type of the deduction you want (General / Zakat / Tabung Haji / PTPTN).
+   5. Tick or un-tick the contribution of the deduction.
+
+4. After create the master file of Deduction, then you can add the fixed deduction for certain employee which have the deduction monthly
+
+   ![4](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj4.png)
+
+5. Alternatively, you can insert the deduction after process month end.
+
+   ![5](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj5.png)
+
+   1. Click on the "**Deduction**"
+   2. CLick on the ➕ to add the employee then fill in the deduction
+
+6. Deduction feature is same with allowance feature, all the deduction is not compulsory just depend on company policy.
