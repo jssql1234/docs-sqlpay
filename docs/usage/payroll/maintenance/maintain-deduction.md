@@ -7,7 +7,7 @@ tags: ["SQL Payroll", "deduction"]
 
 ## Introduction
 
-:::info Feature
+:::info Features
 
 Maintain Deductions is used to configure employee payroll deductions, such as personal loan deductions, company advance deductions, lateness deductions, and restaurant deductions.
 
