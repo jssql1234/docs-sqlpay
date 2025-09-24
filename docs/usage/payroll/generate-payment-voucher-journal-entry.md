@@ -5,11 +5,9 @@ slug: /usage/payroll/generate-payment-voucher-/-journal-entry
 tags: ["SQL Payroll", "Generate Payment Voucher / Journal Entry"]
 ---
 
-## Introduction
-
-1. To generate the monthly payroll data converted into double entry and get post into SQL Account.
-2. It is available in SQL Payroll version 129 and above.
-3. It is available to import payroll data in SQL Account version 745 and above.
+- To generate the monthly payroll data converted into double entry and get post into SQL Account.
+- It is available in SQL Payroll version 129 and above.
+- It is available to import payroll data in SQL Account version 745 and above.
 
 ![1](../../../static/img/usage/payroll/generate-payment-voucher-journal-entry/jj1_Generate_PVJV_01.png)
 

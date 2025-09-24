@@ -7,23 +7,23 @@ tags: ["SQL Payroll", "FAQ"]
 
 ## How to solve when missing code and employee name columns in the month payroll screen?
 
-**Issue:**
+### Issue:
 
 ![issue-1](../../../static/img/usage/payroll/faq/jj1_FAQ_Payroll_01.png)
 
-**Solution:**
+### Solution:
 
 ![solution-1](../../../static/img/usage/payroll/faq/jj2_FAQ_Payroll_02.png)
 
 ## Error message dataset "CalendarInfo" does not exist when batch email using customize payslip format
 
-**Issue:**
+### Issue:
 
 Error message prompt when try to **Export to E-Mail Client (Batch)** using **customize payslip format**.
 
 ![issue-2](../../../static/img/usage/payroll/faq/jj3_FAQ_Payroll_03.png)
 
-**Solution:**
+### Solution:
 
 At payslip report designer,
 
@@ -37,11 +37,13 @@ After correction, it will be look like the screenshot below.
 
 ## Where to define the company leave policy?
 
-**Answer:** Preset the leave policy at **Leave | Maintain Leave Group...**
+### Solution:
+
+1. Preset the leave policy at **Leave | Maintain Leave Group...**
 
 ## Why date format not display correctly in some payroll report?
 
-**Issue:**
+### Issue:
 
 What is the faster solution to show the date format correctly?
 
@@ -49,7 +51,7 @@ What is the faster solution to show the date format correctly?
 
 Government Reports | Print Income Tax PCB 2 (II)
 
-**Solution:**
+### Solution:
 
 1. Go to Control Panel.
 2. Search for Region in Control Panel. 3. Click on Additional Settings...

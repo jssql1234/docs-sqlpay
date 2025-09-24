@@ -5,7 +5,7 @@ slug: /usage/payroll/maintenance/maintain-claim
 tags: ["SQL Payroll", "claim"]
 ---
 
-## Introduction
+## Introductions
 
 :::info Feature
 
