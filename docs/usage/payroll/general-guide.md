@@ -170,21 +170,71 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ![pending-wages](../../../static/img/usage/payroll/general/jj8_Payroll_OpenPendingPayroll_Wages.png)
 
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Wages transaction date | Date |
+| Post Date | Wages posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Code | Wages type | Alphanumerical, length 20 |
+| Description | Wages type description | Alphanumerical, length 160 |
+| Amount | Wages amount | Decimal, length 18, precision 2 |
+
 ### Pending Overtime
 
 ![pending-overtime](../../../static/img/usage/payroll/general/jj9_Payroll_OpenPendingPayroll_Overtime.png)
+
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Overtime transaction date | Date |
+| Post Date | Overtime posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Code | Overtime type | Alphanumerical, length 20 |
+| Description | Overtime type description | Alphanumerical, length 160 |
+| Work Unit | It can be in Hours or Day depend what Overtime Type selected and Unit type is set at Maintain Overtime | Decimal, length 18, precision 8 |
+| Rate | Overtime rate | Decimal, length 18, precision 8 |
+| Day Type | It follow the Post Date to determine the Day Type which is set at Maintain Calender | Alpha, length 1 |
+| Work Unit As Time | Overtime entered as time (HH:MM:SS) | Time |
 
 ### Pending Paid Leave
 
 ![pending-paid-leave](../../../static/img/usage/payroll/general/jj10_Payroll.OpenPendingPayroll_PaidLeave.png)
 
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Paid leave transaction date | Date |
+| Post Date | Paid leave posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Description | Paid leave description | Alphanumerical, length 160 |
+| Amount | Paid leave amount | Decimal, length 18, precision 2 |
+
 ### Pending Unpaid Leave
 
 ![pending-unpaid-leave](../../../static/img/usage/payroll/general/jj11_Payroll.OpenPendingPayroll_UnpaidLeave.png)
 
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Unpaid leave transaction date | Date |
+| Post Date | Unpaid leave posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Code | Unpaid leave type | Alphanumerical, length 20 |
+| Description | Unpaid leave type description | Alphanumerical, length 160 |
+| Leave Day | Number of unpaid leave days | Decimal, length 18, precision 8 |
+| Amount | Unpaid leave amount (Leave blank if want calculated by system) | Decimal, length 18, precision 2 |
+
 ### Pending Claim
 
 ![pending-claim](../../../static/img/usage/payroll/general/jj12_Payroll.OpenPendingPayroll_Claim.png)
+
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Claim transaction date | Date |
+| Post Date | Claim posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Code | Claim type | Alphanumerical, length 20 |
+| Description | Claim type description | Alphanumerical, length 160 |
+| Ref1 | Claim reference 1 | Alphanumerical, length 20 |
+| Ref2 | Claim reference 2 | Alphanumerical, length 20 |
+| Amount | Claim amount | Decimal, length 18, precision 2 |
 
 ### Pending CP38
 
@@ -194,9 +244,32 @@ This is generally towards settlement of outstanding taxes.
 
 ![pending-cp38-02](../../../static/img/usage/payroll/general/jj14_Payroll.OpenPendingPayroll_CP3802.png)
 
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | CP38 transaction date | Date |
+| Post Date | CP38 posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Description | CP38 description | Alphanumerical, length 160 |
+| Ref1 | Reference 1 | Alphanumerical, length 20 |
+| Ref2 | Reference 2 | Alphanumerical, length 20 |
+| Amount | CP38 amount | Decimal, length 18, precision 2 |
+| Generate Button | For Batch Generate CP38 | | 
+
 ### Pending Allowance
 
 ![pending-allowance](../../../static/img/usage/payroll/general/jj15_Payroll.OpenPendingPayroll_Allowance.png)
+
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Allowance transaction date | Date |
+| Post Date | Allowance posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Code | Allowance type | Alphanumerical, length 20 |
+| Tax Code | Tax exemption code | Alphanumerical, length 20 |
+| Description | Allowance type description | Alphanumerical, length 160 |
+| Work Unit | Allowance unit | Decimal, length 18, precision 8 |
+| Rate | Allowance rate | Decimal, length 18, precision 8 |
+| Amount | Allowance total amount | Decimal, length 18, precision 2 |
 
 ### Pending Deduction & Pending Commission
 
@@ -207,6 +280,17 @@ Below Example information is applicable for
 
 ![pending-deduction-commission](../../../static/img/usage/payroll/general/jj16_Payroll.OpenPendingPayroll_Deduction.png)
 
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Deduction / Commission transaction date | Date |
+| Post Date | Deduction / Commission posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Code | Deduction / Commission type | Alphanumerical, length 20 |
+| Description | Deduction / Commission description | Alphanumerical, length 160 |
+| Work Unit | Deduction unit | Decimal, length 18, precision 8 |
+| Rate | Deduction rate | Decimal, length 18, precision 8 |
+| Amount | Deduction total amount | Decimal, length 18, precision 2 |
+
 ### Pending Bonus & Pending Director Fees
 Below Example information is applicable for
 
@@ -214,6 +298,17 @@ Below Example information is applicable for
 - Pending Director Fees
 
 ![pending-bonus-director-fees](../../../static/img/usage/payroll/general/jj17_Payroll.OpenPendingPayroll_Bonus.png)
+
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Bonus / Director fees transaction date | Date |
+| Post Date | Bonus / Director fees posting date | Date |
+| Pay Year | Bonus year (Default is same year as Post Date) | Integer |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Tax Category | Employee tax category | Alphanumerical, length 10 |
+| EPF Rate | Bonus EPF rate | Alphanumerical, length 10 |
+| Wages | Employee wages amount | Decimal, length 18, precision 2 |
+| Amount | Bonus / Director fees amount | Decimal, length 18, precision 2 |
 
 ### Pending Advance Paid, Pending Advance Deduct & Pending Loan
 
@@ -225,6 +320,16 @@ Below Example information is applicable for
 
 ![pending-advance-paid-advance-deduct-commission](../../../static/img/usage/payroll/general/jj18_Payroll.OpenPendingPayroll_AdvancePaid.png)
 
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Advance / Loan transaction date | Date |
+| Post Date | Advance / Loan posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Description | Description | Alphanumerical, length 160 |
+| Ref1 | Reference 1 | Alphanumerical, length 20 |
+| Ref2 | Reference 2 | Alphanumerical, length 20 |
+| Amount | Advance paid amount | Decimal, length 18, precision 2 |
+
 ### Pending Tax Benefit & Pending Tax Deduction
 
 Below Example information is applicable for
@@ -233,3 +338,14 @@ Below Example information is applicable for
 - Pending Tax Deduction
 
 ![pending-tax-benefit-tax-deduction](../../../static/img/usage/payroll/general/jj19_Payroll.OpenPendingPayroll_TaxDeduct.png)
+
+| Field Name | Description | Type / Length / Precision |
+|---|---|---|
+| Trans Date | Tax deduction / benefit transaction date | Date |
+| Post Date | Tax deduction / benefit posting date | Date |
+| Employee | Employee code | Alphanumerical, length 30 |
+| Code | Tax deduction code | Alphanumerical, length 20 |
+| Description | Tax deduction description | Alphanumerical, length 160 |
+| Ref1 | Reference 1 | Alphanumerical, length 20 |
+| Ref2 | Reference 2 | Alphanumerical, length 20 |
+| Amount | Tax deduction description | Decimal, length 18, precision 2 |
