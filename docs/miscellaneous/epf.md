@@ -22,6 +22,20 @@ tags: ["SQL Payroll", "EPF"]
 
 ![contribution-rate-2](../../static/img/miscellaneous/epf/contribution-rate-2.png)
 
+## EPF Table
+
+This function is to show a list of EPF Amount which is need to be pay/deduct from the Salary by Employee & Employer.
+
+1. User can manually change the Rate by Amount or by percentage.
+2. Just Click Rebuild after the changes.
+3. Any changes here will not affect the Process of Payroll.
+
+![1](../../static/img/miscellaneous/epf/yc1-epf.jpg)
+
+:::info[Government Official Portal]
+    [Kumpulan Wang Simpanan Pekerja](http://www.kwsp.gov.my/)
+:::
+
 ## Frequently Asked Questions (FAQs)
 
 ### How Does SQL Payroll manage EPF contributions?
