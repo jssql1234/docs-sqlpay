@@ -1,5 +1,4 @@
 ---
-sidebar_position: 4
 title: Guide
 description: A guide of leave for SQL Payroll
 slug: /usage/leave/guide
