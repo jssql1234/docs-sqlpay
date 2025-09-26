@@ -1,7 +1,7 @@
 ---
 title: Batch Email
 description: A guide to do batch email (Email Client Batch & SMTP Batch)
-slug: /usage/batch-email
+slug: /usage/general/batch-email
 tags: ["SQL Payroll", "Batch Email", "Email Client Batch", "SMTP Batch"]
 ---
 
@@ -15,33 +15,33 @@ You can [CLICK HERE](<https://wiki.sql.com.my/wiki/Fast_Report_-_E-Mail_Client_(
 
 1. Click on 3.2.2 Version 1.2021.196.166 & above
 
-   ![wiki-batch-email](../../static/img/usage/batch-email/wiki-batch-email.png)
+   ![wiki-batch-email](../../../static/img/usage/batch-email/wiki-batch-email.png)
 
 2. Scroll down until see this Sample E-Mail Template (Version 1.2021.196.166 & above) > Click on Expand
 
-   ![template](../../static/img/usage/batch-email/template.png)
+   ![template](../../../static/img/usage/batch-email/template.png)
 
 3. Copy all
 
-   ![copy-template](../../static/img/usage/batch-email/copy-template.png)
+   ![copy-template](../../../static/img/usage/batch-email/copy-template.png)
 
 4. Open your SQL Payroll System
 
 5. Navigate to **Human Resource** > **Maintain Employee** and click New
 
-   ![new](../../static/img/usage/batch-email/new.png)
+   ![new](../../../static/img/usage/batch-email/new.png)
 
 6. Click 🔽 beside **More**
 
-   ![more-dropdown](../../static/img/usage/batch-email/more-dropdown.png)
+   ![more-dropdown](../../../static/img/usage/batch-email/more-dropdown.png)
 
 7. Click on Paste Employee
 
-   ![paste-employee](../../static/img/usage/batch-email/paste-employee.png)
+   ![paste-employee](../../../static/img/usage/batch-email/paste-employee.png)
 
 8. After Paste Employee you will see Employee Code as **EMAIL** and the PDF Password Setting at **Note**
 
-   ![paste-employee-result](../../static/img/usage/batch-email/paste-employee-result.png)
+   ![paste-employee-result](../../../static/img/usage/batch-email/paste-employee-result.png)
 
 ## Setting PDF Password
 
@@ -65,13 +65,13 @@ Only available in Version 1.2021.2066.174 & above
    [PrivatePassword]
    ```
 
-   ![employee-name-2-pdf-password-1](../../static/img/usage/batch-email/employee-name-2-pdf-password-1.png)
+   ![employee-name-2-pdf-password-1](../../../static/img/usage/batch-email/employee-name-2-pdf-password-1.png)
 
 2. Under Employee profile set the password at **Name 2**
 
    > For Example : **_testing_** is the PDF Password
 
-   ![employee-name-2-pdf-password-2](../../static/img/usage/batch-email/employee-name-2-pdf-password-2.png)
+   ![employee-name-2-pdf-password-2](../../../static/img/usage/batch-email/employee-name-2-pdf-password-2.png)
 
 ### Scenario 2 : Setting Global PDF Password by UseName and ICPass
 
@@ -107,7 +107,7 @@ Only available in Version 1.2021.2066.174 & above
    >
    > The password is : **L@014321**
 
-   ![global-pdf-password-usename-ic-pass](../../static/img/usage/batch-email/global-pdf-password-usename-ic-pass.png)
+   ![global-pdf-password-usename-ic-pass](../../../static/img/usage/batch-email/global-pdf-password-usename-ic-pass.png)
 
 ### Scenario 3 : Setting Global PDF Password
 
@@ -137,7 +137,7 @@ This settings configures **all employees** to have the same password
 
    > The PDF Password is **_‘BatchEmail’_**
 
-   ![pdf-password-global](../../static/img/usage/batch-email/pdf-password-global.png)
+   ![pdf-password-global](../../../static/img/usage/batch-email/pdf-password-global.png)
 
 ### Scenario 4 : Setting Private/ Individual Password
 
@@ -179,7 +179,7 @@ Must set for all Employees
 
    ```
 
-   ![pdf-password-individual](../../static/img/usage/batch-email/pdf-password-individual.png)
+   ![pdf-password-individual](../../../static/img/usage/batch-email/pdf-password-individual.png)
 
 ## Send Payslip by Batch Email
 
@@ -191,25 +191,25 @@ Make sure your pc had install window email (Ex : Outlook or Thunderbird)
 
 1. Go to Payroll > Print Pay Slip ...
 
-   ![email-client-print-payslip](../../static/img/usage/batch-email/email-client-print-payslip.png)
+   ![email-client-print-payslip](../../../static/img/usage/batch-email/email-client-print-payslip.png)
 
 2. Filter your process you wish to batch email > Apply
 
-   ![email-client-filter](../../static/img/usage/batch-email/email-client-filter.png)
+   ![email-client-filter](../../../static/img/usage/batch-email/email-client-filter.png)
 
 3. Click 🔽 Beside Printer icon
 
 4. Click on Export to E-Mail Client (Batch)
 
-   ![email-client-more](../../static/img/usage/batch-email/email-client-more.png)
+   ![email-client-more](../../../static/img/usage/batch-email/email-client-more.png)
 
 5. Select your payslip format > OK
 
-   ![email-client-select-payslip](../../static/img/usage/batch-email/email-client-select-payslip.png)
+   ![email-client-select-payslip](../../../static/img/usage/batch-email/email-client-select-payslip.png)
 
 6. After click ok will prompt window and show has been sent to recipient email, mean success send out
 
-   ![email-client-send](../../static/img/usage/batch-email/email-client-send.png)
+   ![email-client-send](../../../static/img/usage/batch-email/email-client-send.png)
 
 ### E-Mail SMTP (Batch)
 
@@ -222,7 +222,7 @@ Make Sure you had create App Password
 
 1. Go to **File** > **Company Profile**
 
-   ![smtp-company-profile](../../static/img/usage/batch-email/smtp-company-profile.png)
+   ![smtp-company-profile](../../../static/img/usage/batch-email/smtp-company-profile.png)
 
 2. Select Email Setting from the tabs
 
@@ -230,26 +230,26 @@ Make Sure you had create App Password
 
    > \*\*Password : Is your App Password
 
-   ![smtp-app-password](../../static/img/usage/batch-email/smtp-app-password.png)
+   ![smtp-app-password](../../../static/img/usage/batch-email/smtp-app-password.png)
 
 4. Go to **Payroll**, click **Print Pay Slip**
 
-   ![smtp-print-payslip](../../static/img/usage/batch-email/smtp-print-payslip.png)
+   ![smtp-print-payslip](../../../static/img/usage/batch-email/smtp-print-payslip.png)
 
 5. Filter your process you wish to batch email > Apply
 
-   ![smtp-filter](../../static/img/usage/batch-email/smtp-filter.png)
+   ![smtp-filter](../../../static/img/usage/batch-email/smtp-filter.png)
 
 6. Click 🔽 Beside Printer icon
 
 7. Click on Export to E-Mail SMTP (Batch)
 
-   ![smtp-export](../../static/img/usage/batch-email/smtp-export.png)
+   ![smtp-export](../../../static/img/usage/batch-email/smtp-export.png)
 
 8. Select your payslip format > OK
 
-    ![smtp-select-payslip](../../static/img/usage/batch-email/smtp-select-payslip.png)
+    ![smtp-select-payslip](../../../static/img/usage/batch-email/smtp-select-payslip.png)
 
 9. After click ok will prompt window and show has been sent to recipient email, mean success send out
 
-    ![smtp-send](../../static/img/usage/batch-email/smtp-send.png)
+    ![smtp-send](../../../static/img/usage/batch-email/smtp-send.png)
