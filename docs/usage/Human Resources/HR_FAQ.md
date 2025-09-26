@@ -6,13 +6,13 @@ slug: /usage/HR/HR FAQ/HR FAQ
 tags: ["SQL Account", "HR", "FAQ"]
 ---
 
-## 1: Where I can get/modify the appointment letter?
+## Where I can get/modify the appointment letter?
 
-### Issue: 
+**Issue:** 
 
 Where do i get the appointment letters
 
-### Solution:
+**Solution:**
 
 1. Go to **Human Resource | Maintain Employee**..., you can found the following common use employee letters:
 
@@ -29,5 +29,3 @@ Where do i get the appointment letters
 4. Select the **HR.Employee Appointment Report**.
 
 ![HR_FAQ](../../../static/img/usage/human-resource/Human_Resources/LimYuHangHRFAQ.jpg) 
-
-hello
