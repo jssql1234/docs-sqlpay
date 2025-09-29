@@ -33,7 +33,7 @@ If your pc do not install UBS Payroll follow step 1 , if you had install UBS Pay
 ![1](../../../static/img/usage/file/data-import/wl1.png)
 
 - Download 7 Zip to extract UBS Payroll Backup file.
-Download Path for 7 Zip : Window 32 Bits : http://www.sql.com.my/utility/7-zip.msi Window 64 Bits: http://www.sql.com.my/utility/7-zip-x64.msi
+Download Path for 7 Zip : Window 32 Bits : https://www.7-zip.org/a/7z2501.msi Window 64 Bits: https://www.7-zip.org/a/7z2501-x64.msi
 
 2. Create a Empty Database in SQL Payroll
 
