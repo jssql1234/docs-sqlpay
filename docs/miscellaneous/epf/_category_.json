@@ -1,0 +1,9 @@
+{
+  "label": "EPF",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Malaysia Employees Provident Fund (EPF)",
+    "slug": "/miscellaneous/epf"
+  }
+}
