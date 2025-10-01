@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
-title: EPF
-description: A brief explanation of Employees' Provident Funds (EPF)
-slug: /miscellaneous/epf
+title: Overview
+description: EPF Overview
+slug: /miscellaneous/epf/overview
 tags: ["SQL Payroll", "EPF"]
 ---
 
-## WHAT IS EPF (KWSP)?
+## What is EPF (KWSP)?
 
 - A portion of an employee’s salary and employer’s contribution on behalf of every worker.
 - Every company is required to contribute EPF to their staff
@@ -14,13 +14,13 @@ tags: ["SQL Payroll", "EPF"]
 
 ## What Payments Are Subjected to EPF (KWSP)?
 
-![payments](../../static/img/miscellaneous/epf/payments.png)
+![payments](../../../static/img/miscellaneous/epf/payments.png)
 
 ## EPF Contribution Rate
 
-![contribution-rate-1](../../static/img/miscellaneous/epf/contribution-rate-1.png)
+![contribution-rate-1](../../../static/img/miscellaneous/epf/contribution-rate-1.png)
 
-![contribution-rate-2](../../static/img/miscellaneous/epf/contribution-rate-2.png)
+![contribution-rate-2](../../../static/img/miscellaneous/epf/contribution-rate-2.png)
 
 ## Frequently Asked Questions (FAQs)
 
@@ -43,8 +43,10 @@ You can set the EPF rate at 19% for employees In the management level. The emplo
 
 - If employee is above 60 years old, the employee’s EPF contribution rate will be 0% while the employer’s contribution will be 4%
 
-![over-60](../../static/img/miscellaneous/epf/over-60.png)
-
 ### Are employees above the age of 75 required to contribute for EPF?
 
 - No. No contributions are required from both parties.
+
+### Are EPF members required to withdraw all funds after age of 75?
+
+- No. EPF members will continue to earn dividends for the remaining portion of their EPF savings up to age 100.

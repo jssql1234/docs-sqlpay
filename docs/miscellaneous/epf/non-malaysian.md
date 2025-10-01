@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
-title: Foreign Worker
-description: Foreign worker EPF
-slug: /miscellaneous/epf/foreign-worker
+sidebar_position: 2
+title: Non-Malaysian Employee
+description: Non-Malaysian Employee EPF
+slug: /miscellaneous/epf/non-malaysian-employee
 tags: ["SQL Payroll", "EPF"]
 ---
 
