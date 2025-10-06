@@ -1,4 +1,5 @@
 ---
+sidebar_position: 4
 title: Leave
 description: A guide of leave for SQL Payroll
 slug: /usage/leave
@@ -130,6 +131,29 @@ Before assigning leave group to your employee, you need to make sure that you ha
 
 7. Click **OK** and you are done 🥳
 
+## Maintain Public Holiday
+
+**Step 1:** Leave | Maintain Public Holiday Calendar… | Select a Public Holiday Calendar / Create New  
+    
+    ![maintain-public-holiday1](../../static/img/integration/hrms/e-tms/maintain-public-holiday1.png)
+
+**Step 2: Set public holidays**  
+User may import default Malaysia public holiday calendar or set manually  
+
+Option 1: Global Icon | Select a State | OK  
+    
+    ![maintain-public-holiday2](../../static/img/integration/hrms/e-tms/maintain-public-holiday2.png)
+
+:::info
+User may check or uncheck the dates
+:::
+
+Option 2: Click on ***'P' button*** | Select date  
+    
+    ![maintain-public-holiday3](../../static/img/integration/hrms/e-tms/maintain-public-holiday3.png)
+
+**Step 3:** Save  
+
 ## Employee Leave Group Assignment
 
 1. Firstly, point to **Human Resource** tab and select **Maintain Employee**
@@ -228,6 +252,22 @@ Before assigning leave group to your employee, you need to make sure that you ha
 | Attendance Report        | Generate the attendance performance in %                                                                   |
 | Leave Balance Report     | Analyse the number of days taken for annual leaves, medical leaves,etc                                     |
 | Yearly Leave Report      | Generate 12 months total leaves taken for a leave type like annual leave, unpaid leave, medical leave, etc |
+
+### Print Leave Application Report
+
+![print-leave-application-report](../../static/img/usage/leave-module/print-leave-application-report.png)
+
+### Print Attendance Report
+
+![print-attendance-report](../../static/img/usage/leave-module/print-attendance-report.png)
+
+### Print Leave Balance Report
+
+![print-leave-balance-report](../../static/img/usage/leave-module/print-leave-balance-report.png)
+
+### Print Yearly Leave Report
+
+![print-yearly-leave-report](../../static/img/usage/leave-module/print-yearly-leave-report.png)
 
 ## Brought Forward Leave
 
