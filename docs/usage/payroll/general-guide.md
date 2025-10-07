@@ -28,21 +28,21 @@ To process mid month salary payroll. The salary payout is based on average % of 
 
 Not the last Pay of the Month.
 
-![pay-frequency](../../../static/img/usage/payroll/general/jj1_pay_frequency.png)
+![pay-frequency](../../../static/img/usage/payroll/general/pay_frequency.png)
 
 ### Ad Hoc Process
 
 To process Mid Month Ad Hoc Payroll
 
-![pay-adhoc](../../../static/img/usage/payroll/general/jj2_pay_adHoc.png)
+![pay-adhoc](../../../static/img/usage/payroll/general/pay_adHoc.png)
 
-![pay-adhoc-bonusallow](../../../static/img/usage/payroll/general/jj3_pay_adHoc_bonusallow.png)
+![pay-adhoc-bonusallow](../../../static/img/usage/payroll/general/pay_adHoc_bonusallow.png)
 
 Default this option
 - All(PCB,Socso,EPF) Contribution for Fixed Transaction will be 0
 - Value will be 0 (Zero) & user need to self enter a value for All/Selected Employee
 
-![pay-adhoc-monthlyFA](../../../static/img/usage/payroll/general/jj4_pay_adhoc_montlyFA.png)
+![pay-adhoc-monthlyFA](../../../static/img/usage/payroll/general/pay_adhoc_montlyFA.png)
 
 In this option allow the user to self control the Contribution (default 100%) for Fixed Transaction.
 
@@ -144,19 +144,19 @@ Before you process the month end, you can use open pending payroll to key-in all
 - YYYY represents the Year (e.g. if in 2013 will show as Pending 2013).
 - To show the pending in Monthly (with & without Transactions).
 
-![open-pending-payroll-02](../../../static/img/usage/payroll/general/jj5_Payroll_OpenPendingPayroll02.png)
+![open-pending-payroll-02](../../../static/img/usage/payroll/general/openPendingPayroll_PendingYYYY.png)
 
 ### Pending Navigator
 
 Show which Pending Type had transactions in the day view.
 
-![open-pending-payroll-04](../../../static/img/usage/payroll/general/jj6_Payroll_OpenPendingPayroll04.png)
+![open-pending-payroll-04](../../../static/img/usage/payroll/general/openPendingPayroll_Pending_Navigator.png)
 
 ### Show all Pending Payroll
 
 To show the pending in Yearly (with Transactions).
 
-![open-pending-payroll-03](../../../static/img/usage/payroll/general/jj7_Payroll_OpenPendingPayroll03.png)
+![open-pending-payroll-03](../../../static/img/usage/payroll/general/openPendingPayroll_Show_All_Pending_Payroll.png)
 
 ## Pending Transactions Types
 
@@ -168,7 +168,7 @@ To show the pending in Yearly (with Transactions).
 
 This is useful for employees to be paid by the number of days they work (i.e. users can add the day when the selected employee comes to work).
 
-![pending-wages](../../../static/img/usage/payroll/general/jj8_Payroll_OpenPendingPayroll_Wages.png)
+![pending-wages](../../../static/img/usage/payroll/general/openPendingPayroll_Wages.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -181,7 +181,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Overtime
 
-![pending-overtime](../../../static/img/usage/payroll/general/jj9_Payroll_OpenPendingPayroll_Overtime.png)
+![pending-overtime](../../../static/img/usage/payroll/general/openPendingPayroll_Overtime.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -197,7 +197,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Paid Leave
 
-![pending-paid-leave](../../../static/img/usage/payroll/general/jj10_Payroll.OpenPendingPayroll_PaidLeave.png)
+![pending-paid-leave](../../../static/img/usage/payroll/general/openPendingPayroll_PaidLeave.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -209,7 +209,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Unpaid Leave
 
-![pending-unpaid-leave](../../../static/img/usage/payroll/general/jj11_Payroll.OpenPendingPayroll_UnpaidLeave.png)
+![pending-unpaid-leave](../../../static/img/usage/payroll/general/openPendingPayroll_UnpaidLeave.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -223,7 +223,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Claim
 
-![pending-claim](../../../static/img/usage/payroll/general/jj12_Payroll.OpenPendingPayroll_Claim.png)
+![pending-claim](../../../static/img/usage/payroll/general/openPendingPayroll_Claim.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -240,9 +240,9 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 This is generally towards settlement of outstanding taxes.
 
-![pending-cp38-01](../../../static/img/usage/payroll/general/jj13_Payroll.OpenPendingPayroll_CP3801.png)
+![pending-cp38-01](../../../static/img/usage/payroll/general/openPendingPayroll_CP3801.png)
 
-![pending-cp38-02](../../../static/img/usage/payroll/general/jj14_Payroll.OpenPendingPayroll_CP3802.png)
+![pending-cp38-02](../../../static/img/usage/payroll/general/openPendingPayroll_CP3802.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -257,7 +257,7 @@ This is generally towards settlement of outstanding taxes.
 
 ### Pending Allowance
 
-![pending-allowance](../../../static/img/usage/payroll/general/jj15_Payroll.OpenPendingPayroll_Allowance.png)
+![pending-allowance](../../../static/img/usage/payroll/general/openPendingPayroll_Allowance.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -278,7 +278,7 @@ Below Example information is applicable for
 - Pending Deduction
 - Pending Commission
 
-![pending-deduction-commission](../../../static/img/usage/payroll/general/jj16_Payroll.OpenPendingPayroll_Deduction.png)
+![pending-deduction-commission](../../../static/img/usage/payroll/general/openPendingPayroll_Deduction.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -297,7 +297,7 @@ Below Example information is applicable for
 - Pending Bonus
 - Pending Director Fees
 
-![pending-bonus-director-fees](../../../static/img/usage/payroll/general/jj17_Payroll.OpenPendingPayroll_Bonus.png)
+![pending-bonus-director-fees](../../../static/img/usage/payroll/general/openPendingPayroll_Bonus.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -318,7 +318,7 @@ Below Example information is applicable for
 - Pending Advance Deduct (Only View because it derive from Advance Paid after Ad Hoc Process)
 - Pending Commission
 
-![pending-advance-paid-advance-deduct-commission](../../../static/img/usage/payroll/general/jj18_Payroll.OpenPendingPayroll_AdvancePaid.png)
+![pending-advance-paid-advance-deduct-commission](../../../static/img/usage/payroll/general/openPendingPayroll_AdvancePaid.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -337,7 +337,7 @@ Below Example information is applicable for
 - Pending Tax Benefit
 - Pending Tax Deduction
 
-![pending-tax-benefit-tax-deduction](../../../static/img/usage/payroll/general/jj19_Payroll.OpenPendingPayroll_TaxDeduct.png)
+![pending-tax-benefit-tax-deduction](../../../static/img/usage/payroll/general/openPendingPayroll_TaxDeduct.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|

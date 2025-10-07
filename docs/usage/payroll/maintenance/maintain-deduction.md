@@ -21,15 +21,15 @@ Deductions may affect net pay, tax calculations, and the inclusion or exclusion 
 
 1. Navigate to **Payroll** > **Maintenance** > **Maintain Deduction**
 
-   ![navigate](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj1.png)
+   ![navigate](../../../../static/img/usage/payroll/maintenance/maintain-deduction/navigate.png)
 
 2. Click New to generate a New Deduction
 
-   ![new](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj2.png)
+   ![new](../../../../static/img/usage/payroll/maintenance/maintain-deduction/new.png)
 
 3. Insert the info that you want to set in maintain deduction
 
-   ![insert](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj3.png)
+   ![insert](../../../../static/img/usage/payroll/maintenance/maintain-deduction/insert.png)
 
    1. Insert the Code of the Deduction that you want to generate.
    2. Insert the Description of the deduction.
@@ -39,11 +39,11 @@ Deductions may affect net pay, tax calculations, and the inclusion or exclusion 
 
 4. After create the master file of Deduction, then you can add the fixed deduction for certain employee which have the deduction monthly
 
-   ![add-fixed-deduction](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj4.png)
+   ![add-fixed-deduction](../../../../static/img/usage/payroll/maintenance/maintain-deduction/add-fixed-deduction.png)
 
 5. Alternatively, you can insert the deduction after process month end.
 
-   ![process-month-end-add-deduction](../../../../static/img/usage/payroll/maintenance/maintain-deduction/jj5.png)
+   ![process-month-end-add-deduction](../../../../static/img/usage/payroll/maintenance/maintain-deduction/process-month-end-add-deduction.png)
 
    1. Click on the "**Deduction**"
    2. CLick on the ➕ to add the employee then fill in the deduction

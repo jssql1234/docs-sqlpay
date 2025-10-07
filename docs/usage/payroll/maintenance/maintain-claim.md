@@ -19,15 +19,15 @@ tags: ["SQL Payroll", "claim"]
 
 1. Navigate to **Payroll** > **Maintenance** > **Maintain claim**
 
-    ![navigate](../../../../static/img/usage/payroll/maintenance/maintain-claim/jj1.png)
+    ![navigate](../../../../static/img/usage/payroll/maintenance/maintain-claim/navigate.png)
 
 2. Click New to generate a New Claim
 
-    ![new](../../../../static/img/usage/payroll/maintenance/maintain-claim/jj2.png)
+    ![new](../../../../static/img/usage/payroll/maintenance/maintain-claim/new.png)
 
 3. Insert the info that you want to set in maintain claim
 
-    ![insert](../../../../static/img/usage/payroll/maintenance/maintain-claim/jj3.png)
+    ![insert](../../../../static/img/usage/payroll/maintenance/maintain-claim/insert.png)
     
     1. Insert the Code of the Claim that you want to generate.
     2. Insert the Description of the claim.
@@ -36,11 +36,11 @@ tags: ["SQL Payroll", "claim"]
 
 4. After create the master file of Claim, then you can add the fixed claim's Yearly Limit and Monthly Limit for certain employee which have the claim.
 
-    ![add-fixed-claim-limit](../../../../static/img/usage/payroll/maintenance/maintain-claim/jj4.png)
+    ![add-fixed-claim-limit](../../../../static/img/usage/payroll/maintenance/maintain-claim/add-fixed-claim.png)
 
 5. Alternatively, you can insert the claim after process month end.
 
-    ![process-month-end-add-claim](../../../../static/img/usage/payroll/maintenance/maintain-claim/jj5.png)
+    ![process-month-end-add-claim](../../../../static/img/usage/payroll/maintenance/maintain-claim/process-month-end-add-claim.png)
 
     1. Click on the "**Claim**"
     2. CLick on the ➕ to add the employee then fill in the claim
