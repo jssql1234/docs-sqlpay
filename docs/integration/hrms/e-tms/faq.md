@@ -4,7 +4,6 @@ title: FAQ
 description: E-TMS Frequently Asked Questions
 ---
 
-<!-- markdownlint-disable-next-line MD041 -->
 ## Clock In & Attendance
 
 ### 1. Why do I see `Exception: [500] Error` or `Exception: [500] Insufficient Storage` when clocking in/out with attachments?

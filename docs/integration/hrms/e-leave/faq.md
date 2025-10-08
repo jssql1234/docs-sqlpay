@@ -4,7 +4,6 @@ title: FAQ
 description: E-Leave Frequently Asked Questions
 ---
 
-<!-- markdownlint-disable-next-line MD041 -->
 ## Leave Applications & Approvals
 
 ### 1. Leave application stays “Pending” in HRMS and doesn’t appear in Payroll after Sync Cloud
