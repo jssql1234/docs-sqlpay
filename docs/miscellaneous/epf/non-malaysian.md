@@ -163,7 +163,7 @@ At this stage, you need to set the EPF contribution rate to “A”.
 
 4. Click **Edit** and update both **Employee EPF Rate** and **Employer EPF Rate** to `A` (Auto EPF Rate)
     ![update-epf-rate-pr](../../../static/img/miscellaneous/epf/foreign-worker/update-epf-rate-pr.png)
-    
+
     :::info Auto EPF Rate
     The "A" setting enables automatic EPF rate calculation based on employee status and effective dates. Hover over the ⓘ icon for more details.
     :::
@@ -183,7 +183,7 @@ At this stage, you need to set the EPF contribution rate to “A”.
 
 4. **Enable EPF contribution** by ticking the **EPF** checkbox to include wages in EPF calculations
     ![tick-epf-contribution](../../../static/img/miscellaneous/epf/foreign-worker/tick-epf-contribution.png)
-    
+
     :::info Other Contributions
     For PR employees, it's recommended to enable other contributions such as SOCSO, PCB, EA, and OT as shown, since they follow the same rules as Malaysian citizens.
     :::
@@ -201,6 +201,90 @@ At this stage, you need to set the EPF contribution rate to “A”.
 
 3. **Review the EPF calculation**: The system will calculate EPF rates for foreign workers with PR status at **Employee EPF rate 11%** and **Employer EPF rate 13%** (for employees with wages less than RM 5,000)
     ![pr-monthend](../../../static/img/miscellaneous/epf/foreign-worker/pr-monthend.png)
+
+---
+
+## Generate EPF Submission File from SQL Payroll
+
+In SQL Payroll, you can directly generate the EPF submission text file to upload at KWSP portal.
+
+### Step 1: Fill In Employer EPF Number
+
+1. Navigate to **File** → **Company Profile**
+
+    ![file-company-profile](../../../static/img/miscellaneous/epf/foreign-worker/file-company-profile.png)
+
+2. Under EPF tab, the system is updated with new extra field EPF Employer No. 2 to update Foreign worker employer EPF No.
+
+    ![company-profile-epf](../../../static/img/miscellaneous/epf/foreign-worker/company-profile-epf.png)
+
+    *\*EPF Employer No 1 = Malaysian Employee*
+
+    *\*EPF Employer No 2 = Non-Malaysian Employee (Optional)*
+
+3. Ensure that the EPF Employer Number is filled in accurately.
+    ![company-profile-epf-employer-no](../../../static/img/miscellaneous/epf/foreign-worker/company-profile-epf-employer-no.png)
+
+4. Click **Save** to apply changes.
+
+    ![save-epf-employer-no](../../../static/img/miscellaneous/epf/foreign-worker/save-epf-employer-no.png)
+
+### Step 2 : Batch Edit Employee EPF Number
+
+SQL includes a Batch Edit function that allows you to update employees’ EPF information all at once.
+
+1. Go to **Human Resource** → **Maintain Employee**
+    ![human-resource-maintain-employee](../../../static/img/miscellaneous/epf/foreign-worker/human-resource-maintain-employee.png)
+
+2. Select the foreign employees by highlighting the employees using *Ctrl* button
+    ![batch-select-employees](../../../static/img/miscellaneous/epf/foreign-worker/batch-select-employees.png)
+
+3. Click on the **More** option, and select **Batch Edit**
+    ![more-batch-edit-employees](../../../static/img/miscellaneous/epf/foreign-worker/more-batch-edit-employees.png)
+
+4. Select the field chooser (* icon on top left of the table), then select the EPF No. to display it in table (hidden by default).
+    ![field-chooser-epf-no](../../../static/img/miscellaneous/epf/foreign-worker/field-chooser-epf-no.png)
+
+5. Now, you may update the *EPF No.* for each employee
+    ![update-employee-epf-no](../../../static/img/miscellaneous/epf/foreign-worker/update-employee-epf-no.png)
+
+6. Click **Save** to apply changes.
+    ![save-employee-epf-no](../../../static/img/miscellaneous/epf/foreign-worker/save-employee-epf-no.png)
+
+7. Verify that you have successfully updated the *EPF No.* for all employees
+    ![verify-employee-epf-no](../../../static/img/miscellaneous/epf/foreign-worker/verify-employee-epf-no.png)
+
+### Step 3 : Generate EPF Submission File
+
+1. Go to **Payroll** → **Statutory Reports (Monthly)** → **Print EPF Borang A…**
+    ![print-epf-borang-a](../../../static/img/miscellaneous/epf/foreign-worker/print-epf-borang-a.png)
+
+2. Select the Year, Month and payment method for the EPF
+    ![epf-borang-a-select-date-payment](../../../static/img/miscellaneous/epf/foreign-worker/epf-borang-a-select-date-payment.png)
+
+3. Click **Apply**
+
+    ![apply-borang-a-selection](../../../static/img/miscellaneous/epf/foreign-worker/apply-borang-a-selection.png)
+
+4. The system will group employees based on Employer EPF Number and display the EPF contribution details, including both employee and employer portions.
+
+    *\*Note : If employee's nationality is not Malaysia, he/she will be group to Employer EPF No 2*
+    ![borang-a-report](../../../static/img/miscellaneous/epf/foreign-worker/borang-a-report.png)
+
+5. Click the **Save to File** to generate the EPF submission text file
+    ![save-epf-submission-file](../../../static/img/miscellaneous/epf/foreign-worker/save-epf-submission-file.png)
+
+6. Choose the desired format, and click **OK**
+
+    ![epf-submission-file-format](../../../static/img/miscellaneous/epf/foreign-worker/epf-submission-file-format.png)
+
+7. Select the download path, then click **Save**
+    ![save-epf-submission-file-path](../../../static/img/miscellaneous/epf/foreign-worker/save-epf-submission-file-path.png)
+
+8. Once done, the system will automatically generate 2 text files separately for local and foreign employees
+    ![epf-files-generated](../../../static/img/miscellaneous/epf/foreign-worker/epf-files-generated.png)
+
+Now, you can upload the files generated from SQL Payroll to KWSP portal for EPF submission!
 
 ---
 
