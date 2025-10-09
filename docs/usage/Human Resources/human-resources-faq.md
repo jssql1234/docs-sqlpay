@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: HR FAQ
+title: FAQ
 description: Human Resources Frequently Asked Questions
 slug: /usage/HR/HR FAQ/HR FAQ
 tags: ["SQL Account", "HR", "FAQ"]

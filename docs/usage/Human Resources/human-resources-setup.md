@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: HR Setup
+title: Setup
 description: Human Resources Setup
 slug: /usage/HR/HR Setup/HR Setup
 tags: ["SQL Payroll", "HR"]
