@@ -28,7 +28,7 @@ User can change the option by untick the Option Uses Standard Socso Table.
 
 Any changes here will not affect the Process of Payroll.
 
-![1](../../static/img/miscellaneous/socso/yc1-socso.jpg)
+![socso-table](../../static/img/miscellaneous/socso/socso-table.jpg)
 
 :::info[Government Official Portal]
     [Pertubuhan Keselamatan Sosial](http://www.perkeso.gov.my/)

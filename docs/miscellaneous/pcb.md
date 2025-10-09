@@ -21,7 +21,7 @@ This function is to show a list of PCB Amount which is need to be pay/deduct fro
 
 This Table is for employer who does not use computerised payroll software or proses payroll manually.
 
-![1](../../static/img/miscellaneous/pcb/yc1-pcb.jpg)
+![pcb-table](../../static/img/miscellaneous/pcb/pcb-table.jpg)
 
 :::info[Government Official Portal]
     - [Inland Revenue Board Of Malaysia (LHDN)](http://www.hasil.gov.my/)
