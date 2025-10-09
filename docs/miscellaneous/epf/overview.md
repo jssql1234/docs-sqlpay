@@ -14,13 +14,13 @@ tags: ["SQL Payroll", "EPF"]
 
 ## What Payments Are Subjected to EPF (KWSP)?
 
-![payments](../../static/img/miscellaneous/epf/payments.png)
+![payments](../../../static/img/miscellaneous/epf/payments.png)
 
 ## EPF Contribution Rate
 
-![contribution-rate-1](../../static/img/miscellaneous/epf/contribution-rate-1.png)
+![contribution-rate-1](../../../static/img/miscellaneous/epf/contribution-rate-1.png)
 
-![contribution-rate-2](../../static/img/miscellaneous/epf/contribution-rate-2.png)
+![contribution-rate-2](../../../static/img/miscellaneous/epf/contribution-rate-2.png)
 
 ## EPF Table
 
@@ -30,7 +30,7 @@ This function is to show a list of EPF Amount which is need to be pay/deduct fro
 2. Just Click Rebuild after the changes.
 3. Any changes here will not affect the Process of Payroll.
 
-![1](../../static/img/miscellaneous/epf/yc1-epf.jpg)
+![epf-table](../../../static/img/miscellaneous/epf/epf-table.jpg)
 
 :::info[Government Official Portal]
     [Kumpulan Wang Simpanan Pekerja](http://www.kwsp.gov.my/)
@@ -57,7 +57,7 @@ You can set the EPF rate at 19% for employees In the management level. The emplo
 
 - If employee is above 60 years old, the employee’s EPF contribution rate will be 0% while the employer’s contribution will be 4%
 
-![over-60](../../static/img/miscellaneous/epf/over-60.png)
+![over-60](../../../static/img/miscellaneous/epf/over-60.png)
 
 ### Are employees above the age of 75 required to contribute for EPF?
 

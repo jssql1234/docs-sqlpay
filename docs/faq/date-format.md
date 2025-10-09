@@ -9,7 +9,7 @@ tags: ["SQL Payroll", "FAQ", "Date"]
 
 What is the faster solution to show the date format correctly?
 
-![1](../../static/img/faq/date-format/yc1-date.jpg)
+![date-format-issue](../../static/img/faq/date-format/date-format-issue.jpg)
 
 *Example report: Government Reports | Print Income Tax PCB 2 (II)*
 
@@ -21,14 +21,14 @@ What is the faster solution to show the date format correctly?
 
 3. Click on **Additional Settings**...
 
-![2](../../static/img/faq/date-format/yc2-date.jpg)
+![date-format-additional-setting](../../static/img/faq/date-format/date-format-additional-setting.jpg)
 
 4. Click to **Date** tab.
 
 5. Change the Short Date Format to **DD/MM/YYYY**
 
-![3](../../static/img/faq/date-format/yc3-date.jpg)
+![date-format-change](../../static/img/faq/date-format/date-format-change.jpg)
 
 6. Date format has display correctly now.
 
-![4](../../static/img/faq/date-format/yc4-date.jpg)
+![date-format-result](../../static/img/faq/date-format/date-format-result.jpg)

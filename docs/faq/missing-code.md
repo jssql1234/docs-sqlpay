@@ -7,10 +7,10 @@ tags: ["SQL Payroll", "FAQ", "Missing"]
 
 ## Issue
 
-![1](../../static/img/faq/missing-code/yc1-missingcode.jpg)
+![missingcode-issue](../../static/img/faq/missing-code/missingcode-issue.jpg)
 
 ## Solution
 
 Tick the **Code** and **Name** columns.
 
-![2](../../static/img/faq/missing-code/yc2-missingcode.jpg)
+![missingcode-solution](../../static/img/faq/missing-code/missingcode-solution.jpg)
