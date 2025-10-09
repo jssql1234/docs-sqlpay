@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: HR Functions
+title: Guide
 description: Human Resources functions
 slug: /usage/HR/HR Functions/HR Functions
 tags: ["SQL Payroll", "HR", "Functions"]
@@ -27,25 +27,25 @@ In order to use this, user’s computer must configure with window email first
 
 2. Key in the PDF password and enter the email address
 
-   ![maintain-employee](../../../static/img/usage/human-resource/payroll-bulk-email/maintain-employee.png)
+   ![maintain-employee](../../../static/img/usage/human-resource/hr-function-images/maintain-employee.png)
 
 3. Next, go to **Payroll** > **Print Payslip**. Choose the month End Payslip, Apply and Preview
 
 4. Click on the 🔽 beside the excel export, click on **Export to Email Client (Batch)**
 
-   ![export-to-email-client-batch](../../../static/img/usage/human-resource/payroll-bulk-email/export-to-email-client-batch.png)
+   ![export-to-email-client-batch](../../../static/img/usage/human-resource/hr-function-images/export-to-email-client-batch.png)
 
    :::tip
    For Testing purpose, you may activate the module at File > Customize Payroll Module and ticked **Batch Email**
    :::
 
-   ![batch-email](../../../static/img/usage/human-resource/payroll-bulk-email/batch-email.png)
+   ![batch-email](../../../static/img/usage/human-resource/hr-function-images/batch-email.png)
 
    :::warning Error
    If you haven't configure your window email, you will see an error message as below. Make sure yo have configure your window email before doing these steps.
    :::
 
-   ![error](../../../static/img/usage/human-resource/payroll-bulk-email/error.png)
+   ![error](../../../static/img/usage/human-resource/hr-function-images/error.png)
 
 ### Simple Steps To use IC as PDF Password
 
@@ -59,13 +59,13 @@ In order to use this, user’s computer must configure with window email first
 
 5. Save the structure, copy and paste the New IC value to Name2 column
 
-![5](../../../static/img/usage/human-resource/payroll-bulk-email/5.png)
+![5](../../../static/img/usage/human-resource/hr-function-images/5.png)
 
-![6](../../../static/img/usage/human-resource/payroll-bulk-email/6.png)
+![6](../../../static/img/usage/human-resource/hr-function-images/6.png)
 
-![7](../../../static/img/usage/human-resource/payroll-bulk-email/7.png)
+![7](../../../static/img/usage/human-resource/hr-function-images/7.png)
 
-![8](../../../static/img/usage/human-resource/payroll-bulk-email/8.png)
+![8](../../../static/img/usage/human-resource/hr-function-images/8.png)
 
 
 
@@ -81,19 +81,19 @@ This guide explains how to configure and create an account for the employee in S
 
 2. Click on **Change Password**
 
-   ![change-password](../../../static/img/usage/human-resource/employee-login/change-password.png)
+   ![change-password](../../../static/img/usage/human-resource/hr-function-images/change-password.png)
 
 3. Enter a new password for the employee
 
-   ![enter-password](../../../static/img/usage/human-resource/employee-login/enter-password.png)
+   ![enter-password](../../../static/img/usage/human-resource/hr-function-images/enter-password.png)
 
 4. Next, ask the employee to open SQL Payroll, login into it by using the **Employee Code** and **Password** configured previously. That's it! 🥳
 
-   ![login](../../../static/img/usage/human-resource/employee-login/login.png)
+   ![login](../../../static/img/usage/human-resource/hr-function-images/login.png)
 
 5. Finally, here's an example of employee view
 
-   ![employee-view](../../../static/img/usage/human-resource/employee-login/employee-view.png)
+   ![employee-view](../../../static/img/usage/human-resource/hr-function-images/employee-view.png)
 
 
 
@@ -107,23 +107,23 @@ This guide explains how to print Appointment, Confirmation, Increment letter
 
 1. Navigate to the **Maintain Employee** panel
 
-   ![navigate](../../../static/img/usage/human-resource/print-letter/navigate.png)
+   ![navigate](../../../static/img/usage/human-resource/hr-function-images/navigate.png)
 
 2. Select the employee
 
-   ![select-employee](../../../static/img/usage/human-resource/print-letter/select-employee.png)
+   ![select-employee](../../../static/img/usage/human-resource/hr-function-images/select-employee.png)
 
 3. Click preview reports
 
-   ![preview-report](../../../static/img/usage/human-resource/print-letter/preview-report.png)
+   ![preview-report](../../../static/img/usage/human-resource/hr-function-images/preview-report.png)
 
 4. Select the report you want by double clicking it
 
-   ![select-report](../../../static/img/usage/human-resource/print-letter/select-report.png)
+   ![select-report](../../../static/img/usage/human-resource/hr-function-images/select-report.png)
 
 5. This is the example of the appointment letter
 
-   ![letter-example](../../../static/img/usage/human-resource/print-letter/letter-example.png)
+   ![letter-example](../../../static/img/usage/human-resource/hr-function-images/letter-example.png)
 
 #### Increment Letter
 
@@ -133,27 +133,27 @@ For increment letter, make sure increment is set in **history** in order for the
 
 1. Navigate to **Human Resource** > **Maintain Employee**
 
-   ![navigate-1](../../../static/img/usage/human-resource/print-letter/navigate-1.png)
+   ![navigate-1](../../../static/img/usage/human-resource/hr-function-images/navigate-1.png)
 
 2. Alternatively, you can click on the **Maintain Employee** available in the homepage
 
-   ![navigate-2](../../../static/img/usage/human-resource/print-letter/navigate-2.png)
+   ![navigate-2](../../../static/img/usage/human-resource/hr-function-images/navigate-2.png)
 
 3. Go to the employee details, click on History from the tab view
 
-   ![inc-letter-select-employee](../../../static/img/usage/human-resource/print-letter/inc-letter-select-employee.png)
+   ![inc-letter-select-employee](../../../static/img/usage/human-resource/hr-function-images/inc-letter-select-employee.png)
 
 4. Click preview reports
 
-   ![inc-letter-click-preview](../../../static/img/usage/human-resource/print-letter/inc-letter-click-preview.png)
+   ![inc-letter-click-preview](../../../static/img/usage/human-resource/hr-function-images/inc-letter-click-preview.png)
 
 5. Select the report you want to print
 
-   ![inc-letter-select-report](../../../static/img/usage/human-resource/print-letter/inc-letter-select-report.png)
+   ![inc-letter-select-report](../../../static/img/usage/human-resource/hr-function-images/inc-letter-select-report.png)
 
 #### Increment letter setup in history
 
-![increment-letter-setup](../../../static/img/usage/human-resource/print-letter/increment-letter-setup.png)
+![increment-letter-setup](../../../static/img/usage/human-resource/hr-function-images/increment-letter-setup.png)
 
 
 
@@ -165,31 +165,31 @@ For increment letter, make sure increment is set in **history** in order for the
 
 2. Reader will turn red light when you success link to your computer
 
-   ![reader](../../../static/img/usage/human-resource/read-mykad/reader.png)
+   ![reader](../../../static/img/usage/human-resource/hr-function-images/reader.png)
 
 3. Put MyKard into reader
 
 4. Reader will show blue light when success read your MyKad
 
-   ![plug-in-mykad](../../../static/img/usage/human-resource/read-mykad/plug-in-mykad.png)
+   ![plug-in-mykad](../../../static/img/usage/human-resource/hr-function-images/plug-in-mykad.png)
 
 5. Open your SQL Payroll New Employee Profile > **Read MyKad**
 
-   ![read-mykad](../../../static/img/usage/human-resource/read-mykad/read-mykad.png)
+   ![read-mykad](../../../static/img/usage/human-resource/hr-function-images/read-mykad.png)
 
 6. Select **Reader Devices** > **Click Read Card**
 
-   ![read-card](../../../static/img/usage/human-resource/read-mykad/read-card.png)
+   ![read-card](../../../static/img/usage/human-resource/hr-function-images/read-card.png)
 
 7. Click **Read MyKad**
 
-   ![read-mykad-physical](../../../static/img/usage/human-resource/read-mykad/read-mykad-physical.png)
+   ![read-mykad-physical](../../../static/img/usage/human-resource/hr-function-images/read-mykad-physical.png)
 
 8. Inside System will auto fill up MyKard Detail
 
    - **(NAME , ADDRESS , ID Number, D.O.B, GENDER)**
 
-   ![result](../../../static/img/usage/human-resource/read-mykad/result.png)
+   ![result](../../../static/img/usage/human-resource/hr-function-images/result.png)
 
 
 
@@ -199,25 +199,25 @@ For increment letter, make sure increment is set in **history** in order for the
 
 1. Go to **Maintain Employee**:
 
-   ![maintain-employee](../../../static/img/usage/human-resource/recurring-zakat/maintain-employee.png)
+   ![maintain-employee](../../../static/img/usage/human-resource/hr-function-images/maintain-employee.png)
 
 2. Select the respective employee and go to Deduction
 
-   ![deduction](../../../static/img/usage/human-resource/recurring-zakat/deduction.png)
+   ![deduction](../../../static/img/usage/human-resource/hr-function-images/deduction.png)
 
 3. Enter a deduction and tick Zakat check box. You will notice that the other contribution checkbox will be unticked
 
-   ![check-zakat](../../../static/img/usage/human-resource/recurring-zakat/check-zakat.png)
+   ![check-zakat](../../../static/img/usage/human-resource/hr-function-images/check-zakat.png)
 
 4. Key in Rate and set the period of contribution in the Date From and Date To column.
 
-   ![key-in-rate](../../../static/img/usage/human-resource/recurring-zakat/key-in-rate.png)
+   ![key-in-rate](../../../static/img/usage/human-resource/hr-function-images/key-in-rate.png)
 
 5. Save and process your month end. You will see the amount in your Gross Zakat
 
-   ![result-1](../../../static/img/usage/human-resource/recurring-zakat/result-1.png)
+   ![result-1](../../../static/img/usage/human-resource/hr-function-images/result-1.png)
 
-   ![result-2](../../../static/img/usage/human-resource/recurring-zakat/result-2.png)
+   ![result-2](../../../static/img/usage/human-resource/hr-function-images/result-2.png)
 
 
 
@@ -249,11 +249,11 @@ Assuming we had the following scenario:
 
 1. Click **New** & Enter As Following.
 
-![HR_Maintain_Loan_1](../../../static/img/usage/human-resource/Human_Resources/LimYuHangHRLoan1.jpg)
+![HR_Maintain_Loan_step_1](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step1.jpg)
 
 2. Click **Schedule | Generate**... Button.
 
-![HR_Maintain_Loan_2](../../../static/img/usage/human-resource/Human_Resources/LimYuHangHRLoan2.jpg)
+![HR_Maintain_Loan_step_2](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step2.jpg)
 
 3. Click **Ok** button to confirm.
 4. Click **Save**.
@@ -263,13 +263,13 @@ Assuming we had the following scenario:
 1. Go to process as normal at New Payroll.
 2. At the Selected Employee Paysheet Click **Loan**.
 
-![HR_Maintain_Loan_3](../../../static/img/usage/human-resource/Human_Resources/LimYuHangHRLoan3.jpg)
+![HR_Auto_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/AutoRepayment-Step1.jpg)
 
 #### Advanced Repayments
 
 1. At **Transaction** Tab
 
-![HR_Maintain_Loan_4](../../../static/img/usage/human-resource/Human_Resources/LimYuHangHRLoan4.jpg)
+![HR_Advanced_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/AdvancedRepayment-Step1.jpg)
 
 
 
@@ -277,4 +277,4 @@ Assuming we had the following scenario:
 
 This is to generate/print the Ledger/History of Loan given by company for the selected/All Employees Report...
 
-![HR_Maintain_Loan_5](../../../static/img/usage/human-resource/Human_Resources/LimYuHangHRLoan5.jpg)
+![HR_Loan_Repayment_History_1](../../../static/img/usage/human-resource/hr-function-images/LoanRepaymentHistory-Step1.jpg)

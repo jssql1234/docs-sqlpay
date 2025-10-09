@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: HR FAQ
+title: FAQ
 description: Human Resources Frequently Asked Questions
 slug: /usage/HR/HR FAQ/HR FAQ
 tags: ["SQL Account", "HR", "FAQ"]
@@ -28,4 +28,4 @@ Where do i get the appointment letters
 3. Click **preview**.
 4. Select the **HR.Employee Appointment Report**.
 
-![HR_FAQ](../../../static/img/usage/human-resource/Human_Resources/LimYuHangHRFAQ.jpg) 
+![HR_FAQ](../../../static/img/usage/human-resource/hr-faq-images/faq-GetAppointmentLetter1.jpg) 
