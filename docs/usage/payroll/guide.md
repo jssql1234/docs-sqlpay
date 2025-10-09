@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-title: General Guide
+sidebar_position: 1
+title: Guide
 description: A guide to maintain payroll
 slug: /usage/payroll/general
 tags: ["SQL Payroll", "Payroll", "Month End", "Pending Payroll"]
