@@ -9,22 +9,22 @@ tags: ["SQL Payroll", "FAQ", "Register", "Email", "E Leave"]
 
 1. **Update 1 email address** to each employee (staff) in Maintain Employee.
 
-![1](../../static/img/faq/register-email-eleave/yc1-register.png)
+![register-setup](../../static/img/faq/register-email-eleave/register-setup.png)
 
 2. Access to menu : **Cloud | Sync Cloud..**
 
 3. Click **Sync Now**.
 
-![2](../../static/img/faq/register-email-eleave/yc2-register.jpg)
+![register-sync](../../static/img/faq/register-email-eleave/register-sync.jpg)
 
 ## Deregister Setup
 
 1. Remove the staff email from Maintain Employee.
 
-![3](../../static/img/faq/register-email-eleave/yc3-register.png)
+![remove-staff-email](../../static/img/faq/register-email-eleave/remove-staff-email.png)
 
 2. Access to menu : Cloud | Sync Cloud..
 
 3. Click Sync Now to update.
 
-![4](../../static/img/faq/register-email-eleave/yc2-register.jpg)
+![remove-sync](../../static/img/faq/register-email-eleave/remove-sync.jpg)
