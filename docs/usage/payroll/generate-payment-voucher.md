@@ -17,11 +17,11 @@ This is **Additional Module** (Payroll Accounting (SQL Payroll))
 
 3. It is available to import payroll data in **SQL Account version 745** and above.
 
-![1](../../../static/img/usage/payroll/generate-payment-voucher/yc1-generate.jpg)
+![introduction](../../../static/img/usage/payroll/generate-payment-voucher/introduction.jpg)
 
 ## Overview of the Process Flow
 
-![2](../../../static/img/usage/payroll/generate-payment-voucher/yc2-generate.jpg)
+![overview-process](../../../static/img/usage/payroll/generate-payment-voucher/overview-process.jpg)
 
 ## Configure Payroll Accounting (1 time setup)
 
@@ -29,11 +29,11 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 1. At Generate Payment Voucher / Journal Entry, click on **Configure Payroll Accounting.**
 
-![3](../../../static/img/usage/payroll/generate-payment-voucher/yc3-generate.jpg)
+![configure-payroll-accounting](../../../static/img/usage/payroll/generate-payment-voucher/configure-payroll-accounting.jpg)
 
 2. Overview of the Configure Payroll Accounting settings screen.
 
-![4](../../../static/img/usage/payroll/generate-payment-voucher/yc4-generate.jpg)
+![configure-payroll-accounting-setting](../../../static/img/usage/payroll/generate-payment-voucher/configure-payroll-accounting-setting.jpg)
 
 ### Step 1: Save GL Account to File (SQL Account)
 
@@ -41,27 +41,27 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 2. Go to **File | Import | (SQL Payroll) Import Payment Voucher / Journal Entry | Save GL Account File**
 
-![5](../../../static/img/usage/payroll/generate-payment-voucher/yc1-saveGL.png)
+![saveGL-step1-1](../../../static/img/usage/payroll/generate-payment-voucher/saveGL-step1-1.png)
 
-![6](../../../static/img/usage/payroll/generate-payment-voucher/yc2-saveGL.png)
+![saveGL-step1-2](../../../static/img/usage/payroll/generate-payment-voucher/saveGL-step1-2.png)
 
 3. Save SQL Account file to Desktop.
 
-![7](../../../static/img/usage/payroll/generate-payment-voucher/yc3-saveGL.jpg)
+![saveGL-step1-3](../../../static/img/usage/payroll/generate-payment-voucher/saveGL-step1-3.jpg)
 
 ### Step 2: SQL Account GL Code
 
 1. Click on **Load From File**.
 
-![8](../../../static/img/usage/payroll/generate-payment-voucher/yc5-generate.jpg)
+![glcode-step2-1](../../../static/img/usage/payroll/generate-payment-voucher/glcode-step2-1.jpg)
 
 2. Select a **SQL Account file (*.txt)** and click **Open**.
 
-![9](../../../static/img/usage/payroll/generate-payment-voucher/yc6-generate.jpg)
+![glcode-step2-2](../../../static/img/usage/payroll/generate-payment-voucher/glcode-step2-2.jpg)
 
 3. After the SQL Account GL Code has loaded, the company name will be display and ladt saved date and time.
 
-![10](../../../static/img/usage/payroll/generate-payment-voucher/yc7-generate.jpg)
+![glcode-step2-3](../../../static/img/usage/payroll/generate-payment-voucher/glcode-step2-3.jpg)
 
 4. Click Remove File button if you wish to load the new chart of account.
 
@@ -69,11 +69,11 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 1. After load the chart of accounts (in step 2), you are able to lookup and **map the GL Account code** to wages, allowance, overtime, bonus, etc accordingly.
 
-![11](../../../static/img/usage/payroll/generate-payment-voucher/yc8-generate.jpg)
+![glmapping-step3-1](../../../static/img/usage/payroll/generate-payment-voucher/glmapping-step3-1.jpg)
 
 2. Example of the account mapping:
 
-![12](../../../static/img/usage/payroll/generate-payment-voucher/yc9-generate.png)
+![glmapping-step3-2](../../../static/img/usage/payroll/generate-payment-voucher/glmapping-step3-2.png)
 
 ### Step 4: Posting Method
 
@@ -85,13 +85,13 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 4. OPTIONAL: Generate Journal Entry for Employer EPF, SOCSO Accrual **(by default is untick)**. For some company might charge the Employer EPF and SOCSO accrual in next month.
 
-![13](../../../static/img/usage/payroll/generate-payment-voucher/yc10-generate.jpg)
+![posting-method-step4](../../../static/img/usage/payroll/generate-payment-voucher/posting-method-step4.jpg)
 
 ## Generate Payment Voucher / Journal Entry
 
 To generate the Payment Voucher or Journal Entry from SQL Payroll. Click on **Generate**.
 
-![14](../../../static/img/usage/payroll/generate-payment-voucher/yc11-generate.jpg)
+![generate-pv-je](../../../static/img/usage/payroll/generate-payment-voucher/generate-pv-je.jpg)
 
 ## Import Payment Voucher / Journal Entry
 
@@ -101,8 +101,8 @@ To generate the Payment Voucher or Journal Entry from SQL Payroll. Click on **Ge
 
 3. Click on **Select File** from the Payment Voucher/Journal Entry (payroll data) generate from SQL Payroll.
 
-![15](../../../static/img/usage/payroll/generate-payment-voucher/yc12-generate.jpg)
+![import-pv-je-1](../../../static/img/usage/payroll/generate-payment-voucher/import-pv-je-1.jpg)
 
 4. Click on **Execute**.
 
-![16](../../../static/img/usage/payroll/generate-payment-voucher/yc13-generate.jpg)
+![import-pv-je-2](../../../static/img/usage/payroll/generate-payment-voucher/import-pv-je-2.jpg)
