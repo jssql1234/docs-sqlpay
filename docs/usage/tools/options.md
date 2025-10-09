@@ -10,7 +10,7 @@ tags: ["SQL Payroll", "Options"]
 
 This is the System application settings. It can be set as Global or Personal Setting.
 
-![yc1](../../../static/img/usage/tools/sql-view/yc1-options.jpg)
+![options-intro](../../../static/img/usage/tools/options/options-intro.jpg)
 
 ## System Default Setting
 
@@ -26,7 +26,7 @@ This is the setting is set and will apply to all user.
 
 2. **Auto Mark Finalize After Save PaySheet Changes.** Tick this option is wanted system to put indicator which employee you had done at PaySheet.
 
-![yc2](../../../static/img/usage/tools/sql-view/yc2-options.png)
+![system-general-setting](../../../static/img/usage/tools/options/system-general-setting.png)
 
 3. You can choose the following password requirement:
 
@@ -39,10 +39,10 @@ This is the setting is set and will apply to all user.
         - At least one number (0-9)
         - At least one non-alphanumeric character \!\$\%\^\&\*\(\)_\-\+\=\@\~\#\<\,\>\.
 
-![yc3](../../../static/img/usage/tools/sql-view/yc3-options.png)
+![system-password-policy](../../../static/img/usage/tools/options/system-password-policy.png)
 
 ## Personal Setting
 
 This is the setting changes is set for the Current Login user.
 
-![yc4](../../../static/img/usage/tools/sql-view/yc4-options.png)
+![personal-general-setting](../../../static/img/usage/tools/options/personal-general-setting.png)

@@ -30,7 +30,7 @@ This function is to show a list of EPF Amount which is need to be pay/deduct fro
 2. Just Click Rebuild after the changes.
 3. Any changes here will not affect the Process of Payroll.
 
-![1](../../../static/img/miscellaneous/epf/yc1-epf.jpg)
+![epf-table](../../../static/img/miscellaneous/epf/epf-table.jpg)
 
 :::info[Government Official Portal]
     [Kumpulan Wang Simpanan Pekerja](http://www.kwsp.gov.my/)
