@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
 title: Guide
-description: Human Resources functions
-slug: /usage/HR/HR Functions/HR Functions
+description: Guide
+slug: /usage/Human_Resources/Guide
 tags: ["SQL Payroll", "HR", "Functions"]
 ---
 
