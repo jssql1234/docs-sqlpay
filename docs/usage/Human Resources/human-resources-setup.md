@@ -82,16 +82,16 @@ Remember to untick the *Active* for any employee had resign before process the p
 
 In this tab is use for report grouping for the selected employee. It can be either by
 
-- Branch
-- Department
-- Group
-- Category
-- Project
-- Job
-- Task
-- Race
-- History Type
-- Announcement
+- [Branch](/usage/HR/HR%20Setup/HR%20Setup#maintain-branch)
+- [Department](/usage/HR/HR%20Setup/HR%20Setup#maintain-department)
+- [Group](/usage/HR/HR%20Setup/HR%20Setup#maintain-group)
+- [Category](/usage/HR/HR%20Setup/HR%20Setup#maintain-category)
+- [Project](/usage/HR/HR%20Setup/HR%20Setup#maintain-project)
+- [Job](/usage/HR/HR%20Setup/HR%20Setup#maintain-job)
+- [Task](/usage/HR/HR%20Setup/HR%20Setup#maintain-task)
+- [Race](/usage/HR/HR%20Setup/HR%20Setup#maintain-race)
+- [History Type](/usage/HR/HR%20Setup/HR%20Setup#maintain-history-type)
+- [Announcement](/usage/HR/HR%20Setup/HR%20Setup#maintain-announcement)
 
 
 ![HR_Grouping_1](../../../static/img/usage/human-resource/hr-setup-images/Grouping-Tab1.jpg)  
@@ -244,7 +244,7 @@ This is useful for user had many branch company but the salary is paid from HQ.
 | Code           | A Branch Code (Max 20 Character)                                           |
 | Description    | A Full Description for Branch (Max 160 Character)                         |
 | Active         | Untick it if the selected branch code is unavailable                       |
-| Set as Default | Click This button if wanted the selected Branch Code to be Auto Assign this Branch Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Branch Code to be Auto Assign this Branch Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 
@@ -259,7 +259,7 @@ A division of a large organization such as Account, Marketing & etc.
 | Code           | A Department Code (Max 20 Character)                                       |
 | Description    | A Full Description for Department (Max 160 Character)                      |
 | Active         | Untick it if the selected Department code is unavailable                   |
-| Set as Default | Click This button if wanted the selected Department Code to be Auto Assign this Department Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Department Code to be Auto Assign this Department Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 
@@ -274,7 +274,7 @@ This is another type of report grouping by Group type.
 | Code           | A Group Code (Max 20 Character)                                            |
 | Description    | A Full Description for Group (Max 160 Character)                          |
 | Active         | Untick it if the selected Group code is unavailable                        |
-| Set as Default | Click This button if wanted the selected Group Code to be Auto Assign this Group Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Group Code to be Auto Assign this Group Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 
@@ -289,7 +289,7 @@ User also can divide the employee by class or division.
 | Code           | A Category Code (Max 20 Character)                                         |
 | Description    | A Full Description for Category (Max 160 Character)                        |
 | Active         | Untick it if the selected Category Code is unavailable                     |
-| Set as Default | Click This button if wanted the selected Category Code to be Auto Assign this Category Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Category Code to be Auto Assign this Category Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 
@@ -304,7 +304,7 @@ User also can Group the employee by Project which the employee work at.
 | Code           | A Project Code (Max 20 Character)                                          |
 | Description    | A Full Description for Project (Max 160 Character)                         |
 | Active         | Untick it if the selected Project Code is unavailable                      |
-| Set as Default | Click This button if wanted the selected Project Code to be Auto Assign this Project Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Project Code to be Auto Assign this Project Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 
@@ -319,7 +319,7 @@ User also can Group the employee by Job Type in report.
 | Code           | A Job Code (Max 20 Character)                                              |
 | Description    | A Full Description for Job (Max 160 Character)                             |
 | Active         | Untick it if the selected Job Code is unavailable                          |
-| Set as Default | Click This button if wanted the selected Job Code to be Auto Assign this Job Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Job Code to be Auto Assign this Job Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 
@@ -334,7 +334,7 @@ User also can divide the employee by piece of work to be done or undertaken.
 | Code           | A Project Code (Max 20 Character)                                          |
 | Description    | A Full Description for Task (Max 160 Character)                            |
 | Active         | Untick it if the selected Task Code is unavailable                         |
-| Set as Default | Click This button if wanted the selected Task Code to be Auto Assign this Task Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Task Code to be Auto Assign this Task Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 
@@ -349,7 +349,7 @@ User also can Group the employee by Race Type in report.
 | Code           | A Race Code (Max 20 Character)                                             |
 | Description    | A Full Description for Race (Max 160 Character)                            |
 | Active         | Untick it if the selected Race Code is unavailable                         |
-| Set as Default | Click This button if wanted the selected Race Code to be Auto Assign this Race Code on New at Maintain Employee |
+| Set as Default | Click This button if wanted the selected Race Code to be Auto Assign this Race Code on New at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 ## Maintain History Type
@@ -363,7 +363,7 @@ This is to use to allow user to Group the Changes in the Maintain Employee
 | Code           | A History Type Code (Max 20 Character)                                                         |
 | Description    | A Full Description for History Type (Max 160 Character)                                        |
 | Active         | Untick it if the selected History Type Code is unavailable                                     |
-| Set as Default | Click This button if wanted the selected History Type Code to be Auto Assign this History Type Code on New Changes at Maintain Employee |
+| Set as Default | Click This button if wanted the selected History Type Code to be Auto Assign this History Type Code on New Changes at [Maintain Employee](/usage/HR/HR%20Setup/HR%20Setup#maintain-employee) |
 
 
 ## Maintain Announcement
