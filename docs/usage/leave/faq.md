@@ -1,11 +1,12 @@
 ---
-title: Both managers have approved the same leave submitted from same employee. How many leave will be taken?
+title: FAQ
 description: A guide about approve same leave request
-slug: /faq/manager-approve-leave
+slug: /usage/leave/faq
 tags: ["SQL Payroll", "FAQ", "Leave"]
 ---
+## Both managers have approved the same leave submitted from same employee. How many leave will be taken?
 
-## Example
+- **Example**
 
 Let said
 
@@ -18,6 +19,6 @@ If Manager A approve the leave while Manager B also approve the same leave for s
 **How many actual leave will be deducted?**
 
 
-## Answer
+- **Answer**
 
 1 day leave will be deducted.
