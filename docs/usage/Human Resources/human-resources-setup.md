@@ -133,18 +133,18 @@ It is useful in case anything happen to the employee we able to inform/contact h
 
 | Field Name       | Properties | Field Name       | Properties |
 |------------------|------------|------------------|------------|
-| Wages Type       | Definition: Employee Wages Category Type | SOCSO No        | Definition: Employee SOCSO Number |
+| Wages Type       | Definition: Employee [Wages](/usage/payroll/maintenance/maintain-wages) Category Type | SOCSO No        | Definition: Employee SOCSO Number |
 |                  |            |                  | Field Type: Alphanumerical |
 |                  |            |                  | Length: 20 |
 | Wages            | Definition: Employee wages amount | SOCSO Type      | Definition: Employee SOCSO Category |
 |                  | Field Type: Numerical |                  | Data Options: First Category, Second Category or No SOCSO |
-| Contribution     | Definition: Employee Contribution Type | Tax Branch      | Definition: Employee Tax Branch |
+| Contribution     | Definition: Employee [Contribution](/usage/payroll/maintenance/maintain-contribution) Type | Tax Branch      | Definition: Employee Tax Branch |
 |                  |            |                  | Field Type: Alphanumerical |
 |                  |            |                  | Length: 40 |
-| Frequency        | Definition: Employee payment Frequency | Tax No          | Definition: Employee Tax Number |
+| Frequency        | Definition: Employee payment [Frequency](/usage/payroll/maintenance/maintain-frequency) | Tax No          | Definition: Employee Tax Number |
 |                  |            |                  | Field Type: Alphanumerical |
 |                  |            |                  | Length: 20 |
-| Payment Method   | Definition: Employer Payment Method | Marital Status   | Definition: Employee marriage status |
+| Payment Method   | Definition: Employer [Payment Method](/usage/payroll/maintenance/maintain-payment-method) | Marital Status   | Definition: Employee marriage status |
 |                  |            |                  | Data Options: Single, Married, Divorced or Widow |
 | Bank             | Definition: Employee Bank | Spouse Working  | Definition: Tick if the Employee husband/wife is working |
 |                  |            |                  | Field Type: Boolean |
@@ -155,7 +155,7 @@ It is useful in case anything happen to the employee we able to inform/contact h
 |                  | Field Type: Boolean |                  | |
 | Resident         | Definition: Untick if the Employee Foreigner | Override Tax Category | Definition: Tick if don't wanted System Automatic Calculate the Employee Tax Category |
 |                  | Field Type: Boolean |                  | Field Type: Boolean |
-|                  | Non-Resident requirement and tax rate, refer to Non-Resident |                  | |
+|                  | Non-Resident requirement and tax rate, refer to [Non-Resident](https://www.hasil.gov.my/en/individual/individual-life-cycle/how-to-declare-income/non-resident/) |                  | |
 | EPF No           | Definition: Employee EPF(KWSP) Number | EA Serial No    | Definition: Employee EA Serial Number (Given by LHDN Department) |
 |                  | Field Type: Alphanumerical |                  | Field Type: Alphanumerical |
 |                  | Length: 20 |                  | Length: 8 |
@@ -170,13 +170,13 @@ It is useful in case anything happen to the employee we able to inform/contact h
 
 ### Allowance
 
-In this Tab is to enter the Fixed Allowance entitled for each month for selected Employee.
+In this Tab is to enter the Fixed [Allowance](/usage/payroll/maintenance/maintain-allowance) entitled for each month for selected Employee.
 
 ![HR_Allowance_1](../../../static/img/usage/human-resource/hr-setup-images/Allowance-Tab1.jpg)  
 
 ### Deduction
 
-In this Tab is to enter the Fixed Deduction entitled for each month for selected Employee.
+In this Tab is to enter the Fixed [Deduction](/usage/payroll/maintenance/maintain-deduction) entitled for each month for selected Employee.
 
 ![HR_Deduction_1](../../../static/img/usage/human-resource/hr-setup-images/Deduction-Tab1.jpg) 
 
@@ -201,7 +201,7 @@ Select the Increment at the type column in order to print the Increment Letter (
 |--------------|-------------------------------------|
 | Post Date    | Definition: Date of the data changes |
 |              | Field Type: Date                    |
-| Type         | Definition: Changes History Type    |
+| Type         | Definition: Changes [History Type](/usage/HR/HR%20Setup/HR%20Setup#maintain-history-type)    |
 | Description  | Definition: Detail of Data changes  |
 
 ### Child
@@ -382,7 +382,7 @@ This is to used to create, manage, and distribute company-wide or employee-speci
 
 
 
-## print History Lisitng
+## Print History Lisitng
 
 This provides a comprehensive record of all past history types for employees, and is able to furthur and filter, sort and group the employees witth the fields below
 
