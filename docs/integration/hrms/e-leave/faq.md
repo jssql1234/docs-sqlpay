@@ -142,22 +142,22 @@ If you rely on HRMS for leave and claim applications, always finish with **Updat
 
 1. **Update 1 email address** to each employee (staff) in Maintain Employee.
 
-![register-setup](../../../../static/img/faq/register-email-eleave/register-setup.png)
+   ![register-setup](../../../../static/img/faq/register-email-eleave/register-setup.png)
 
 2. Access to menu : **Cloud | Sync Cloud..**
 
 3. Click **Sync Now**.
 
-![register-sync](../../../../static/img/faq/register-email-eleave/register-sync.jpg)
+   ![register-sync](../../../../static/img/faq/register-email-eleave/register-sync.jpg)
 
 ### 14. How to deregister the staff email to access the E Leave?
 
 1. Remove the staff email from Maintain Employee.
 
-![remove-staff-email](../../../../static/img/faq/register-email-eleave/remove-staff-email.png)
+   ![remove-staff-email](../../../../static/img/faq/register-email-eleave/remove-staff-email.png)
 
 2. Access to menu : Cloud | Sync Cloud..
 
 3. Click Sync Now to update.
 
-![remove-sync](../../../../static/img/faq/register-email-eleave/remove-sync.jpg)
+   ![remove-sync](../../../../static/img/faq/register-email-eleave/remove-sync.jpg)
