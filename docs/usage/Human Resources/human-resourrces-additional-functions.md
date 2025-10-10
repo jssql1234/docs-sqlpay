@@ -260,7 +260,7 @@ Assuming we had the following scenario:
 
 #### Auto Repayment
 
-1. Go to process as normal at New Payroll.
+1. Go to process as normal at [New Payroll](/usage/payroll/general#create-payroll).
 2. At the Selected Employee Paysheet Click **Loan**.
 
 ![HR_Auto_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/AutoRepayment-Step1.jpg)
