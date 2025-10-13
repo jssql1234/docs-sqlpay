@@ -6,8 +6,10 @@ slug: /integration/hrms/e-leave/faq
 tags: ["SQL Payroll", "FAQ", "Register", "Email", "E Leave"]
 ---
 
-## How to register/deregister the staff email to access the E Leave?
-### Register Setup
+## Registration & Deregistration Email
+### 1. How to register/deregister the staff email to access the E Leave?
+
+- **Register Setup**
 
 1. **Update 1 email address** to each employee (staff) in Maintain Employee.
 
@@ -19,7 +21,7 @@ tags: ["SQL Payroll", "FAQ", "Register", "Email", "E Leave"]
 
 ![register-sync](../../../../static/img/faq/register-email-eleave/register-sync.jpg)
 
-### Deregister Setup
+- **Deregister Setup**
 
 1. Remove the staff email from Maintain Employee.
 
