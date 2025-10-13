@@ -7,25 +7,26 @@ tags: ["SQL Payroll", "FAQ", "Register", "Email", "E Leave"]
 ---
 
 ## Registration & Deregistration Email
-### 1. How to register/deregister the staff email to access the E Leave?
 
-- #### **Register Setup**
+### 1. How to register/deregister the staff email to access the E Leave
 
-1. **Update 1 email address** to each employee (staff) in Maintain Employee.
+#### Register Setup
 
-![register-setup](../../../../static/img/faq/register-email-eleave/register-setup.png)
+1. **Update one email address** for each employee (staff) in **Maintain Employee**.
 
-2. Access to menu : **Cloud | Sync Cloud..**
+   ![Register setup screen](../../../../static/img/faq/register-email-eleave/register-setup.png)
+
+2. Go to **Cloud → Sync Cloud..**
 
 3. Click **Sync Now**.
 
-![register-sync](../../../../static/img/faq/register-email-eleave/register-sync.jpg)
+   ![Register sync screen](../../../../static/img/faq/register-email-eleave/register-sync.jpg)
 
-- ####  **Deregister Setup**
+- #### **Deregister Setup**
 
 1. Remove the staff email from Maintain Employee.
 
-![remove-staff-email](../../../../static/img/faq/register-email-eleave/remove-staff-email.png)
+    ![remove-staff-email](../../../../static/img/faq/register-email-eleave/remove-staff-email.png)
 
 2. Access to menu : Cloud | Sync Cloud..
 
