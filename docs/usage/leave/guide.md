@@ -148,7 +148,6 @@ User may check or uncheck the dates
 :::
 
 Option 2: Click on ***'P' button*** | Select date
-
     ![maintain-public-holiday3](../../../static/img/integration/hrms/e-tms/maintain-public-holiday3.png)
 
 **Step 3:** Save
