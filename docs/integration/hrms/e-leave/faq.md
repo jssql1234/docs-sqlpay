@@ -140,11 +140,13 @@ If you rely on HRMS for leave and claim applications, always finish with **Updat
 
 ### 13. How to register the staff email to access the E Leave?
 
-1. **Update 1 email address** to each employee (staff) in Maintain Employee.
+#### Register Setup
 
-![register-setup](../../../../static/img/faq/register-email-eleave/register-setup.png)
+1. **Update one email address** for each employee (staff) in **Maintain Employee**.
 
-2. Access to menu : **Cloud | Sync Cloud..**
+   ![register-setup-screen](../../../../static/img/faq/register-email-eleave/register-setup.png)
+
+2. Go to **Cloud → Sync Cloud..**
 
 3. Click **Sync Now**.
 
