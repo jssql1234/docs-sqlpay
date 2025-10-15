@@ -18,7 +18,7 @@ Enable to process the Month Pay Salary and Final Pay Salary.
    Certain company their payroll cut off date will not in the month end, some of the company will according to the 26th of the month, so you can preset your own company payroll cut off date through the "..." button.
    :::
 
-   ![month-end](../../../static/img/usage/payroll/general/create.png)
+   ![month-end](../../../static/img/usage/payroll/guide/create.png)
 
 2. Click on the **Process** option.
 
@@ -28,21 +28,22 @@ To process mid month salary payroll. The salary payout is based on average % of 
 
 Not the last Pay of the Month.
 
-![pay-frequency](../../../static/img/usage/payroll/general/pay_frequency.png)
+![pay-frequency](../../../static/img/usage/payroll/guide/pay-frequency.png)
 
 ### Ad Hoc Process
 
 To process Mid Month Ad Hoc Payroll
 
-![pay-adhoc](../../../static/img/usage/payroll/general/pay_adHoc.png)
+![pay-adhoc](../../../static/img/usage/payroll/guide/pay-adhoc.png)
 
-![pay-adhoc-bonusallow](../../../static/img/usage/payroll/general/pay_adHoc_bonusallow.png)
+![pay-adhoc-bonusallow](../../../static/img/usage/payroll/guide/pay-adhoc-bonus-allowance.png)
 
 Default this option
+
 - All(PCB,Socso,EPF) Contribution for Fixed Transaction will be 0
 - Value will be 0 (Zero) & user need to self enter a value for All/Selected Employee
 
-![pay-adhoc-monthlyFA](../../../static/img/usage/payroll/general/pay_adhoc_montlyFA.png)
+![pay-adhoc-monthlyFA](../../../static/img/usage/payroll/guide/pay-adhoc-montly-fixed-allowance.png)
 
 In this option allow the user to self control the Contribution (default 100%) for Fixed Transaction.
 
@@ -56,11 +57,11 @@ Once you have created the payroll and you wish to view whatever you have did, th
 
 1. Navigate to **Payroll** > **Open Payroll**. Alternatively, access it from the home page by clicking **Open Payroll**
 
-   ![open-navigate](../../../static/img/usage/payroll/general/open-navigate.png)
+   ![open-navigate](../../../static/img/usage/payroll/guide/open-navigate.png)
 
 2. Select employee, double click your employee name to check on its individual’s amount
 
-   ![open-select-employee](../../../static/img/usage/payroll/general/open-select-employee.png)
+   ![open-select-employee](../../../static/img/usage/payroll/guide/open-select-employee.png)
 
    :::info
    You can process 2 month end in the same day also. Initially, you can choose to tick those first batch employees.
@@ -71,15 +72,15 @@ Once you have created the payroll and you wish to view whatever you have did, th
 
    **BATCH 1**
 
-   ![batch-1-payroll](../../../static/img/usage/payroll/general/batch-1-payroll.png)
+   ![batch-1-payroll](../../../static/img/usage/payroll/guide/batch-1-payroll.png)
 
-   ![batch-1-employees](../../../static/img/usage/payroll/general/batch-1-employees.png)
+   ![batch-1-employees](../../../static/img/usage/payroll/guide/batch-1-employees.png)
 
    **BATCH 2**
 
-   ![batch-2-payroll](../../../static/img/usage/payroll/general/batch-2-payroll.png)
+   ![batch-2-payroll](../../../static/img/usage/payroll/guide/batch-2-payroll.png)
 
-   ![batch-2-employees](../../../static/img/usage/payroll/general/batch-2-employees.png)
+   ![batch-2-employees](../../../static/img/usage/payroll/guide/batch-2-employees.png)
    :::
 
 ## Open Pending Payroll
@@ -89,74 +90,64 @@ Before you process the month end, you can use open pending payroll to key-in all
 :::
 
 - This is for the user to prepare the transaction (eg Overtime, Deduction) before Processing the Payroll...
-- Available Pending Type Transactions
+- Available Pending Type Transactions:
 
-<table>
-  <tr>
-    <td>Wages</td><td>Allowance</td><td>Tax Deduction</td><td>Overtime</td>
-  </tr>
-  <tr>
-    <td>Deduction</td><td>Advance Paid</td><td>Claims</td><td>Loan</td>
-  </tr>
-  <tr>
-    <td>CP38</td><td>Advance Deduct</td><td>Bonus</td><td>Paid Leave</td>
-  </tr>
-  <tr>
-    <td>Director Fees</td><td>Unpaid Leave</td><td>Tax Benefit</td><td>Commission</td>
-  </tr>
-</table>
+  - Wages, Allowance, Tax Deduction, Overtime
+  - Deduction, Advance Paid, Claims, Loan
+  - CP38, Advance Deduct, Bonus, Paid Leave
+  - Director Fees, Unpaid Leave, Tax Benefit, Commission
 
 - After all the Pending had enter user may go either below step to for next step except Pending Advance Paid
-    - New Payroll | Final Process
-    - New_Payroll | Ad Hoc Process
+  - New Payroll | Final Process
+  - New_Payroll | Ad Hoc Process
 - For Pending Advance Paid must use New_Payroll | Ad Hoc Process then only can use New Payroll | Final Process
 
 ### Steps
 
 1. Go to **Payroll** > **Open Pending Payroll**.
 
-    ![navigate](../../../static/img/usage/payroll/general/navigate.png)
+    ![navigate](../../../static/img/usage/payroll/guide/navigate.png)
 
 2. Double Click on the info that you want to input, eg: Overtime.
 
-    ![pending-click-overtime](../../../static/img/usage/payroll/general/pending-click-overtime.png)
+    ![pending-click-overtime](../../../static/img/usage/payroll/guide/pending-click-overtime.png)
 
 3. Insert the overtime info accordingly
 
     1. Press on the ➕ button to add new overtime.
 
-        ![pending-add-new-overtime](../../../static/img/usage/payroll/general/pending-add-new-overtime.png)
+        ![pending-add-new-overtime](../../../static/img/usage/payroll/guide/pending-add-new-overtime.png)
 
     2. Insert the info accordingly like employee, overtime code, work unit etc
 
-        ![pending-insert-info](../../../static/img/usage/payroll/general/pending-insert-info.png)
+        ![pending-insert-info](../../../static/img/usage/payroll/guide/pending-insert-info.png)
 
     3. Once update accordingly then save.
 
-        ![pending-overtime-save](../../../static/img/usage/payroll/general/pending-overtime-save.png)
+        ![pending-overtime-save](../../../static/img/usage/payroll/guide/pending-overtime-save.png)
 
 4. Once finish the update you may process the month end and observe the result.
 
-    ![pending-result](../../../static/img/usage/payroll/general/pending-result.png)
+    ![pending-result](../../../static/img/usage/payroll/guide/pending-result.png)
 
 ### Pending YYYY
 
 - YYYY represents the Year (e.g. if in 2013 will show as Pending 2013).
 - To show the pending in Monthly (with & without Transactions).
 
-![open-pending-payroll-02](../../../static/img/usage/payroll/general/openPendingPayroll_PendingYYYY.png)
+![open-pending-payroll-02](../../../static/img/usage/payroll/guide/open-pending-payroll-pending-yyyy.png)
 
 ### Pending Navigator
 
 Show which Pending Type had transactions in the day view.
 
-![open-pending-payroll-04](../../../static/img/usage/payroll/general/openPendingPayroll_Pending_Navigator.png)
+![open-pending-payroll-03](../../../static/img/usage/payroll/guide/open-pending-payroll-pending-navigator.png)
 
 ### Show all Pending Payroll
 
 To show the pending in Yearly (with Transactions).
 
-![open-pending-payroll-03](../../../static/img/usage/payroll/general/openPendingPayroll_Show_All_Pending_Payroll.png)
+![open-pending-payroll-04](../../../static/img/usage/payroll/guide/open-pending-payroll-show-all-pending-payroll.png)
 
 ## Pending Transactions Types
 
@@ -168,7 +159,7 @@ To show the pending in Yearly (with Transactions).
 
 This is useful for employees to be paid by the number of days they work (i.e. users can add the day when the selected employee comes to work).
 
-![pending-wages](../../../static/img/usage/payroll/general/openPendingPayroll_Wages.png)
+![pending-wages](../../../static/img/usage/payroll/guide/open-pending-payroll-wages.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -181,7 +172,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Overtime
 
-![pending-overtime](../../../static/img/usage/payroll/general/openPendingPayroll_Overtime.png)
+![pending-overtime](../../../static/img/usage/payroll/guide/open-pending-payroll-overtime.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -197,7 +188,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Paid Leave
 
-![pending-paid-leave](../../../static/img/usage/payroll/general/openPendingPayroll_PaidLeave.png)
+![pending-paid-leave](../../../static/img/usage/payroll/guide/open-pending-payroll-paid-leave.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -209,7 +200,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Unpaid Leave
 
-![pending-unpaid-leave](../../../static/img/usage/payroll/general/openPendingPayroll_UnpaidLeave.png)
+![pending-unpaid-leave](../../../static/img/usage/payroll/guide/open-pending-payroll-unpaid-leave.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -223,7 +214,7 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 ### Pending Claim
 
-![pending-claim](../../../static/img/usage/payroll/general/openPendingPayroll_Claim.png)
+![pending-claim](../../../static/img/usage/payroll/guide/open-pending-payroll-claim.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -240,9 +231,9 @@ This is useful for employees to be paid by the number of days they work (i.e. us
 
 This is generally towards settlement of outstanding taxes.
 
-![pending-cp38-01](../../../static/img/usage/payroll/general/openPendingPayroll_CP3801.png)
+![pending-cp38-01](../../../static/img/usage/payroll/guide/open-pending-payroll-cp3801.png)
 
-![pending-cp38-02](../../../static/img/usage/payroll/general/openPendingPayroll_CP3802.png)
+![pending-cp38-02](../../../static/img/usage/payroll/guide/open-pending-payroll-cp3802.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -253,11 +244,11 @@ This is generally towards settlement of outstanding taxes.
 | Ref1 | Reference 1 | Alphanumerical, length 20 |
 | Ref2 | Reference 2 | Alphanumerical, length 20 |
 | Amount | CP38 amount | Decimal, length 18, precision 2 |
-| Generate Button | For Batch Generate CP38 | | 
+| Generate Button | For Batch Generate CP38 | |
 
 ### Pending Allowance
 
-![pending-allowance](../../../static/img/usage/payroll/general/openPendingPayroll_Allowance.png)
+![pending-allowance](../../../static/img/usage/payroll/guide/open-pending-payroll-allowance.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -278,7 +269,7 @@ Below Example information is applicable for
 - Pending Deduction
 - Pending Commission
 
-![pending-deduction-commission](../../../static/img/usage/payroll/general/openPendingPayroll_Deduction.png)
+![pending-deduction-commission](../../../static/img/usage/payroll/guide/open-pending-payroll-deduction.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -292,12 +283,13 @@ Below Example information is applicable for
 | Amount | Deduction total amount | Decimal, length 18, precision 2 |
 
 ### Pending Bonus & Pending Director Fees
+
 Below Example information is applicable for
 
 - Pending Bonus
 - Pending Director Fees
 
-![pending-bonus-director-fees](../../../static/img/usage/payroll/general/openPendingPayroll_Bonus.png)
+![pending-bonus-director-fees](../../../static/img/usage/payroll/guide/open-pending-payroll-bonus.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -318,7 +310,7 @@ Below Example information is applicable for
 - Pending Advance Deduct (Only View because it derive from Advance Paid after Ad Hoc Process)
 - Pending Commission
 
-![pending-advance-paid-advance-deduct-commission](../../../static/img/usage/payroll/general/openPendingPayroll_AdvancePaid.png)
+![pending-advance-paid-advance-deduct-commission](../../../static/img/usage/payroll/guide/open-pending-payroll-advance-paid.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -337,7 +329,7 @@ Below Example information is applicable for
 - Pending Tax Benefit
 - Pending Tax Deduction
 
-![pending-tax-benefit-tax-deduction](../../../static/img/usage/payroll/general/openPendingPayroll_TaxDeduct.png)
+![pending-tax-benefit-tax-deduction](../../../static/img/usage/payroll/guide/open-pending-payroll-tax-deduct.png)
 
 | Field Name | Description | Type / Length / Precision |
 |---|---|---|
@@ -362,7 +354,7 @@ Employee request advance salary before month end
 
 2. **Select Advance Paid**
 
-    ![select-advance-paid](../../../static/img/usage/payroll/advanced-paid/select-advance-paid.png)
+    ![select-advance-paid](../../../static/img/usage/payroll/guide/select-advance-paid.png)
 
 3. **Key in accordingly**
 
@@ -372,7 +364,7 @@ Employee request advance salary before month end
     >
     >***Amount*** = amount advance paid
 
-    ![fill-in](../../../static/img/usage/payroll/advanced-paid/fill-in.png)
+    ![fill-in](../../../static/img/usage/payroll/guide/fill-in.png)
 
 4. Go to Payroll > New Payroll
 
@@ -384,29 +376,29 @@ Employee request advance salary before month end
 
 8. Tick "Advanced Paid"
 
-    ![config](../../../static/img/usage/payroll/advanced-paid/config.png)
+    ![config](../../../static/img/usage/payroll/guide/config.png)
 
 9. Process
 
-    ![process](../../../static/img/usage/payroll/advanced-paid/process.png)
+    ![process](../../../static/img/usage/payroll/guide/process.png)
 
 10. Process Month end Payroll as usual, you will found there is advance deduct at the month end.
 
-    ![result](../../../static/img/usage/payroll/advanced-paid/result.png)
+    ![result](../../../static/img/usage/payroll/guide/result.png)
 
 ### Bonus
 
 1. Navigate to **Payroll** > **Open Pending Payroll**
 
-   ![navigate](../../../static/img/usage/payroll/bonus/navigate.png)
+   ![navigate](../../../static/img/usage/payroll/guide/navigate.png)
 
 2. Click on Bonus
 
-   ![click-bonus](../../../static/img/usage/payroll/bonus/click-bonus.png)
+   ![click-bonus](../../../static/img/usage/payroll/guide/click-bonus.png)
 
 3. Next, adjust the bonus of your employee
 
-   ![adjust-employee](../../../static/img/usage/payroll/bonus/adjust-employee.png)
+   ![adjust-employee](../../../static/img/usage/payroll/guide/adjust-employee.png)
 
    1. Click “Add”
    2. Select your employee
@@ -415,23 +407,23 @@ Employee request advance salary before month end
 
 4. Go to **Payroll** > **New Payroll** and click on **Ad Hoc**
 
-   ![adhoc](../../../static/img/usage/payroll/bonus/adhoc.png)
+   ![adhoc](../../../static/img/usage/payroll/guide/adhoc.png)
 
 5. Tick **EPF** if you want to deduct **EPF**, Tick **PCB** if you want to deduct **PCB**
 
-   ![epf-pcb](../../../static/img/usage/payroll/bonus/epf-pcb.png)
+   ![epf-pcb](../../../static/img/usage/payroll/guide/epf-pcb.png)
 
 6. Tick Bonus / Allowance (To input your amount)
 
-   ![tick-bonus](../../../static/img/usage/payroll/bonus/tick-bonus.png)
+   ![tick-bonus](../../../static/img/usage/payroll/guide/tick-bonus.png)
 
 7. Change the Description (Optional) and tick the employee you rewarded with bonus
 
-   ![change-desc](../../../static/img/usage/payroll/bonus/change-desc.png)
+   ![change-desc](../../../static/img/usage/payroll/guide/change-desc.png)
 
 8. Complete and check the payslip
 
-   ![result](../../../static/img/usage/payroll/bonus/result.png)
+   ![result](../../../static/img/usage/payroll/guide/result.png)
 
 ### CP38
 
@@ -440,23 +432,23 @@ Employee request advance salary before month end
 
 1. **Open Pending Payroll** and choose **CP38**
 
-    ![select-cp38](../../../static/img/usage/payroll/cp38/select-cp38.png)
+    ![select-cp38](../../../static/img/usage/payroll/guide/select-cp38.png)
 
 2. Press **GENERATE** on the top left of the window.
 
-    ![generate](../../../static/img/usage/payroll/cp38/generate.png)
+    ![generate](../../../static/img/usage/payroll/guide/generate.png)
 
 3. Key in the Amount you receive from LHDN Letter, for example this employee ( 00001- Lucious ) had to pay CP38 on **June ( RM450 )** and July **( RM550 )**. Press **GENERATE**.
 
-    ![fill-in-details](../../../static/img/usage/payroll/cp38/fill-in-details.png)
+    ![fill-in-details](../../../static/img/usage/payroll/guide/fill-in-details.png)
 
 4. Press **SAVE**
 
-    ![save](../../../static/img/usage/payroll/cp38/save.png)
+    ![save](../../../static/img/usage/payroll/guide/save.png)
 
 5. This **pending** task only needs to be completed **once**. It will impact **both the June and July month-end processes**. The following pictures below will illustrate the end result :
 
-    ![result](../../../static/img/usage/payroll/cp38/result.png)
+    ![result](../../../static/img/usage/payroll/guide/result.png)
 
 ## Generate Payment Voucher / Journal Entry
 
@@ -470,11 +462,11 @@ This is **Additional Module** (Payroll Accounting (SQL Payroll))
 
 3. It is available to import payroll data in **SQL Account version 745** and above.
 
-![1](../../../static/img/usage/payroll/generate-payment-voucher/export_import_as_PV_JE.jpg)
+![1](../../../static/img/usage/payroll/guide/export-import-as-PV-JE.jpg)
 
 ### Overview of the Process Flow
 
-![2](../../../static/img/usage/payroll/generate-payment-voucher/overview_process_flow.jpg)
+![2](../../../static/img/usage/payroll/guide/overview-process-flow.jpg)
 
 ### Configure Payroll Accounting (1 time setup)
 
@@ -482,53 +474,53 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 1. At Generate Payment Voucher / Journal Entry, click on **Configure Payroll Accounting.**
 
-![3](../../../static/img/usage/payroll/generate-payment-voucher/insert_process_and_date.jpg)
+    ![3](../../../static/img/usage/payroll/guide/insert-process-and-date.jpg)
 
 2. Overview of the Configure Payroll Accounting settings screen.
 
-![4](../../../static/img/usage/payroll/generate-payment-voucher/configure_payroll_accounting.jpg)
+    ![4](../../../static/img/usage/payroll/guide/configure-payroll-accounting.jpg)
 
-**Step 1: Save GL Account to File (SQL Account)**
+#### Step 1: Save GL Account to File (SQL Account)
 
 1. Login the SQL Account database.
 
 2. Go to **File | Import | (SQL Payroll) Import Payment Voucher / Journal Entry | Save GL Account File**
 
-![5](../../../static/img/usage/payroll/generate-payment-voucher/navigate_import_payment_voucher.png)
+    ![5](../../../static/img/usage/payroll/guide/navigate-import-payment-voucher.png)
 
-![6](../../../static/img/usage/payroll/generate-payment-voucher/save_gl_account_to_file.png)
+    ![6](../../../static/img/usage/payroll/guide/save-gl-account-to-file.png)
 
 3. Save SQL Account file to Desktop.
 
-![7](../../../static/img/usage/payroll/generate-payment-voucher/save_gl_to_file.jpg)
+![7](../../../static/img/usage/payroll/guide/save-gl-to-file.jpg)
 
-**Step 2: SQL Account GL Code**
+#### Step 2: SQL Account GL Code
 
 1. Click on **Load From File**.
 
-![8](../../../static/img/usage/payroll/generate-payment-voucher/load_from_sql_account.jpg)
+    ![8](../../../static/img/usage/payroll/guide/load-from-sql-account.jpg)
 
 2. Select a **SQL Account file (*.txt)** and click **Open**.
 
-![9](../../../static/img/usage/payroll/generate-payment-voucher/load_sql_account_file.jpg)
+    ![9](../../../static/img/usage/payroll/guide/load-sql-account-file.jpg)
 
 3. After the SQL Account GL Code has loaded, the company name will be display and last saved date and time.
 
-![10](../../../static/img/usage/payroll/generate-payment-voucher/display_company_name_and_last_saved_date_and_time.jpg)
+    ![10](../../../static/img/usage/payroll/guide/display-company-name-and-last-saved-date-and-time.jpg)
 
 4. Click Remove File button if you wish to load the new chart of account.
 
-**Step 3: GL Account Mapping**
+#### Step 3: GL Account Mapping
 
 1. After load the chart of accounts (in step 2), you are able to lookup and **map the GL Account code** to wages, allowance, overtime, bonus, etc accordingly.
 
-![11](../../../static/img/usage/payroll/generate-payment-voucher/gl_account_mapping.jpg)
+    ![11](../../../static/img/usage/payroll/guide/gl-account-mapping.jpg)
 
 2. Example of the account mapping:
 
-![12](../../../static/img/usage/payroll/generate-payment-voucher/account_mapping_table.png)
+    ![12](../../../static/img/usage/payroll/guide/account-mapping-table.png)
 
-**Step 4: Posting Method**
+#### Step 4: Posting Method
 
 1. Generate posting entry by **Payment Voucher** or by **Journal Entry**.
 
@@ -538,15 +530,15 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 4. OPTIONAL: Generate Journal Entry for Employer EPF, SOCSO Accrual **(by default is untick)**. For some company might charge the Employer EPF and SOCSO accrual in next month.
 
-![13](../../../static/img/usage/payroll/generate-payment-voucher/posting_method.jpg)
+    ![13](../../../static/img/usage/payroll/guide/posting-method.jpg)
 
-### Generate Payment Voucher / Journal Entry
+### Generate Payment Voucher / Journal Entry (Export)
 
-To generate the Payment Voucher or Journal Entry from SQL Payroll. Click on **Generate**.
+    To generate the Payment Voucher or Journal Entry from SQL Payroll. Click on **Generate**.
 
-![14](../../../static/img/usage/payroll/generate-payment-voucher/generate_PV_JE.jpg)
+    ![14](../../../static/img/usage/payroll/guide/generate-PV-JE.jpg)
 
-### Import Payment Voucher / Journal Entry
+### Import Payment Voucher / Journal Entry (Import)
 
 1. Login the SQL Account database.
 
@@ -554,8 +546,8 @@ To generate the Payment Voucher or Journal Entry from SQL Payroll. Click on **Ge
 
 3. Click on **Select File** from the Payment Voucher/Journal Entry (payroll data) generate from SQL Payroll.
 
-![15](../../../static/img/usage/payroll/generate-payment-voucher/import_PV_JE.jpg)
+    ![15](../../../static/img/usage/payroll/guide/import-PV-JE.jpg)
 
 4. Click on **Execute**.
 
-![16](../../../static/img/usage/payroll/generate-payment-voucher/import_PV_JE_successful.jpg)
+    ![16](../../../static/img/usage/payroll/guide/import-PV-JE-successful.jpg)
