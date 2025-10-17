@@ -27,7 +27,7 @@ In order to use this, user’s computer must configure with window email first
 
 2. Key in the PDF password and enter the email address
 
-   ![maintain-employee](../../../static/img/usage/human-resource/hr-function-images/maintain-employee.png)
+   ![maintain-employee](../../../static/img/usage/human-resource/hr-function-images/maintain-employee-1.png)
 
 3. Next, go to **Payroll** > **Print Payslip**. Choose the month End Payslip, Apply and Preview
 
@@ -59,15 +59,13 @@ In order to use this, user’s computer must configure with window email first
 
 5. Save the structure, copy and paste the New IC value to Name2 column
 
-![5](../../../static/img/usage/human-resource/hr-function-images/5.png)
+![5](../../../static/img/usage/human-resource/hr-function-images/ic-as-pdf-password-1.png)
 
-![6](../../../static/img/usage/human-resource/hr-function-images/6.png)
+![6](../../../static/img/usage/human-resource/hr-function-images/ic-as-pdf-password-2.png)
 
-![7](../../../static/img/usage/human-resource/hr-function-images/7.png)
+![7](../../../static/img/usage/human-resource/hr-function-images/ic-as-pdf-password-3.png)
 
-![8](../../../static/img/usage/human-resource/hr-function-images/8.png)
-
-
+![8](../../../static/img/usage/human-resource/hr-function-images/ic-as-pdf-password-4.png)
 
 ## Employee Login
 
@@ -75,7 +73,7 @@ In order to use this, user’s computer must configure with window email first
 This guide explains how to configure and create an account for the employee in SQL Payroll which allow the employee to view their details
 :::
 
-### Setup
+### Employee Login Setup
 
 1. In SQL Payroll, go to **Human Resource** > **Maintain Employee**
 
@@ -95,15 +93,13 @@ This guide explains how to configure and create an account for the employee in S
 
    ![employee-view](../../../static/img/usage/human-resource/hr-function-images/employee-view.png)
 
-
-
 ## Print Letter
 
 :::info
 This guide explains how to print Appointment, Confirmation, Increment letter
 :::
 
-### Setup
+### Print Letter Setup
 
 1. Navigate to the **Maintain Employee** panel
 
@@ -155,11 +151,9 @@ For increment letter, make sure increment is set in **history** in order for the
 
 ![increment-letter-setup](../../../static/img/usage/human-resource/hr-function-images/increment-letter-setup.png)
 
-
-
 ## Maintain Employee with MyKad Reader
 
-### Setup
+### MyKad Reader Setup
 
 1. Link your Smart Card Reader to your computer
 
@@ -191,15 +185,13 @@ For increment letter, make sure increment is set in **history** in order for the
 
    ![result](../../../static/img/usage/human-resource/hr-function-images/result.png)
 
-
-
 ## Recurring Zakat
 
-### Setup
+### Recurring Zakat Setup
 
 1. Go to **Maintain Employee**:
 
-   ![maintain-employee](../../../static/img/usage/human-resource/hr-function-images/maintain-employee.png)
+   ![maintain-employee](../../../static/img/usage/human-resource/hr-function-images/maintain-employee-button.png)
 
 2. Select the respective employee and go to Deduction
 
@@ -219,8 +211,6 @@ For increment letter, make sure increment is set in **history** in order for the
 
    ![result-2](../../../static/img/usage/human-resource/hr-function-images/result-2.png)
 
-
-
 ## Loan
 
 :::note NOTE:
@@ -233,7 +223,7 @@ For company which also provide a loan for their employee(s) that is expected to 
 
 At here allow the user to setting up the loan for the Selected Employee...
 
-### Setup
+### Maintain Loan Setup
 
 Assuming we had the following scenario:
 
@@ -249,11 +239,11 @@ Assuming we had the following scenario:
 
 1. Click **New** & Enter As Following.
 
-![HR_Maintain_Loan_step_1](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step1.jpg)
+   ![HR_Maintain_Loan_step_1](../../../static/img/usage/human-resource/hr-function-images/maintain-loan-step-1.jpg)
 
 2. Click **Schedule | Generate**... Button.
 
-![HR_Maintain_Loan_step_2](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step2.jpg)
+   ![HR_Maintain_Loan_step_2](../../../static/img/usage/human-resource/hr-function-images/maintain-loan-step-2.jpg)
 
 3. Click **Ok** button to confirm.
 4. Click **Save**.
@@ -263,18 +253,16 @@ Assuming we had the following scenario:
 1. Go to process as normal at [New Payroll](/usage/payroll/general#create-payroll).
 2. At the Selected Employee Paysheet Click **Loan**.
 
-![HR_Auto_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/AutoRepayment-Step1.jpg)
+![HR_Auto_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/auto-repayment-step-1.jpg)
 
 #### Advanced Repayments
 
 1. At **Transaction** Tab
 
-![HR_Advanced_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/AdvancedRepayment-Step1.jpg)
-
-
+![HR_Advanced_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/advanced-repayment-step-1.jpg)
 
 ## Print Loan Repayment History
 
 This is to generate/print the Ledger/History of Loan given by company for the selected/All Employees Report...
 
-![HR_Loan_Repayment_History_1](../../../static/img/usage/human-resource/hr-function-images/LoanRepaymentHistory-Step1.jpg)
+![HR_Loan_Repayment_History_1](../../../static/img/usage/human-resource/hr-function-images/loan-repayment-history-step-1.jpg)
