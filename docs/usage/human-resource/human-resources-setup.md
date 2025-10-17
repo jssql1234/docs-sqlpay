@@ -10,7 +10,6 @@ tags: ["SQL Payroll", "HR"]
 
 Whenever a new staff/worker/person/crew enter the company, Maintain Employee is the place where user needs to key in the details
 
-
 1. Navigate yourself to the Maintain Employee panel
 
    ![navigate-1](../../../static/img/usage/human-resource/hr-setup-images/navigate-1.png)
@@ -25,14 +24,14 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
 
 3. Key in the employee’s personal details
 
-   ![HR_Maintain_Employee_1](../../../static/img/usage/human-resource/hr-setup-images/Personal-Tab1.jpg)
+   ![HR_Maintain_Employee_1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)
 
 ### Personal
 
 Click the *Change Password* button & enter the password if you wanted to allow the Employee to login to see his/her own payroll data & report
 Remember to untick the *Active* for any employee had resign before process the payroll.
 
-![HR_Personal_1](../../../static/img/usage/human-resource/hr-setup-images/Personal-Tab1.jpg)  
+![HR_Personal_1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)  
 
 | Field Name      | Properties |
 |-----------------|------------|
@@ -93,15 +92,14 @@ In this tab is use for report grouping for the selected employee. It can be eith
 - [History Type](../../usage/human-resource/human-resources-setup.md#maintain-history-type)
 - [Announcement](../../usage/human-resource/human-resources-setup.md#maintain-announcement)
 
-
-![HR_Grouping_1](../../../static/img/usage/human-resource/hr-setup-images/Grouping-Tab1.jpg)  
+![HR_Grouping_1](../../../static/img/usage/human-resource/hr-setup-images/grouping-tab-1.jpg)  
 
 ### Family
 
 In this tab is use to keep the his/her spouse/family information.  
 It is useful in case anything happen to the employee we able to inform/contact his/her spouse/family
 
-![HR_Family_1](../../../static/img/usage/human-resource/hr-setup-images/Family-Tab1.jpg)  
+![HR_Family_1](../../../static/img/usage/human-resource/hr-setup-images/family-tab-1.jpg)  
 
 | Field Name     | Properties |
 |----------------|------------|
@@ -129,7 +127,7 @@ It is useful in case anything happen to the employee we able to inform/contact h
 
 ### Payroll Info
 
-![HR_Payroll_1](../../../static/img/usage/human-resource/hr-setup-images/Payroll-Tab1.jpg)  
+![HR_Payroll_1](../../../static/img/usage/human-resource/hr-setup-images/payroll-tab-1.jpg)  
 
 | Field Name       | Properties | Field Name       | Properties |
 |------------------|------------|------------------|------------|
@@ -172,13 +170,13 @@ It is useful in case anything happen to the employee we able to inform/contact h
 
 In this Tab is to enter the Fixed [Allowance](/usage/payroll/setup#maintain-allowance) entitled for each month for selected Employee.
 
-![HR_Allowance_1](../../../static/img/usage/human-resource/hr-setup-images/Allowance-Tab1.jpg)  
+![HR_Allowance_1](../../../static/img/usage/human-resource/hr-setup-images/allowance-tab-1.jpg)  
 
 ### Deduction
 
 In this Tab is to enter the Fixed [Deduction](/usage/payroll/setup#maintain-deduction) entitled for each month for selected Employee.
 
-![HR_Deduction_1](../../../static/img/usage/human-resource/hr-setup-images/Deduction-Tab1.jpg) 
+![HR_Deduction_1](../../../static/img/usage/human-resource/hr-setup-images/deduction-tab-1.jpg)
 
 ### Note
 
@@ -188,14 +186,14 @@ For Photo please try
    1. Save in Jpeg file.
    2. The Jpeg file size limit as 200KB
 
-![HR_Note_1](../../../static/img/usage/human-resource/hr-setup-images/Note-Tab1.jpg) 
+![HR_Note_1](../../../static/img/usage/human-resource/hr-setup-images/note-tab-1.jpg)
 
 ### History
 
 In this tab is to show the list of history changes in this selected Employee.  
 Select the Increment at the type column in order to print the Increment Letter (HR.Employee.Increment.Report).  
 
-![HR_History_1](../../../static/img/usage/human-resource/hr-setup-images/History-Tab1.jpg) 
+![HR_History_1](../../../static/img/usage/human-resource/hr-setup-images/history-tab-1.jpg)
 
 | Field Name   | Properties                          |
 |--------------|-------------------------------------|
@@ -208,7 +206,7 @@ Select the Increment at the type column in order to print the Increment Letter (
 
 In this tab is to list out all taxable children(s).
 
-![HR_hild_1](../../../static/img/usage/human-resource/hr-setup-images/Child-Tab1.jpg) 
+![HR_hild_1](../../../static/img/usage/human-resource/hr-setup-images/child-tab-1.jpg)
 
 | Field Name         | Properties                                                                                           |
 |--------------------|------------------------------------------------------------------------------------------------------|
@@ -229,15 +227,13 @@ In this tab is to list out all taxable children(s).
 Here user can attach the file to selected employee (eg Letter of Offer).  
 Make sure the file is keep in the server as the system only keep the file link/path only.  
 
-![HR_Attachments_1](../../../static/img/usage/human-resource/hr-setup-images/Attachments-Tab1.jpg)
-
-
+![HR_Attachments_1](../../../static/img/usage/human-resource/hr-setup-images/attachments-tab-1.jpg)
 
 ## Maintain Branch
 
 This is useful for user had many branch company but the salary is paid from HQ.
 
-![HR_maintain_branch_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Branch1.jpg)
+![HR_maintain_branch_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-branch-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -246,13 +242,11 @@ This is useful for user had many branch company but the salary is paid from HQ.
 | Active         | Untick it if the selected branch code is unavailable                       |
 | Set as Default | Click This button if wanted the selected Branch Code to be Auto Assign this Branch Code on New at [Maintain Employee](/usage/human-resource/setup#maintain-employee) |
 
-
-
 ## Maintain Department
 
 A division of a large organization such as Account, Marketing & etc.
 
-![HR_department_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Department1.jpg)
+![HR_department_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-department-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -261,13 +255,11 @@ A division of a large organization such as Account, Marketing & etc.
 | Active         | Untick it if the selected Department code is unavailable                   |
 | Set as Default | Click This button if wanted the selected Department Code to be Auto Assign this Department Code on New at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
-
 ## Maintain Group
 
 This is another type of report grouping by Group type.
 
-![HR_group_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Group1.jpg)
+![HR_group_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-group-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -276,13 +268,11 @@ This is another type of report grouping by Group type.
 | Active         | Untick it if the selected Group code is unavailable                        |
 | Set as Default | Click This button if wanted the selected Group Code to be Auto Assign this Group Code on New at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
-
 ## Maintain Category
 
 User also can divide the employee by class or division.
 
-![HR_category_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Category1.jpg)
+![HR_category_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-category-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -291,13 +281,11 @@ User also can divide the employee by class or division.
 | Active         | Untick it if the selected Category Code is unavailable                     |
 | Set as Default | Click This button if wanted the selected Category Code to be Auto Assign this Category Code on New at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
-
 ## Maintain Project
 
 User also can Group the employee by Project which the employee work at.
 
-![HR_project_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Project1.jpg)
+![HR_project_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-project-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -306,13 +294,11 @@ User also can Group the employee by Project which the employee work at.
 | Active         | Untick it if the selected Project Code is unavailable                      |
 | Set as Default | Click This button if wanted the selected Project Code to be Auto Assign this Project Code on New at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
-
 ## Maintain Job
 
 User also can Group the employee by Job Type in report.
 
-![HR_Job_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Job1.jpg)
+![HR_Job_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-job-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -321,13 +307,11 @@ User also can Group the employee by Job Type in report.
 | Active         | Untick it if the selected Job Code is unavailable                          |
 | Set as Default | Click This button if wanted the selected Job Code to be Auto Assign this Job Code on New at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
-
 ## Maintain Task
 
 User also can divide the employee by piece of work to be done or undertaken.
 
-![HR_Task_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Task1.jpg)
+![HR_Task_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-task-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -336,13 +320,11 @@ User also can divide the employee by piece of work to be done or undertaken.
 | Active         | Untick it if the selected Task Code is unavailable                         |
 | Set as Default | Click This button if wanted the selected Task Code to be Auto Assign this Task Code on New at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
-
 ## Maintain Race
 
 User also can Group the employee by Race Type in report.
 
-![HR_Race_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Race1.jpg)
+![HR_Race_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-race-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -351,12 +333,11 @@ User also can Group the employee by Race Type in report.
 | Active         | Untick it if the selected Race Code is unavailable                         |
 | Set as Default | Click This button if wanted the selected Race Code to be Auto Assign this Race Code on New at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
 ## Maintain History Type
 
 This is to use to allow user to Group the Changes in the Maintain Employee
 
-![HR_History_Type_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-HistortType1.jpg)
+![HR_History_Type_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-history-type-1.jpg)
 
 | Field Name     | Properties                                                                                     |
 |----------------|------------------------------------------------------------------------------------------------|
@@ -365,12 +346,11 @@ This is to use to allow user to Group the Changes in the Maintain Employee
 | Active         | Untick it if the selected History Type Code is unavailable                                     |
 | Set as Default | Click This button if wanted the selected History Type Code to be Auto Assign this History Type Code on New Changes at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
 
-
 ## Maintain Announcement
 
 This is to used to create, manage, and distribute company-wide or employee-specific announcements within the payroll and HR system, allowing users to share information, updates, or important reminders with their team
 
-![HR_Announcement_1](../../../static/img/usage/human-resource/hr-setup-images/Maintain-Announcement1.png)
+![HR_Announcement_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-announcement-1.png)
 
 | Field Name | Properties |
 |-------------|-------------|
@@ -380,14 +360,12 @@ This is to used to create, manage, and distribute company-wide or employee-speci
 | Category | The classification or type of announcement (e.g., General, System Update, Event). |
 | Remark | Additional notes or comments related to the announcement. |
 
-
-
 ## Print History Lisitng
 
 This provides a comprehensive record of all past history types for employees, and is able to furthur and filter, sort and group the employees witth the fields below
 
-![HR_print_history_listing_1](../../../static/img/usage/human-resource/hr-setup-images/PrintHistoryListing-1.png)
+![HR_print_history_listing_1](../../../static/img/usage/human-resource/hr-setup-images/print-history-listing-1.png)
 
 This is how the report generated will look like
 
-![HR_print_history_listing_2](../../../static/img/usage/human-resource/hr-setup-images/PrintHistoryListing-2.png)
+![HR_print_history_listing_2](../../../static/img/usage/human-resource/hr-setup-images/print-history-listing-2.png)
