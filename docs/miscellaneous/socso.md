@@ -20,7 +20,7 @@ tags: ["SQL Payroll", "SOCSO"]
 
 ## Socso Table
 
-**View | View Socso Table**
+Go to **View | View Socso Table**
 
 This function is to show a list of Socso Amount which is need to be pay/deduct from the Salary by Employee & Employer.
 
