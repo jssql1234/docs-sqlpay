@@ -33,4 +33,3 @@ This Table is for employer who does not use computerised payroll software or pro
 ![fun-fact](../../static/img/miscellaneous/pcb/fun-fact.png)
 
 ## PCB & CP38 Receipt No & Date
-
