@@ -248,11 +248,29 @@ SQL includes a Batch Edit function that allows you to update employees’ EPF in
 5. Now, you may update the *EPF No.* for each employee
     ![update-employee-epf-no](../../../static/img/miscellaneous/epf/foreign-worker/update-employee-epf-no.png)
 
-6. Click **Save** to apply changes.
+6. By default, the system assigns employees to *EPF Employer Account 1*.
+    If a non-Malaysian employee needs to be registered under *EPF Employer Account 2*, update the **EPF Employer No.** field accordingly.
+
+    The **EPF Employer No.** field determines which EPF account the non-Malaysian employee is assigned to:
+       - **1** = EPF Employer Account 1 (default)
+       - **2** = EPF Employer Account 2 (if applicable)
+
+    :::note
+    This field can only be modified for employees whose **Nationality is NOT Malaysia**.
+    :::
+
+    ![update-epf-employer-no](../../../static/img/miscellaneous/epf/foreign-worker/update-epf-employer-no.png)
+
+7. Click **Save** to apply changes.
+
     ![save-employee-epf-no](../../../static/img/miscellaneous/epf/foreign-worker/save-employee-epf-no.png)
 
-7. Verify that you have successfully updated the *EPF No.* for all employees
+8. Verify that you have successfully updated the *EPF Employer No* and *EPF No.* for all employees
     ![verify-employee-epf-no](../../../static/img/miscellaneous/epf/foreign-worker/verify-employee-epf-no.png)
+
+    :::note
+    The **EPF Employer No.** field is only visible when the employee’s **Nationality is NOT Malaysia**.
+    :::
 
 ### Step 3 : Generate EPF Submission File
 
