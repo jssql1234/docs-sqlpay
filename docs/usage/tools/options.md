@@ -43,6 +43,6 @@ This is the setting is set and will apply to all user.
 
 ## Personal Setting
 
-This is the setting changes is set for the Current Login user.
+These settings apply only to the currently logged-in user.
 
 ![personal-general-setting](../../../static/img/usage/tools/options/personal-general-setting.png)

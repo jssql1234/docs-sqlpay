@@ -168,7 +168,7 @@ These **ALL** can use Online Approval for user :
 
 1. Make Sure you had create App Password
 
-   - If you’re using Gmail , you can [CLICK HERE](https://support.google.com/accounts/answer/185833?hl=en) to follow the steps to create your App Password
+   - If you’re using Gmail, see Google’s guide to create an App Password: [Create an App Password](https://support.google.com/accounts/answer/185833?hl=en)
    - After get App Password, return to your SQL Payroll
 
 2. Click on Email Setting
