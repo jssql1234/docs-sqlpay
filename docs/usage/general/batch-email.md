@@ -11,7 +11,7 @@ Make sure you had done setting the template in Maintain Employee.
 
 ## Setting in Maintain Employee
 
-You can [CLICK HERE](https://docs.sql.com.my/sqlacc/usage/tools/fast-report/guide#fast-report---e-mail-client-batch--e-mail-native) to go Batch Email Link
+You can open the Batch Email guide for Fast Report (E-Mail Client Batch / E-Mail Native): [Batch Email guide](https://docs.sql.com.my/sqlacc/usage/tools/fast-report/guide#fast-report---e-mail-client-batch--e-mail-native)
 
 1. Click on 3.2.2 Version 1.2021.196.166 & above
 
@@ -216,7 +216,7 @@ Make sure your pc had install window email (Ex : Outlook or Thunderbird)
 :::info[note]
 Make Sure you had create App Password
 
-- If you’re using Gmail , you can [CLICK HERE](https://support.google.com/accounts/answer/185833?hl=en) to create your App Password
+- If you’re using Gmail, see Google’s guide to create an App Password: [Create an App Password](https://support.google.com/accounts/answer/185833?hl=en)
 
 :::
 

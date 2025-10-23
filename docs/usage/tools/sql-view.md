@@ -27,9 +27,9 @@ In this example scenario, the goal is allowing KL User to view/ edit only the em
 
       ![new-template](../../../static/img/usage/tools/sql-view/new-template.png)
 
-   3. Press New
+   3. Press **New**
 
-   4. Enter description, enter condition and save
+   4. Enter description, condition and save
 
       ![save-template](../../../static/img/usage/tools/sql-view/save-template.png)
 
