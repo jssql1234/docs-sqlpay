@@ -12,26 +12,26 @@ Whenever a new staff/worker/person/crew enter the company, Maintain Employee is 
 
 1. Navigate yourself to the Maintain Employee panel
 
-   ![navigate-1](../../../static/img/usage/human-resource/hr-setup-images/navigate-1.png)
+   ![des-navigate-1](../../../static/img/usage/human-resource/hr-setup-images/navigate-1.png)
 
    \*OR Click on the home page "Maintain Employee"\*\*
 
-   ![navigate-2](../../../static/img/usage/human-resource/hr-setup-images/navigate-2.png)
+   ![des-navigate-2](../../../static/img/usage/human-resource/hr-setup-images/navigate-2.png)
 
 2. Click new to create new employee
 
-   ![new](../../../static/img/usage/human-resource/hr-setup-images/new.png)
+   ![des-new-employee](../../../static/img/usage/human-resource/hr-setup-images/new-employee.png)
 
 3. Key in the employee’s personal details
 
-   ![HR_Maintain_Employee_1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)
+   ![des-personal-tab-1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)
 
 ### Personal
 
 Click the *Change Password* button & enter the password if you wanted to allow the Employee to login to see his/her own payroll data & report
 Remember to untick the *Active* for any employee had resign before process the payroll.
 
-![HR_Personal_1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)  
+![des-personal-tab-1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)
 
 | Field Name      | Properties |
 |-----------------|------------|
@@ -92,42 +92,42 @@ In this tab is use for report grouping for the selected employee. It can be eith
 - [History Type](../../usage/human-resource/human-resources-setup.md#maintain-history-type)
 - [Announcement](../../usage/human-resource/human-resources-setup.md#maintain-announcement)
 
-![HR_Grouping_1](../../../static/img/usage/human-resource/hr-setup-images/grouping-tab-1.jpg)  
+![des-grouping-tab-1](../../../static/img/usage/human-resource/hr-setup-images/grouping-tab-1.jpg)
 
 ### Family
 
-In this tab is use to keep the his/her spouse/family information.  
+In this tab is use to keep the his/her spouse/family information.
 It is useful in case anything happen to the employee we able to inform/contact his/her spouse/family
 
-![HR_Family_1](../../../static/img/usage/human-resource/hr-setup-images/family-tab-1.jpg)  
+![des-family-tab-1](../../../static/img/usage/human-resource/hr-setup-images/family-tab-1.jpg)
 
 | Field Name     | Properties |
 |----------------|------------|
-| Spouse Name    | Definition: Employee husband/wife full name |  
-|                | Field Type: Alphanumerical                  |  
-|                | Length: 160                                 |  
-| Spouse Address | Definition: Employee husband/wife Correspondence Address |  
-|                | Field Type: Alphanumerical                  |  
-|                | Length: 60 (for Each Line)                  |  
-| Spouse Phone   | Definition: Employee husband/wife Correspondence Phone Number |  
-|                | Field Type: Alphanumerical                  |  
-|                | Length: 20 (for Each Line)                  |  
-| Spouse Mobile  | Definition: Employee husband/wife Handphone Number |  
-|                | Field Type: Alphanumerical                  |  
-|                | Length: 20                                  |  
-| Tax Branch     | Definition: Employee husband/wife Tax Branch |  
-|                | Field Type: Alphanumerical                  |  
-|                | Length: 40                                  |  
-| Tax No         | Definition: Employee husband/wife Tax Number |  
-|                | Field Type: Alphanumerical                  |  
-|                | Length: 20                                  |  
-| Spouse IC No   | Definition: Employee husband/wife New Identity Card Number |  
-|                | Field Type: Alphanumerical                  |  
-|                | Length: 20                                  |  
+| Spouse Name    | Definition: Employee husband/wife full name |
+|                | Field Type: Alphanumerical                  |
+|                | Length: 160                                 |
+| Spouse Address | Definition: Employee husband/wife Correspondence Address |
+|                | Field Type: Alphanumerical                  |
+|                | Length: 60 (for Each Line)                  |
+| Spouse Phone   | Definition: Employee husband/wife Correspondence Phone Number |
+|                | Field Type: Alphanumerical                  |
+|                | Length: 20 (for Each Line)                  |
+| Spouse Mobile  | Definition: Employee husband/wife Handphone Number |
+|                | Field Type: Alphanumerical                  |
+|                | Length: 20                                  |
+| Tax Branch     | Definition: Employee husband/wife Tax Branch |
+|                | Field Type: Alphanumerical                  |
+|                | Length: 40                                  |
+| Tax No         | Definition: Employee husband/wife Tax Number |
+|                | Field Type: Alphanumerical                  |
+|                | Length: 20                                  |
+| Spouse IC No   | Definition: Employee husband/wife New Identity Card Number |
+|                | Field Type: Alphanumerical                  |
+|                | Length: 20                                  |
 
 ### Payroll Info
 
-![HR_Payroll_1](../../../static/img/usage/human-resource/hr-setup-images/payroll-tab-1.jpg)  
+![des-payroll-tab-1](../../../static/img/usage/human-resource/hr-setup-images/payroll-tab-1.jpg)
 
 | Field Name       | Properties | Field Name       | Properties |
 |------------------|------------|------------------|------------|
@@ -170,30 +170,30 @@ It is useful in case anything happen to the employee we able to inform/contact h
 
 In this Tab is to enter the Fixed [Allowance](/usage/payroll/setup#maintain-allowance) entitled for each month for selected Employee.
 
-![HR_Allowance_1](../../../static/img/usage/human-resource/hr-setup-images/allowance-tab-1.jpg)  
+![des-allowance-tab-1](../../../static/img/usage/human-resource/hr-setup-images/allowance-tab-1.jpg)
 
 ### Deduction
 
 In this Tab is to enter the Fixed [Deduction](/usage/payroll/setup#maintain-deduction) entitled for each month for selected Employee.
 
-![HR_Deduction_1](../../../static/img/usage/human-resource/hr-setup-images/deduction-tab-1.jpg)
+![des-deduction-tab-1](../../../static/img/usage/human-resource/hr-setup-images/deduction-tab-1.jpg)
 
 ### Note
 
-In this Tab user can load the Photo & other Information for the selected Employee.  
-For Photo please try  
+In this Tab user can load the Photo & other Information for the selected Employee.
+For Photo please try
 
    1. Save in Jpeg file.
    2. The Jpeg file size limit as 200KB
 
-![HR_Note_1](../../../static/img/usage/human-resource/hr-setup-images/note-tab-1.jpg)
+![des-note-tab-1](../../../static/img/usage/human-resource/hr-setup-images/note-tab-1.jpg)
 
 ### History
 
-In this tab is to show the list of history changes in this selected Employee.  
-Select the Increment at the type column in order to print the Increment Letter (HR.Employee.Increment.Report).  
+In this tab is to show the list of history changes in this selected Employee.
+Select the Increment at the type column in order to print the Increment Letter (HR.Employee.Increment.Report).
 
-![HR_History_1](../../../static/img/usage/human-resource/hr-setup-images/history-tab-1.jpg)
+![des-history-tab-1](../../../static/img/usage/human-resource/hr-setup-images/history-tab-1.jpg)
 
 | Field Name   | Properties                          |
 |--------------|-------------------------------------|
@@ -206,7 +206,7 @@ Select the Increment at the type column in order to print the Increment Letter (
 
 In this tab is to list out all taxable children(s).
 
-![HR_hild_1](../../../static/img/usage/human-resource/hr-setup-images/child-tab-1.jpg)
+![des-child-tab-1](../../../static/img/usage/human-resource/hr-setup-images/child-tab-1.jpg)
 
 | Field Name         | Properties                                                                                           |
 |--------------------|------------------------------------------------------------------------------------------------------|
@@ -224,16 +224,16 @@ In this tab is to list out all taxable children(s).
 
 ### Attachments
 
-Here user can attach the file to selected employee (eg Letter of Offer).  
-Make sure the file is keep in the server as the system only keep the file link/path only.  
+Here user can attach the file to selected employee (eg Letter of Offer).
+Make sure the file is keep in the server as the system only keep the file link/path only.
 
-![HR_Attachments_1](../../../static/img/usage/human-resource/hr-setup-images/attachments-tab-1.jpg)
+![des-attachments-tab-1](../../../static/img/usage/human-resource/hr-setup-images/attachments-tab-1.jpg)
 
 ## Maintain Branch
 
 This is useful for user had many branch company but the salary is paid from HQ.
 
-![HR_maintain_branch_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-branch-1.jpg)
+![des-maintain-branch-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-branch-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -246,7 +246,7 @@ This is useful for user had many branch company but the salary is paid from HQ.
 
 A division of a large organization such as Account, Marketing & etc.
 
-![HR_department_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-department-1.jpg)
+![des-maintain-department-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-department-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -259,7 +259,7 @@ A division of a large organization such as Account, Marketing & etc.
 
 This is another type of report grouping by Group type.
 
-![HR_group_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-group-1.jpg)
+![des-maintain-group-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-group-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -272,7 +272,7 @@ This is another type of report grouping by Group type.
 
 User also can divide the employee by class or division.
 
-![HR_category_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-category-1.jpg)
+![des-maintain-category-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-category-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -285,7 +285,7 @@ User also can divide the employee by class or division.
 
 User also can Group the employee by Project which the employee work at.
 
-![HR_project_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-project-1.jpg)
+![des-maintain-project-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-project-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -298,7 +298,7 @@ User also can Group the employee by Project which the employee work at.
 
 User also can Group the employee by Job Type in report.
 
-![HR_Job_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-job-1.jpg)
+![des-maintain-job-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-job-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -311,7 +311,7 @@ User also can Group the employee by Job Type in report.
 
 User also can divide the employee by piece of work to be done or undertaken.
 
-![HR_Task_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-task-1.jpg)
+![des-maintain-task-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-task-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -324,7 +324,7 @@ User also can divide the employee by piece of work to be done or undertaken.
 
 User also can Group the employee by Race Type in report.
 
-![HR_Race_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-race-1.jpg)
+![des-maintain-race-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-race-1.jpg)
 
 | Field Name     | Properties                                                                 |
 |----------------|----------------------------------------------------------------------------|
@@ -337,7 +337,7 @@ User also can Group the employee by Race Type in report.
 
 This is to use to allow user to Group the Changes in the Maintain Employee
 
-![HR_History_Type_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-history-type-1.jpg)
+![des-maintain-history-type-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-history-type-1.jpg)
 
 | Field Name     | Properties                                                                                     |
 |----------------|------------------------------------------------------------------------------------------------|
@@ -350,7 +350,7 @@ This is to use to allow user to Group the Changes in the Maintain Employee
 
 This is to used to create, manage, and distribute company-wide or employee-specific announcements within the payroll and HR system, allowing users to share information, updates, or important reminders with their team
 
-![HR_Announcement_1](../../../static/img/usage/human-resource/hr-setup-images/maintain-announcement-1.png)
+![des-maintain-announcement-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-announcement-1.png)
 
 | Field Name | Properties |
 |-------------|-------------|
@@ -364,8 +364,8 @@ This is to used to create, manage, and distribute company-wide or employee-speci
 
 This provides a comprehensive record of all past history types for employees, and is able to furthur and filter, sort and group the employees witth the fields below
 
-![HR_print_history_listing_1](../../../static/img/usage/human-resource/hr-setup-images/print-history-listing-1.png)
+![des-print-history-listing-1](../../../static/img/usage/human-resource/hr-setup-images/print-history-listing-1.png)
 
 This is how the report generated will look like
 
-![HR_print_history_listing_2](../../../static/img/usage/human-resource/hr-setup-images/print-history-listing-2.png)
+![des-print-history-listing-2](../../../static/img/usage/human-resource/hr-setup-images/print-history-listing-2.png)
