@@ -28,4 +28,4 @@ Where to get the appointment letters
 3. Click **preview**.
 4. Select the **HR.Employee Appointment Report**.
 
-![HR_FAQ](../../../static/img/usage/human-resource/hr-faq-images/faq-get-appointment-letter-1.jpg)
+![des-faq-get-appointment-letter-1](../../../static/img/usage/human-resource/hr-faq-images/faq-get-appointment-letter-1.jpg)
