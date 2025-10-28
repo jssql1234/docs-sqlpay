@@ -58,7 +58,7 @@ Below is example to change the Leave Entitlement Processor to be calculate from 
 
 4. In the **Script** look for the word `lJoinDate` & change it to `lConfirmDate`.
 
-![diy-example1-3](../../../static/img/usage/tools/maintain-diy/diy-example1-3.jpg)
+    ![diy-example1-3](../../../static/img/usage/tools/maintain-diy/diy-example1-3.jpg)
 
 ### Example 2 - Leave Calculate Amount - Unpaid Leave Amount Base on Working Day
 
