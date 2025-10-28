@@ -18,7 +18,7 @@ slug: /integration/hrms/e-leave/app-usage
 
 ## Leave Balance
 
-### Employee
+### Employee (Leave Balance)
 
 User can view leave balance of different year by navigating to different year
 
@@ -32,7 +32,7 @@ apply
 
 ## Leave Application
 
-### Employee
+### Employee (Leave Application)
 
 ![leave-app-employee](../../../../static/img/integration/hrms/e-leave/leave-app-employee.png)
 
@@ -236,7 +236,7 @@ Batch Leave Approval will undergo the same checkings as Leave Approval and warni
 
 ### Leave Approval Notification
 
-#### Leave Approval
+#### Leave Approval Notify Message
 
 User will receive the following notification once manager approves his leave:
 

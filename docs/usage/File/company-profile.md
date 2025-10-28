@@ -6,7 +6,8 @@ slug: /usage/file/company-profile
 tags: ["SQL Payroll", "Usage"]
 ---
 
-##A guide to Maintain Company Profile in SQL Payroll
+A guide to Maintain Company Profile in SQL Payroll
+
 ## Setup
 
 1. Navigate to File > Company Profile

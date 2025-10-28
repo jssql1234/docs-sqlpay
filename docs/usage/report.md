@@ -34,7 +34,7 @@ tags: ["SQL Payroll", "Report","EA form"]
 3. After the above steps, you will see the details of each employees
 
    :::info[Customization]
-   In SQL Payroll, we do support amending employee EA Form details before printing. Find out more [here](#customize-ea-form)  
+   In SQL Payroll, we do support amending employee EA Form details before printing. Find out more [here](#customize-ea-form)
    :::
 
 4. Click on the **Print** button
