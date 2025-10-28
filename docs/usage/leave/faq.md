@@ -1,5 +1,6 @@
 ---
 title: FAQ
+sidebar_position: 2
 description: A guide about approve same leave request
 slug: /usage/leave/faq
 tags: ["SQL Payroll", "FAQ", "Leave"]
