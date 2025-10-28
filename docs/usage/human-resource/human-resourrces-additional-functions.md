@@ -67,8 +67,6 @@ In order to use this, user’s computer must configure with window email first
 
 ![8](../../../static/img/usage/human-resource/hr-function-images/8.png)
 
-
-
 ## Employee Login
 
 :::info
@@ -94,8 +92,6 @@ This guide explains how to configure and create an account for the employee in S
 5. Finally, here's an example of employee view
 
    ![employee-view](../../../static/img/usage/human-resource/hr-function-images/employee-view.png)
-
-
 
 ## Print Letter
 
@@ -155,8 +151,6 @@ For increment letter, make sure increment is set in **history** in order for the
 
 ![increment-letter-setup](../../../static/img/usage/human-resource/hr-function-images/increment-letter-setup.png)
 
-
-
 ## Maintain Employee with MyKad Reader
 
 ### Setup
@@ -191,8 +185,6 @@ For increment letter, make sure increment is set in **history** in order for the
 
    ![result](../../../static/img/usage/human-resource/hr-function-images/result.png)
 
-
-
 ## Recurring Zakat
 
 ### Setup
@@ -218,8 +210,6 @@ For increment letter, make sure increment is set in **history** in order for the
    ![result-1](../../../static/img/usage/human-resource/hr-function-images/result-1.png)
 
    ![result-2](../../../static/img/usage/human-resource/hr-function-images/result-2.png)
-
-
 
 ## Loan
 
@@ -249,11 +239,11 @@ Assuming we had the following scenario:
 
 1. Click **New** & Enter As Following.
 
-![HR_Maintain_Loan_step_1](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step1.jpg)
+   ![HR_Maintain_Loan_step_1](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step1.jpg)
 
 2. Click **Schedule | Generate**... Button.
 
-![HR_Maintain_Loan_step_2](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step2.jpg)
+   ![HR_Maintain_Loan_step_2](../../../static/img/usage/human-resource/hr-function-images/MaintainLoan-Step2.jpg)
 
 3. Click **Ok** button to confirm.
 4. Click **Save**.
@@ -270,8 +260,6 @@ Assuming we had the following scenario:
 1. At **Transaction** Tab
 
 ![HR_Advanced_Repayment_1](../../../static/img/usage/human-resource/hr-function-images/AdvancedRepayment-Step1.jpg)
-
-
 
 ## Print Loan Repayment History
 

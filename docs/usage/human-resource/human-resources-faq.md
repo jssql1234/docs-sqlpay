@@ -8,7 +8,7 @@ tags: ["SQL Account", "HR", "FAQ"]
 
 ## Where I can get/modify the appointment letter?
 
-**Issue:** 
+**Issue:**
 
 Where do i get the appointment letters
 
@@ -28,4 +28,4 @@ Where do i get the appointment letters
 3. Click **preview**.
 4. Select the **HR.Employee Appointment Report**.
 
-![HR_FAQ](../../../static/img/usage/human-resource/hr-faq-images/faq-GetAppointmentLetter1.jpg) 
+![HR_FAQ](../../../static/img/usage/human-resource/hr-faq-images/faq-GetAppointmentLetter1.jpg)

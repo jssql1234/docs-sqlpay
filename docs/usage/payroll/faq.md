@@ -56,13 +56,13 @@ Government Reports | Print Income Tax PCB 2 (II)
 1. Go to Control Panel.
 2. Search for Region in Control Panel. 3. Click on Additional Settings...
 
-![solution-4a](../../../static/img/usage/payroll/faq/solution_4a.png)
+    ![solution-4a](../../../static/img/usage/payroll/faq/solution_4a.png)
 
-4. Click to Date tab.
-5. Change the Short Date Format to DD/MM/YYYY
+3. Click to Date tab.
+4. Change the Short Date Format to DD/MM/YYYY
 
-![solution-4b](../../../static/img/usage/payroll/faq/solution_4b.png)
+    ![solution-4b](../../../static/img/usage/payroll/faq/solution_4b.png)
 
-6. Date format has display correctly now.
+5. Date format has display correctly now.
 
-![solution-4c](../../../static/img/usage/payroll/faq/solution_4c.png)
+    ![solution-4c](../../../static/img/usage/payroll/faq/solution_4c.png)

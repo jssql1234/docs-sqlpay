@@ -82,6 +82,7 @@ This guide explains how to set daily payment for your employees. Given the below
    - Hourly Pay Rate = RM16.00 / 8 hrs = RM2.00 per hour
 
    Therefore, the overtime calculation is
+
    |Code|Work Unit|Rate|Pay Rate|OT Pay Rate|Amount|
    |:--:| :-----: |:--:|:------:|:---------:|:----:|
    |HW15|4hrs|1.5|2.00|RM2.00 x 1.5 = RM3.00|RM3.00 x 4 hrs = RM12.00|

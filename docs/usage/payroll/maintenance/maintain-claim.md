@@ -28,7 +28,7 @@ tags: ["SQL Payroll", "claim"]
 3. Insert the info that you want to set in maintain claim
 
     ![insert](../../../../static/img/usage/payroll/maintenance/maintain-claim/insert.png)
-    
+
     1. Insert the Code of the Claim that you want to generate.
     2. Insert the Description of the claim.
     3. Insert the Yearly Limit for the claim, eg: RM 2000 for every employee then you can insert the rate of RM 2000 but if there is no limit then you can left it blank as Unlimited by click the 'Set as Unlimited' button.

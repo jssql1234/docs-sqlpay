@@ -68,7 +68,7 @@ tags: ["SQL Payroll", "Setup"]
 3. Insert the info that you want to set in maintain claim
 
     ![insert](../../../static/img/usage/payroll/maintenance/maintain-claim/insert.png)
-    
+
     1. Insert the Code of the Claim that you want to generate.
     2. Insert the Description of the claim.
     3. Insert the Yearly Limit for the claim, eg: RM 2000 for every employee then you can insert the rate of RM 2000 but if there is no limit then you can left it blank as Unlimited by click the 'Set as Unlimited' button.
@@ -514,7 +514,7 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
 
 ### Explanation of auto rounding
 
-**Without auto rounding**
+#### Without auto rounding
 
 ![5](../../../static/img/usage/payroll/maintenance/maintain-payment-method/5.png)
 
@@ -523,7 +523,7 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
 
 ![6](../../../static/img/usage/payroll/maintenance/maintain-payment-method/6.png)
 
-**With auto rounding**
+#### With auto rounding
 
 - After month end will have **auto adjustment** to nearest 5 cents
 

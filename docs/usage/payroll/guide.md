@@ -39,6 +39,7 @@ To process Mid Month Ad Hoc Payroll
 ![pay-adhoc-bonusallow](../../../static/img/usage/payroll/general/pay_adHoc_bonusallow.png)
 
 Default this option
+
 - All(PCB,Socso,EPF) Contribution for Fixed Transaction will be 0
 - Value will be 0 (Zero) & user need to self enter a value for All/Selected Employee
 
@@ -91,24 +92,15 @@ Before you process the month end, you can use open pending payroll to key-in all
 - This is for the user to prepare the transaction (eg Overtime, Deduction) before Processing the Payroll...
 - Available Pending Type Transactions
 
-<table>
-  <tr>
-    <td>Wages</td><td>Allowance</td><td>Tax Deduction</td><td>Overtime</td>
-  </tr>
-  <tr>
-    <td>Deduction</td><td>Advance Paid</td><td>Claims</td><td>Loan</td>
-  </tr>
-  <tr>
-    <td>CP38</td><td>Advance Deduct</td><td>Bonus</td><td>Paid Leave</td>
-  </tr>
-  <tr>
-    <td>Director Fees</td><td>Unpaid Leave</td><td>Tax Benefit</td><td>Commission</td>
-  </tr>
-</table>
+| Wages         | Allowance       | Tax Deduction   | Overtime     |
+|----------------|----------------|-----------------|---------------|
+| Deduction     | Advance Paid    | Claims          | Loan          |
+| CP38          | Advance Deduct  | Bonus           | Paid Leave    |
+| Director Fees | Unpaid Leave    | Tax Benefit     | Commission    |
 
 - After all the Pending had enter user may go either below step to for next step except Pending Advance Paid
-    - New Payroll | Final Process
-    - New_Payroll | Ad Hoc Process
+      - New Payroll | Final Process
+      - New_Payroll | Ad Hoc Process
 - For Pending Advance Paid must use New_Payroll | Ad Hoc Process then only can use New Payroll | Final Process
 
 ### Steps
@@ -253,7 +245,7 @@ This is generally towards settlement of outstanding taxes.
 | Ref1 | Reference 1 | Alphanumerical, length 20 |
 | Ref2 | Reference 2 | Alphanumerical, length 20 |
 | Amount | CP38 amount | Decimal, length 18, precision 2 |
-| Generate Button | For Batch Generate CP38 | | 
+| Generate Button | For Batch Generate CP38 | |
 
 ### Pending Allowance
 
@@ -292,6 +284,7 @@ Below Example information is applicable for
 | Amount | Deduction total amount | Decimal, length 18, precision 2 |
 
 ### Pending Bonus & Pending Director Fees
+
 Below Example information is applicable for
 
 - Pending Bonus
