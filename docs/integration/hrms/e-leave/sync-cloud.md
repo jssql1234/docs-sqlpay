@@ -16,11 +16,11 @@ slug: /integration/hrms/e-leave/sync-cloud
     - **Red Highlight:** Rejected leave
     - Editable columns:
         - Comment
-        - Action: 
+        - Action:
             - Approved
             - Reject
             - Unapprove
-            - Unreject	
+            - Unreject
 
 ![sync-cloud](../../../../static/img/integration/hrms/e-leave/sync-cloud.png)
 
