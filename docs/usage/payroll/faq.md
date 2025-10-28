@@ -64,6 +64,9 @@ Government Reports | Print Income Tax PCB 2 (II)
 
 5. Change the Short Date Format to DD/MM/YYYY
 
+
+5. Date format has display correctly now.
+
    ![region-date](../../../static/img/usage/payroll/faq/region-date.png)
 
 6. Date format has display correctly now.
