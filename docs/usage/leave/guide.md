@@ -1,6 +1,6 @@
 ---
-sidebar_position: 4
 title: Guide
+sidebar_position: 1
 description: A guide of leave for SQL Payroll
 slug: /usage/leave/guide
 tags:
@@ -148,8 +148,7 @@ Option 1: Global Icon | Select a State | OK
 User may check or uncheck the dates
 :::
 
-Option 2: Click on ***'P' button*** | Select date  
-    
+Option 2: Click on ***'P' button*** | Select date
     ![maintain-public-holiday3](../../../static/img/integration/hrms/e-tms/maintain-public-holiday3.png)
 
 **Step 3:** Save  
@@ -186,7 +185,13 @@ Option 2: Click on ***'P' button*** | Select date
 - **You can set the calendar into individual employee in Maintain Employee. It will loaded the employee leave aplication.**
 - It able to monitor the leave apply based on the up-to-date number of leaves entitlement.
 
-  For example, 1. **_Annual Leave Entitlement = 12 days_** 2. **_Average Annual Leave Entitlement = 1 day per month_** 3. **_Annual Leave applied for a month_** 1. **_January = 0 day_** 2. **_February = 1 day_** 3. **_March = 0 day_**
+  For example,
+  1. **Annual Leave Entitlement = 12 days**
+  2. **Average Annual Leave Entitlement = 1 day per month**
+  3. **Annual Leave applied for a month**
+      - **January = 0 day**
+      - **February = 1 day**
+      - **March = 0 day**
 
   From the above scenario, total annual leaves entitled up to month of April are 4 days (including month of April).
 

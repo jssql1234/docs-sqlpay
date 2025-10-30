@@ -1,10 +1,13 @@
 ---
 title: FAQ
+sidebar_position: 2
 description: A guide about approve same leave request
 slug: /usage/leave/faq
 tags: ["SQL Payroll", "FAQ", "Leave"]
 ---
-## Both managers have approved the same leave submitted from same employee. How many leave will be taken?
+## Leave Count for Approved by Both Managers
+
+### 1. Both managers have approved the same leave submitted from same employee. How many leave will be taken?
 
 - **Example**
 
@@ -17,7 +20,6 @@ Let said
 If Manager A approve the leave while Manager B also approve the same leave for staff C.
 
 **How many actual leave will be deducted?**
-
 
 - **Answer**
 

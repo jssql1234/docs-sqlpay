@@ -25,7 +25,7 @@ This is **Additional Module** (DIY Fields & DIY Script Module)
 
 User can override the build in Calculation/Formula to suite their requirement. The Language use is Pascal.
 
-**Available Calculation Types**
+**Available Calculation Types:**
 
 1. **Generate Document Number**: Manipulate the Next Document Number Format.
 2. **Leave Entitlement Policy**: Manipulate yearly Leave Entitlement
@@ -44,21 +44,21 @@ User can override the build in Calculation/Formula to suite their requirement. T
 
 ### Example 1 - Leave Entitlement Processor - Calculate from Confirm Date
 
-Below is Example to change the Leave Entitlement Processor to be calculate from the Confirmation Date.
+Below is example to change the Leave Entitlement Processor to be calculate from the Confirmation Date.
 
 1. Right Click at **Leave Entitlement Processor** and select **New Calculation**.
 
-![diy-example1-1](../../../static/img/usage/tools/maintain-diy/diy-example1-1.png)
+    ![diy-example1-1](../../../static/img/usage/tools/maintain-diy/diy-example1-1.png)
 
 2. Click **New Button** and select any Formula which suit you & Click OK.
 
-![diy-example1-2](../../../static/img/usage/tools/maintain-diy/diy-example1-2.png)
+    ![diy-example1-2](../../../static/img/usage/tools/maintain-diy/diy-example1-2.png)
 
-3. Enter any **Description** (eg Leave_Entitlement_Processor-Confirm Date) in the Description field (Only Alphanumeric & no spacing).
+3. Enter any **Description** (eg. Leave_Entitlement_Processor-Confirm Date) in the Description field (Only Alphanumeric & no spacing).
 
-4. In the **Script** look for the word *lJoinDate* & change it to *lConfirmDate*.
+4. In the **Script** look for the word `lJoinDate` & change it to `lConfirmDate`.
 
-![diy-example1-3](../../../static/img/usage/tools/maintain-diy/diy-example1-3.jpg)
+    ![diy-example1-3](../../../static/img/usage/tools/maintain-diy/diy-example1-3.jpg)
 
 ### Example 2 - Leave Calculate Amount - Unpaid Leave Amount Base on Working Day
 
@@ -68,28 +68,28 @@ Below is example to change the Unpaid Leave Amount to base on Working Days in Ma
 
 2. Click **New Button** and select any Formula which suit you & Click OK.
 
-![diy-example2-1](../../../static/img/usage/tools/maintain-diy/diy-example2-1.png)
+    ![diy-example2-1](../../../static/img/usage/tools/maintain-diy/diy-example2-1.png)
 
-3. Enter any **Description** (eg Leave_Calculate_Amt-Unpaid) in the Description field (Only Alphanumeric & no spacing).
+3. Enter any **Description** (eg. Leave_Calculate_Amt-Unpaid) in the Description field (Only Alphanumeric & no spacing).
 
-4. In the **Script** look for the word *DaysBetweenStartAndEndDate* & change it to *WorkingDayPerMonth* or Copy below script & paste to the Script Section.
+4. In the **Script** look for the word `DaysBetweenStartAndEndDate` & change it to `WorkingDayPerMonth` or Copy below script & paste to the Script Section.
 
-```pascal
-// Example - Leave Calculate Amount - Based On Employee Default Wages
-uses DB, DateUtils;
+    ```pascal
+    // Example - Leave Calculate Amount - Based On Employee Default Wages
+    uses DB, DateUtils;
 
-begin
-    Amount := DefaultWages / WorkingDayPerMonth;
-end.
-```
+    begin
+        Amount := DefaultWages / WorkingDayPerMonth;
+    end.
+    ```
 
-![diy-example2-2](../../../static/img/usage/tools/maintain-diy/diy-example2-2.png)
+    ![diy-example2-2](../../../static/img/usage/tools/maintain-diy/diy-example2-2.png)
 
 5. Click **Compile button** to make sure is **Compile success**.
 
 6. Click **Save** button and click X to Close.
 
-7. Select the Item just created (eg Leave_Calculate_Amt-Unpaid) and click Ok button.
+7. Select the Item just created (eg. Leave_Calculate_Amt-Unpaid) and click Ok button.
 
 8. Done & **Remember** to set it at **Maintain Leave Group** under the **Amount Column** for UL.
 
@@ -101,30 +101,30 @@ Below is example to set Maximum limit the Overtime Rate.
 
 2. Click **New Button**.
 
-3. Enter any **Description** (eg Overtime_Max_Rate) in the Description field (Only Alphanumeric & no spacing)
+3. Enter any **Description** (eg. Overtime_Max_Rate) in the Description field (Only Alphanumeric & no spacing)
 
 4. Copy below script & paste to the Script Section.
 
-```pascal
-uses Math, DB;
+    ```pascal
+    uses Math, DB;
 
-var V: Double;
-begin
-  V := 0;
-  if OTAmount > 1500.00 then
-    V :=  10.82 else //(1500/26/8)
-    V := (OTAmount / 26 /8);
-    
-  PayRate := SimpleRoundToEx(V, -2);
-end.
-```
+    var V: Double;
+    begin
+      V := 0;
+      if OTAmount > 1500.00 then
+        V :=  10.82 else //(1500/26/8)
+        V := (OTAmount / 26 /8);
+        
+      PayRate := SimpleRoundToEx(V, -2);
+    end.
+    ```
 
-![diy-example3-1](../../../static/img/usage/tools/maintain-diy/diy-example3-1.png)
+    ![diy-example3-1](../../../static/img/usage/tools/maintain-diy/diy-example3-1.png)
 
 5. Click **Compile button** to make sure is **Compile success**.
 
 6. Click **Save** button and click X to Close.
 
-7. Select the Item just created (eg Overtime_Max_Rate) and click Ok button.
+7. Select the Item just created (eg. Overtime_Max_Rate) and click Ok button.
 
 8. Done & **Remember** to set it at **Maintain Overtime**.
