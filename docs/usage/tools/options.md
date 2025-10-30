@@ -26,7 +26,7 @@ This is the setting is set and will apply to all user.
 
 2. **Auto Mark Finalize After Save PaySheet Changes.** Tick this option is wanted system to put indicator which employee you had done at PaySheet.
 
-![system-general-setting](../../../static/img/usage/tools/options/system-general-setting.png)
+    ![system-general-setting](../../../static/img/usage/tools/options/system-general-setting.png)
 
 3. You can choose the following password requirement:
 
@@ -43,6 +43,6 @@ This is the setting is set and will apply to all user.
 
 ## Personal Setting
 
-This is the setting changes is set for the Current Login user.
+These settings apply only to the currently logged-in user.
 
 ![personal-general-setting](../../../static/img/usage/tools/options/personal-general-setting.png)

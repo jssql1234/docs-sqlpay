@@ -6,26 +6,26 @@ slug: /usage/human-resource/faq
 tags: ["SQL Account", "HR", "FAQ"]
 ---
 
-## Where I can get/modify the appointment letter?
+## 1. Where I can get/modify the appointment letter?
 
-**Issue:** 
+**Issue:**
 
-Where do i get the appointment letters
+Where to get the appointment letters
 
 **Solution:**
 
 1. Go to **Human Resource | Maintain Employee**..., you can found the following common use employee letters:
 
-   - Acceptance of Resignatin Letter
+   - Acceptance of Resignation Letter
    - Appointment Letter
    - Confirmation Letter
    - Employment Application Form
    - Increment Letter
-   - Interview Aseessment Form
+   - Interview Assessment Form
    - and more...
 
 2. **Highlight** the employee.
 3. Click **preview**.
 4. Select the **HR.Employee Appointment Report**.
 
-![HR_FAQ](../../../static/img/usage/human-resource/hr-faq-images/faq-GetAppointmentLetter1.jpg) 
+![des-faq-get-appointment-letter-1](../../../static/img/usage/human-resource/hr-faq-images/faq-get-appointment-letter-1.jpg)
