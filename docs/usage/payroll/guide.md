@@ -8,6 +8,47 @@ tags: ["SQL Payroll", "Payroll", "Month End", "Pending Payroll"]
 
 ## Create Payroll
 
+### Maintain Employee's Opening Balance
+
+- Maintain employee’s opening balance is done when the respective employee enter the company in a month **later than January**.
+- The previous PCB amount is **needed to key in so that the system can correctly calculate** the PCB amount that’s needed to pay every month.
+
+1. Navigate to the **Open Payroll**
+
+   ![navigate](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/navigate.png)
+
+2. Double click the year in Open Payroll
+
+   ![open-payroll](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-payroll.png)
+
+3. Double click the transaction under ‘Opening’
+
+   ![open-txn](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-txn.png)
+
+4. Select the employee by double clicking on the name
+
+   ![select-employee](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/select-employee.png)
+
+5. Key in all the employee’s opening balance information
+
+   ![key-in-employee-details](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/key-in-employee-details.png)
+
+#### Mapping of SQL 'opening' to EA form
+
+![mapping](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/mapping.png)
+
+#### Special note for additional EPF and additional PCB
+
+- Additional EPF and additional PCB are used when additional remuneration (bonus, commission, paid leave) is given.
+- In the EA form, normal EPF and additional EPF is group into one.
+- However, SQL recommend users to split the amount for a more detail input.
+
+![notes](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/notes.png)
+
+:::info
+Frequency – Where one company will pay salary **twice or more times** in **a Month**.
+:::
+
 ### Final Process
 
 Enable to process the Month Pay Salary and Final Pay Salary.
@@ -462,7 +503,7 @@ This is **Additional Module** (Payroll Accounting (SQL Payroll))
 
 3. It is available to import payroll data in **SQL Account version 745** and above.
 
-    ![export-import-as-PV-JE](../../../static/img/usage/payroll/guide/export-import-as-PV-JE.jpg)
+    ![export-import-as-pv-je](../../../static/img/usage/payroll/guide/export-import-as-pv-je.jpg)
 
 ### Overview of the Process Flow
 
@@ -536,7 +577,7 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
     To generate the Payment Voucher or Journal Entry from SQL Payroll. Click on **Generate**.
 
-    ![generate-PV-JE](../../../static/img/usage/payroll/guide/generate-PV-JE.jpg)
+    ![generate-pv-je](../../../static/img/usage/payroll/guide/generate-pv-je.jpg)
 
 ### Import Payment Voucher / Journal Entry (Import)
 
@@ -546,8 +587,8 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 3. Click on **Select File** from the Payment Voucher/Journal Entry (payroll data) generate from SQL Payroll.
 
-    ![import-PV-JE](../../../static/img/usage/payroll/guide/import-PV-JE.jpg)
+    ![import-pv-je](../../../static/img/usage/payroll/guide/import-pv-je.jpg)
 
 4. Click on **Execute**.
 
-    ![import-PV-JE-successful](../../../static/img/usage/payroll/guide/import-PV-JE-successful.jpg)
+    ![import-pv-je-successful](../../../static/img/usage/payroll/guide/import-pv-je-successful.jpg)

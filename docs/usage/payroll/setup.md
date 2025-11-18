@@ -6,247 +6,40 @@ slug: /usage/payroll/setup
 tags: ["SQL Payroll", "Setup"]
 ---
 
-## Maintain Allowance
+## Maintain Wages
 
 :::info Features
 
-- Setting up maintain allowance helps you to categorize the type of allowance that employee entitle.
+- Enable to set different other contribution for Bonus, Director Fee, Pay Leave and Unpaid Leave.
+- Maintain the Employee & Employer EPF Rate.
+- Maintain the working hour and day per month.
+- Enable the Overtime Calculation base on Maintain Employee Setting. It will calculate the OT based on Wages amount in Maintain Employee.
+
+:::
+
+- Setting up maintain wages helps you to categorise the type of wages an employee received.
 - This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
-- This is especially useful if you have different types of allowance like Petrol, Handphone, Meal Allowance base on different company different entitlement.
+- This is especially useful if you have different types of worker such as
+  permanent worker, contract worker, foreign worker & etc
 
-:::
+1. Navigate to **Payroll** > **Maintenance** > **Maintain Wages**
 
-1. Navigate to **Payroll** > **Maintenance** > **Maintain Allowance**
+   ![maintain-wages](../../../static/img/usage/payroll/setup/maintain-wages/maintain-wages.png)
 
-   ![navigate](../../../static/img/usage/payroll/setup/maintain-allowance/navigate.png)
+2. Click new to create new wages type
 
-2. Click New to generate a New Allowance
-
-   ![new](../../../static/img/usage/payroll/setup/maintain-allowance/new.png)
-
-3. Insert the info that you want to set in maintain allowance
-
-   ![insert](../../../static/img/usage/payroll/setup/maintain-allowance/insert.png)
-
-   1. Insert the Code of the Allowance that you want to generate.
-   2. Insert the Description of the allowance.
-   3. Insert the fixed amount for the allowance, eg: Handphone allowance is fixed RM 300 for every employee then you can insert the rate of RM 300 but if there is not then you can left it blank.
-   4. If the allowance is tax exempted then you may insert the tax exempted code.
-   5. Tick or un-tick the contribution of the allowance.
-
-4. After create the master file of Allowance, then you can add the fixed allowance for certain employee which have the allowance monthly
-
-   ![add-fixed-allowance](../../../static/img/usage/payroll/setup/maintain-allowance/add-fixed-allowance.png)
-
-5. Alternatively, you can insert the allowance after process month end.
-
-   ![process-month-end-add-allowance](../../../static/img/usage/payroll/setup/maintain-allowance/process-month-end-add-allowance.png)
-
-   1. Click on the "**Overtime**"
-   2. CLick on the ➕ to add the employee then fill in the overtime
-
-6. Allowance feature is same with deduction feature, all the allowance is not compulsory just depend on company policy.
-
-## Maintain Claim
-
-:::info Feature
-
-- Maintain Claim is used to define the types of claims available to employees, as well as set default amounts and limits.
-- For example, for travel claims, accommodation expenses, and communication expenses, you can set monthly or per-claim limits, set fixed amounts, or leave them blank for employees to fill in.
-- This can impact the reimbursement process, monthly reimbursement review, and payroll calculations.
-
-:::
-
-1. Navigate to **Payroll** > **Maintenance** > **Maintain claim**
-
-    ![navigate](../../../static/img/usage/payroll/setup/maintain-claim/navigate.png)
-
-2. Click New to generate a New Claim
-
-    ![new](../../../static/img/usage/payroll/setup/maintain-claim/new.png)
-
-3. Insert the info that you want to set in maintain claim
-
-    ![insert](../../../static/img/usage/payroll/setup/maintain-claim/insert.png)
-
-    1. Insert the Code of the Claim that you want to generate.
-    2. Insert the Description of the claim.
-    3. Insert the Yearly Limit for the claim, eg: RM 2000 for every employee then you can insert the rate of RM 2000 but if there is no limit then you can left it blank as Unlimited by click the 'Set as Unlimited' button.
-    4. Insert the Monthly Limit for the claim, eg: RM 200 for every employee then you can insert the rate of RM 200 but if there is no limit then you can left it blank as Unlimited by click the 'Set as Unlimited' button.
-
-4. After create the master file of Claim, then you can add the fixed claim's Yearly Limit and Monthly Limit for certain employee which have the claim.
-
-    ![add-fixed-claim-limit](../../../static/img/usage/payroll/setup/maintain-claim/add-fixed-claim.png)
-
-5. Alternatively, you can insert the claim after process month end.
-
-    ![process-month-end-add-claim](../../../static/img/usage/payroll/setup/maintain-claim/process-month-end-add-claim.png)
-
-    1. Click on the "**Claim**"
-    2. CLick on the ➕ to add the employee then fill in the claim
-
-## Maintain Commission
-
-1. Set the commission for employee
-
-    - Navigate to **Payroll** > **Maintenance** > **Maintain Commission**
-    - Create new for a new commission rate
-
-    ![maintain-commision](../../../static/img/usage/payroll/setup/maintain-commission/maintain-commission.png)
-
-2. Open pending payroll for commission
-
-    - Payroll/Open pending payroll/Commission
-    - Insert the employee and amount
-
-    ![pending-payroll](../../../static/img/usage/payroll/setup/maintain-commission/pending-payroll.png)
-
-3. Process month end
-
-    1. Method 1 : Final Payroll Process
-
-        - Navigate to **Payroll** > **New payroll** > **Process**
-
-        ![process-month-end-1](../../../static/img/usage/payroll/setup/maintain-commission/process-month-end-1.png)
-
-    2. Method 2 : Process Adhoc
-
-       - Tick EPF & PCB & Monthly Fixed Allowance/Pending Payroll
-
-       ![process-month-end-2](../../../static/img/usage/payroll/setup/maintain-commission/process-month-end-2.png)
-
-    3. Tick Commission
-
-    ![tick-comm](../../../static/img/usage/payroll/setup/maintain-commission/tick-comm.png)
-
-4. Double click the employee that you gave commission
-
-    ![check-employee](../../../static/img/usage/payroll/setup/maintain-commission/check-employee.png)
-
-5. Refer to commission column
-
-    ![result](../../../static/img/usage/payroll/setup/maintain-commission/result.png)
-
-## Maintain Contribution
-
-:::info
-Learn how to set the Employee/Employer EPF rate, OT calculation and Tax calculation following this guide
-:::
-
-- Setting up maintain contribution helps you to categorise the type of contribution an employee received
-- This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
-- This is especially useful if you have different types of worker such as permanent worker, contract worker, foreign worker & etc
-
-1. Navigate to **Payroll** > **Maintenance** > **Maintain Contribution**
-
-   ![navigate](../../../static/img/usage/payroll/setup/maintain-contribution/navigate.png)
-
-2. Click new to create new contribution
-
-   ![new](../../../static/img/usage/payroll/setup/maintain-contribution/new.png)
+   ![new](../../../static/img/usage/payroll/setup/maintain-wages/new.png)
 
 3. Key in the info and tick the contribution needed
 
-![key-in-1](../../../static/img/usage/payroll/setup/maintain-contribution/key-in-1.png)
-![key-in-2](../../../static/img/usage/payroll/setup/maintain-contribution/key-in-2.png)
+   ![fill-in-1](../../../static/img/usage/payroll/setup/maintain-wages/fill-in-1.png)
+   ![fill-in-2](../../../static/img/usage/payroll/setup/maintain-wages/fill-in-2.png)
 
-### Common contribution setup
+### Common wages setup
 
-| Local Permanent Workers                                                              | Foreign Workers                                                      |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| ![local-permanent](../../../static/img/usage/payroll/setup/maintain-contribution/local-permanent.png) | ![foreign](../../../static/img/usage/payroll/setup/maintain-contribution/foreign.png) |
-
-### Explanation of terms in Maintain Contribution panel
-
-![explanation-1](../../../static/img/usage/payroll/setup/maintain-contribution/explanation-1.png)
-
-![explanation-2](../../../static/img/usage/payroll/setup/maintain-contribution/explanation-2.png)
-
-![explanation-3](../../../static/img/usage/payroll/setup/maintain-contribution/explanation-3.png)
-
-## Maintain Deduction
-
-:::info Features
-
-Maintain Deductions is used to configure employee payroll deductions, such as personal loan deductions, company advance deductions, lateness deductions, and restaurant deductions.
-
-Deductions can be fixed amounts or percentages; once configured, they are automatically deducted from payroll.
-
-Deductions may affect net pay, tax calculations, and the inclusion or exclusion of contributions such as EPF/SOCSO. These settings should be based on company policies and regulations.
-
-:::
-
-1. Navigate to **Payroll** > **Maintenance** > **Maintain Deduction**
-
-   ![navigate](../../../static/img/usage/payroll/setup/maintain-deduction/navigate.png)
-
-2. Click New to generate a New Deduction
-
-   ![new](../../../static/img/usage/payroll/setup/maintain-deduction/new.png)
-
-3. Insert the info that you want to set in maintain deduction
-
-   ![insert](../../../static/img/usage/payroll/setup/maintain-deduction/insert.png)
-
-   1. Insert the Code of the Deduction that you want to generate.
-   2. Insert the Description of the deduction.
-   3. Insert the fixed amount for the deduction, eg: Loan deduction is fixed RM 100 for every employee then you can insert the rate of RM 100 but if there is not then you can left it blank.
-   4. Select the type of the deduction you want (General / Zakat / Tabung Haji / PTPTN).
-   5. Tick or un-tick the contribution of the deduction.
-
-4. After create the master file of Deduction, then you can add the fixed deduction for certain employee which have the deduction monthly
-
-   ![add-fixed-deduction](../../../static/img/usage/payroll/setup/maintain-deduction/add-fixed-deduction.png)
-
-5. Alternatively, you can insert the deduction after process month end.
-
-   ![process-month-end-add-deduction](../../../static/img/usage/payroll/setup/maintain-deduction/process-month-end-add-deduction.png)
-
-   1. Click on the "**Deduction**"
-   2. CLick on the ➕ to add the employee then fill in the deduction
-
-6. Deduction feature is same with allowance feature, all the deduction is not compulsory just depend on company policy.
-
-## Maintain Employee's Opening Balance
-
-- Maintain employee’s opening balance is done when the respective employee enter the company in a month **later than January**.
-- The previous PCB amount is **needed to key in so that the system can correctly calculate** the PCB amount that’s needed to pay every month.
-
-1. Navigate to the **Open Payroll**
-
-   ![navigate](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/navigate.png)
-
-2. Double click the year in Open Payroll
-
-   ![open-payroll](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-payroll.png)
-
-3. Double click the transaction under ‘Opening’
-
-   ![open-txn](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-txn.png)
-
-4. Select the employee by double clicking on the name
-
-   ![select-employee](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/select-employee.png)
-
-5. Key in all the employee’s opening balance information
-
-   ![key-in-employee-details](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/key-in-employee-details.png)
-
-### Mapping of SQL 'opening' to EA form
-
-![mapping](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/mapping.png)
-
-### Special note for additional EPF and additional PCB
-
-- Additional EPF and additional PCB are used when additional remuneration (bonus, commission, paid leave) is given.
-- In the EA form, normal EPF and additional EPF is group into one.
-- However, SQL recommend users to split the amount for a more detail input.
-
-![notes](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/notes.png)
-
-:::info
-Frequency – Where one company will pay salary **twice or more times** in **a Month**.
-:::
+| Local Permanent Workers                                                       | Foreign Workers                                               |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| ![local-permanent](../../../static/img/usage/payroll/setup/maintain-wages/local-permanent.png) | ![foreign](../../../static/img/usage/payroll/setup/maintain-wages/foreign.png) |
 
 ## Maintain Frequency
 
@@ -292,6 +85,127 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
    - Allowance - [ 230 (Fixed) – 115 (Frequency) = 115 ]
 
     ![final-result](../../../static/img/usage/payroll/setup/maintain-frequency/final-result.png)
+
+## Maintain Contribution
+
+:::info
+Learn how to set the Employee/Employer EPF rate, OT calculation and Tax calculation following this guide
+:::
+
+- Setting up maintain contribution helps you to categorise the type of contribution an employee received
+- This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
+- This is especially useful if you have different types of worker such as permanent worker, contract worker, foreign worker & etc
+
+1. Navigate to **Payroll** > **Maintenance** > **Maintain Contribution**
+
+   ![navigate](../../../static/img/usage/payroll/setup/maintain-contribution/navigate.png)
+
+2. Click new to create new contribution
+
+   ![new](../../../static/img/usage/payroll/setup/maintain-contribution/new.png)
+
+3. Key in the info and tick the contribution needed
+
+![key-in-1](../../../static/img/usage/payroll/setup/maintain-contribution/key-in-1.png)
+![key-in-2](../../../static/img/usage/payroll/setup/maintain-contribution/key-in-2.png)
+
+### Common contribution setup
+
+| Local Permanent Workers                                                              | Foreign Workers                                                      |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| ![local-permanent](../../../static/img/usage/payroll/setup/maintain-contribution/local-permanent.png) | ![foreign](../../../static/img/usage/payroll/setup/maintain-contribution/foreign.png) |
+
+### Explanation of terms in Maintain Contribution panel
+
+![explanation-1](../../../static/img/usage/payroll/setup/maintain-contribution/explanation-1.png)
+
+![explanation-2](../../../static/img/usage/payroll/setup/maintain-contribution/explanation-2.png)
+
+![explanation-3](../../../static/img/usage/payroll/setup/maintain-contribution/explanation-3.png)
+
+## Maintain Allowance
+
+:::info Features
+
+- Setting up maintain allowance helps you to categorize the type of allowance that employee entitle.
+- This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
+- This is especially useful if you have different types of allowance like Petrol, Handphone, Meal Allowance base on different company different entitlement.
+
+:::
+
+1. Navigate to **Payroll** > **Maintenance** > **Maintain Allowance**
+
+   ![navigate](../../../static/img/usage/payroll/setup/maintain-allowance/navigate.png)
+
+2. Click New to generate a New Allowance
+
+   ![new](../../../static/img/usage/payroll/setup/maintain-allowance/new.png)
+
+3. Insert the info that you want to set in maintain allowance
+
+   ![insert](../../../static/img/usage/payroll/setup/maintain-allowance/insert.png)
+
+   1. Insert the Code of the Allowance that you want to generate.
+   2. Insert the Description of the allowance.
+   3. Insert the fixed amount for the allowance, eg: Handphone allowance is fixed RM 300 for every employee then you can insert the rate of RM 300 but if there is not then you can left it blank.
+   4. If the allowance is tax exempted then you may insert the tax exempted code.
+   5. Tick or un-tick the contribution of the allowance.
+
+4. After create the master file of Allowance, then you can add the fixed allowance for certain employee which have the allowance monthly
+
+   ![add-fixed-allowance](../../../static/img/usage/payroll/setup/maintain-allowance/add-fixed-allowance.png)
+
+5. Alternatively, you can insert the allowance after process month end.
+
+   ![process-month-end-add-allowance](../../../static/img/usage/payroll/setup/maintain-allowance/process-month-end-add-allowance.png)
+
+   1. Click on the "**Overtime**"
+   2. CLick on the ➕ to add the employee then fill in the overtime
+
+6. Allowance feature is same with deduction feature, all the allowance is not compulsory just depend on company policy.
+
+## Maintain Deduction
+
+:::info Features
+
+Maintain Deductions is used to configure employee payroll deductions, such as personal loan deductions, company advance deductions, lateness deductions, and restaurant deductions.
+
+Deductions can be fixed amounts or percentages; once configured, they are automatically deducted from payroll.
+
+Deductions may affect net pay, tax calculations, and the inclusion or exclusion of contributions such as EPF/SOCSO. These settings should be based on company policies and regulations.
+
+:::
+
+1. Navigate to **Payroll** > **Maintenance** > **Maintain Deduction**
+
+   ![navigate](../../../static/img/usage/payroll/setup/maintain-deduction/navigate.png)
+
+2. Click New to generate a New Deduction
+
+   ![new](../../../static/img/usage/payroll/setup/maintain-deduction/new.png)
+
+3. Insert the info that you want to set in maintain deduction
+
+   ![insert](../../../static/img/usage/payroll/setup/maintain-deduction/insert.png)
+
+   1. Insert the Code of the Deduction that you want to generate.
+   2. Insert the Description of the deduction.
+   3. Insert the fixed amount for the deduction, eg: Loan deduction is fixed RM 100 for every employee then you can insert the rate of RM 100 but if there is not then you can left it blank.
+   4. Select the type of the deduction you want (General / Zakat / Tabung Haji / PTPTN).
+   5. Tick or un-tick the contribution of the deduction.
+
+4. After create the master file of Deduction, then you can add the fixed deduction for certain employee which have the deduction monthly
+
+   ![add-fixed-deduction](../../../static/img/usage/payroll/setup/maintain-deduction/add-fixed-deduction.png)
+
+5. Alternatively, you can insert the deduction after process month end.
+
+   ![process-month-end-add-deduction](../../../static/img/usage/payroll/setup/maintain-deduction/process-month-end-add-deduction.png)
+
+   1. Click on the "**Deduction**"
+   2. CLick on the ➕ to add the employee then fill in the deduction
+
+6. Deduction feature is same with allowance feature, all the deduction is not compulsory just depend on company policy.
 
 ## Maintain Overtime
 
@@ -489,6 +403,86 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
 
     ![import-last-save](../../../static/img/usage/payroll/setup/maintain-overtime/import-last-save.png)
 
+## Maintain Claim
+
+:::info Feature
+
+- Maintain Claim is used to define the types of claims available to employees, as well as set default amounts and limits.
+- For example, for travel claims, accommodation expenses, and communication expenses, you can set monthly or per-claim limits, set fixed amounts, or leave them blank for employees to fill in.
+- This can impact the reimbursement process, monthly reimbursement review, and payroll calculations.
+
+:::
+
+1. Navigate to **Payroll** > **Maintenance** > **Maintain claim**
+
+    ![navigate](../../../static/img/usage/payroll/setup/maintain-claim/navigate.png)
+
+2. Click New to generate a New Claim
+
+    ![new](../../../static/img/usage/payroll/setup/maintain-claim/new.png)
+
+3. Insert the info that you want to set in maintain claim
+
+    ![insert](../../../static/img/usage/payroll/setup/maintain-claim/insert.png)
+
+    1. Insert the Code of the Claim that you want to generate.
+    2. Insert the Description of the claim.
+    3. Insert the Yearly Limit for the claim, eg: RM 2000 for every employee then you can insert the rate of RM 2000 but if there is no limit then you can left it blank as Unlimited by click the 'Set as Unlimited' button.
+    4. Insert the Monthly Limit for the claim, eg: RM 200 for every employee then you can insert the rate of RM 200 but if there is no limit then you can left it blank as Unlimited by click the 'Set as Unlimited' button.
+
+4. After create the master file of Claim, then you can add the fixed claim's Yearly Limit and Monthly Limit for certain employee which have the claim.
+
+    ![add-fixed-claim-limit](../../../static/img/usage/payroll/setup/maintain-claim/add-fixed-claim.png)
+
+5. Alternatively, you can insert the claim after process month end.
+
+    ![process-month-end-add-claim](../../../static/img/usage/payroll/setup/maintain-claim/process-month-end-add-claim.png)
+
+    1. Click on the "**Claim**"
+    2. CLick on the ➕ to add the employee then fill in the claim
+
+## Maintain Commission
+
+1. Set the commission for employee
+
+    - Navigate to **Payroll** > **Maintenance** > **Maintain Commission**
+    - Create new for a new commission rate
+
+    ![maintain-commision](../../../static/img/usage/payroll/setup/maintain-commission/maintain-commission.png)
+
+2. Open pending payroll for commission
+
+    - Payroll/Open pending payroll/Commission
+    - Insert the employee and amount
+
+    ![pending-payroll](../../../static/img/usage/payroll/setup/maintain-commission/pending-payroll.png)
+
+3. Process month end
+
+    1. Method 1 : Final Payroll Process
+
+        - Navigate to **Payroll** > **New payroll** > **Process**
+
+        ![process-month-end-1](../../../static/img/usage/payroll/setup/maintain-commission/process-month-end-1.png)
+
+    2. Method 2 : Process Adhoc
+
+       - Tick EPF & PCB & Monthly Fixed Allowance/Pending Payroll
+
+       ![process-month-end-2](../../../static/img/usage/payroll/setup/maintain-commission/process-month-end-2.png)
+
+    3. Tick Commission
+
+    ![tick-comm](../../../static/img/usage/payroll/setup/maintain-commission/tick-comm.png)
+
+4. Double click the employee that you gave commission
+
+    ![check-employee](../../../static/img/usage/payroll/setup/maintain-commission/check-employee.png)
+
+5. Refer to commission column
+
+    ![result](../../../static/img/usage/payroll/setup/maintain-commission/result.png)
+
 ## Maintain Payment Method
 
 - Maintain Payment Method helps you to categorise how you want to pay your employee
@@ -528,38 +522,3 @@ Frequency – Where one company will pay salary **twice or more times** in **a M
 - After month end will have **auto adjustment** to nearest 5 cents
 
 ![7](../../../static/img/usage/payroll/setup/maintain-payment-method/7.png)
-
-## Maintain Wages
-
-:::info Features
-
-- Enable to set different other contribution for Bonus, Director Fee, Pay Leave and Unpaid Leave.
-- Maintain the Employee & Employer EPF Rate.
-- Maintain the working hour and day per month.
-- Enable the Overtime Calculation base on Maintain Employee Setting. It will calculate the OT based on Wages amount in Maintain Employee.
-
-:::
-
-- Setting up maintain wages helps you to categorise the type of wages an employee received.
-- This would affect the types of contribution that they need to provide (EPF/SOCSO/PCB & etc)
-- This is especially useful if you have different types of worker such as
-  permanent worker, contract worker, foreign worker & etc
-
-1. Navigate to **Payroll** > **Maintenance** > **Maintain Wages**
-
-   ![maintain-wages](../../../static/img/usage/payroll/setup/maintain-wages/maintain-wages.png)
-
-2. Click new to create new wages type
-
-   ![new](../../../static/img/usage/payroll/setup/maintain-wages/new.png)
-
-3. Key in the info and tick the contribution needed
-
-   ![fill-in-1](../../../static/img/usage/payroll/setup/maintain-wages/fill-in-1.png)
-   ![fill-in-2](../../../static/img/usage/payroll/setup/maintain-wages/fill-in-2.png)
-
-### Common wages setup
-
-| Local Permanent Workers                                                       | Foreign Workers                                               |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| ![local-permanent](../../../static/img/usage/payroll/setup/maintain-wages/local-permanent.png) | ![foreign](../../../static/img/usage/payroll/setup/maintain-wages/foreign.png) |
