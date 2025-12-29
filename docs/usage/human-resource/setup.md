@@ -81,16 +81,16 @@ Remember to untick the *Active* for any employee had resign before process the p
 
 In this tab is use for report grouping for the selected employee. It can be either by
 
-- [Branch](../../usage/human-resource/human-resources-setup.md#maintain-branch)
-- [Department](../../usage/human-resource/human-resources-setup.md#maintain-department)
-- [Group](../../usage/human-resource/human-resources-setup.md#maintain-group)
-- [Category](../../usage/human-resource/human-resources-setup.md#maintain-category)
-- [Project](../../usage/human-resource/human-resources-setup.md#maintain-project)
-- [Job](../../usage/human-resource/human-resources-setup.md#maintain-job)
-- [Task](../../usage/human-resource/human-resources-setup.md#maintain-task)
-- [Race](../../usage/human-resource/human-resources-setup.md#maintain-race)
-- [History Type](../../usage/human-resource/human-resources-setup.md#maintain-history-type)
-- [Announcement](../../usage/human-resource/human-resources-setup.md#maintain-announcement)
+- [Branch](../../usage/human-resource/setup.md#maintain-branch)
+- [Department](../../usage/human-resource/setup.md#maintain-department)
+- [Group](../../usage/human-resource/setup.md#maintain-group)
+- [Category](../../usage/human-resource/setup.md#maintain-category)
+- [Project](../../usage/human-resource/setup.md#maintain-project)
+- [Job](../../usage/human-resource/setup.md#maintain-job)
+- [Task](../../usage/human-resource/setup.md#maintain-task)
+- [Race](../../usage/human-resource/setup.md#maintain-race)
+- [History Type](../../usage/human-resource/setup.md#maintain-history-type)
+- [Announcement](../../usage/human-resource/setup.md#maintain-announcement)
 
 ![des-grouping-tab-1](../../../static/img/usage/human-resource/hr-setup-images/grouping-tab-1.jpg)
 

@@ -32,7 +32,7 @@ SQL Payroll consists of 3 main modules:
 
 | Module                                                                | Description                                                          |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [**Maintain Employee**](../usage/human-resource/human-resources-setup.md#maintain-employee) | Help to maintain employees biodata                                   |
+| [**Maintain Employee**](../usage/human-resource/setup.md#maintain-employee) | Help to maintain employees biodata                                   |
 | **Maintain Branch**                                                   | Define the branch name, eg. HQ, branch A, B, C, etc                  |
 | **Maintain Department**                                               | Define the department, eg. Accounts, Sales, Production, etc          |
 | **Maintain Group**                                                    | Define the group level, eg. Director, Manager, Executive, Clerk, etc |

@@ -1,7 +1,7 @@
 ---
 title: Hide Bonus Process
 description: To maintain the confidentiality of bonus distributions by restricting bonus-related information.
-slug: /usage/hide-bonus
+slug: /usage/general/hide-bonus
 tags: ["SQL Payroll", "Bonus"]
 ---
 
@@ -15,11 +15,11 @@ For example, JOY is a new staff member in the HR department who needs access to 
 2. Go to **Tools** > **Maintain User** > **New** to create a new user ID for JOY.
 3. Go to **Access Control**.
 
-    ![access-control](../../static/img/usage/hide-bonus/access-control.png)
+    ![access-control](../../../static/img/usage/hide-bonus/access-control.png)
 
 4. Click on Process Bonus and Untick (Revoke) the Process Bonus option for users who should not have access to bonus information.
 
-    ![process-bonus-access-right](../../static/img/usage/hide-bonus/process-bonus-access-right.png)
+    ![process-bonus-access-right](../../../static/img/usage/hide-bonus/process-bonus-access-right.png)
 
 ## What happens when you revoke the Process Bonus access right?
 
@@ -29,25 +29,25 @@ If JOY does not have the **Process Bonus** access right, the following restricti
 
 If JOY tries to preview an employee’s payroll (e.g., Lee Chong Wai) after a bonus has been processed by another user, the system will display an **Access Denied** message.
 
-    ![preview-access-denied](../../static/img/usage/hide-bonus/preview-access-denied.png)
+    ![preview-access-denied](../../../static/img/usage/hide-bonus/preview-access-denied.png)
 
 ### Cannot Save Bonus Entries
 
 If JOY attempts to enter a bonus amount for an employee and clicks **Save**, the system will immediately show an **Access Denied** error.
 
-![save-access-denied](../../static/img/usage/hide-bonus/save-access-denied.png)
+![save-access-denied](../../../static/img/usage/hide-bonus/save-access-denied.png)
 
 ### Restricted PCB Access
 
 During month-end payroll processing, even if an employee no longer has a bonus, JOY will be unable to click **Print PCB** if a bonus was previously processed for that employee.
 
-![restricted-pcb-access](../../static/img/usage/hide-bonus/restricted-pcb-access.png)
+![restricted-pcb-access](../../../static/img/usage/hide-bonus/restricted-pcb-access.png)
 
 ### Hidden Payslip Formats
 
 When JOY previews payslip formats, she can only see employees whose bonuses have not been processed. The payslip for Lee Chong Wai (who has a bonus) will be hidden.
 
-![payslip-format-hidden](../../static/img/usage/hide-bonus/payslip-format-hidden.png)
+![payslip-format-hidden](../../../static/img/usage/hide-bonus/payslip-format-hidden.png)
 
 ### Payroll Summary
 
@@ -55,11 +55,11 @@ Once a payroll is processed with a bonus, the affected employee’s details are 
 
 When JOY clicks **Apply**, the payroll details for Lee Chong Wai are hidden. She can still view the summary for other employees without bonuses, but Lee Chong Wai’s information is excluded.
 
-![payroll-summary-hidden](../../static/img/usage/hide-bonus/payroll-summary-hidden.png)
+![payroll-summary-hidden](../../../static/img/usage/hide-bonus/payroll-summary-hidden.png)
 
 If multiple processes are selected in the Payroll Summary, only those without bonuses will be displayed. Any process containing bonus-related information (wages, allowances, etc.) will be excluded from the summary.
 
-![admin-vs-joy-view](../../static/img/usage/hide-bonus/admin-vs-joy-view.png)
+![admin-vs-joy-view](../../../static/img/usage/hide-bonus/admin-vs-joy-view.png)
 
 ## Revoke Report Access Right
 
