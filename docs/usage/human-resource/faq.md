@@ -14,7 +14,7 @@ Where to get the appointment letters
 
 **Solution:**
 
-1. Go to **Human Resource | Maintain Employee**..., you can found the following common use employee letters:
+1. Go to **Human Resource > Maintain Employee**..., you can find the following common use employee letters:
 
    - Acceptance of Resignation Letter
    - Appointment Letter

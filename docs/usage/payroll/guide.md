@@ -10,127 +10,127 @@ tags: ["SQL Payroll", "Payroll", "Month End", "Pending Payroll"]
 
 ### Maintain Employee's Opening Balance
 
-- Maintain employee’s opening balance is done when the respective employee enter the company in a month **later than January**.
-- The previous PCB amount is **needed to key in so that the system can correctly calculate** the PCB amount that’s needed to pay every month.
+- Maintaining an employee’s opening balance is necessary when the employee joins the company in a month **later than January**.
+- The previous PCB amount **must be entered so that the system can correctly calculate** the PCB amount payable each month.
 
-1. Navigate to the **Open Payroll**
+1. Navigate to **Open Payroll**.
 
-   ![navigate](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/navigate.png)
+    ![navigate](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/navigate.png)
 
 2. Double click the year in Open Payroll
 
-   ![open-payroll](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-payroll.png)
+    ![open-payroll](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-payroll.png)
 
 3. Double click the transaction under ‘Opening’
 
-   ![open-txn](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-txn.png)
+    ![open-txn](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/open-txn.png)
 
 4. Select the employee by double clicking on the name
 
-   ![select-employee](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/select-employee.png)
+    ![select-employee](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/select-employee.png)
 
 5. Key in all the employee’s opening balance information
 
-   ![key-in-employee-details](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/key-in-employee-details.png)
+    ![key-in-employee-details](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/key-in-employee-details.png)
 
 #### Mapping of SQL 'opening' to EA form
 
 ![mapping](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/mapping.png)
 
-#### Special note for additional EPF and additional PCB
+#### Special Note for Additional EPF and Additional PCB
 
-- Additional EPF and additional PCB are used when additional remuneration (bonus, commission, paid leave) is given.
-- In the EA form, normal EPF and additional EPF is group into one.
-- However, SQL recommend users to split the amount for a more detail input.
+- Additional EPF and Additional PCB are used when additional remuneration (e.g., bonus, commission, paid leave) is given.
+- In the EA form, normal EPF and additional EPF are grouped into one.
+- However, SQL recommends users split the amount for more detailed input.
 
 ![notes](../../../static/img/usage/payroll/setup/maintain-employee-opening-balance/notes.png)
 
 :::info
-Frequency – Where one company will pay salary **twice or more times** in **a Month**.
+Frequency – Used when a company pays salary **twice or more** in **a month**.
 :::
 
 ### Final Process
 
-Enable to process the Month Pay Salary and Final Pay Salary.
+This option allows you to process the Monthly Salary and Final Salary.
 
-1. Click into **Payroll** and look for **New Payroll**.
+1. Go to **Payroll** and select **New Payroll**.
 
-   :::tip
-   Certain company their payroll cut off date will not in the month end, some of the company will according to the 26th of the month, so you can preset your own company payroll cut off date through the "..." button.
-   :::
+    :::tip
+    Some companies do not have a month-end payroll cut-off date (e.g., the 26th of the month). You can preset your company's payroll cut-off date using the "..." button.
+    :::
 
-   ![month-end](../../../static/img/usage/payroll/guide/create.png)
+    ![month-end](../../../static/img/usage/payroll/guide/create.png)
 
 2. Click on the **Process** option.
 
 ### Frequency Process
 
-To process mid month salary payroll. The salary payout is based on average % of the Fixed Salary.
+Used to process mid-month salary payroll. The salary payout is based on an average percentage of the Fixed Salary.
 
-Not the last Pay of the Month.
+This is not the last pay of the month.
 
 ![pay-frequency](../../../static/img/usage/payroll/guide/pay-frequency.png)
 
 ### Ad Hoc Process
 
-To process Mid Month Ad Hoc Payroll
+Used to process mid-month Ad Hoc Payroll.
 
 ![pay-adhoc](../../../static/img/usage/payroll/guide/pay-adhoc.png)
 
 ![pay-adhoc-bonusallow](../../../static/img/usage/payroll/guide/pay-adhoc-bonus-allowance.png)
 
-Default this option
+**Default Option:**
 
-- All(PCB,Socso,EPF) Contribution for Fixed Transaction will be 0
-- Value will be 0 (Zero) & user need to self enter a value for All/Selected Employee
+- All (PCB, SOCSO, EPF) contributions for Fixed Transactions will be 0.
+- Values will be 0 (Zero), and the user needs to manually enter a value for all or selected employees.
 
 ![pay-adhoc-monthlyFA](../../../static/img/usage/payroll/guide/pay-adhoc-montly-fixed-allowance.png)
 
-In this option allow the user to self control the Contribution (default 100%) for Fixed Transaction.
+This option allows the user to control the Contribution (default 100%) for Fixed Transactions.
 
-In other word if (eg Bonus with PCB (A) only just set Contribution to 0%)
+In other words, if you have a Bonus with PCB (A) only, just set the Contribution to 0%.
 
 ## Open Payroll
 
 :::info
-Once you have created the payroll and you wish to view whatever you have did, then you can make some amendment.
+Once you have created the payroll, you can view your actions and make amendments if necessary.
 :::
 
-1. Navigate to **Payroll** > **Open Payroll**. Alternatively, access it from the home page by clicking **Open Payroll**
+1. Navigate to **Payroll** > **Open Payroll**. Alternatively, access it from the home page by clicking **Open Payroll**.
 
-   ![open-navigate](../../../static/img/usage/payroll/guide/open-navigate.png)
+    ![open-navigate](../../../static/img/usage/payroll/guide/open-navigate.png)
 
-2. Select employee, double click your employee name to check on its individual’s amount
+2. Select an employee and double-click their name to check individual amounts.
 
-   ![open-select-employee](../../../static/img/usage/payroll/guide/open-select-employee.png)
+    ![open-select-employee](../../../static/img/usage/payroll/guide/open-select-employee.png)
 
-   :::info
-   You can process 2 month end in the same day also. Initially, you can choose to tick those first batch employees.
+    :::info
+    You can process two month-ends on the same day. Initially, you can choose to check the first batch of employees.
 
-   While processing the 2nd batch, you can tick the 2nd batch of users.
+    When processing the second batch, you can check the second batch of users.
 
-   Example:
+    Example:
 
-   **BATCH 1**
+    **BATCH 1**
 
-   ![batch-1-payroll](../../../static/img/usage/payroll/guide/batch-1-payroll.png)
+    ![batch-1-payroll](../../../static/img/usage/payroll/guide/batch-1-payroll.png)
 
-   ![batch-1-employees](../../../static/img/usage/payroll/guide/batch-1-employees.png)
+    ![batch-1-employees](../../../static/img/usage/payroll/guide/batch-1-employees.png)
 
-   **BATCH 2**
+    **BATCH 2**
 
-   ![batch-2-payroll](../../../static/img/usage/payroll/guide/batch-2-payroll.png)
+    ![batch-2-payroll](../../../static/img/usage/payroll/guide/batch-2-payroll.png)
 
-   ![batch-2-employees](../../../static/img/usage/payroll/guide/batch-2-employees.png)
-   :::
+    ![batch-2-employees](../../../static/img/usage/payroll/guide/batch-2-employees.png)
+    :::
 
 ## Open Pending Payroll
 
 :::tip
-Before you process the month end, you can use open pending payroll to key-in all others add hoc info like extra allowance, overtime, claim etc.
+Before processing the month-end, you can use Open Pending Payroll to enter all other ad hoc info like extra allowance, overtime, claims, etc.
 :::
 
-- This is for the user to prepare the transaction (eg Overtime, Deduction) before Processing the Payroll...
+- This allows the user to prepare transactions (e.g., Overtime, Deduction) before processing the payroll.
 - Available Pending Type Transactions:
 
   - Wages, Allowance, Tax Deduction, Overtime
@@ -138,10 +138,10 @@ Before you process the month end, you can use open pending payroll to key-in all
   - CP38, Advance Deduct, Bonus, Paid Leave
   - Director Fees, Unpaid Leave, Tax Benefit, Commission
 
-- After all the Pending had enter user may go either below step to for next step except Pending Advance Paid
-  - New Payroll | Final Process
-  - New_Payroll | Ad Hoc Process
-- For Pending Advance Paid must use New_Payroll | Ad Hoc Process then only can use New Payroll | Final Process
+- After entering all pending transactions, the user may proceed to the next step using either:
+  - New Payroll > Final Process
+  - New Payroll > Ad Hoc Process
+- **Note:** For Pending Advance Paid, you must use **New Payroll > Ad Hoc Process** before using **New Payroll > Final Process**.
 
 ### Steps
 
@@ -149,25 +149,25 @@ Before you process the month end, you can use open pending payroll to key-in all
 
     ![navigate](../../../static/img/usage/payroll/guide/navigate.png)
 
-2. Double Click on the info that you want to input, eg: Overtime.
+2. Double-click on the info you want to input, e.g., Overtime.
 
     ![pending-click-overtime](../../../static/img/usage/payroll/guide/pending-click-overtime.png)
 
-3. Insert the overtime info accordingly
+3. Insert the overtime info accordingly:
 
-    1. Press on the ➕ button to add new overtime.
+    1. Click the ➕ button to add new overtime.
 
         ![pending-add-new-overtime](../../../static/img/usage/payroll/guide/pending-add-new-overtime.png)
 
-    2. Insert the info accordingly like employee, overtime code, work unit etc
+    2. Insert the info accordingly, such as employee, overtime code, work unit, etc.
 
         ![pending-insert-info](../../../static/img/usage/payroll/guide/pending-insert-info.png)
 
-    3. Once update accordingly then save.
+    3. Once updated, click **Save**.
 
         ![pending-overtime-save](../../../static/img/usage/payroll/guide/pending-overtime-save.png)
 
-4. Once finish the update you may process the month end and observe the result.
+4. Once the update is finished, you may process the month-end and observe the result.
 
     ![pending-result](../../../static/img/usage/payroll/guide/pending-result.png)
 
@@ -192,81 +192,81 @@ To show the pending in Yearly (with Transactions).
 
 ## Pending Transactions Types
 
-1. Just click the + button on top of the Screen (The Green + and Money icon) to Insert record(s).
+1. Click the **+** button at the top of the screen (The Green + and Money icon) to insert record(s).
 
-2. After done just Click the Blue Diskette icon on top of the Screen to save the record.
+2. After completion, click the **Blue Diskette** icon at the top of the screen to save the record.
 
 ### Pending Wages
 
-This is useful for employees to be paid by the number of days they work (i.e. users can add the day when the selected employee comes to work).
+This is useful for employees paid by the number of days they work (i.e., users can add the days when the selected employee comes to work).
 
 ![pending-wages](../../../static/img/usage/payroll/guide/open-pending-payroll-wages.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Wages transaction date | Date |
-| Post Date | Wages posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Code | Wages type | Alphanumerical, length 20 |
-| Description | Wages type description | Alphanumerical, length 160 |
-| Amount | Wages amount | Decimal, length 18, precision 2 |
+| Field Name  | Description            | Type / Length / Precision       |
+| ----------- | ---------------------- | ------------------------------- |
+| Trans Date  | Wages transaction date | Date                            |
+| Post Date   | Wages posting date     | Date                            |
+| Employee    | Employee code          | Alphanumerical, length 30       |
+| Code        | Wages type             | Alphanumerical, length 20       |
+| Description | Wages type description | Alphanumerical, length 160      |
+| Amount      | Wages amount           | Decimal, length 18, precision 2 |
 
 ### Pending Overtime
 
 ![pending-overtime](../../../static/img/usage/payroll/guide/open-pending-payroll-overtime.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Overtime transaction date | Date |
-| Post Date | Overtime posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Code | Overtime type | Alphanumerical, length 20 |
-| Description | Overtime type description | Alphanumerical, length 160 |
-| Work Unit | It can be in Hours or Day depend what Overtime Type selected and Unit type is set at Maintain Overtime | Decimal, length 18, precision 8 |
-| Rate | Overtime rate | Decimal, length 18, precision 8 |
-| Day Type | It follow the Post Date to determine the Day Type which is set at Maintain Calender | Alpha, length 1 |
-| Work Unit As Time | Overtime entered as time (HH:MM:SS) | Time |
+| Field Name        | Description                                                                                            | Type / Length / Precision       |
+| ----------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| Trans Date        | Overtime transaction date                                                                              | Date                            |
+| Post Date         | Overtime posting date                                                                                  | Date                            |
+| Employee          | Employee code                                                                                          | Alphanumerical, length 30       |
+| Code              | Overtime type                                                                                          | Alphanumerical, length 20       |
+| Description       | Overtime type description                                                                              | Alphanumerical, length 160      |
+| Work Unit         | It can be in Hours or Day depend what Overtime Type selected and Unit type is set at Maintain Overtime | Decimal, length 18, precision 8 |
+| Rate              | Overtime rate                                                                                          | Decimal, length 18, precision 8 |
+| Day Type          | It follow the Post Date to determine the Day Type which is set at Maintain Calender                    | Alpha, length 1                 |
+| Work Unit As Time | Overtime entered as time (HH:MM:SS)                                                                    | Time                            |
 
 ### Pending Paid Leave
 
 ![pending-paid-leave](../../../static/img/usage/payroll/guide/open-pending-payroll-paid-leave.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Paid leave transaction date | Date |
-| Post Date | Paid leave posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Description | Paid leave description | Alphanumerical, length 160 |
-| Amount | Paid leave amount | Decimal, length 18, precision 2 |
+| Field Name  | Description                 | Type / Length / Precision       |
+| ----------- | --------------------------- | ------------------------------- |
+| Trans Date  | Paid leave transaction date | Date                            |
+| Post Date   | Paid leave posting date     | Date                            |
+| Employee    | Employee code               | Alphanumerical, length 30       |
+| Description | Paid leave description      | Alphanumerical, length 160      |
+| Amount      | Paid leave amount           | Decimal, length 18, precision 2 |
 
 ### Pending Unpaid Leave
 
 ![pending-unpaid-leave](../../../static/img/usage/payroll/guide/open-pending-payroll-unpaid-leave.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Unpaid leave transaction date | Date |
-| Post Date | Unpaid leave posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Code | Unpaid leave type | Alphanumerical, length 20 |
-| Description | Unpaid leave type description | Alphanumerical, length 160 |
-| Leave Day | Number of unpaid leave days | Decimal, length 18, precision 8 |
-| Amount | Unpaid leave amount (Leave blank if want calculated by system) | Decimal, length 18, precision 2 |
+| Field Name  | Description                                                    | Type / Length / Precision       |
+| ----------- | -------------------------------------------------------------- | ------------------------------- |
+| Trans Date  | Unpaid leave transaction date                                  | Date                            |
+| Post Date   | Unpaid leave posting date                                      | Date                            |
+| Employee    | Employee code                                                  | Alphanumerical, length 30       |
+| Code        | Unpaid leave type                                              | Alphanumerical, length 20       |
+| Description | Unpaid leave type description                                  | Alphanumerical, length 160      |
+| Leave Day   | Number of unpaid leave days                                    | Decimal, length 18, precision 8 |
+| Amount      | Unpaid leave amount (Leave blank if want calculated by system) | Decimal, length 18, precision 2 |
 
 ### Pending Claim
 
 ![pending-claim](../../../static/img/usage/payroll/guide/open-pending-payroll-claim.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Claim transaction date | Date |
-| Post Date | Claim posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Code | Claim type | Alphanumerical, length 20 |
-| Description | Claim type description | Alphanumerical, length 160 |
-| Ref1 | Claim reference 1 | Alphanumerical, length 20 |
-| Ref2 | Claim reference 2 | Alphanumerical, length 20 |
-| Amount | Claim amount | Decimal, length 18, precision 2 |
+| Field Name  | Description            | Type / Length / Precision       |
+| ----------- | ---------------------- | ------------------------------- |
+| Trans Date  | Claim transaction date | Date                            |
+| Post Date   | Claim posting date     | Date                            |
+| Employee    | Employee code          | Alphanumerical, length 30       |
+| Code        | Claim type             | Alphanumerical, length 20       |
+| Description | Claim type description | Alphanumerical, length 160      |
+| Ref1        | Claim reference 1      | Alphanumerical, length 20       |
+| Ref2        | Claim reference 2      | Alphanumerical, length 20       |
+| Amount      | Claim amount           | Decimal, length 18, precision 2 |
 
 ### Pending CP38
 
@@ -276,32 +276,32 @@ This is generally towards settlement of outstanding taxes.
 
 ![pending-cp38-02](../../../static/img/usage/payroll/guide/open-pending-payroll-cp3802.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | CP38 transaction date | Date |
-| Post Date | CP38 posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Description | CP38 description | Alphanumerical, length 160 |
-| Ref1 | Reference 1 | Alphanumerical, length 20 |
-| Ref2 | Reference 2 | Alphanumerical, length 20 |
-| Amount | CP38 amount | Decimal, length 18, precision 2 |
-| Generate Button | For Batch Generate CP38 | |
+| Field Name      | Description             | Type / Length / Precision       |
+| --------------- | ----------------------- | ------------------------------- |
+| Trans Date      | CP38 transaction date   | Date                            |
+| Post Date       | CP38 posting date       | Date                            |
+| Employee        | Employee code           | Alphanumerical, length 30       |
+| Description     | CP38 description        | Alphanumerical, length 160      |
+| Ref1            | Reference 1             | Alphanumerical, length 20       |
+| Ref2            | Reference 2             | Alphanumerical, length 20       |
+| Amount          | CP38 amount             | Decimal, length 18, precision 2 |
+| Generate Button | For Batch Generate CP38 |                                 |
 
 ### Pending Allowance
 
 ![pending-allowance](../../../static/img/usage/payroll/guide/open-pending-payroll-allowance.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Allowance transaction date | Date |
-| Post Date | Allowance posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Code | Allowance type | Alphanumerical, length 20 |
-| Tax Code | Tax exemption code | Alphanumerical, length 20 |
-| Description | Allowance type description | Alphanumerical, length 160 |
-| Work Unit | Allowance unit | Decimal, length 18, precision 8 |
-| Rate | Allowance rate | Decimal, length 18, precision 8 |
-| Amount | Allowance total amount | Decimal, length 18, precision 2 |
+| Field Name  | Description                | Type / Length / Precision       |
+| ----------- | -------------------------- | ------------------------------- |
+| Trans Date  | Allowance transaction date | Date                            |
+| Post Date   | Allowance posting date     | Date                            |
+| Employee    | Employee code              | Alphanumerical, length 30       |
+| Code        | Allowance type             | Alphanumerical, length 20       |
+| Tax Code    | Tax exemption code         | Alphanumerical, length 20       |
+| Description | Allowance type description | Alphanumerical, length 160      |
+| Work Unit   | Allowance unit             | Decimal, length 18, precision 8 |
+| Rate        | Allowance rate             | Decimal, length 18, precision 8 |
+| Amount      | Allowance total amount     | Decimal, length 18, precision 2 |
 
 ### Pending Deduction & Pending Commission
 
@@ -312,16 +312,16 @@ Below Example information is applicable for
 
 ![pending-deduction-commission](../../../static/img/usage/payroll/guide/open-pending-payroll-deduction.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Deduction / Commission transaction date | Date |
-| Post Date | Deduction / Commission posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Code | Deduction / Commission type | Alphanumerical, length 20 |
-| Description | Deduction / Commission description | Alphanumerical, length 160 |
-| Work Unit | Deduction unit | Decimal, length 18, precision 8 |
-| Rate | Deduction rate | Decimal, length 18, precision 8 |
-| Amount | Deduction total amount | Decimal, length 18, precision 2 |
+| Field Name  | Description                             | Type / Length / Precision       |
+| ----------- | --------------------------------------- | ------------------------------- |
+| Trans Date  | Deduction / Commission transaction date | Date                            |
+| Post Date   | Deduction / Commission posting date     | Date                            |
+| Employee    | Employee code                           | Alphanumerical, length 30       |
+| Code        | Deduction / Commission type             | Alphanumerical, length 20       |
+| Description | Deduction / Commission description      | Alphanumerical, length 160      |
+| Work Unit   | Deduction unit                          | Decimal, length 18, precision 8 |
+| Rate        | Deduction rate                          | Decimal, length 18, precision 8 |
+| Amount      | Deduction total amount                  | Decimal, length 18, precision 2 |
 
 ### Pending Bonus & Pending Director Fees
 
@@ -332,16 +332,16 @@ Below Example information is applicable for
 
 ![pending-bonus-director-fees](../../../static/img/usage/payroll/guide/open-pending-payroll-bonus.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Bonus / Director fees transaction date | Date |
-| Post Date | Bonus / Director fees posting date | Date |
-| Pay Year | Bonus year (Default is same year as Post Date) | Integer |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Tax Category | Employee tax category | Alphanumerical, length 10 |
-| EPF Rate | Bonus EPF rate | Alphanumerical, length 10 |
-| Wages | Employee wages amount | Decimal, length 18, precision 2 |
-| Amount | Bonus / Director fees amount | Decimal, length 18, precision 2 |
+| Field Name   | Description                                    | Type / Length / Precision       |
+| ------------ | ---------------------------------------------- | ------------------------------- |
+| Trans Date   | Bonus / Director fees transaction date         | Date                            |
+| Post Date    | Bonus / Director fees posting date             | Date                            |
+| Pay Year     | Bonus year (Default is same year as Post Date) | Integer                         |
+| Employee     | Employee code                                  | Alphanumerical, length 30       |
+| Tax Category | Employee tax category                          | Alphanumerical, length 10       |
+| EPF Rate     | Bonus EPF rate                                 | Alphanumerical, length 10       |
+| Wages        | Employee wages amount                          | Decimal, length 18, precision 2 |
+| Amount       | Bonus / Director fees amount                   | Decimal, length 18, precision 2 |
 
 ### Pending Advance Paid, Pending Advance Deduct & Pending Loan
 
@@ -353,15 +353,15 @@ Below Example information is applicable for
 
 ![pending-advance-paid-advance-deduct-commission](../../../static/img/usage/payroll/guide/open-pending-payroll-advance-paid.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Advance / Loan transaction date | Date |
-| Post Date | Advance / Loan posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Description | Description | Alphanumerical, length 160 |
-| Ref1 | Reference 1 | Alphanumerical, length 20 |
-| Ref2 | Reference 2 | Alphanumerical, length 20 |
-| Amount | Advance paid amount | Decimal, length 18, precision 2 |
+| Field Name  | Description                     | Type / Length / Precision       |
+| ----------- | ------------------------------- | ------------------------------- |
+| Trans Date  | Advance / Loan transaction date | Date                            |
+| Post Date   | Advance / Loan posting date     | Date                            |
+| Employee    | Employee code                   | Alphanumerical, length 30       |
+| Description | Description                     | Alphanumerical, length 160      |
+| Ref1        | Reference 1                     | Alphanumerical, length 20       |
+| Ref2        | Reference 2                     | Alphanumerical, length 20       |
+| Amount      | Advance paid amount             | Decimal, length 18, precision 2 |
 
 ### Pending Tax Benefit & Pending Tax Deduction
 
@@ -372,132 +372,132 @@ Below Example information is applicable for
 
 ![pending-tax-benefit-tax-deduction](../../../static/img/usage/payroll/guide/open-pending-payroll-tax-deduct.png)
 
-| Field Name | Description | Type / Length / Precision |
-|---|---|---|
-| Trans Date | Tax deduction / benefit transaction date | Date |
-| Post Date | Tax deduction / benefit posting date | Date |
-| Employee | Employee code | Alphanumerical, length 30 |
-| Code | Tax deduction code | Alphanumerical, length 20 |
-| Description | Tax deduction description | Alphanumerical, length 160 |
-| Ref1 | Reference 1 | Alphanumerical, length 20 |
-| Ref2 | Reference 2 | Alphanumerical, length 20 |
-| Amount | Tax deduction description | Decimal, length 18, precision 2 |
+| Field Name  | Description                              | Type / Length / Precision       |
+| ----------- | ---------------------------------------- | ------------------------------- |
+| Trans Date  | Tax deduction / benefit transaction date | Date                            |
+| Post Date   | Tax deduction / benefit posting date     | Date                            |
+| Employee    | Employee code                            | Alphanumerical, length 30       |
+| Code        | Tax deduction code                       | Alphanumerical, length 20       |
+| Description | Tax deduction description                | Alphanumerical, length 160      |
+| Ref1        | Reference 1                              | Alphanumerical, length 20       |
+| Ref2        | Reference 2                              | Alphanumerical, length 20       |
+| Amount      | Tax deduction description                | Decimal, length 18, precision 2 |
 
-## Example of create open pending payroll
+## Example of Creating Open Pending Payroll
 
 ### Advance Paid
 
 :::info
-Employee request advance salary before month end
+Employee requests advance salary before month-end.
 :::
 
-1. Navigate to **Payroll > Open Pending Payroll**
+1. Navigate to **Payroll > Open Pending Payroll**.
 
-2. **Select Advance Paid**
+2. Select **Advance Paid**.
 
     ![select-advance-paid](../../../static/img/usage/payroll/guide/select-advance-paid.png)
 
-3. **Key in accordingly**
+3. **Enter the details accordingly:**
 
-    >***Trans date*** = date apply advance paid
+    > **_Trans date_** = Date of advance payment application
     >
-    >***Employee*** = which employee
+    > **_Employee_** = Select the employee
     >
-    >***Amount*** = amount advance paid
+    > **_Amount_** = Amount of advance payment
 
     ![fill-in](../../../static/img/usage/payroll/guide/fill-in.png)
 
-4. Go to Payroll > New Payroll
+4. Go to **Payroll > New Payroll**.
 
-5. Choose Ad Hoc
+5. Choose **Ad Hoc**.
 
-6. Set the date when your employee take advance paid
+6. Set the date when the employee takes the advance payment.
 
-7. Under Process > select Monthly Fixed Allowance / Pending Payroll (will come out the dialog box as pic attached)
+7. Under **Process**, select **Monthly Fixed Allowance / Pending Payroll** (a dialog box will appear as shown below).
 
-8. Tick "Advanced Paid"
+8. Check **"Advanced Paid"**.
 
     ![config](../../../static/img/usage/payroll/guide/config.png)
 
-9. Process
+9. Click **Process**.
 
     ![process](../../../static/img/usage/payroll/guide/process.png)
 
-10. Process Month end Payroll as usual, you will found there is advance deduct at the month end.
+10. Process Month End Payroll as usual; you will find an advance deduction at the month-end.
 
     ![result](../../../static/img/usage/payroll/guide/result.png)
 
 ### Bonus
 
-1. Navigate to **Payroll** > **Open Pending Payroll**
+1. Navigate to **Payroll** > **Open Pending Payroll**.
 
-   ![navigate](../../../static/img/usage/payroll/guide/navigate.png)
+    ![navigate](../../../static/img/usage/payroll/guide/navigate.png)
 
-2. Click on Bonus
+2. Click on **Bonus**.
 
-   ![click-bonus](../../../static/img/usage/payroll/guide/click-bonus.png)
+    ![click-bonus](../../../static/img/usage/payroll/guide/click-bonus.png)
 
-3. Next, adjust the bonus of your employee
+3. Next, adjust the bonus for your employee:
 
-   ![adjust-employee](../../../static/img/usage/payroll/guide/adjust-employee.png)
+    ![adjust-employee](../../../static/img/usage/payroll/guide/adjust-employee.png)
 
-   1. Click “Add”
-   2. Select your employee
-   3. Key in amount
-   4. Save
+    1. Click **Add**.
+    2. Select your employee.
+    3. Enter the amount.
+    4. Click **Save**.
 
-4. Go to **Payroll** > **New Payroll** and click on **Ad Hoc**
+4. Go to **Payroll** > **New Payroll** and click on **Ad Hoc**.
 
-   ![adhoc](../../../static/img/usage/payroll/guide/adhoc.png)
+    ![adhoc](../../../static/img/usage/payroll/guide/adhoc.png)
 
-5. Tick **EPF** if you want to deduct **EPF**, Tick **PCB** if you want to deduct **PCB**
+5. Check **EPF** if you want to deduct EPF, and check **PCB** if you want to deduct PCB.
 
-   ![epf-pcb](../../../static/img/usage/payroll/guide/epf-pcb.png)
+    ![epf-pcb](../../../static/img/usage/payroll/guide/epf-pcb.png)
 
-6. Tick Bonus / Allowance (To input your amount)
+6. Check **Bonus / Allowance** (to input your amount).
 
-   ![tick-bonus](../../../static/img/usage/payroll/guide/tick-bonus.png)
+    ![tick-bonus](../../../static/img/usage/payroll/guide/tick-bonus.png)
 
-7. Change the Description (Optional) and tick the employee you rewarded with bonus
+7. Change the Description (Optional) and check the employee you are rewarding with a bonus.
 
-   ![change-desc](../../../static/img/usage/payroll/guide/change-desc.png)
+    ![change-desc](../../../static/img/usage/payroll/guide/change-desc.png)
 
-8. Complete and check the payslip
+8. Complete the process and check the payslip.
 
-   ![result](../../../static/img/usage/payroll/guide/result.png)
+    ![result](../../../static/img/usage/payroll/guide/result.png)
 
 ### CP38
 
-- CP38 is a **instruction** to Deduct Salary which **issued by LHDN**. This CP38 instruction requires that the employer **make additional deductions in monthly installments** from the salary of the taxpayer (other than a Monthly Tax Deduction) towards settlement of taxpayer’s income tax arrears.
-- The Salary Deduction Order (CP38) for tax payment in instalments aims to ease the burden **of the taxpayer** who should be paying the tax arrears in one lump sum under the Income Tax Act 1967.
+- CP38 is an **instruction** to deduct salary **issued by LHDN**. This CP38 instruction requires the employer to **make additional deductions in monthly installments** from the taxpayer's salary (other than a Monthly Tax Deduction) towards the settlement of the taxpayer’s income tax arrears.
+- The Salary Deduction Order (CP38) for tax payment in installments aims to ease the burden **on the taxpayer**, who would otherwise have to pay the tax arrears in one lump sum under the Income Tax Act 1967.
 
-1. **Open Pending Payroll** and choose **CP38**
+1. **Open Pending Payroll** and choose **CP38**.
 
     ![select-cp38](../../../static/img/usage/payroll/guide/select-cp38.png)
 
-2. Press **GENERATE** on the top left of the window.
+2. Click **GENERATE** at the top left of the window.
 
     ![generate](../../../static/img/usage/payroll/guide/generate.png)
 
-3. Key in the Amount you receive from LHDN Letter, for example this employee ( 00001- Lucious ) had to pay CP38 on **June ( RM450 )** and July **( RM550 )**. Press **GENERATE**.
+3. Enter the Amount you received from the LHDN Letter. For example, if employee (00001- Lucious) has to pay CP38 in **June (RM450)** and **July (RM550)**, enter these amounts. Click **GENERATE**.
 
     ![fill-in-details](../../../static/img/usage/payroll/guide/fill-in-details.png)
 
-4. Press **SAVE**
+4. Click **SAVE**.
 
     ![save](../../../static/img/usage/payroll/guide/save.png)
 
-5. This **pending** task only needs to be completed **once**. It will impact **both the June and July month-end processes**. The following pictures below will illustrate the end result :
+5. This **pending** task only needs to be completed **once**. It will impact **both the June and July month-end processes**. The following pictures illustrate the end result:
 
     ![result](../../../static/img/usage/payroll/guide/result.png)
 
 ## Generate Payment Voucher / Journal Entry
 
 :::success[note]
-This is **Additional Module** (Payroll Accounting (SQL Payroll))
+This is an **Additional Module** (Payroll Accounting (SQL Payroll)).
 :::
 
-1. To generate the monthly payroll data converted into double entry and get post into SQL Account.
+1. This module generates monthly payroll data converted into double entry and posts it into SQL Account.
 
 2. It is available in **SQL Payroll version 129** and above.
 
@@ -509,11 +509,11 @@ This is **Additional Module** (Payroll Accounting (SQL Payroll))
 
 ![overview-process-flow](../../../static/img/usage/payroll/guide/overview-process-flow.jpg)
 
-### Configure Payroll Accounting (1 time setup)
+### Configure Payroll Accounting (One-time Setup)
 
-Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
+Go to **Menu: Payroll > Generate Payment Voucher / Journal Entry...**
 
-1. At Generate Payment Voucher / Journal Entry, click on **Configure Payroll Accounting.**
+1. At Generate Payment Voucher / Journal Entry, click on **Configure Payroll Accounting**.
 
     ![insert-process-and-date](../../../static/img/usage/payroll/guide/insert-process-and-date.jpg)
 
@@ -523,15 +523,15 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 #### Step 1: Save GL Account to File (SQL Account)
 
-1. Login the SQL Account database.
+1. Login to the SQL Account database.
 
-2. Go to **File | Import | (SQL Payroll) Import Payment Voucher / Journal Entry | Save GL Account File**
+2. Go to **File > Import > (SQL Payroll) Import Payment Voucher / Journal Entry > Save GL Account File**.
 
     ![navigate-import-payment-voucher](../../../static/img/usage/payroll/guide/navigate-import-payment-voucher.png)
 
     ![save-gl-account-to-file](../../../static/img/usage/payroll/guide/save-gl-account-to-file.png)
 
-3. Save SQL Account file to Desktop.
+3. Save the SQL Account file to the Desktop.
 
     ![save-gl-to-file](../../../static/img/usage/payroll/guide/save-gl-to-file.jpg)
 
@@ -541,23 +541,23 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
     ![load-from-sql-account](../../../static/img/usage/payroll/guide/load-from-sql-account.jpg)
 
-2. Select a **SQL Account file (*.txt)** and click **Open**.
+2. Select a **SQL Account file (\*.txt)** and click **Open**.
 
     ![load-sql-account-file](../../../static/img/usage/payroll/guide/load-sql-account-file.jpg)
 
-3. After the SQL Account GL Code has loaded, the company name will be display and last saved date and time.
+3. After the SQL Account GL Code has loaded, the company name and the last saved date and time will be displayed.
 
     ![display-company-name-and-last-saved-date-and-time](../../../static/img/usage/payroll/guide/display-company-name-and-last-saved-date-and-time.jpg)
 
-4. Click Remove File button if you wish to load the new chart of account.
+4. Click the **Remove File** button if you wish to load a new chart of accounts.
 
 #### Step 3: GL Account Mapping
 
-1. After load the chart of accounts (in step 2), you are able to lookup and **map the GL Account code** to wages, allowance, overtime, bonus, etc accordingly.
+1. After loading the chart of accounts (in Step 2), you can lookup and **map the GL Account code** to wages, allowance, overtime, bonus, etc., accordingly.
 
     ![gl-account-mapping](../../../static/img/usage/payroll/guide/gl-account-mapping.jpg)
 
-2. Example of the account mapping:
+2. Example of account mapping:
 
     ![account-mapping-table](../../../static/img/usage/payroll/guide/account-mapping-table.png)
 
@@ -565,27 +565,27 @@ Go to **Menu : Payroll | Generate Payment Voucher / Journal Entry...**
 
 1. Generate posting entry by **Payment Voucher** or by **Journal Entry**.
 
-2. Group by **Employee** (available in payment voucher), **Branch, Department, HR group, or Category**.
+2. Group by **Employee** (available in payment voucher), **Branch, Department, HR Group, or Category**.
 
-3. Tick to **With Project Code** to post the entry with project code.
+3. Check **With Project Code** to post the entry with a project code.
 
-4. OPTIONAL: Generate Journal Entry for Employer EPF, SOCSO Accrual **(by default is untick)**. For some company might charge the Employer EPF and SOCSO accrual in next month.
+4. **OPTIONAL:** Generate Journal Entry for Employer EPF, SOCSO Accrual **(unchecked by default)**. Some companies may charge the Employer EPF and SOCSO accrual in the next month.
 
     ![posting-method](../../../static/img/usage/payroll/guide/posting-method.jpg)
 
 ### Generate Payment Voucher / Journal Entry (Export)
 
-    To generate the Payment Voucher or Journal Entry from SQL Payroll. Click on **Generate**.
+To generate the Payment Voucher or Journal Entry from SQL Payroll, click on **Generate**.
 
-    ![generate-pv-je](../../../static/img/usage/payroll/guide/generate-pv-je.jpg)
+![generate-pv-je](../../../static/img/usage/payroll/guide/generate-pv-je.jpg)
 
 ### Import Payment Voucher / Journal Entry (Import)
 
-1. Login the SQL Account database.
+1. Login to the SQL Account database.
 
-2. Go to **File | Import | (SQL Payroll) Import Payment Voucher / Journal Entry...**
+2. Go to **File > Import > (SQL Payroll) Import Payment Voucher / Journal Entry...**
 
-3. Click on **Select File** from the Payment Voucher/Journal Entry (payroll data) generate from SQL Payroll.
+3. Click on **Select File** and choose the Payment Voucher/Journal Entry (payroll data) generated from SQL Payroll.
 
     ![import-pv-je](../../../static/img/usage/payroll/guide/import-pv-je.jpg)
 

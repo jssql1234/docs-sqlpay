@@ -6,7 +6,7 @@ slug: /usage/file/company-profile
 tags: ["SQL Payroll", "Usage"]
 ---
 
-A guide to Maintain Company Profile in SQL Payroll
+A guide to maintaining the Company Profile in SQL Payroll
 
 ## Setup
 
@@ -14,38 +14,38 @@ A guide to Maintain Company Profile in SQL Payroll
 
    ![company-profile](../../../static/img/getting-started/company-profile/company-profile.png)
 
-2. Fill up "General" section
+2. Complete the "General" section
 
    ![general](../../../static/img/getting-started/company-profile/general.png)
 
-3. Fill up "EPF" Section
+3. Complete the "EPF" section
 
    ![epf-1](../../../static/img/getting-started/company-profile/epf-1.png)
 
    ![epf-2](../../../static/img/getting-started/company-profile/epf-2.png)
 
-4. Fill up "Tax" Section
+4. Complete the "Tax" section
 
    ![tax-1](../../../static/img/getting-started/company-profile/tax-1.png)
 
    ![tax-2](../../../static/img/getting-started/company-profile/tax-2.png)
 
-5. Fill up "SOCSO" Section
+5. Complete the "SOCSO" section
 
    ![socso-1](../../../static/img/getting-started/company-profile/socso-1.png)
 
    ![socso-2](../../../static/img/getting-started/company-profile/socso-2.png)
 
-6. Fill up "Zakat" Section
+6. Complete the "Zakat" section
 
    ![zakat](../../../static/img/getting-started/company-profile/zakat.png)
 
-7. Fill up " Officer" Section
+7. Complete the "Officer" section
 
    ![officer-1](../../../static/img/getting-started/company-profile/officer-2.png)
 
    ![officer-2](../../../static/img/getting-started/company-profile/officer-2.png)
 
-8. Fill up "Dealer" Section
+8. Complete the "Dealer" section
 
-      ![dealer](../../../static/img/getting-started/company-profile/dealer.png)
+   ![dealer](../../../static/img/getting-started/company-profile/dealer.png)

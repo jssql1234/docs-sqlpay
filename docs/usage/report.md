@@ -23,7 +23,7 @@ tags: ["SQL Payroll", "Report","EA form"]
 
 ### Print EA Form
 
-1. Let's go to Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form..
+1. Navigate to Payroll > Statutary Reports (Yearly) > Print Income Tax EA Form..
 
    ![print-ea](../../static/img/usage/report/print-ea.png)
 
@@ -51,7 +51,7 @@ tags: ["SQL Payroll", "Report","EA form"]
 Jump to **step 3** if you are coming from the **Print EA Form** section
 :::
 
-1. Let's go to Payroll -> Statutary Reports (Yearly) -> Print Income Tax EA Form..
+1. Navigate to Payroll > Statutary Reports (Yearly) > Print Income Tax EA Form..
 
    ![print-ea](../../static/img/usage/report/print-ea.png)
 

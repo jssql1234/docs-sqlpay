@@ -1,26 +1,24 @@
 ---
 title: FAQ
 sidebar_position: 2
-description: A guide about approve same leave request
+description: Frequently Asked Questions for Leave Module
 slug: /usage/leave/faq
 tags: ["SQL Payroll", "FAQ", "Leave"]
 ---
-## Leave Count for Approved by Both Managers
+## Leave Approval
 
-### 1. Both managers have approved the same leave submitted from same employee. How many leave will be taken?
+### 1. If multiple managers approve the same leave request, will the leave be deducted multiple times?
 
-- **Example**
+**Scenario:**
 
-Let said
+- **Manager A** and **Manager B** both have approval authority for the Accounts Department.
+- **Staff C** (Accounts Department) submits a leave request.
+- Both **Manager A** and **Manager B** approve the same leave request.
 
-1. Manager A (approve Acc dept)
-2. Manager B (approve Acc Dept)
-3. Staff C (under Acc Dept) has submitted the e-leave.
+**Question:**
 
-If Manager A approve the leave while Manager B also approve the same leave for staff C.
+How many days of leave will be deducted from the employee's balance?
 
-**How many actual leave will be deducted?**
+**Answer:**
 
-- **Answer**
-
-1 day leave will be deducted.
+The leave will only be deducted **once**. The system treats it as a single transaction, regardless of how many managers approve the specific request.
