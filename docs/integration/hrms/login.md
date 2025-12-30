@@ -4,30 +4,30 @@ title: Login
 description: A login guide for SQL HRMS
 ---
 
-## Login
+1. Enter email and click "Get OTP"
 
-**Step 1:** Enter email | Next  
-    
     ![login1](../../../static/img/integration/hrms/login/login1.png)
 
-**Step 2:** Enter OTP sent to your email | Login  
-    
-    ![login2](../../../static/img/integration/hrms/login/login2.png)  
+2. Enter OTP sent to your email and click "Login"
 
-**Step 3:** Select a company  
+    ![login2](../../../static/img/integration/hrms/login/login2.png)
 
-    ![login3](../../../static/img/integration/hrms/login/login3.png)  
+3. Select a company
+
+    ![login3](../../../static/img/integration/hrms/login/login3.png)
 
 ## Try Demo Account
 
 User may try out all the modules (E-TMS, E-Leave, E-Claim, E-Payroll) as manager
 
-**Step 1:** Start Exploring  
-    
-    ![try-live-demo1](../../../static/img/integration/hrms/login/try-live-demo1.png) 
+1. Start Exploring
 
-**Step 2:** Testing Company (Demo Data)
-    
-    ![try-live-demo2](../../../static/img/integration/hrms/login/try-live-demo2.png) 
-    
-- Logout icon (top right): Logout from SQL HRMS app
+    ![try-live-demo1](../../../static/img/integration/hrms/login/try-live-demo1.png)
+
+2. Select the Testing Company (Demo Data)
+
+    ![try-live-demo2](../../../static/img/integration/hrms/login/try-live-demo2.png)
+
+:::note[tips]
+If you want to logout, click on the button at the top right
+:::

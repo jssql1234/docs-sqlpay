@@ -9,11 +9,11 @@ description: An E Payroll features in SQL HRMS app guide
     ![dashboard](../../../../static/img/integration/hrms/e-payroll/dashboard.png)
 
 - **Latest Payslip:** Download payslip of user’s latest payroll
-- **Latest Payroll:** Summary break down of user’s latest payroll 
+- **Latest Payroll:** Summary break down of user’s latest payroll
   - Eye icon: Set the visibility of payslip amount
   - Right Arrow icon: Direct to detailed payroll information
 - **Monthly Payroll:** Payroll summary of employee’s past 6 months payroll including current month
-- **Disabled buttons:** Management did not check ***'Include Employee Payroll Info'*** in SQL Payroll (refer [Sync Cloud - Payroll](payroll-setup.md#payroll))
+- **Disabled buttons:** Management did not check **_'Include Employee Payroll Info'_** in SQL Payroll (refer [Sync Cloud - Payroll](payroll-setup.md#payroll))
 
 ## Monthly Payroll
 
@@ -23,23 +23,23 @@ User can view his monthly net pay and total net income
 
 ### Monthly Payroll Details
 
-**Step:** Select a month
+1. Select a month
 
     ![monthly-payroll-details](../../../../static/img/integration/hrms/e-payroll/monthly-payroll-details.png)
 
-- Payslip can be downloaded by tapping on the ***Download icon*** (top right corner)
-- User can tap on a payroll item for more detailed information
+    - Payslip can be downloaded by tapping on the **_Download icon_** (top right corner)
+    - User can tap on a payroll item for more detailed information
 
 ## EA Form
 
     ![ea-form](../../../../static/img/integration/hrms/e-payroll/ea-form.png)
 
-- If no EA is uploaded, ***'Select Year'*** will show **'No EA Available'** instead
+- If no EA is uploaded, **_'Select Year'_** will show **'No EA Available'** instead
 - EA Form can be downloaded by tapping on the Download icon on the top right corner
 
 ## Activity Center
 
-**Step:** Dashboard | Bell Icon (top left corner)
+Navigate to Dashboard > Bell Icon (top left corner)
 
     ![activity-center](../../../../static/img/integration/hrms/e-payroll/activity-center.png)
 
@@ -48,7 +48,7 @@ User can view his monthly net pay and total net income
 
 ## Side Drawer
 
-**Step:** Dashboard | Person Icon (top right corner)
+Navigate to Dashboard > Person Icon (top right corner)
 
     ![side-drawer](../../../../static/img/integration/hrms/e-payroll/side-drawer.png)
 
@@ -75,14 +75,14 @@ User can view his managers and access their contacts by swiping/tapping on the m
 
 ### Team List
 
-User can view a list of their team members. Additionally, manager can view a list of their managing employees and their general personal information  
-    
+User can view a list of their team members. Additionally, manager can view a list of their managing employees and their general personal information
+
     ![team-list](../../../../static/img/integration/hrms/e-payroll/team-list.png)
 
 ### Announcement
 
-User can view their company's announcement  
-    
+User can view their company's announcement
+
     ![announcement1](../../../../static/img/integration/hrms/e-payroll/announcement1.png)
 
 - Announcements will be visible according to the duration set in [SQL Payroll](payroll-setup.md#maintain-announcement)
@@ -92,7 +92,7 @@ User can view their company's announcement
   - If post date is in future, the employee will be notified at 9am of the specified date
 - Eg:
 
-    ![announcement2](../../../../static/img/integration/hrms/e-payroll/announcement2.png)
+  ![announcement2](../../../../static/img/integration/hrms/e-payroll/announcement2.png)
 
 :::info
 Enable **Autostart** for SQL HRMS to ensure Announcement features work accordingly (refer [Autostart](../autostart.md))
@@ -125,13 +125,13 @@ User can switch to different company which are linked to the login email
 
 - **Rate Us:** User will be directed to Play Store (Android) / App Store (iOS) to rate SQL HRMS
 - **About SQL HRMS:** User will be directed to [SQL HRMS documentation](https://docs.sql.com.my/sqlpay/category/sql-hrms) where user can learn more about SQL HRMS features
-- **Help Videos:** User will be directed to [SQL HRMS playlists](https://www.youtube.com/playlist?list=PLBfrhZPWZd1Vxv3lYf174a3EW7Pdw8Cth) on YouTube where user can learn more about SQL HRMS features  
+- **Help Videos:** User will be directed to [SQL HRMS playlists](https://www.youtube.com/playlist?list=PLBfrhZPWZd1Vxv3lYf174a3EW7Pdw8Cth) on YouTube where user can learn more about SQL HRMS features
 - **Release Notes:** User will be directed to [SQL HRMS Release Note](https://www.sql.com.my/sql-hrms/releases/) where user can know more about SQL HRMS latest updates
-- **SQL Privacy Policy:** User will be directed to [SQL Privacy Policy](https://www.sql.com.my/pdpa/) where user can learn how their information is used without violating user's privacy  
+- **SQL Privacy Policy:** User will be directed to [SQL Privacy Policy](https://www.sql.com.my/pdpa/) where user can learn how their information is used without violating user's privacy
 
 #### FAQ Center
 
-User can find frequently asked questions to understand better about SQL HRMS features    
+User can find frequently asked questions to understand better about SQL HRMS features
 
     ![faq](../../../../static/img/integration/hrms/e-payroll/faq.png)
 

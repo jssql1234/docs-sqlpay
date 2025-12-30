@@ -7,7 +7,7 @@ slug: /integration/hrms/e-leave/payroll-setup
 
 ## Multi-Level Leave Approval & Notification Settings
 
-**Step:** Company Profile | E HRMS tab
+1. Navigate to Company Profile > E HRMS tab
 
 ![company-profile-hrms-approval-notification](../../../../static/img/integration/hrms/e-leave/company-profile-hrms-approval-notification.png)
 
@@ -16,7 +16,7 @@ slug: /integration/hrms/e-leave/payroll-setup
 
 ## Manager Authority Settings
 
-**Step:** Maintain Employee | E HRMS tab
+Navigate to Maintain Employee > E HRMS tab
 
 ![manage-authority-settings](../../../../static/img/integration/hrms/e-leave/manage-authority-settings.png)
 

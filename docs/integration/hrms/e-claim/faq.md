@@ -6,7 +6,7 @@ description: E-Claim Frequently Asked Questions
 
 ## Approvals & Audit Trail
 
-### 1. Why does the change log show “ADMIN” instead of the manager’s name?
+### Why does the change log show “ADMIN” instead of the manager’s name?
 
 When a claim is approved or rejected directly in **SQL Payroll** (rather than in HRMS), the audit log records the action under **ADMIN**. Approvals completed within HRMS display the actual manager’s name.
 
@@ -14,11 +14,11 @@ When a claim is approved or rejected directly in **SQL Payroll** (rather than in
 
 ## E-Invoice Claim Workflow
 
-### 2. What is an E-Invoice Claim?
+### What is an E-Invoice Claim?
 
 This submission type requires an attachment containing a **valid e-invoice QR code**. SQL HRMS scans the file, validates the QR code, and auto-populates the invoice details in the claim form.
 
-### 3. Why do I see “No QR detected” after attaching an e-invoice?
+### Why do I see “No QR detected” after attaching an e-invoice?
 
 Common reasons include:
 
@@ -28,6 +28,6 @@ Common reasons include:
 
 Upload a clear, valid e-invoice and attach it again.
 
-### 4. Why is the Supplier Name or E-Invoice No truncated in `Ref 1` / `Ref 2`?
+### Why is the Supplier Name or E-Invoice No truncated in `Ref 1` / `Ref 2`?
 
 Each reference field supports up to **80 characters**. Values longer than that are automatically shortened to fit the limit.

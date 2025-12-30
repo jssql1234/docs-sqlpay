@@ -4,7 +4,7 @@ title: Sync Cloud
 description: An E Claim sync cloud guide in SQL Payroll
 ---
 
-**Step:** Cloud Icon | Sync Cloud… | Pending Claim | Sync All
+1. Navigate to ☁️ > Sync Cloud… > Pending Claim > Sync All
     - Checkbox Hint:
         - Pending: Show leave applications with **Pending Approval** status
         - Approved: Show leave applications with **Approved** status
@@ -23,7 +23,7 @@ description: An E Claim sync cloud guide in SQL Payroll
 
 ## Edit Mode
 
-**Step 1:** Right-click on the grid | Edit
+1. Right-click on the grid, click "Edit"
 
 ![sync-cloud-edit](../../../../static/img/integration/hrms/e-claim/sync-cloud-edit.png)
 
@@ -34,4 +34,4 @@ description: An E Claim sync cloud guide in SQL Payroll
         - Description
         - Amount
 
-**Step 2:** Save
+2. Save

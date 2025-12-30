@@ -6,7 +6,7 @@ description: E-Payroll Frequently Asked Questions
 
 ## Access & Sync Issues
 
-### 1. Why can’t I click the **Latest Payslip**, **Monthly Payroll**, or **EA Form** buttons?
+### Why can’t I click the **Latest Payslip**, **Monthly Payroll**, or **EA Form** buttons?
 
 ![top-row-disabled](../../../../static/img/integration/hrms/e-payroll/top-row-disabled.png)
 
@@ -16,7 +16,7 @@ Enable the payroll data sync in SQL Payroll:
 2. Choose **Payroll**.
 3. Tick **Include Employee Payroll Info**, then click **Sync All**.
 
-### 2. Error: `Unauthorized`
+### Error: `Unauthorized`
 
 Re-enable SQL Drive and sync again:
 
@@ -30,7 +30,7 @@ Re-enable SQL Drive and sync again:
 
 ## Payslip Availability
 
-### 3. Why are some payslips missing after I change the filter and resync?
+### Why are some payslips missing after I change the filter and resync?
 
 Starting with Payroll version **v216**, the sync behaviour differs for Payroll Info versus Payslips:
 
