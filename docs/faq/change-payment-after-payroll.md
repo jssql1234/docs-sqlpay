@@ -5,20 +5,18 @@ slug: /faq/change-payment-after-payroll
 tags: ["SQL Payroll", "FAQ", "Payment Method"]
 ---
 
-## Setup
-
 1. Select the employee’s name or code.
 
     ![select-employee](../../static/img/faq/change-payment-after-payroll/select-employee.png)
 
-2. Go to the bottom the paysheet and select payment method.
+2. Scroll down to the bottom of the paysheet and select payment method.
 
     ![select-payment-method](../../static/img/faq/change-payment-after-payroll/select-payment-method.png)
 
-3. Select the correct payment method.
+3. Select the payment method.
 
     ![payment-method](../../static/img/faq/change-payment-after-payroll/payment-method.png)
 
-4. Press save
+4. Press save.
 
     ![save](../../static/img/faq/change-payment-after-payroll/save.png)
