@@ -241,7 +241,7 @@ Assume the following scenario:
 
 ### Auto Repayment
 
-1. Process payroll as usual (refer to [New Payroll](/usage/payroll/general#create-payroll)).
+1. Process payroll as usual (refer to [New Payroll](../payroll/guide.md#create-payroll)).
 
 2. In the selected employee's paysheet, click **Loan**.
 

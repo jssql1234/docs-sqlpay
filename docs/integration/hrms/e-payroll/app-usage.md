@@ -13,7 +13,7 @@ description: An E Payroll features in SQL HRMS app guide
   - Eye icon: Set the visibility of payslip amount
   - Right Arrow icon: Direct to detailed payroll information
 - **Monthly Payroll:** Payroll summary of employee’s past 6 months payroll including current month
-- **Disabled buttons:** Management did not check **_'Include Employee Payroll Info'_** in SQL Payroll (refer [Sync Cloud - Payroll](payroll-setup.md#payroll))
+- **Disabled buttons:** Management did not check **_'Include Employee Payroll Info'_** in SQL Payroll (refer [Sync Cloud - Payroll](payroll-setup.md#sql-payroll))
 
 ## Monthly Payroll
 

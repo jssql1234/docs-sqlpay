@@ -12,19 +12,19 @@ When a new employee joins the company, use the Maintain Employee section to ente
 
 1. Navigate to the Maintain Employee panel.
 
-    ![des-navigate-1](../../../static/img/usage/human-resource/hr-setup-images/navigate-1.png)
+   ![des-navigate-1](../../../static/img/usage/human-resource/hr-setup-images/navigate-1.png)
 
-    **OR Click on "Maintain Employee" on the home page**
+   **OR Click on "Maintain Employee" on the home page**
 
-    ![des-navigate-2](../../../static/img/usage/human-resource/hr-setup-images/navigate-2.png)
+   ![des-navigate-2](../../../static/img/usage/human-resource/hr-setup-images/navigate-2.png)
 
 2. Click New to create a new employee.
 
-    ![des-new-employee](../../../static/img/usage/human-resource/hr-setup-images/new-employee.png)
+   ![des-new-employee](../../../static/img/usage/human-resource/hr-setup-images/new-employee.png)
 
 3. Enter the employee’s personal details.
 
-    ![des-personal-tab-1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)
+   ![des-personal-tab-1](../../../static/img/usage/human-resource/hr-setup-images/personal-tab-1.jpg)
 
 ### Personal
 
@@ -81,16 +81,16 @@ Remember to uncheck the _Active_ checkbox for any employee who has resigned befo
 
 This tab is used for report grouping for the selected employee. It can be organized by:
 
-- [Branch](../../usage/human-resource/setup.md#maintain-branch)
-- [Department](../../usage/human-resource/setup.md#maintain-department)
-- [Group](../../usage/human-resource/setup.md#maintain-group)
-- [Category](../../usage/human-resource/setup.md#maintain-category)
-- [Project](../../usage/human-resource/setup.md#maintain-project)
-- [Job](../../usage/human-resource/setup.md#maintain-job)
-- [Task](../../usage/human-resource/setup.md#maintain-task)
-- [Race](../../usage/human-resource/setup.md#maintain-race)
-- [History Type](../../usage/human-resource/setup.md#maintain-history-type)
-- [Announcement](../../usage/human-resource/setup.md#maintain-announcement)
+- [Branch](#maintain-branch)
+- [Department](#maintain-department)
+- [Group](#maintain-group)
+- [Category](#maintain-category)
+- [Project](#maintain-project)
+- [Job](#maintain-job)
+- [Task](#maintain-task)
+- [Race](#maintain-race)
+- [History Type](#maintain-history-type)
+- [Announcement](#maintain-announcement)
 
 ![des-grouping-tab-1](../../../static/img/usage/human-resource/hr-setup-images/grouping-tab-1.jpg)
 
@@ -131,18 +131,18 @@ It is useful for emergency contact purposes.
 
 | Field Name      | Properties                                                                                                                                                       | Field Name            | Properties                                                                            |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------- |
-| Wages Type      | Definition: Employee [Wages](/usage/payroll/setup#maintain-wages) Category Type                                                                                  | SOCSO No              | Definition: Employee SOCSO Number                                                     |
+| Wages Type      | Definition: Employee [Wages](../payroll/setup.md#maintain-wages) Category Type                                                                                   | SOCSO No              | Definition: Employee SOCSO Number                                                     |
 |                 |                                                                                                                                                                  |                       | Field Type: Alphanumerical                                                            |
 |                 |                                                                                                                                                                  |                       | Length: 20                                                                            |
 | Wages           | Definition: Employee wages amount                                                                                                                                | SOCSO Type            | Definition: Employee SOCSO Category                                                   |
 |                 | Field Type: Numerical                                                                                                                                            |                       | Data Options: First Category, Second Category or No SOCSO                             |
-| Contribution    | Definition: Employee [Contribution](/usage/payroll/setup#maintain-contribution) Type                                                                             | Tax Branch            | Definition: Employee Tax Branch                                                       |
+| Contribution    | Definition: Employee [Contribution](../payroll/setup.md#maintain-contribution) Type                                                                              | Tax Branch            | Definition: Employee Tax Branch                                                       |
 |                 |                                                                                                                                                                  |                       | Field Type: Alphanumerical                                                            |
 |                 |                                                                                                                                                                  |                       | Length: 40                                                                            |
-| Frequency       | Definition: Employee payment [Frequency](/usage/payroll/setup#maintain-frequency)                                                                                | Tax No                | Definition: Employee Tax Number                                                       |
+| Frequency       | Definition: Employee payment [Frequency](../payroll/setup.md#maintain-frequency)                                                                                 | Tax No                | Definition: Employee Tax Number                                                       |
 |                 |                                                                                                                                                                  |                       | Field Type: Alphanumerical                                                            |
 |                 |                                                                                                                                                                  |                       | Length: 20                                                                            |
-| Payment Method  | Definition: Employer [Payment Method](/usage/payroll/setup#maintain-payment-method)                                                                              | Marital Status        | Definition: Employee marriage status                                                  |
+| Payment Method  | Definition: Employer [Payment Method](../payroll/setup.md#maintain-payment-method)                                                                               | Marital Status        | Definition: Employee marriage status                                                  |
 |                 |                                                                                                                                                                  |                       | Data Options: Single, Married, Divorced or Widow                                      |
 | Bank            | Definition: Employee Bank                                                                                                                                        | Spouse Working        | Definition: Tick if the Employee husband/wife is working                              |
 |                 |                                                                                                                                                                  |                       | Field Type: Boolean                                                                   |
@@ -168,13 +168,13 @@ It is useful for emergency contact purposes.
 
 ### Allowance
 
-Use this tab to enter the Fixed [Allowance](/usage/payroll/setup#maintain-allowance) entitled for each month for the selected employee.
+Use this tab to enter the Fixed [Allowance](../payroll/setup.md#maintain-allowance) entitled for each month for the selected employee.
 
 ![des-allowance-tab-1](../../../static/img/usage/human-resource/hr-setup-images/allowance-tab-1.jpg)
 
 ### Deduction
 
-Use this tab to enter the Fixed [Deduction](/usage/payroll/setup#maintain-deduction) entitled for each month for the selected employee.
+Use this tab to enter the Fixed [Deduction](../payroll/setup.md#maintain-deduction) entitled for each month for the selected employee.
 
 ![des-deduction-tab-1](../../../static/img/usage/human-resource/hr-setup-images/deduction-tab-1.jpg)
 
@@ -195,12 +195,12 @@ Select "Increment" in the type column to print the Increment Letter (HR.Employee
 
 ![des-history-tab-1](../../../static/img/usage/human-resource/hr-setup-images/history-tab-1.jpg)
 
-| Field Name  | Properties                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| Post Date   | Definition: Date of the data changes                                                       |
-|             | Field Type: Date                                                                           |
-| Type        | Definition: Changes [History Type](../../usage/human-resource/setup#maintain-history-type) |
-| Description | Definition: Detail of Data changes                                                         |
+| Field Name  | Properties                                                 |
+| ----------- | ---------------------------------------------------------- |
+| Post Date   | Definition: Date of the data changes                       |
+|             | Field Type: Date                                           |
+| Type        | Definition: Changes [History Type](#maintain-history-type) |
+| Description | Definition: Detail of Data changes                         |
 
 ### Child
 
@@ -235,12 +235,12 @@ This is useful for companies with multiple branches where the salary is paid fro
 
 ![des-maintain-branch-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-branch-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                    |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Branch Code (Max 20 Characters)                                                                                                                             |
-| Description    | A Full Description for Branch (Max 160 Characters)                                                                                                            |
-| Active         | Uncheck if the selected branch code is unavailable                                                                                                            |
-| Set as Default | Click this button to automatically assign this Branch Code when creating a new employee at [Maintain Employee](/usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                         |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A Branch Code (Max 20 Characters)                                                                                                  |
+| Description    | A Full Description for Branch (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected branch code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Branch Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Department
 
@@ -248,12 +248,12 @@ A division of an organization, such as Accounts, Marketing, etc.
 
 ![des-maintain-department-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-department-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                             |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Department Code (Max 20 Characters)                                                                                                                                  |
-| Description    | A Full Description for Department (Max 160 Characters)                                                                                                                 |
-| Active         | Uncheck if the selected Department code is unavailable                                                                                                                 |
-| Set as Default | Click this button to automatically assign this Department Code when creating a new employee at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                             |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A Department Code (Max 20 Characters)                                                                                                  |
+| Description    | A Full Description for Department (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected Department code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Department Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Group
 
@@ -261,12 +261,12 @@ Another method for grouping employees in reports.
 
 ![des-maintain-group-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-group-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                        |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Group Code (Max 20 Characters)                                                                                                                                  |
-| Description    | A Full Description for Group (Max 160 Characters)                                                                                                                 |
-| Active         | Uncheck if the selected Group code is unavailable                                                                                                                 |
-| Set as Default | Click this button to automatically assign this Group Code when creating a new employee at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                        |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A Group Code (Max 20 Characters)                                                                                                  |
+| Description    | A Full Description for Group (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected Group code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Group Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Category
 
@@ -274,12 +274,12 @@ Divide employees by class or division.
 
 ![des-maintain-category-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-category-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                           |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Category Code (Max 20 Characters)                                                                                                                                  |
-| Description    | A Full Description for Category (Max 160 Characters)                                                                                                                 |
-| Active         | Uncheck if the selected Category Code is unavailable                                                                                                                 |
-| Set as Default | Click this button to automatically assign this Category Code when creating a new employee at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Code           | A Category Code (Max 20 Characters)                                                                                                  |
+| Description    | A Full Description for Category (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected Category Code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Category Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Project
 
@@ -287,12 +287,12 @@ Group employees by the project they are working on.
 
 ![des-maintain-project-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-project-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                          |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Project Code (Max 20 Characters)                                                                                                                                  |
-| Description    | A Full Description for Project (Max 160 Characters)                                                                                                                 |
-| Active         | Uncheck if the selected Project Code is unavailable                                                                                                                 |
-| Set as Default | Click this button to automatically assign this Project Code when creating a new employee at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                          |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A Project Code (Max 20 Characters)                                                                                                  |
+| Description    | A Full Description for Project (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected Project Code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Project Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Job
 
@@ -300,12 +300,12 @@ Group employees by job type for reporting.
 
 ![des-maintain-job-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-job-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                      |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Job Code (Max 20 Characters)                                                                                                                                  |
-| Description    | A Full Description for Job (Max 160 Characters)                                                                                                                 |
-| Active         | Uncheck if the selected Job Code is unavailable                                                                                                                 |
-| Set as Default | Click this button to automatically assign this Job Code when creating a new employee at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A Job Code (Max 20 Characters)                                                                                                  |
+| Description    | A Full Description for Job (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected Job Code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Job Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Task
 
@@ -313,12 +313,12 @@ Divide employees by specific tasks.
 
 ![des-maintain-task-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-task-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                       |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Project Code (Max 20 Characters)                                                                                                                               |
-| Description    | A Full Description for Task (Max 160 Characters)                                                                                                                 |
-| Active         | Uncheck if the selected Task Code is unavailable                                                                                                                 |
-| Set as Default | Click this button to automatically assign this Task Code when creating a new employee at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                       |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A Project Code (Max 20 Characters)                                                                                               |
+| Description    | A Full Description for Task (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected Task Code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Task Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Race
 
@@ -326,12 +326,12 @@ Group employees by race for reporting.
 
 ![des-maintain-race-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-race-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                       |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A Race Code (Max 20 Characters)                                                                                                                                  |
-| Description    | A Full Description for Race (Max 160 Characters)                                                                                                                 |
-| Active         | Uncheck if the selected Race Code is unavailable                                                                                                                 |
-| Set as Default | Click this button to automatically assign this Race Code when creating a new employee at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                       |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A Race Code (Max 20 Characters)                                                                                                  |
+| Description    | A Full Description for Race (Max 160 Characters)                                                                                 |
+| Active         | Uncheck if the selected Race Code is unavailable                                                                                 |
+| Set as Default | Click this button to automatically assign this Race Code when creating a new employee at [Maintain Employee](#maintain-employee) |
 
 ## Maintain History Type
 
@@ -339,12 +339,12 @@ Allows users to group changes made in Maintain Employee.
 
 ![des-maintain-history-type-1](../../../static/img/usage/human-resource/hr-setup-images/maintain-history-type-1.jpg)
 
-| Field Name     | Properties                                                                                                                                                          |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code           | A History Type Code (Max 20 Characters)                                                                                                                             |
-| Description    | A Full Description for History Type (Max 160 Characters)                                                                                                            |
-| Active         | Uncheck if the selected History Type Code is unavailable                                                                                                            |
-| Set as Default | Click this button to automatically assign this History Type Code when making new changes at [Maintain Employee](../../usage/human-resource/setup#maintain-employee) |
+| Field Name     | Properties                                                                                                                          |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Code           | A History Type Code (Max 20 Characters)                                                                                             |
+| Description    | A Full Description for History Type (Max 160 Characters)                                                                            |
+| Active         | Uncheck if the selected History Type Code is unavailable                                                                            |
+| Set as Default | Click this button to automatically assign this History Type Code when making new changes at [Maintain Employee](#maintain-employee) |
 
 ## Maintain Announcement
 
