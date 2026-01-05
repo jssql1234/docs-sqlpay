@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Guide
 description: Guide
 slug: /usage/human-resource/guide
-tags: ["SQL Payroll", "HR", "Functions"]
+tags: ["HR", "Bulk Email","Employee Login","Print Letter","Increment Letter","MyKad Reader","Recurring Zakat","Loan"]
 ---
 
 ## Bulk Email With Password

@@ -3,7 +3,7 @@ title: FAQ
 sidebar_position: 2
 description: Frequently Asked Questions for Leave Module
 slug: /usage/leave/faq
-tags: ["SQL Payroll", "FAQ", "Leave"]
+tags: ["FAQ", "Leave","Approve Leave","Leave Deduction"]
 ---
 ## Leave Approval
 

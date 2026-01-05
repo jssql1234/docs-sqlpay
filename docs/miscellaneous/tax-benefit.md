@@ -2,7 +2,7 @@
 title: Tax Benefit
 description: A guide to perform Tax Benefit in SQL Payroll
 slug: /miscellaneous/tax-benefit
-tags: ["SQL Payroll", "Tax"]
+tags: ["Tax","Benefits in Kind","BIK","EA Form"]
 ---
 
 ## Process Tax Benefit

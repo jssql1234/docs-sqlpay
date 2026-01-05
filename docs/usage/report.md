@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Report
 description: General topics of Report in SQL Payroll
 slug: /usage/report
-tags: ["SQL Payroll", "Report","EA form"]
+tags: ["Report","Report Designer","EA form"]
 ---
 
 ## List of Reports

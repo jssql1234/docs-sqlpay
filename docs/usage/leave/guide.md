@@ -3,7 +3,7 @@ title: Guide
 sidebar_position: 1
 description: A guide of leave for SQL Payroll
 slug: /usage/leave/guide
-tags: ["SQL Payroll", "Leave", "Report"]
+tags: ["Leave", "Company Calendar","Public Holiday","Leave Entitlement","Leave Group", "Leave Type","Leave Report"]
 ---
 
 ## Introduction

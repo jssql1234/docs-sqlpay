@@ -2,7 +2,7 @@
 title: Online Mobile Approval
 description: A guide to carry out online mobile approval
 slug: /usage/general/online-mobile-approval
-tags: ["SQL Payroll", "Online Mobile Approval"]
+tags: ["Online Mobile Approval","Approval Person","Whatsapp Approval","Email Approval","Payroll Approval"]
 ---
 
 ## Use cases

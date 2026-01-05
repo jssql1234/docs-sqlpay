@@ -2,7 +2,7 @@
 title: Benefits in Kind
 description: A brief introduction to Benefits in Kind (BIK)
 slug: /miscellaneous/benefits-in-kind
-tags: ["SQL Payroll", "Benefits in Kind", "BIK"]
+tags: [ "Benefits in Kind", "BIK"]
 ---
 
 ## What is BIK?

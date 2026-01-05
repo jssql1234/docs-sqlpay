@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Modules
 description: A guide explaning modules of SQL Payroll
 slug: /getting-started/modules
-tags: ["SQL Payroll", "Modules"]
+tags: ["Modules","Additional Modules","Basic Modules"]
 ---
 
 ## Main modules

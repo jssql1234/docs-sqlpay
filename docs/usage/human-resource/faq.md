@@ -3,7 +3,7 @@ sidebar_position: 3
 title: FAQ
 description: FAQ
 slug: /usage/human-resource/faq
-tags: ["SQL Account", "HR", "FAQ"]
+tags: ["HR FAQ", "Appointment Letter", "Human Resources"]
 ---
 
 ## 1. Where I can get/modify the appointment letter?

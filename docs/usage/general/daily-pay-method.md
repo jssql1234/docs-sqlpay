@@ -2,7 +2,7 @@
 title: Daily Pay Method
 description: A guide to process daily pay method for employee
 slug: /usage/general/daily-pay-method
-tags: ["SQL Payroll", "Daily Pay"]
+tags: ["Contribution", "Daily Pay","Pay rate"]
 ---
 
 :::info

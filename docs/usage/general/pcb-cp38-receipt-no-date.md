@@ -2,7 +2,7 @@
 title: PCB & CP38 Receipt No & Date
 description: A guide to maintain payroll frequency method
 slug: /usage/general/pcb-cp38-receipt-no-date
-tags: ["SQL Payroll", "PCB", "CP38", "Receipt"]
+tags: ["PCB", "CP38", "Receipt"]
 ---
 
 

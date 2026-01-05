@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Setup
 description: A setup for payroll maintenance
 slug: /usage/payroll/setup
-tags: ["SQL Payroll", "Setup"]
+tags: ["Setup","Maintain Wages","Maintain Frequency","Maintain Contribution","Maintain Allowance","Deduction","Maintain Overtime","OT","Maintain Claim","Maintain Commission","Maintain Payment Method"]
 ---
 
 ## Maintain Wages

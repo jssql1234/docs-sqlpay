@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Setup
 description: Setup
 slug: /usage/human-resource/setup
-tags: ["SQL Payroll", "HR"]
+tags: ["HR","Maintain Employee", "Setup","PCB","Payroll Info","Allowance","Wages"]
 ---
 
 ## Maintain Employee

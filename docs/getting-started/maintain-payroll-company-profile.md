@@ -2,7 +2,7 @@
 title: Maintain Company Profile
 description: A guide to Maintain Company Profile in SQL Payroll
 slug: /getting-started/company-profile
-tags: ["SQL Payroll", "Company Profile"]
+tags: ["Company Profile","Company Information","Set Up"]
 ---
 
 ## Setup

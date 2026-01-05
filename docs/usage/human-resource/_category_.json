@@ -3,6 +3,7 @@
     "position": 2,
     "link": {
         "type": "generated-index",
-        "description": "Human Resource guide"
+        "description": "Human Resource guide",
+        "slug": "/usage/human-resource-category"
     }
 }

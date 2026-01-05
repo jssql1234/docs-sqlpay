@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Options
 description: A guide of system default or personal setting
 slug: /usage/tools/options
-tags: ["SQL Payroll", "Options"]
+tags: ["Options","System Setting","Global Setting","Personal Setting"]
 ---
 
 ## Introduction

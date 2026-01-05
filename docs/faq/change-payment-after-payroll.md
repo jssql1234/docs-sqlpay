@@ -2,7 +2,7 @@
 title: How to Change Payment Method After Payroll Has Been Processes?
 description: A guide to change payment method after payroll is processed
 slug: /faq/change-payment-after-payroll
-tags: ["SQL Payroll", "FAQ", "Payment Method"]
+tags: ["Processed Payroll", "Change Payment", "Payment Method"]
 ---
 
 1. Select the employee’s name or code.

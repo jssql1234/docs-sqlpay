@@ -2,8 +2,8 @@
 sidebar_position: 2
 title: Import Data
 description: Import Data Guide
-slug: /usage/file/import-data
-tags: ["SQL Payroll", "Usage"]
+slug:  /usage/first-time-setup/import-data
+tags: ["UBS Payroll", "AutoCount Payroll","Data Import","Migration"]
 ---
 
 Currently, we support importing data from the following software:

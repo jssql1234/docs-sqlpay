@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Guide
 description: A guide to maintain payroll
 slug: /usage/payroll/general
-tags: ["SQL Payroll", "Payroll", "Month End", "Pending Payroll"]
+tags: ["Create Payroll", "Transaction Types", "Month End", "Pending Payroll","Payment Voucher","Journal Entry","Import to SQL Accounting"]
 ---
 
 ## Create Payroll

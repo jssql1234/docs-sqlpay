@@ -2,8 +2,8 @@
 sidebar_position: 1
 title: Company Profile
 description: File Guide
-slug: /usage/file/company-profile
-tags: ["SQL Payroll", "Usage"]
+slug: /usage/first-time-setup/company-profile
+tags: ["Company Profile","Company Information","Set Up"]
 ---
 
 A guide to maintaining the Company Profile in SQL Payroll

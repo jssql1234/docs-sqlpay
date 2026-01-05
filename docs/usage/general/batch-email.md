@@ -2,7 +2,7 @@
 title: Batch Email
 description: A guide to do batch email (Email Client Batch & SMTP Batch)
 slug: /usage/general/batch-email
-tags: ["SQL Payroll", "Batch Email", "Email Client Batch", "SMTP Batch"]
+tags: ["Batch Email", "Email Client Batch", "SMTP Batch"]
 ---
 
 :::info[note]

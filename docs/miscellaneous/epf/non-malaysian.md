@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Non-Malaysian Employee
 description: Non-Malaysian Employee EPF
 slug: /miscellaneous/epf/non-malaysian-employee
-tags: ["SQL Payroll", "EPF"]
+tags: ["EPF","Foreigner Staff","Non Malaysian Employee","KWSP","Contribution"]
 ---
 
 ## Overview

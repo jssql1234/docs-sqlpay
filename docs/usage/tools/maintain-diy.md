@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Maintain DIY
 description: A guide of maintain diy
 slug: /usage/tools/maintain-diy
-tags: ["SQL Payroll", "Maintain DIY"]
+tags: ["DIY Fields","DIY Script","Quick Form", "Additional Module", "DIY Script Module", "Calculation", "View Template", "Leave Entitlement Processor", "Leave Calculate Amount", "Limit Overtime Rate", "OT","Maintain DIY"]
 ---
 
 ## Introduction

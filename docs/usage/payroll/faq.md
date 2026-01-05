@@ -3,7 +3,7 @@ sidebar_position: 3
 title: FAQ
 description: Frequently Asked Questions for SQL Payroll
 slug: /usage/payroll/faq
-tags: ["SQL Payroll", "FAQ"]
+tags: ["FAQ","Missing Employee","Customized Payslip Format","Company Leave Policy","Date Format","Yearly Individual Report","Opening Balance","Recurring Payroll"]
 ---
 
 ## 1. How do I restore missing Code and Employee Name columns in the Month Payroll screen?

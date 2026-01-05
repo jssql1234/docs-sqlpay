@@ -2,7 +2,7 @@
 title: Final Payroll
 description: A guide to do final payroll to process the net pay amount based on computerized calculation
 slug: /usage/general/final-payroll
-tags: ["SQL Payroll", "Final"]
+tags: ["Final Payroll","Payslip","Print Payslip","Export Payslip","EPF Borang A", "SOCSO Borang 8a"]
 ---
 
 ## Setup

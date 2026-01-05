@@ -3,7 +3,7 @@ sidebar_position: 4
 title: EIS
 description: A brief explanation of Employment Insurance System (EIS)
 slug: /miscellaneous/eis
-tags: ["SQL Payroll", "EIS"]
+tags: ["EIS","SOCSO"]
 ---
 
 ## What is Employment Insurance System (EIS)?

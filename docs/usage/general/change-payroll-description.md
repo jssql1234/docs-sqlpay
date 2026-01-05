@@ -2,7 +2,7 @@
 title: Change Payroll Description
 description: A guide on how to change the payroll description
 slug: /usage/general/change-payroll-description
-tags: ["SQL Payroll", "Description"]
+tags: ["Description","Payroll Description","Process Payroll"]
 ---
 
 :::info

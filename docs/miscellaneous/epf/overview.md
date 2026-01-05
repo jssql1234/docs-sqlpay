@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Overview
 description: EPF Overview
 slug: /miscellaneous/epf/overview
-tags: ["SQL Payroll", "EPF"]
+tags: ["EPF","KWSP","Contribution Rate","EPF Table"]
 ---
 
 ## What is EPF (KWSP)?

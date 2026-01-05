@@ -3,7 +3,7 @@ sidebar_position: 2
 title: PCB
 description: A brief explanation of Potongan Cukai Bulanan (PCB)
 slug: /miscellaneous/pcb
-tags: ["SQL Payroll", "PCB"]
+tags: ["Income Tax", "PCB","CP38","Tax Relief"]
 ---
 
 ## What is Potongan Cukai Bulanan (PCB)?

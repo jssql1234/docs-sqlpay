@@ -2,7 +2,7 @@
 title: Hide Bonus Process
 description: To maintain the confidentiality of bonus distributions by restricting bonus-related information.
 slug: /usage/general/hide-bonus
-tags: ["SQL Payroll", "Bonus"]
+tags: ["Bonus","Confidentiality","Access Control","Restrict Access"]
 ---
 
 This guide explains how to maintain the confidentiality of bonus distributions by restricting access to bonus-related information.

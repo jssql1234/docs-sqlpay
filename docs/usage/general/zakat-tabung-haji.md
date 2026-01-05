@@ -2,7 +2,7 @@
 title: Zakat and Tabung Haji
 description: A guide to apply Zakat and Tabung Haji deduction for employee
 slug: /usage/general/zakat-tabung-haji
-tags: ["SQL Payroll", "Zakat", "Tabung Haji"]
+tags: ["Zakat", "Tabung Haji","Maintain Deduction","Governmernt Reports"]
 ---
 
 ## Setup Zakat & Tabung Haji

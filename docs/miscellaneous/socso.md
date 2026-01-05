@@ -3,7 +3,7 @@ sidebar_position: 3
 title: SOCSO
 description: A brief explanation of Social Security Organization (EPF)
 slug: /miscellaneous/socso
-tags: ["SQL Payroll", "SOCSO"]
+tags: ["SOCSO","First Category","Second Category"]
 ---
 
 ## What is Social Security Organization (SOCSO)?

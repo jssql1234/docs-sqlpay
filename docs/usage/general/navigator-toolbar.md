@@ -2,7 +2,7 @@
 title: Navigator Toolbar
 description: A guide about Navigator Toolbar
 slug: /usage/general/navigator-toolbar
-tags: ["SQL Payroll", "General", "Navigator", "Toolbar"]
+tags: ["Navigator", "Toolbar","Grid Data Entry"]
 ---
 
 ## Introduction
