@@ -2,8 +2,9 @@
 sidebar_position: 6
 title: FAQ
 description: E-TMS Frequently Asked Questions
+slug: /integration/hrms/e-tms/faq
+tags: ["SQL HRMS", "E-TMS", "Troubleshooting FAQ"]
 ---
-
 ## Clock In & Attendance
 
 ### Why do I see `Exception: [500] Error` or `Exception: [500] Insufficient Storage` when clocking in/out with attachments?

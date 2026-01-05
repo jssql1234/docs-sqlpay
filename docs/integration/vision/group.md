@@ -1,7 +1,8 @@
 ---
 sidebar_position: 9
+slug: /integration/vision/group
+tags: ["SQL Vision", "Group Management", "SQL Vision Group Management"]
 ---
-
 # Group
 
 :::info[Note]

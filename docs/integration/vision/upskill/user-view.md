@@ -1,9 +1,10 @@
 ---
 title: User View
 description: A brief guide on Upskill for employee
+slug: /integration/vision/upskill/user-view
+tags: ["SQL Vision", "Vision Upskill", "User View"]
 sidebar_position: 3
 ---
-
 # User View
 
 ### Course tab

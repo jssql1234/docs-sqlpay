@@ -2,8 +2,9 @@
 sidebar_position: 5
 title: FAQ
 description: HRMS Frequently Asked Questions
+slug: /integration/hrms/faq
+tags: ["SQL HRMS", "Troubleshooting FAQ", "SQL HRMS Troubleshooting FAQ"]
 ---
-
 ## Connectivity & Login
 
 ### Error: “OOPS! We have encountered some problems while trying to connect to the server. Please try again.”

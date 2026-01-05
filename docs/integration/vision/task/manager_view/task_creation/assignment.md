@@ -1,7 +1,8 @@
 ---
 sidebar_position: 2
+slug: /integration/vision/task/manager_view/task_creation/assignment
+tags: ["SQL Vision", "Vision Tasks", "Assignment Management"]
 ---
-
 # Create Assignment
 
 Assignment is a qualitative mission (uncountable). *E.g., Marketing Strategy Planning, Company Logo design*

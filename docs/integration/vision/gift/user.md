@@ -1,7 +1,8 @@
 ---
 sidebar_position: 3
+slug: /integration/vision/gift/user
+tags: ["SQL Vision", "Vision Gifts", "User Features"]
 ---
-
 # User View
 
 :::info[Note]

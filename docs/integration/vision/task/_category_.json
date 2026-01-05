@@ -1,8 +1,9 @@
 {
-    "label": "Task",
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": "Guidance to Task Module in SQL Vision."
-    }
+  "label": "Task",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Guidance to Task Module in SQL Vision.",
+    "slug": "/integration/vision/task"
   }
+}

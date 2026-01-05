@@ -1,9 +1,10 @@
 ---
 title: Quest
 description: A brief guide on quest
+slug: /integration/vision/task/manager_view/quest
+tags: ["SQL Vision", "Vision Tasks", "Quest Management"]
 sidebar_position: 4
 ---
-
 Quest details are the same as the Assignment or Target details, depending on whether the Quest is an *Assignment-type* or *Target-type* mission.
 
 For more information, refer below:

@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
+slug: /integration/vision/task/introduction
+tags: ["SQL Vision", "Vision Tasks", "Feature Introduction"]
 ---
-
 # Introduction
 
 There are 3 types of missions in task module: **Assignment**, **Target** and **Quest**.

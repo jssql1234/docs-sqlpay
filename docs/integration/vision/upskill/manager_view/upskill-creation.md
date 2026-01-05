@@ -1,6 +1,8 @@
 ---
 title: Upskill Creation
 description: A brief guide on upskill creation
+slug: /integration/vision/upskill/manager_view/upskill-creation
+tags: ["SQL Vision", "Vision Upskill", "Upskill Content Creation"]
 sidebar_position: 1
 ---
 ## Creation Steps

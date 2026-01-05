@@ -1,9 +1,10 @@
 ---
 title: Assignment
 description: A brief guide on assignment
+slug: /integration/vision/task/user_view/assignment
+tags: ["SQL Vision", "Vision Tasks", "Assignment Management"]
 sidebar_position: 1
 ---
-
 Users can view the assignment's details such as *title, description, start date, end date, consultant, rewards, bonus criteria, and other progress*.
 
 :::info Info

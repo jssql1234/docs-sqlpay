@@ -3,9 +3,8 @@ sidebar_position: 4
 title: FAQ
 description: E-Leave Frequently Asked Questions
 slug: /integration/hrms/e-leave/faq
-tags: ["SQL Payroll", "FAQ", "Register", "Email", "E Leave"]
+tags: ["SQL HRMS", "E-Leave", "Troubleshooting FAQ"]
 ---
-
 ## Leave Applications & Approvals
 
 ### Leave application stays “Pending” in HRMS and doesn’t appear in Payroll after Sync Cloud

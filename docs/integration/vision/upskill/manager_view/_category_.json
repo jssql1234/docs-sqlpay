@@ -3,6 +3,7 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Manager view is for users who will assigned the course to employee. "
+    "description": "Manager view is for users who will assigned the course to employee. ",
+    "slug": "/integration/vision/upskill/manager_view"
   }
 }

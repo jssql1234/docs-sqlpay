@@ -2,8 +2,9 @@
 sidebar_position: 3
 title: FAQ
 description: E-Payroll Frequently Asked Questions
+slug: /integration/hrms/e-payroll/faq
+tags: ["SQL HRMS", "E-Payroll", "Troubleshooting FAQ"]
 ---
-
 ## Access & Sync Issues
 
 ### Why can’t I click the **Latest Payslip**, **Monthly Payroll**, or **EA Form** buttons?

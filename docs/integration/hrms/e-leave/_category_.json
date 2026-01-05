@@ -1,8 +1,9 @@
 {
-    "label": "E Leave",
-    "position": 7,
-    "link": {
-      "type": "generated-index",
-      "description": "A guide on E Leave features"
-    }
+  "label": "E Leave",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "A guide on E Leave features",
+    "slug": "/integration/hrms/e-leave"
+  }
 }

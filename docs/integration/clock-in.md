@@ -2,8 +2,9 @@
 sidebar_position: 1
 title: SQL Clock In
 description: Time Attendance QR Code application guide
+slug: /integration/clock-in
+tags: ["SQL Integration", "Clock-in Guide", "SQL Integration Clock-in Guide"]
 ---
-
 # SQL Clock In
 
 Time Attendance QR Code related guidelines

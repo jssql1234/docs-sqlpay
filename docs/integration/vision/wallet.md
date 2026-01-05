@@ -1,7 +1,8 @@
 ---
 sidebar_position: 7
+slug: /integration/vision/wallet
+tags: ["SQL Vision", "Wallet Features", "SQL Vision Wallet Features"]
 ---
-
 # Wallet
 
 ## User View

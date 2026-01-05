@@ -1,9 +1,10 @@
 ---
 title: Upskill Details
 description: A brief guide on upskill details
+slug: /integration/vision/upskill/manager_view/upskill
+tags: ["SQL Vision", "Vision Upskill", "Upskill Features"]
 sidebar_position: 2
 ---
-
 # Upskill Details
 
 ### Course tab

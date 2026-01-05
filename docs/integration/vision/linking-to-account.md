@@ -1,7 +1,8 @@
 ---
 sidebar_position: 10
+slug: /integration/vision/linking-to-account
+tags: ["SQL Vision", "Account Linking", "SQL Vision Account Linking"]
 ---
-
 # Linking to SQL Account
 
 ## Introduction

@@ -1,8 +1,9 @@
 {
-    "label": "E TMS",
-    "position": 6,
-    "link": {
-      "type": "generated-index",
-      "description": "A guide on E TMS features"
-    }
+  "label": "E TMS",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "A guide on E TMS features",
+    "slug": "/integration/hrms/e-tms"
+  }
 }

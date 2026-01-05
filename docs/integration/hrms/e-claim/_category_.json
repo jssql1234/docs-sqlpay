@@ -1,8 +1,9 @@
 {
-    "label": "E Claim",
-    "position": 8,
-    "link": {
-      "type": "generated-index",
-      "description": "A guide on E Claim features"
-    }
+  "label": "E Claim",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "A guide on E Claim features",
+    "slug": "/integration/hrms/e-claim"
+  }
 }

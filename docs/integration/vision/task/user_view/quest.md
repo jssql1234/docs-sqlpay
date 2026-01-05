@@ -1,9 +1,10 @@
 ---
 title: Quest
 description: A brief guide on quest
+slug: /integration/vision/task/user_view/quest
+tags: ["SQL Vision", "Vision Tasks", "Quest Management"]
 sidebar_position: 3
 ---
-
 - Open quests are available for all users to join and earn rewards, as they are not restricted to specific employees.
 - Quests can be **Target** or **Assignment**.
 - After successfully joining, users will be navigate to [**Target**](target.md) or [**Assignment**](assignment.md).

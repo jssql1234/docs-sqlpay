@@ -1,7 +1,8 @@
 ---
 sidebar_position: 3
+slug: /integration/vision/task/manager_view/task_creation/target
+tags: ["SQL Vision", "Vision Tasks", "Target Management"]
 ---
-
 # Create Target
 
 Target is a quantitative mission (countable data). E.g. Sales Target, Input Data.

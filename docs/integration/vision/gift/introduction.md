@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
+slug: /integration/vision/gift/introduction
+tags: ["SQL Vision", "Vision Gifts", "Feature Introduction"]
 ---
-
 # Introduction
 
 The Gifts feature, accessible through **Main Dashboard > Wallet > Gifts**, allows managers to create digital gifts that all users can redeem using coins earned from completing missions.

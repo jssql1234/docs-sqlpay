@@ -2,8 +2,9 @@
 sidebar_position: 4
 title: Permission
 description: A guide for permission required in SQL HRMS
+slug: /integration/hrms/permission
+tags: ["SQL HRMS", "Device Permissions", "SQL HRMS Device Permissions"]
 ---
-
 ## Location
 
 ### Android

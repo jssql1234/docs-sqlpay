@@ -2,8 +2,9 @@
 sidebar_position: 4
 title: Sync Cloud
 description: An E TMS sync cloud guide in SQL Payroll
+slug: /integration/hrms/e-tms/sync-cloud
+tags: ["SQL HRMS", "E-TMS", "Cloud Synchronization"]
 ---
-
 1. Click on the ☁️ > Sync Cloud… > Time Attendance, press "Sync All"
 
     ![sync-cloud1](../../../../static/img/integration/hrms/e-tms/sync-cloud1.png)

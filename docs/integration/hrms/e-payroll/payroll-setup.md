@@ -2,8 +2,9 @@
 sidebar_position: 1
 title: Payroll Setup
 description: An E Payroll setup guide in SQL Payroll
+slug: /integration/hrms/e-payroll/payroll-setup
+tags: ["SQL HRMS", "E-Payroll", "Payroll Configuration"]
 ---
-
 ## Maintain Announcement
 
 1. Navigate to Human Resource > Maintain Announcement…, press "Create New"

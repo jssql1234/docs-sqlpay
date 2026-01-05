@@ -1,7 +1,8 @@
 ---
 sidebar_position: 6
+slug: /integration/vision/task/manager_view/task_creation/task-edit
+tags: ["SQL Vision", "Vision Tasks", "Task Editing"]
 ---
-
 # Edit Task
 
 :::info[Note]

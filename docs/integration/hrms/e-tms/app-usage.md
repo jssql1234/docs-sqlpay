@@ -2,8 +2,9 @@
 sidebar_position: 3
 title: App Usage
 description: An E TMS features in SQL HRMS app guide
+slug: /integration/hrms/e-tms/app-usage
+tags: ["SQL HRMS", "E-TMS", "App Usage Guide"]
 ---
-
 :::info
 Enable **Autostart** for SQL HRMS to ensure E TMS features work accordingly (refer [Autostart](../autostart.md))
 :::

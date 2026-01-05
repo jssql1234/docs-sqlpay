@@ -2,8 +2,9 @@
 sidebar_position: 2
 title: Login
 description: A login guide for SQL HRMS
+slug: /integration/hrms/login
+tags: ["SQL HRMS", "Login Instructions", "SQL HRMS Login Instructions"]
 ---
-
 1. Enter email and click "Get OTP"
 
     ![login1](../../../static/img/integration/hrms/login/login1.png)

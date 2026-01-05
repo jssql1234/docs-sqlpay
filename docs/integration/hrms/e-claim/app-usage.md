@@ -2,8 +2,9 @@
 sidebar_position: 2
 title: App Usage
 description: An E Claim features in SQL HRMS app guide
+slug: /integration/hrms/e-claim/app-usage
+tags: ["SQL HRMS", "E-Claim", "App Usage Guide"]
 ---
-
 ## Dashboard
 
 ![dashboard](../../../../static/img/integration/hrms/e-claim/dashboard.png)

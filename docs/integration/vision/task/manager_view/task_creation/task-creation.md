@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
+slug: /integration/vision/task/manager_view/task_creation/task-creation
+tags: ["SQL Vision", "Vision Tasks", "Task Creation"]
 ---
-
 # Create a Mission
 
 :::info[Note]

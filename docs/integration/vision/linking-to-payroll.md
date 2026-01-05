@@ -1,7 +1,8 @@
 ---
 sidebar_position: 11
+slug: /integration/vision/linking-to-payroll
+tags: ["SQL Vision", "Payroll Integration", "SQL Vision Payroll Integration"]
 ---
-
 # Linking to SQL Payroll
 
 ## Introduction

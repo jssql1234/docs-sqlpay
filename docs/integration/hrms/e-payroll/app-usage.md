@@ -2,8 +2,9 @@
 sidebar_position: 2
 title: App Usage
 description: An E Payroll features in SQL HRMS app guide
+slug: /integration/hrms/e-payroll/app-usage
+tags: ["SQL HRMS", "E-Payroll", "App Usage Guide"]
 ---
-
 ## Dashboard
 
     ![dashboard](../../../../static/img/integration/hrms/e-payroll/dashboard.png)

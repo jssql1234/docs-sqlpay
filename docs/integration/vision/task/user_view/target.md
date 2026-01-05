@@ -1,9 +1,10 @@
 ---
 title: Target
 description: A brief guide on target
+slug: /integration/vision/task/user_view/target
+tags: ["SQL Vision", "Vision Tasks", "Target Management"]
 sidebar_position: 2
 ---
-
 Users can view the target's details such as *title, task creator, description, start date, end date, strategy, rewards, and ranking*.
 
 :::note Note

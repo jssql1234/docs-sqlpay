@@ -2,8 +2,9 @@
 sidebar_position: 1
 title: Payroll Setup
 description: An E Claim setup guide in SQL Payroll
+slug: /integration/hrms/e-claim/payroll-setup
+tags: ["SQL HRMS", "E-Claim", "Payroll Configuration"]
 ---
-
 ## Maintain Claim
 
 1. Navigate to Payroll > Maintenance > Maintain Claim…, select a Claim or Create New

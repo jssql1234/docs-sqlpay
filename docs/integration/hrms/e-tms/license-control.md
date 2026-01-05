@@ -2,8 +2,9 @@
 sidebar_position: 5
 title: License Control
 description: An E TMS license control guide
+slug: /integration/hrms/e-tms/license-control
+tags: ["SQL HRMS", "E-TMS", "License Management"]
 ---
-
 **Affecting reports:**
 
 - [Sync Cloud Time Attendance](sync-cloud.md)

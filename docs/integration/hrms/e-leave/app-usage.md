@@ -3,8 +3,8 @@ sidebar_position: 2
 title: App Usage
 description: An E Leave features in SQL HRMS app guide
 slug: /integration/hrms/e-leave/app-usage
+tags: ["SQL HRMS", "E-Leave", "App Usage Guide"]
 ---
-
 ## Dashboard
 
 ![dashboard](../../../../static/img/integration/hrms/e-leave/dashboard.png)

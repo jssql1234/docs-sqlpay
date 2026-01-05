@@ -2,8 +2,9 @@
 sidebar_position: 1
 title: Payroll Setup
 description: An E TMS setup guide in SQL Payroll
+slug: /integration/hrms/e-tms/payroll-setup
+tags: ["SQL HRMS", "E-TMS", "Payroll Configuration"]
 ---
-
 ## Time Zone
 
 1. Navigate to Company Profile > General > Time Zone and select your country time zone

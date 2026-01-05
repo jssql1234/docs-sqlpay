@@ -2,8 +2,9 @@
 sidebar_position: 1
 title: Payroll Setup
 description: A general payroll setup guide
+slug: /integration/hrms/payroll-setup
+tags: ["SQL HRMS", "Payroll Configuration", "SQL HRMS Payroll Configuration"]
 ---
-
 ## SQL Drive
 
 :::info[Prerequisites]

@@ -1,7 +1,8 @@
 ---
 sidebar_position: 2
+slug: /integration/vision/main-dashboard
+tags: ["SQL Vision", "Dashboard Overview", "SQL Vision Dashboard Overview"]
 ---
-
 # Main Dashboard
 
 ## Quick Action Buttons

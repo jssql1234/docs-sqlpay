@@ -1,7 +1,8 @@
 ---
 sidebar_position: 2
+slug: /integration/vision/gift/manager
+tags: ["SQL Vision", "Vision Gifts", "Manager Features"]
 ---
-
 # Manager View
 
 :::info[Note]

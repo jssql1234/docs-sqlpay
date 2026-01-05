@@ -1,9 +1,10 @@
 ---
 title: Introduction
 description: A brief explanation about Upskill
+slug: /integration/vision/upskill/introduction
+tags: ["SQL Vision", "Vision Upskill", "Feature Introduction"]
 sidebar_position: 1
 ---
-
 # Introduction
 
 Upskill is a module that allows employees to learn new skills by joining courses. **Managers** *can create courses, set rewards, edit course details, mark attendance, approve bonus requests, and finalise the course*. **Employees** can *view available courses, register for a course, request bonuses, and view the rewards they have earned throughout the course*.

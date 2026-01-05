@@ -1,9 +1,10 @@
 ---
 title: Login
 description: A brief guide on logging into the SQL VISION mobile application
+slug: /integration/vision/login
+tags: ["SQL Vision", "Login Instructions", "SQL Vision Login Instructions"]
 sidebar_position: 1
 ---
-
 1. Enter the user company email address
 
     ![Login Email](../../../static/img/integration/vision/login/email.png)

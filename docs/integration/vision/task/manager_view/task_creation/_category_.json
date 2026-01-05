@@ -1,8 +1,9 @@
 {
-    "label": "Task Creation",
-    "position": 1,
-    "link": {
-      "type": "generated-index",
-      "description": "Guidance to create and edit Assignment and Target mission in SQL Vision."
-    }
+  "label": "Task Creation",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Guidance to create and edit Assignment and Target mission in SQL Vision.",
+    "slug": "/integration/vision/task/manager_view/task_creation"
   }
+}

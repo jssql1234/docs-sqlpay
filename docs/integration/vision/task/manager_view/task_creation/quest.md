@@ -1,7 +1,8 @@
 ---
 sidebar_position: 4
+slug: /integration/vision/task/manager_view/task_creation/quest
+tags: ["SQL Vision", "Vision Tasks", "Quest Management"]
 ---
-
 # Create Quest
 
 A Quest is a mission that is visible to employees and open for them to join freely, based on their Branch, Department, and HR Group.To create quest, go to **Create New | Target/Assignment | Step 3 | Make Quest**.

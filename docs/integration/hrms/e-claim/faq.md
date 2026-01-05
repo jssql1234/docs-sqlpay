@@ -2,8 +2,9 @@
 sidebar_position: 4
 title: FAQ
 description: E-Claim Frequently Asked Questions
+slug: /integration/hrms/e-claim/faq
+tags: ["SQL HRMS", "E-Claim", "Troubleshooting FAQ"]
 ---
-
 ## Approvals & Audit Trail
 
 ### Why does the change log show “ADMIN” instead of the manager’s name?

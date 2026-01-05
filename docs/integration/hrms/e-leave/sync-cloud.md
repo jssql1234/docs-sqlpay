@@ -3,8 +3,8 @@ sidebar_position: 3
 title: Sync Cloud
 description: An E Leave sync cloud guide in SQL Payroll
 slug: /integration/hrms/e-leave/sync-cloud
+tags: ["SQL HRMS", "E-Leave", "Cloud Synchronization"]
 ---
-
 1. Navigate to ☁️ > Sync Cloud… > Leave App > Sync All
     - Checkbox Hint:
         - Request:  Show leave applications with **Pending Verification** status

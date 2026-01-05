@@ -1,7 +1,8 @@
 ---
 sidebar_position: 5
+slug: /integration/vision/task/manager_view/task_creation/duplication
+tags: ["SQL Vision", "Vision Tasks", "Task Duplication"]
 ---
-
 # Duplication
 
 Duplication allows managers to recreate a previously created task without needing to re-enter the mission details manually.

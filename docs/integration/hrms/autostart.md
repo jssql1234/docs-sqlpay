@@ -2,8 +2,9 @@
 sidebar_position: 3
 title: Auto Start
 description: A guide to enable Auto Start (Android only)
+slug: /integration/hrms/autostart
+tags: ["SQL HRMS", "Auto Start Configuration", "SQL HRMS Auto Start Configuration"]
 ---
-
 :::info
 This setting only available on **Android** devices that supports Auto Start
 :::

@@ -2,8 +2,9 @@
 sidebar_position: 2
 title: Payroll Report
 description: An E TMS report guide in SQL Payroll
+slug: /integration/hrms/e-tms/payroll-report
+tags: ["SQL HRMS", "E-TMS", "Payroll Reporting"]
 ---
-
 ## Work Schedule Summary
 
 1. Navigate to Time Attendance > Print Work Schedule Summary…
