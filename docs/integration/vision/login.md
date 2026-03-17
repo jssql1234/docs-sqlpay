@@ -6,7 +6,7 @@ sidebar_position: 3
 
 1. Enter the user's email address
 
-    ![Login Email](../../../static/img/integration/vision/login/email.png)
+    ![Login Email](../../../static/img/integration/vision/login/loginPage.png)
 
 2. Submit email
 
@@ -17,7 +17,7 @@ sidebar_position: 3
 
 3. **Resend OTP** allows user to request again an One-Time Password(OTP)
 
-    ![Resend OTP](../../../static/img/integration/vision/login/resendOTP.png)
+    ![Resend OTP](../../../static/img/integration/vision/login/requestOTP.png)
 
 4. Verification
     1. Enter the received OTP
