@@ -1,10 +1,10 @@
 ---
 title: Login
 description: A brief guide on logging into the SQL VISION mobile application
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-1. Enter the user company email address
+1. Enter the user's email address
 
     ![Login Email](../../../static/img/integration/vision/login/email.png)
 
