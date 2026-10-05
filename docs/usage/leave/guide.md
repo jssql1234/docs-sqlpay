@@ -183,45 +183,100 @@ Before assigning a leave group to an employee, ensure that Leave Types and Leave
 
 ### Brought Forward Leave
 
-1. Ensure **Brought Forward (BF)** is checked in **Maintain Leave Type**.
+Ensure **Brought Forward (BF)** is checked in **Maintain Leave Type**.
 
+1. Go to **Leave** > **Maintain Leave Type**
     ![maintain-leave-type](../../../static/img/usage/leave-module/maintain-leave-type.png)
 
     ![enable-bf-leave-2](../../../static/img/usage/leave-module/enable-bf-leave-2.png)
 
-2. Ensure there is a calculation for the amount of leave brought forward in **Maintain Leave Group**.
+Ensure there is a calculation for the amount of leave brought forward in **Maintain Leave Group**.
 
+2. Go to **Leave** > **Maintain Leave Group**
     ![maintain-leave-group](../../../static/img/usage/leave-module/maintain-leave-group.png)
 
+3. Make sure the BF column is ticked
+    ![bf-leave-calculation-1](../../../static/img/usage/leave-module/bf-leave-calculation-1.png)
+
+4. Click **Edit**
     ![bf-leave-calculation-2](../../../static/img/usage/leave-module/bf-leave-calculation-2.png)
 
-3. Enter leave entitlement (refer to [Leave Entitlement Processor](#leave-entitlement-processor)).
+5. Click the **tree-dot icon** to set the Leave B/F rule
+    ![bf-leave-calculation-3](../../../static/img/usage/leave-module/bf-leave-calculation-3.png)
 
-    ![leave-entitlement-processor](../../../static/img/usage/leave-module/leave-entitlement-processor.png)
+    At here, you can choose to use:
+    - Standard Calculation, or
+    - Custom Calculation (script customization)
 
+    ![bf-leave-calculation-4](../../../static/img/usage/leave-module/bf-leave-calculation-4.png)
+
+    <details>
+    <summary>Standard vs Custom Calculation</summary>
+
+    #### Standard Calculation
+    An easy-to-use interface that allows users to configure BF Leave, including setting a fixed
+    maximum number of carry-forward days and defining a special expiry date by which the BF
+    leave must be utilized.
+
+    1. Tick this option and set the maximum days allowed carry forward to the next year. 
+        ![bf-leave-calculation-5](../../../static/img/usage/leave-module/bf-leave-calculation-5.png)
+        > Tips: If you do not have the BF limit, you may ignore this step.
+
+    2. Tick the option to set the expiry date, and select the Month and Day
+        ![bf-leave-calculation-6](../../../static/img/usage/leave-module/bf-leave-calculation-6.png)
+        BF Leave balance will be considered forfeit at the next day of the expiry date.
+        For this sample : Leave Expiry Date - 31/03, Leave Forfeit - 01/04
+        > Tips: If you do not have Bring Forward leave with an expiry date, you may ignore this step.
+
+    #### Custom Calculation
+    Extensive BF leave calculation logic is implemented through scripting and is generally
+    developed by a programmer.
+
+    1. Select this calculation method, and click the dropdown icon to load in the script
+        ![bf-leave-calculation-7](../../../static/img/usage/leave-module/bf-leave-calculation-7.png)
+
+    </details>
+
+### Process B/F Leave & Forfeit    
+1. Go to leave entitlement (refer to [Leave Entitlement Processor](#leave-entitlement-processor)).
+    ![bf-leave-entitlement-process-1](../../../static/img/usage/leave-module/bf-leave-entitlement-process-1.png)
+
+2. Select the Leave Year, and click **Process**
     ![bf-leave-entitlement-process-2](../../../static/img/usage/leave-module/bf-leave-entitlement-process-2.png)
 
+3. Click **Open** when showing this message
     ![bf-leave-entitlement-process-3](../../../static/img/usage/leave-module/bf-leave-entitlement-process-3.png)
 
-4. Apply leave for employees (refer to [Leave Application](#leave-application)).
+4. Leave BF involves 3 columns: BF Ori, BF Forfeit, and BF
+    - **BF Ori**: Original brought-forward leave from last year
+    - **BF Forfeit**: Unused B/F leave forfeited after expiry
+    - **BF**: Remaining B/F balance after forfeiture
+    
+    ![bf-leave-entitlement-process-4](../../../static/img/usage/leave-module/bf-leave-entitlement-process-4.png)
 
-    :::info
-    Go to **Leave** > **Leave Application** and double-click **Current Leave**.
+5. **Right click** and choose **Select All**, or use **Ctrl+A** to select all employees
+    ![bf-leave-entitlement-process-5](../../../static/img/usage/leave-module/bf-leave-entitlement-process-5.png)
+
+6. Click **Calculate Forfeited BF**
+    ![bf-leave-entitlement-process-6](../../../static/img/usage/leave-module/bf-leave-entitlement-process-6.png)
+
+7. A notification will prompt out and update the Leave B/F Forfeit until the latest expiry date
+    :::info Changes will only take effect once the leave expiry date is reached.
+        Example: if the Leave Expiry Date is 31/3 and the current computer date is 26 Jan, no any Leave will be forfeited
     :::
+    ![bf-leave-entitlement-process-7](../../../static/img/usage/leave-module/bf-leave-entitlement-process-7.png)
 
-    ![bf-apply-leave-1](../../../static/img/usage/leave-module/bf-apply-leave-1.png)
+8. Click **Yes** to continue
+    ![bf-leave-entitlement-process-8](../../../static/img/usage/leave-module/bf-leave-entitlement-process-8.png)
 
-    ![bf-apply-leave-2](../../../static/img/usage/leave-module/bf-apply-leave-2.png)
+9. System will auto recalculate the **BF Leave Forfeit**
+    :::note
+    Only unused B/F leave will be forfeited after the expiry date
+    :::
+    ![bf-leave-entitlement-process-9](../../../static/img/usage/leave-module/bf-leave-entitlement-process-9.png)
 
-    ![bf-apply-leave-3](../../../static/img/usage/leave-module/bf-apply-leave-3.png)
-
-5. Preview the Leave Balance Report (**Leave** > **Print Leave Balance Report**).
-
-    ![bf-preview-report-1](../../../static/img/usage/leave-module/bf-preview-report-1.png)
-
-6. Open Leave Entitlement for the following year (e.g., 2016) and repeat Step 2.
-
-    ![bf-preview-report-2](../../../static/img/usage/leave-module/bf-preview-report-2.png)
+10. Click **Save** once done
+    ![bf-leave-entitlement-process-10](../../../static/img/usage/leave-module/bf-leave-entitlement-process-10.png)
 
 ## Maintain Leave Group
 
